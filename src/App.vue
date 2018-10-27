@@ -1,7 +1,9 @@
 <template>
     <div id="app">
-      <headernav />
-      <router-view/>
+      <div class="container">
+        <headernav />
+        <router-view />
+      </div>
     </div>
 </template>
 
@@ -15,13 +17,20 @@ export default {
 </script>
 
 <style scoped lang="less">
+
 #app {
+  .section {border:1px solid #fff}
+  .container{
+    max-width: 960px;
+    width: 100%;
+    margin:auto;
+    }
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #ffffff;
-    background-image: url("/static/demoendscreen_00.png");
+  background-image: url("/static/demoendscreen_00.png");
   background-position    : bottom;
   background-repeat      : no-repeat;
   background-size        : cover;

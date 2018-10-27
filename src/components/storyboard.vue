@@ -1,8 +1,12 @@
 <template>
-      <div class="storyline">#storyline</div>
+  <div class="section">
+    <div class="storyline">#storyline</div>
+    <div class="board">#board with 2nd level route</div>
+  </div>
 </template>
 
 <script>
+import levels from './data.js'
 export default {
   data () {
     return {

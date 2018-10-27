@@ -10,7 +10,8 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {path: '/', component: storyboard},
-    {path: '/story', component: storyboard},
+    {
+      path: '/story', component: storyboard,},
     {path: '/charactor', component: charboard},
     {path: '/music', component: musicboard},
     {path: '/video', component: videoboard},

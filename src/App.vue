@@ -29,11 +29,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #ffffff;
-  background-image: url("/static/demoendscreen_00.png");
-  background-position    : bottom;
-  background-repeat      : no-repeat;
-  background-size        : cover;
+  color: #121212;
   -webkit-font-smoothing : antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height             : 100%;

@@ -22,6 +22,11 @@ module.exports = {
       ? config.build.assetsPublicPath
       : config.dev.assetsPublicPath
   },
+  externals: {
+    papaparse: 'Papa',
+    audio5: 'Audio5js',
+    djs: 'download'
+  },
   resolve: {
     extensions: ['.js', '.vue', '.json'],
     alias: {

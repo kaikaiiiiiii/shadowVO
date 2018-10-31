@@ -1,0 +1,71 @@
+5,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Raiding the convoy has linked Lord Yabu, a powerful Daiymo, to Kage-sama's
+2) The team discusses further plans. Hayato collects his pay.
+3) Mugen wants to work with Yuki to test her skills."
+									
+SAFE HOUSE									The team plans their next move in a tavern.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			隠れ家
+vocs_over_over_	_n00	vocs_over_over_convoy_post_n00				NINJA	smug		なかなか悪くない場所だな。
+vocs_over_over_	_n01	vocs_over_over_convoy_post_n01				WARRIOR	explaining	standing at a table with maps and documents	来い。来てこれを見ろ。
+vocs_over_over_	_n02	vocs_over_over_convoy_post_n02				WARRIOR	explaining	Hayato joins him	調べによればこの輸送機関は今井の街を抜けて中山道まで入ったらしい。
+vocs_over_over_	_n03	vocs_over_over_convoy_post_n03				NINJA	pragmatic		地方の領主だけの仕業ではなさそうだな？黒幕の見当は？
+vocs_over_over_	_n04	vocs_over_over_convoy_post_n04				WARRIOR	it's complicated		そう単純じゃあないらしい。ここら一帯を治めているのは藪大名だ。戦が終わってからは上様への忠誠心はほとんど見せていない強力な大名だ。
+vocs_over_over_	_n05	vocs_over_over_convoy_post_n05				NINJA	elusive	needs some time to think	カゲサマかもしれんな。今井の街へ向かった方がいいか？この時期はあの辺りは寒いはずだ。 
+vocs_over_over_	_n06	vocs_over_over_convoy_post_n06				WARRIOR	in thought		この件は拙者が片付ける。雪殿に話があると伝えてくれ。
+vocs_over_over_	_n07	vocs_over_over_convoy_post_n07				NINJA	smug	cool Ninja knows she's there	その必要はない。もう扉の前にいるよ。
+vocs_over_over_	_n08	vocs_over_over_convoy_post_n08				WARRIOR	surprised		本当か？
+vocs_over_over_	_n09	vocs_over_over_convoy_post_n09				TRAPPER	startled	opens the door	な、何も聞いていないよ！絶対！
+vocs_over_over_	_n10	vocs_over_over_convoy_post_n10				WARRIOR	patient		落ち着いて、雪殿。
+vocs_over_over_	_n11	vocs_over_over_convoy_post_n11				WARRIOR	patient	to Hayato	隼人殿、外の男に話してくれ。彼が最初の賃金を払ってくれる。
+vocs_over_over_	_n12	vocs_over_over_convoy_post_n12				NINJA	amused	leaves	へっ…じゃあまたな。
+vocs_over_over_	_n13	vocs_over_over_convoy_post_n13				TRAPPER	disappointed	fully enters the room	どこに行ったの？一緒に行っちゃ駄目？
+vocs_over_over_	_n14	vocs_over_over_convoy_post_n14				WARRIOR	friendly	"""expertise"" means that she is a thief"	拙者と一緒に来てほしい、雪殿。君の「専門技術」がこの任務には不可欠なんだ。
+vocs_over_over_	_n15	vocs_over_over_convoy_post_n15				TRAPPER	cautious		ふーん…どんな任務？ 
+vocs_over_over_	_n16	vocs_over_over_convoy_post_n16				WARRIOR	honest	walks towards Yuki	ちょっとした盗みだ。うまくやってのけたら、我々の部隊に歓迎しよう。そして隼人殿が君を教えるように掛け合ってやろう。
+vocs_over_over_	_n17	vocs_over_over_convoy_post_n17				TRAPPER	enthusiastic	fumbling for words	本当かい！？…それなら…あたしの実力を見せてあげるよ、お侍さん！
+vocs_over_over_	_n18	vocs_over_over_convoy_post_n18				WARRIOR	friendly	both go to the table	そうしてくれ。では、計画を教えよう。
+									
+IMAI TOWN									Mugen and Yuki have just arrived in Imai town. They watch from a side alley as hostile soldiers patrol the streets.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			今井の街
+vocs_over_over_	_n19	vocs_over_over_convoy_post_n19				TRAPPER	planning		兵士達…ここの人たちじゃないね。
+vocs_over_over_	_n20	vocs_over_over_convoy_post_n20				WARRIOR	planning		同感だ。あれは城下町の警備団の奴らに違いない。
+vocs_over_over_	_n21	vocs_over_over_convoy_post_n21				WARRIOR	planning	turns to Yuki	さあ、ここに来た目的は覚えているか。
+vocs_over_over_	_n22	vocs_over_over_convoy_post_n22				TRAPPER	planning		ここの地区役所に侵入して、重要人物を見つけてその人から書類を盗む。
+vocs_over_over_	_n23	vocs_over_over_convoy_post_n23				WARRIOR	planning		よくできた。この任務を成功させるには君にはスリとして働いてもらわないといけなくなるかもしれん。
+vocs_over_over_	_n24	vocs_over_over_convoy_post_n24				WARRIOR	planning	gives Yuki the Hookshot	あと、これを持って行くがよい。隼人殿に君の為に作らせたんだ。
+vocs_over_over_	_n25	vocs_over_over_convoy_post_n25				TRAPPER	excited		これは…鉤縄！ありがとう、お侍様！ 
+vocs_over_over_	_n26	vocs_over_over_convoy_post_n26				WARRIOR	strategizing	briefly turns away from Yuki	さあ、始めようぞ。役所はこのすぐ先だ。大通りは避けた方がよかろう。
+vocs_over_over_	_n27	vocs_over_over_convoy_post_n27				WARRIOR	strategizing		君には見張りをしてもらいたい。屋根の上を歩いてくれ。拙者はその下をついて行く。何か問題があれば、事前に拙者に知らせることができるからな。
+vocs_over_over_	_n27a	vocs_over_over_convoy_post_n27a				WARRIOR	strategizing		君には偵察兵になってもらいたい。この役人について分かることを調べて、それから拙者のもとへ戻ってきてくれ。
+vocs_over_over_	_n28	vocs_over_over_convoy_post_n28				TRAPPER	understood!		はい、お侍様！
+vocs_over_over_	_n29	vocs_over_over_convoy_post_n29				WARRIOR	planning	Yuki runs off and uses the hookshot, Mugen enters a nearby alley	完了したら酒の醸造所で落ち合おう。さあ、始めよう。
+vocs_over_over_	_n29a	vocs_over_over_convoy_post_n29a				WARRIOR	planning	ALTERNTIVE1	完了したら西の神社で落ち合おう。さあ、始めよう。
+vocs_over_over_	_n29b	vocs_over_over_convoy_post_n29b				WARRIOR	planning	ALTERNTIVE2	完了したら西の裏庭で落ち合おう。さあ、始めよう。
+									
+									
+									
+									

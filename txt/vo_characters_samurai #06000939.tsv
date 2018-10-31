@@ -1,0 +1,383 @@
+2,3,11												
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE
+vo_eny_eny_	samurai_00_	alarm_area_00	vo_eny_eny_samurai_00_alarm_area_00	omuk	hambo	Samurai	high tension	sounds the alarm	Alarm! Sound the alarm!	4	警报！快发警报！	1
+vo_eny_eny_	samurai_00_	alarm_area_01	vo_eny_eny_samurai_00_alarm_area_01	omuk	hambo	Samurai	high tension	sounds the alarm	We're under attack!	3	我们受到了攻击!	1
+vo_eny_eny_	samurai_00_	alarm_area_02	vo_eny_eny_samurai_00_alarm_area_02	omuk	hambo	Samurai	high tension	sounds the alarm	To arms!	2	准备战斗！	1
+vo_eny_eny_	samurai_00_	alarm_area_03	vo_eny_eny_samurai_00_alarm_area_03	omuk	hambo	Samurai	high tension	sounds the alarm	Call reinforcements!	2	呼叫增援!	1
+vo_eny_eny_	samurai_00_	alarm_area_04	vo_eny_eny_samurai_00_alarm_area_04	omuk	hambo	Samurai	high tension	sounds the alarm	Alert the others!	3	警告其他人!	1
+vo_eny_eny_	samurai_00_	alarm_local_00	vo_eny_eny_samurai_00_alarm_local_00	omuk	hambo	Samurai	urgent, tense	calls for backup	Over here!	2	在这里!	1
+vo_eny_eny_	samurai_00_	alarm_local_01	vo_eny_eny_samurai_00_alarm_local_01	omuk	hambo	Samurai	urgent, tense	calls for backup	To me!	2	到我这儿来！	1
+vo_eny_eny_	samurai_00_	alarm_local_02	vo_eny_eny_samurai_00_alarm_local_02	omuk	hambo	Samurai	urgent, tense	calls for backup	I need backup!	3	我需要支援！	1
+vo_eny_eny_	samurai_00_	alarm_local_03	vo_eny_eny_samurai_00_alarm_local_03	omuk	hambo	Samurai	urgent, tense	calls for backup	Help!	1	救命！	1
+vo_eny_eny_	samurai_00_	alarm_local_04	vo_eny_eny_samurai_00_alarm_local_04	omuk	hambo	Samurai	urgent, tense	calls for backup	Assemble!	1	集合！	1
+vo_eny_eny_	samurai_00_	alarm_local_05	vo_eny_eny_samurai_00_alarm_local_05	omuk	hambo	Samurai	urgent, tense	calls for backup	Men!	1	都过来！	1
+vo_eny_eny_	samurai_00_	alarm_local_06	vo_eny_eny_samurai_00_alarm_local_06	omuk	hambo	Samurai	urgent, tense	calls for backup	Damn!	1	该死！	1
+vo_eny_eny_	samurai_00_	alarm_stop_00	vo_eny_eny_samurai_00_alarm_stop_00	omuk	hambo	Samurai	commanding	end of alarm	They've escaped! Stop the search!	5	让他们逃了！停止搜索！	1
+vo_eny_eny_	samurai_00_	alarm_stop_01	vo_eny_eny_samurai_00_alarm_stop_01	omuk	hambo	Samurai	commanding	end of alarm	It is over! Back to routine!	6	没事了！各回岗位！	1
+vo_eny_eny_	samurai_00_	alarm_stop_02	vo_eny_eny_samurai_00_alarm_stop_02	omuk	hambo	Samurai	commanding	end of alarm	They must have fled! Cease the alarm!	7	看来已经逃走了,警报解除！	1
+vo_eny_eny_	samurai_00_	alarm_stop_03	vo_eny_eny_samurai_00_alarm_stop_03	omuk	hambo	Samurai	commanding	end of alarm	No danger! At ease, everyone!	5	没有危险了！大家解散！	1
+vo_eny_eny_	samurai_00_	alarm_stop_04	vo_eny_eny_samurai_00_alarm_stop_04	omuk	hambo	Samurai	commanding	end of alarm	We've driven them off!	4	已经把他们赶跑了！	1
+vo_eny_eny_	samurai_00_	alarm_stop_05	vo_eny_eny_samurai_00_alarm_stop_05	omuk	hambo	Samurai	commanding	end of alarm	All clear!	2	警报解除！	1
+vo_eny_eny_	samurai_00_	carry_object_00	vo_eny_eny_samurai_00_carry_object_00	omuk		Samurai		(sound) carries heavy object		0		0
+vo_eny_eny_	samurai_00_	clear_throat_00	vo_eny_eny_samurai_00_clear_throat_00	omuk		Samurai		(sound) clears throat		0		0
+vo_eny_eny_	samurai_00_	cough_00	vo_eny_eny_samurai_00_cough_00	omuk		Samurai		(sound) coughs		0		0
+vo_eny_eny_	samurai_00_	danger_toohigh_00	vo_eny_eny_samurai_00_danger_toohigh_00	omuk	hambo	Samurai	angry	has seen a player far above him	Aim high! They are above us!	6	瞄高点儿！在我们上面！	1
+vo_eny_eny_	samurai_00_	danger_toohigh_01	vo_eny_eny_samurai_00_danger_toohigh_01	omuk	hambo	Samurai	angry	has seen a player far above him	They're above us!	3	在我们上面！	1
+vo_eny_eny_	samurai_00_	danger_toohigh_02	vo_eny_eny_samurai_00_danger_toohigh_02	omuk	hambo	Samurai	angry	has seen a player far above him	They're attacking from above!	4	是从上方攻击的!	1
+vo_eny_eny_	samurai_00_	danger_unreachable_00	vo_eny_eny_samurai_00_danger_unreachable_00	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	Cowards! Fight like men!	4	懦夫！有本事像男人一样战斗!	1
+vo_eny_eny_	samurai_00_	danger_unreachable_01	vo_eny_eny_samurai_00_danger_unreachable_01	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	How did they get there?	5	他们是怎么到那种地方的?	1
+vo_eny_eny_	samurai_00_	danger_unreachable_02	vo_eny_eny_samurai_00_danger_unreachable_02	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	I can't reach them!	4	我无法接近他们…	1
+vo_eny_eny_	samurai_00_	death_scream_00	vo_eny_eny_samurai_00_death_scream_00	omuk	hambo	Samurai	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_01	vo_eny_eny_samurai_00_death_scream_01	omuk	hambo	Samurai	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_02	vo_eny_eny_samurai_00_death_scream_02	omuk	hambo	Samurai	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_03	vo_eny_eny_samurai_00_death_scream_03	omuk	hambo	Samurai	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_00	vo_eny_eny_samurai_00_death_scream_muffled_00	omuk	hambo	Samurai	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_01	vo_eny_eny_samurai_00_death_scream_muffled_01	omuk	hambo	Samurai	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_02	vo_eny_eny_samurai_00_death_scream_muffled_02	omuk	hambo	Samurai	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_03	vo_eny_eny_samurai_00_death_scream_muffled_03	omuk	hambo	Samurai	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	samurai_00_	death_scream_muffled_04	vo_eny_eny_samurai_00_death_scream_muffled_04	omuk	hambo	Samurai	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	samurai_00_	detect_corpse_female_00	vo_eny_eny_samurai_00_detect_corpse_female_00	omuk		Samurai	furious	sees a corpse	She is dead!	3	她死了！	1
+vo_eny_eny_	samurai_00_	detect_corpse_female_01	vo_eny_eny_samurai_00_detect_corpse_female_01	omuk		Samurai	furious	sees a corpse	They killed her!	3	他们杀了她！	1
+vo_eny_eny_	samurai_00_	detect_corpse_male_00	vo_eny_eny_samurai_00_detect_corpse_male_00	omuk		Samurai	furious	sees a corpse	He is dead!	3	他死了！	1
+vo_eny_eny_	samurai_00_	detect_corpse_male_01	vo_eny_eny_samurai_00_detect_corpse_male_01	omuk		Samurai	furious	sees a corpse	They killed him!	3	他们杀了他！	1
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_00	vo_eny_eny_samurai_00_detect_corpse_neutral_00	omuk	hambo	Samurai	furious	sees a corpse	Murder!	1	杀人了！	1
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_01	vo_eny_eny_samurai_00_detect_corpse_neutral_01	omuk	hambo	Samurai	furious	sees a corpse	Assassins!	1	有刺客！	1
+vo_eny_eny_	samurai_00_	detect_footsteps_00	vo_eny_eny_samurai_00_detect_footsteps_00	omuk	hambo	Samurai	suspicious	sees player footprints	Oh? Footprints …	3	嗯？脚印……	1
+vo_eny_eny_	samurai_00_	detect_footsteps_01	vo_eny_eny_samurai_00_detect_footsteps_01	omuk	hambo	Samurai	suspicious	sees player footprints	Who made those footprints?	4	是谁的脚印？	1
+vo_eny_eny_	samurai_00_	detect_footsteps_02	vo_eny_eny_samurai_00_detect_footsteps_02	omuk	hambo	Samurai	suspicious	sees player footprints	Who left those tracks!	4	是谁留下的足迹！	1
+vo_eny_eny_	samurai_00_	detect_footsteps_03	vo_eny_eny_samurai_00_detect_footsteps_03	omuk	hambo	Samurai	suspicious	sees player footprints	Those tracks shouldn't be there...	5	这些足迹怎么会出现在这里……	1
+vo_eny_eny_	samurai_00_	detect_footsteps_04	vo_eny_eny_samurai_00_detect_footsteps_04	omuk	hambo	Samurai	suspicious	sees player footprints	Someone must sneaking about.	4	肯定有人潜伏在附近	1
+vo_eny_eny_	samurai_00_	detect_lightsource_00	vo_eny_eny_samurai_00_detect_lightsource_00	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	The light went out …	5	灯灭了……	1
+vo_eny_eny_	samurai_00_	detect_lightsource_01	vo_eny_eny_samurai_00_detect_lightsource_01	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Did wind killed the flame?	5	风把火吹灭了	1
+vo_eny_eny_	samurai_00_	detect_lightsource_02	vo_eny_eny_samurai_00_detect_lightsource_02	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	That light should be burning.	5	灯必须点亮	1
+vo_eny_eny_	samurai_00_	detect_lightsource_03	vo_eny_eny_samurai_00_detect_lightsource_03	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	Someone idiot must have been careless with the lamp.	9	肯定是哪个白痴没看好火	1
+vo_eny_eny_	samurai_00_	detect_lightsource_04	vo_eny_eny_samurai_00_detect_lightsource_04	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	The fire died?	3	火灭了……	1
+vo_eny_eny_	samurai_00_	detect_player_00	vo_eny_eny_samurai_00_detect_player_00	omuk	hambo	Samurai	agressive	sees a player character	Stop moving!	2	别动!	1
+vo_eny_eny_	samurai_00_	detect_player_01	vo_eny_eny_samurai_00_detect_player_01	omuk	hambo	Samurai	agressive	sees a player character	Stop right there!	3	站住别动！	1
+vo_eny_eny_	samurai_00_	detect_player_02	vo_eny_eny_samurai_00_detect_player_02	omuk	hambo	Samurai	agressive	sees a player character	Halt!	1	站住！	1
+vo_eny_eny_	samurai_00_	detect_player_03	vo_eny_eny_samurai_00_detect_player_03	omuk	hambo	Samurai	agressive	sees a player character	I see you!	3	我看到你了！	1
+vo_eny_eny_	samurai_00_	detect_player_04	vo_eny_eny_samurai_00_detect_player_04	omuk	hambo	Samurai	agressive	sees a player character	You there!	2	那边的!	1
+vo_eny_eny_	samurai_00_	detect_player_05	vo_eny_eny_samurai_00_detect_player_05	omuk	hambo	Samurai	agressive	sees a player character	Stop right there!	3	站住别动！	1
+vo_eny_eny_	samurai_00_	detect_player_06	vo_eny_eny_samurai_00_detect_player_06	omuk	hambo	Samurai	agressive	sees a player character	Intruder!	1	有入侵者！	1
+vo_eny_eny_	samurai_00_	detect_player_07	vo_eny_eny_samurai_00_detect_player_07	omuk	hambo	Samurai	agressive	sees a player character	Die you scum!	3	死吧，渣滓！	1
+vo_eny_eny_	samurai_00_	detect_player_08	vo_eny_eny_samurai_00_detect_player_08	omuk	hambo	Samurai	agressive	sees a player character	I have you now!	4	我逮到你了！	1
+vo_eny_eny_	samurai_00_	detect_player_09	vo_eny_eny_samurai_00_detect_player_09	omuk	hambo	Samurai	agressive	sees a player character	You!	1	你！	1
+vo_eny_eny_	samurai_00_	detect_player_10	vo_eny_eny_samurai_00_detect_player_10	omuk	hambo	Samurai	agressive	sees a player character	You'll die for being here!	5	你来这儿是自寻死路！	1
+vo_eny_eny_	samurai_00_	detect_player_11	vo_eny_eny_samurai_00_detect_player_11	omuk	hambo	Samurai	agressive	sees a player character	I'm going to kill you assailant!	6	我要杀了你们这些刺客！	1
+vo_eny_eny_	samurai_00_	detect_player_12	vo_eny_eny_samurai_00_detect_player_12	omuk	hambo	Samurai	agressive	sees a player character	There are Shogunate men here!	5	这儿有将军的走狗	1
+vo_eny_eny_	samurai_00_	detect_player_13	vo_eny_eny_samurai_00_detect_player_13	omuk	hambo	Samurai	agressive	sees a player character	It's them!	2	是他们！	1
+vo_eny_eny_	samurai_00_	detect_player_14	vo_eny_eny_samurai_00_detect_player_14	omuk	hambo	Samurai	agressive	sees a player character	You shouldn't be here!	4	你不该在这儿出现！	1
+vo_eny_eny_	samurai_00_	detect_player_15	vo_eny_eny_samurai_00_detect_player_15	omuk	hambo	Samurai	agressive	sees a player character	I will take care of you!	6	让我来教训你吧！	1
+vo_eny_eny_	samurai_00_	detect_player_16	vo_eny_eny_samurai_00_detect_player_16	omuk	hambo	Samurai	agressive	sees a player character	Don't try to run!	4	别想跑！	1
+vo_eny_eny_	samurai_00_	detect_player_17	vo_eny_eny_samurai_00_detect_player_17	omuk	hambo	Samurai	agressive	sees a player character	Go on try escaping!	4	继续逃啊！	1
+vo_eny_eny_	samurai_00_	detect_player_geisha_00	vo_eny_eny_samurai_00_detect_player_geisha_00	omuk		Samurai	aha!	senses a nearby player character	Assassin in disguise!	3	乔装的刺客！	1
+vo_eny_eny_	samurai_00_	detect_player_geisha_01	vo_eny_eny_samurai_00_detect_player_geisha_01	omuk		Samurai	aha!	senses a nearby player character	She is an assassin!	4	她是刺客！	1
+vo_eny_eny_	samurai_00_	detect_player_geisha_02	vo_eny_eny_samurai_00_detect_player_geisha_02	omuk		Samurai	aha!	senses a nearby player character	You think you can fool me, woman?!	7	你以为能骗得了我,女人？！	1
+vo_eny_eny_	samurai_00_	detect_player_geisha_03	vo_eny_eny_samurai_00_detect_player_geisha_03	omuk		Samurai	aha!	senses a nearby player character	I see through your disguise!	5	你的伪装被我识破了！	1
+vo_eny_eny_	samurai_00_	detect_player_kill_00	vo_eny_eny_samurai_00_detect_player_kill_00	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! You fool.	3	哈！你这白痴	1
+vo_eny_eny_	samurai_00_	detect_player_kill_01	vo_eny_eny_samurai_00_detect_player_kill_01	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! Coward.	2	哈！懦夫	1
+vo_eny_eny_	samurai_00_	detect_player_kill_02	vo_eny_eny_samurai_00_detect_player_kill_02	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! Weakling.	2	哈！废物	1
+vo_eny_eny_	samurai_00_	detect_player_kill_03	vo_eny_eny_samurai_00_detect_player_kill_03	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! You are no samurai.	5	哈！你可不是武士	1
+vo_eny_eny_	samurai_00_	detect_player_kill_04	vo_eny_eny_samurai_00_detect_player_kill_04	omuk		Samurai	aha!	senses a player behind him and decapitates him	Ha! You are no match for me.	7	哈！你不是我的对手	1
+vo_eny_eny_	samurai_00_	detect_player_proximity_00	vo_eny_eny_samurai_00_detect_player_proximity_00	omuk	hambo	Samurai	suspicious	senses a nearby player character	Something is wrong …	4	不对劲…	1
+vo_eny_eny_	samurai_00_	detect_player_proximity_01	vo_eny_eny_samurai_00_detect_player_proximity_01	omuk	hambo	Samurai	suspicious	senses a nearby player character	Strange … it feels like …	6	奇怪…感觉好像…	1
+vo_eny_eny_	samurai_00_	detect_player_proximity_02	vo_eny_eny_samurai_00_detect_player_proximity_02	omuk	hambo	Samurai	suspicious	senses a nearby player character	Wait … is someone …	5	等等…好像有人…	1
+vo_eny_eny_	samurai_00_	detect_player_proximity_03	vo_eny_eny_samurai_00_detect_player_proximity_03	omuk	hambo	Samurai	suspicious	senses a nearby player character	There is something there …	5	那儿好像有什么东西…	1
+vo_eny_eny_	samurai_00_	detect_sake_00	vo_eny_eny_samurai_00_detect_sake_00	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sake, hm? ... I have my own.	7	清酒？……我自己就有	1
+vo_eny_eny_	samurai_00_	detect_sake_01	vo_eny_eny_samurai_00_detect_sake_01	omuk	hambo	Samurai	dismissive	spots the sake bottle	Sake? … Hrm, low-grade swill.	5	清酒？……哼，劣酒而已	1
+vo_eny_eny_	samurai_00_	detect_sake_02	vo_eny_eny_samurai_00_detect_sake_02	omuk	hambo	Samurai	dismissive	spots the sake bottle	Only a peasant would bow down for sake.	8	只有贱民才会为清酒折腰	1
+vo_eny_eny_	samurai_00_	detect_tanuki_00	vo_eny_eny_samurai_00_detect_tanuki_00	omuk	hambo	Samurai	dismissive	sees the tanuki	Filthy creature.	2	脏兮兮的畜生	1
+vo_eny_eny_	samurai_00_	detect_tanuki_01	vo_eny_eny_samurai_00_detect_tanuki_01	omuk	hambo	Samurai	dismissive	sees the tanuki	Annoying critter.	2	这家伙好吵	1
+vo_eny_eny_	samurai_00_	detect_tanuki_02	vo_eny_eny_samurai_00_detect_tanuki_02	omuk	hambo	Samurai	dismissive	sees the tanuki	Leave, before I squish you.	5	走开,不然我捏扁你	1
+vo_eny_eny_	samurai_00_	detect_tanuki_03	vo_eny_eny_samurai_00_detect_tanuki_03	omuk	hambo	Samurai	dismissive	sees the tanuki	Just some animal.	3	不过是只动物	1
+vo_eny_eny_	samurai_00_	detect_trap_00	vo_eny_eny_samurai_00_detect_trap_00	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Eh? What's this rubbish …	5	嗯？这是什么垃圾…	1
+vo_eny_eny_	samurai_00_	detect_trap_01	vo_eny_eny_samurai_00_detect_trap_01	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Teh … a child's toy.	5	哼……不过是小孩的玩具	1
+vo_eny_eny_	samurai_00_	detect_trap_02	vo_eny_eny_samurai_00_detect_trap_02	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	Who left that here? … hrm, trash.	7	谁丢在这里的？…哼，垃圾。	1
+vo_eny_eny_	samurai_00_	detect_unconscious_female_01	vo_eny_eny_samurai_00_detect_unconscious_female_01	omuk		Samurai	displeased	sees unconcious person	She is unconscious.	3	她晕过去了	1
+vo_eny_eny_	samurai_00_	detect_unconscious_female_02	vo_eny_eny_samurai_00_detect_unconscious_female_02	omuk		Samurai	displeased	sees unconcious person	She is been hit!	4	她受了重击	1
+vo_eny_eny_	samurai_00_	detect_unconscious_female_03	vo_eny_eny_samurai_00_detect_unconscious_female_03	omuk		Samurai	displeased	sees unconcious person	She is been attacked.	4	她被袭击了	1
+vo_eny_eny_	samurai_00_	detect_unconscious_male_00	vo_eny_eny_samurai_00_detect_unconscious_male_00	omuk		Samurai	displeased	sees unconcious person	He is unconscious.	3	他晕过去了	1
+vo_eny_eny_	samurai_00_	detect_unconscious_male_01	vo_eny_eny_samurai_00_detect_unconscious_male_01	omuk		Samurai	displeased	sees unconcious person	He is been hit!	4	他受了重击	1
+vo_eny_eny_	samurai_00_	detect_unconscious_male_02	vo_eny_eny_samurai_00_detect_unconscious_male_02	omuk		Samurai	displeased	sees unconcious person	He is been attacked.	4	他被袭击了	1
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_01	vo_eny_eny_samurai_00_detect_unconscious_neutral_01	omuk	hambo	Samurai	displeased	sees unconcious person	What happened?	2	发生了什么？	1
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_02	vo_eny_eny_samurai_00_detect_unconscious_neutral_02	omuk	hambo	Samurai	displeased	sees unconcious person	You! Who attacked you?	4	喂！是谁攻击了你？	1
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_03	vo_eny_eny_samurai_00_detect_unconscious_neutral_03	omuk	hambo	Samurai	displeased	sees unconcious person	Are you asleep?	3	你睡着了吗？	1
+vo_eny_eny_	samurai_00_	drink_sake_00	vo_eny_eny_samurai_00_drink_sake_00	omuk		Samurai		(sound) drink sake		0		0
+vo_eny_eny_	samurai_00_	drop_object_00	vo_eny_eny_samurai_00_drop_object_00	omuk		Samurai		(sound) lay down heavy object		0		0
+vo_eny_eny_	samurai_00_	friend_missing_female_00	vo_eny_eny_samurai_00_friend_missing_female_00	omuk		Samurai	displeased	his partner is missing	She left her post.	4	她擅离岗位	1
+vo_eny_eny_	samurai_00_	friend_missing_female_01	vo_eny_eny_samurai_00_friend_missing_female_01	omuk		Samurai	displeased	his partner is missing	Where is she?	3	她去哪了?	1
+vo_eny_eny_	samurai_00_	friend_missing_female_02	vo_eny_eny_samurai_00_friend_missing_female_02	omuk		Samurai	displeased	his partner is missing	What is keeping her?	4	她干什么去了？	1
+vo_eny_eny_	samurai_00_	friend_missing_female_03	vo_eny_eny_samurai_00_friend_missing_female_03	omuk		Samurai	displeased	his partner is missing	She's been gone too long.	5	她怎么这么久不回来	1
+vo_eny_eny_	samurai_00_	friend_missing_female_04	vo_eny_eny_samurai_00_friend_missing_female_04	omuk		Samurai	displeased	his partner is missing	She is missing!	3	她不见了!	1
+vo_eny_eny_	samurai_00_	friend_missing_female_05	vo_eny_eny_samurai_00_friend_missing_female_05	omuk		Samurai	displeased	his partner is missing	How dare she keep me waiting!	6	她竟敢让我干等!	1
+vo_eny_eny_	samurai_00_	friend_missing_male_00	vo_eny_eny_samurai_00_friend_missing_male_00	omuk	placeholder	Samurai	displeased	his partner is missing	He left his post.	4	他擅离岗位	1
+vo_eny_eny_	samurai_00_	friend_missing_male_01	vo_eny_eny_samurai_00_friend_missing_male_01	omuk	placeholder	Samurai	displeased	his partner is missing	Where is he?	3	他去哪了?	1
+vo_eny_eny_	samurai_00_	friend_missing_male_02	vo_eny_eny_samurai_00_friend_missing_male_02	omuk	placeholder	Samurai	displeased	his partner is missing	What is keeping him?	4	他干什么去了？	1
+vo_eny_eny_	samurai_00_	friend_missing_male_03	vo_eny_eny_samurai_00_friend_missing_male_03	omuk	placeholder	Samurai	displeased	his partner is missing	He's been gone too long.	5	他怎么这么久不回来	1
+vo_eny_eny_	samurai_00_	friend_missing_male_04	vo_eny_eny_samurai_00_friend_missing_male_04	omuk	placeholder	Samurai	displeased	his partner is missing	He is missing!	3	他不见了!	1
+vo_eny_eny_	samurai_00_	friend_missing_male_05	vo_eny_eny_samurai_00_friend_missing_male_05	omuk	placeholder	Samurai	displeased	his partner is missing	How dare he keep me waiting!	6	他竟敢让我干等!	1
+vo_eny_eny_	samurai_00_	friend_wakeup_00	vo_eny_eny_samurai_00_friend_wakeup_00	omuk	hambo	Samurai	urgent	wakes unconcious person	Hey! Wake up!	3	嘿！醒醒！	1
+vo_eny_eny_	samurai_00_	friend_wakeup_01	vo_eny_eny_samurai_00_friend_wakeup_01	omuk	hambo	Samurai	urgent	wakes unconcious person	Get up!	2	快起来!	1
+vo_eny_eny_	samurai_00_	friend_wakeup_02	vo_eny_eny_samurai_00_friend_wakeup_02	omuk	hambo	Samurai	urgent	wakes unconcious person	Are you alright?	3	你还好吗？	1
+vo_eny_eny_	samurai_00_	friend_wakeup_03	vo_eny_eny_samurai_00_friend_wakeup_03	omuk	hambo	Samurai	urgent	wakes unconcious person	What happened to you?	4	你怎么了?	1
+vo_eny_eny_	samurai_00_	friend_wakeup_04	vo_eny_eny_samurai_00_friend_wakeup_04	omuk	hambo	Samurai	urgent	wakes unconcious person	On your feet!	3	站起来!	1
+vo_eny_eny_	samurai_00_	hard_work_00	vo_eny_eny_samurai_00_hard_work_00	omuk		Samurai		(sound) pushing a cart		0		0
+vo_eny_eny_	samurai_00_	hear_noise_00	vo_eny_eny_samurai_00_hear_noise_00	omuk		Samurai	suspicious	hears strange noise	Hrm!?	1	嗯！？	1
+vo_eny_eny_	samurai_00_	hear_noise_01	vo_eny_eny_samurai_00_hear_noise_01	omuk		Samurai	suspicious	hears strange noise	What was that?	3	什么声音？	1
+vo_eny_eny_	samurai_00_	hear_noise_02	vo_eny_eny_samurai_00_hear_noise_02	omuk		Samurai	suspicious	hears strange noise	I heard something …	4	我听到了什么…	1
+vo_eny_eny_	samurai_00_	hear_noise_03	vo_eny_eny_samurai_00_hear_noise_03	omuk		Samurai	suspicious	hears strange noise	Strange sound …	3	奇怪的声音……	1
+vo_eny_eny_	samurai_00_	hear_noise_04	vo_eny_eny_samurai_00_hear_noise_04	omuk		Samurai	suspicious	hears strange noise	That noise …	3	这声音…	1
+vo_eny_eny_	samurai_00_	hear_noise_directhit_00	vo_eny_eny_samurai_00_hear_noise_directhit_00	omuk		Samurai	anger	is hit by stone	Hrm! How dare you, coward?!	5	嗷！竟敢打我,胆小鬼!	1
+vo_eny_eny_	samurai_00_	hear_noise_directhit_01	vo_eny_eny_samurai_00_hear_noise_directhit_01	omuk		Samurai	contempt	is hit by stone	Hrm! You will suffer for this! Wherever you are!	9	嗷！你会为此付出代价的！	1
+vo_eny_eny_	samurai_00_	hear_noise_directhit_02	vo_eny_eny_samurai_00_hear_noise_directhit_02	omuk		Samurai	anger	is hit by stone	Hrm! Show yourself, coward!	4	嗷！快出来，胆小鬼！	1
+vo_eny_eny_	samurai_00_	hear_noise_directhit_03	vo_eny_eny_samurai_00_hear_noise_directhit_03	omuk		Samurai	contempt	is hit by stone	Hrm! You have achieved nothing, fool!	6	嗷！我一点也不痛，蠢货！	1
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_00	vo_eny_eny_samurai_00_hear_noise_gunshot_00	omuk		Samurai	alarmed	hears player gunshot	Why is there shooting?	4	怎么会有枪声?	1
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_01	vo_eny_eny_samurai_00_hear_noise_gunshot_01	omuk		Samurai	alarmed	hears player gunshot	Shots fired! Alarm!	3	有枪声!快发警报！	1
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_02	vo_eny_eny_samurai_00_hear_noise_gunshot_02	omuk		Samurai	alarmed	hears player gunshot	The enemy has firearms!	4	敌人有枪！	1
+vo_eny_eny_	samurai_00_	hear_noise_human_00	vo_eny_eny_samurai_00_hear_noise_human_00	omuk		Samurai	fierce	hears human noise	Someone there?	2	有人在那儿吗?	1
+vo_eny_eny_	samurai_00_	hear_noise_human_01	vo_eny_eny_samurai_00_hear_noise_human_01	omuk		Samurai	fierce	hears human noise	Who goes there?	3	谁在那儿?	1
+vo_eny_eny_	samurai_00_	hear_noise_human_02	vo_eny_eny_samurai_00_hear_noise_human_02	omuk		Samurai	fierce	hears human noise	I heard that!	3	我听到了!	1
+vo_eny_eny_	samurai_00_	hear_noise_human_03	vo_eny_eny_samurai_00_hear_noise_human_03	omuk		Samurai	fierce	hears human noise	Who is making noise?	4	是谁的声音？	1
+vo_eny_eny_	samurai_00_	hear_noise_human_04	vo_eny_eny_samurai_00_hear_noise_human_04	omuk		Samurai	fierce	hears human noise	Who hides in the shadows?	5	谁藏在暗处？	1
+vo_eny_eny_	samurai_00_	hear_noise_human_05	vo_eny_eny_samurai_00_hear_noise_human_05	omuk		Samurai	fierce	hears human noise	Who is this?	3	是谁?	1
+vo_eny_eny_	samurai_00_	hear_noise_too_much_00	vo_eny_eny_samurai_00_hear_noise_too_much_00	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	You are testing my patience.	5	你是在考验我的耐心	1
+vo_eny_eny_	samurai_00_	hear_noise_too_much_01	vo_eny_eny_samurai_00_hear_noise_too_much_01	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	You will pay for this.	5	你会为此付出代价	1
+vo_eny_eny_	samurai_00_	hear_noise_too_much_02	vo_eny_eny_samurai_00_hear_noise_too_much_02	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Show yourself, coward.	3	出来，胆小鬼！	1
+vo_eny_eny_	samurai_00_	hear_noise_too_much_03	vo_eny_eny_samurai_00_hear_noise_too_much_03	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	Play your games while you can, fool.	7	看你能玩到什么时候，蠢货	1
+vo_eny_eny_	samurai_00_	hum_00	vo_eny_eny_samurai_00_hum_00	omuk		Samurai		(sound) humming tune		0		0
+vo_eny_eny_	samurai_00_	ignore_distraction_00	vo_eny_eny_samurai_00_ignore_distraction_00	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	It was nothing.	3	不值一提	1
+vo_eny_eny_	samurai_00_	ignore_distraction_01	vo_eny_eny_samurai_00_ignore_distraction_01	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	It was just the wind.	5	只是风声而已	1
+vo_eny_eny_	samurai_00_	ignore_distraction_02	vo_eny_eny_samurai_00_ignore_distraction_02	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	The wind tries to trick on me.	7	风在和我开玩笑而已	1
+vo_eny_eny_	samurai_00_	ignore_distraction_03	vo_eny_eny_samurai_00_ignore_distraction_03	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	I will not be distracted.	5	我不会分心的	1
+vo_eny_eny_	samurai_00_	ignore_disturbance_00	vo_eny_eny_samurai_00_ignore_disturbance_00	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	Not worth my attention.	4	不值得我关注	1
+vo_eny_eny_	samurai_00_	ignore_disturbance_01	vo_eny_eny_samurai_00_ignore_disturbance_01	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	This is beneath me.	4	不值得我管	1
+vo_eny_eny_	samurai_00_	ignore_disturbance_02	vo_eny_eny_samurai_00_ignore_disturbance_02	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	I will not make a fool of myself.	8	我可不会上当	1
+vo_eny_eny_	samurai_00_	ignore_peasant_00	vo_eny_eny_samurai_00_ignore_peasant_00	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	Get out of my sight, peasant!	6	赶紧滚远点，贱民！	1
+vo_eny_eny_	samurai_00_	ignore_peasant_01	vo_eny_eny_samurai_00_ignore_peasant_01	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	How dare you speak to me? Leave!	7	竟敢和我说话？滚开！	1
+vo_eny_eny_	samurai_00_	ignore_peasant_02	vo_eny_eny_samurai_00_ignore_peasant_02	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	Your troubles do not concern me!	6	你的问题关我什么事！	1
+vo_eny_eny_	samurai_00_	investigate_accident_start_00	vo_eny_eny_samurai_00_investigate_accident_start_00	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	What happened?	2	发生了什么？	1
+vo_eny_eny_	samurai_00_	investigate_accident_start_01	vo_eny_eny_samurai_00_investigate_accident_start_01	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	How did this happen?	4	怎么会发生这种事？	1
+vo_eny_eny_	samurai_00_	investigate_accident_start_02	vo_eny_eny_samurai_00_investigate_accident_start_02	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Whose fault is this?	4	这是谁的错?	1
+vo_eny_eny_	samurai_00_	investigate_accident_start_03	vo_eny_eny_samurai_00_investigate_accident_start_03	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	Who is responsible for this?	5	谁该为此负责?	1
+vo_eny_eny_	samurai_00_	investigate_accident_start_04	vo_eny_eny_samurai_00_investigate_accident_start_04	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	This is outrageous!	3	简直太惨了!	1
+vo_eny_eny_	samurai_00_	investigate_accident_stop_00	vo_eny_eny_samurai_00_investigate_accident_stop_00	omuk	hambo	Samurai	dismissive	stops investigating accident	We will investigate this later.	5	稍后再做调查	1
+vo_eny_eny_	samurai_00_	investigate_accident_stop_01	vo_eny_eny_samurai_00_investigate_accident_stop_01	omuk	hambo	Samurai	dismissive	stops investigating accident	Hrm, karma.	2	嗯，人各有命	1
+vo_eny_eny_	samurai_00_	investigate_accident_stop_02	vo_eny_eny_samurai_00_investigate_accident_stop_02	omuk	hambo	Samurai	dismissive	stops investigating accident	I will find those responsible.	5	我会找到责任人的	1
+vo_eny_eny_	samurai_00_	investigate_accident_stop_03	vo_eny_eny_samurai_00_investigate_accident_stop_03	omuk	hambo	Samurai	dismissive	stops investigating accident	Fate was unkind today.	4	命运真是...无情	1
+vo_eny_eny_	samurai_00_	investigate_accident_stop_04	vo_eny_eny_samurai_00_investigate_accident_stop_04	omuk	hambo	Samurai	dismissive	stops investigating accident	It cannot be changed.	4	结果已无法改变	1
+vo_eny_eny_	samurai_00_	investigate_bush_00	vo_eny_eny_samurai_00_investigate_bush_00	omuk	hambo	Samurai	agressive	searches bushes for player characters	Ha, hiding in the bushes?!	5	哈！想躲在灌木丛中?	1
+vo_eny_eny_	samurai_00_	investigate_bush_01	vo_eny_eny_samurai_00_investigate_bush_01	omuk	hambo	Samurai	agressive	searches bushes for player characters	You cannot hide from me!	5	你躲不了我的！	1
+vo_eny_eny_	samurai_00_	investigate_bush_02	vo_eny_eny_samurai_00_investigate_bush_02	omuk	hambo	Samurai	agressive	searches bushes for player characters	You cannot fool me!	4	你骗不了我的!	1
+vo_eny_eny_	samurai_00_	investigate_bush_03	vo_eny_eny_samurai_00_investigate_bush_03	omuk	hambo	Samurai	agressive	searches bushes for player characters	Hrm, crawling through the thicket?	5	哼！想从灌木丛爬走?	1
+vo_eny_eny_	samurai_00_	investigate_bush_04	vo_eny_eny_samurai_00_investigate_bush_04	omuk	hambo	Samurai	agressive	searches bushes for player characters	The brush will not protect you!	6	灌木丛也保护不了你!	1
+vo_eny_eny_	samurai_00_	investigate_door_00	vo_eny_eny_samurai_00_investigate_door_00	omuk	hambo	Samurai	agressive	follows player character inside buildings	I will drag you out of there.	7	我要把你拖出来	1
+vo_eny_eny_	samurai_00_	investigate_door_01	vo_eny_eny_samurai_00_investigate_door_01	omuk	hambo	Samurai	agressive	follows player character inside buildings	I know you are in there!	6	我知道你在里面!	1
+vo_eny_eny_	samurai_00_	investigate_door_02	vo_eny_eny_samurai_00_investigate_door_02	omuk	hambo	Samurai	agressive	follows player character inside buildings	You will find no safety in there.	7	躲进去也没用的	1
+vo_eny_eny_	samurai_00_	investigate_door_03	vo_eny_eny_samurai_00_investigate_door_03	omuk	hambo	Samurai	agressive	follows player character inside buildings	Fine. This will be your grave.	6	好吧！这里就是你的坟墓	1
+vo_eny_eny_	samurai_00_	investigate_end_00	vo_eny_eny_samurai_00_investigate_end_00	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	Nobody here.	2	没找到人	1
+vo_eny_eny_	samurai_00_	investigate_end_01	vo_eny_eny_samurai_00_investigate_end_01	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	Gone.	1	人不见了	1
+vo_eny_eny_	samurai_00_	investigate_end_02	vo_eny_eny_samurai_00_investigate_end_02	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	Nothing.	1	什么都没发现	1
+vo_eny_eny_	samurai_00_	investigate_end_03	vo_eny_eny_samurai_00_investigate_end_03	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	Hrm, they must have away.	5	他们肯定已经逃走了	1
+vo_eny_eny_	samurai_00_	investigate_end_04	vo_eny_eny_samurai_00_investigate_end_04	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	Hrm, I guess drove them off.	6	看来是我把他们赶跑了	1
+vo_eny_eny_	samurai_00_	investigate_end_05	vo_eny_eny_samurai_00_investigate_end_05	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	No one to be found.	5	一个都没找到	1
+vo_eny_eny_	samurai_00_	investigate_missing_00	vo_eny_eny_samurai_00_investigate_missing_00	omuk		Samurai	annoyed	searches the area for missing friend	Hello?	1	在么？	1
+vo_eny_eny_	samurai_00_	investigate_missing_01	vo_eny_eny_samurai_00_investigate_missing_01	omuk		Samurai	annoyed	searches the area for missing friend	Are you hiding somewhere?	4	你躲到哪儿去了？	1
+vo_eny_eny_	samurai_00_	investigate_missing_02	vo_eny_eny_samurai_00_investigate_missing_02	omuk		Samurai	annoyed	searches the area for missing friend	Are you there?	3	你在那里么？	1
+vo_eny_eny_	samurai_00_	investigate_missing_03	vo_eny_eny_samurai_00_investigate_missing_03	omuk		Samurai	annoyed	searches the area for missing friend	I'm not in the mood for this!	7	我可没心情闹着玩	1
+vo_eny_eny_	samurai_00_	investigate_missing_04	vo_eny_eny_samurai_00_investigate_missing_04	omuk		Samurai	annoyed	searches the area for missing friend	Where are you? Speak up!	5	你在哪里？快回答！	1
+vo_eny_eny_	samurai_00_	investigate_missing_05	vo_eny_eny_samurai_00_investigate_missing_05	omuk		Samurai	annoyed	searches the area for missing friend	You hear me?	3	听到了么？	1
+vo_eny_eny_	samurai_00_	investigate_start_00	vo_eny_eny_samurai_00_investigate_start_00	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	Where are you?	3	人在哪？	1
+vo_eny_eny_	samurai_00_	investigate_start_01	vo_eny_eny_samurai_00_investigate_start_01	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	I know you're here!	4	我知道你在附近！	1
+vo_eny_eny_	samurai_00_	investigate_start_02	vo_eny_eny_samurai_00_investigate_start_02	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	I will find you!	4	我会找到你的	1
+vo_eny_eny_	samurai_00_	investigate_start_03	vo_eny_eny_samurai_00_investigate_start_03	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	Come forward!	2	快出来！	1
+vo_eny_eny_	samurai_00_	investigate_start_04	vo_eny_eny_samurai_00_investigate_start_04	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	Come on show yourself.	4	出来，我可没时间	1
+vo_eny_eny_	samurai_00_	investigate_too_long_00	vo_eny_eny_samurai_00_investigate_too_long_00	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	That is not worth the walk.	6	没必跑这么远过去	1
+vo_eny_eny_	samurai_00_	investigate_too_long_01	vo_eny_eny_samurai_00_investigate_too_long_01	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	It is too far off.	5	太远了，没必要	1
+vo_eny_eny_	samurai_00_	investigate_too_long_02	vo_eny_eny_samurai_00_investigate_too_long_02	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	I will not waste my time.	6	我不会浪费时间的	1
+vo_eny_eny_	samurai_00_	investigate_unreachable_00	vo_eny_eny_samurai_00_investigate_unreachable_00	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Hrm, I cannot reach that.	5	没办法，我到不了那里	1
+vo_eny_eny_	samurai_00_	investigate_unreachable_01	vo_eny_eny_samurai_00_investigate_unreachable_01	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	Hrm, the path is blocked.	5	找不到去那边的路	1
+vo_eny_eny_	samurai_00_	investigate_unreachable_02	vo_eny_eny_samurai_00_investigate_unreachable_02	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	That would be too much trouble.	6	没必要，太麻烦了	1
+vo_eny_eny_	samurai_00_	knockout_scream_00	vo_eny_eny_samurai_00_knockout_scream_00	omuk	hambo	Samurai	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	samurai_00_	knockout_scream_01	vo_eny_eny_samurai_00_knockout_scream_01	omuk	hambo	Samurai	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	samurai_00_	knockout_scream_02	vo_eny_eny_samurai_00_knockout_scream_02	omuk	hambo	Samurai	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	samurai_00_	knockout_scream_03	vo_eny_eny_samurai_00_knockout_scream_03	omuk	hambo	Samurai	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	samurai_00_	knockout_scream_04	vo_eny_eny_samurai_00_knockout_scream_04	omuk	hambo	Samurai	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	samurai_00_	laugh_evil_00	vo_eny_eny_samurai_00_laugh_evil_00	omuk		Samurai		(sound) dark laugh		0		0
+vo_eny_eny_	samurai_00_	laugh_good_00	vo_eny_eny_samurai_00_laugh_good_00	omuk		Samurai		(sound) humorous laugh		0		0
+vo_eny_eny_	samurai_00_	make_toast_00	vo_eny_eny_samurai_00_make_toast_00	omuk		Samurai		(sound) makes a toast		0		0
+vo_eny_eny_	samurai_00_	officer_alert_00	vo_eny_eny_samurai_00_officer_alert_00	omuk		Samurai	commanding	instructs other guards to stay alert	Stay vigilant. We have assassins in our midst.	8	保持警惕，附近有刺客	1
+vo_eny_eny_	samurai_00_	officer_alert_01	vo_eny_eny_samurai_00_officer_alert_01	omuk		Samurai	commanding	instructs other guards to stay alert	The enemy is among us. Stay sharp.	7	敌人还在附近，保持警觉	1
+vo_eny_eny_	samurai_00_	officer_alert_02	vo_eny_eny_samurai_00_officer_alert_02	omuk		Samurai	commanding	instructs other guards to stay alert	Do not be fooled. They are still here.	8	别被骗了，他们还在附近	1
+vo_eny_eny_	samurai_00_	officer_alert_03	vo_eny_eny_samurai_00_officer_alert_03	omuk		Samurai	commanding	instructs other guards to stay alert	Watch the shadows. It is where they hide.	8	注意，他们喜欢藏在暗处	1
+vo_eny_eny_	samurai_00_	officer_alert_04	vo_eny_eny_samurai_00_officer_alert_04	omuk		Samurai	commanding	instructs other guards to stay alert	Keep together. Do not let them separate you.	8	要一起行动，别东一个西一个	1
+vo_eny_eny_	samurai_00_	officer_alert_05	vo_eny_eny_samurai_00_officer_alert_05	omuk		Samurai	commanding	instructs other guards to stay alert	They are looking for weakness. Give them death.	8	他们正在观察我们的弱点，我们要先下手为强	1
+vo_eny_eny_	samurai_00_	officer_alert_06	vo_eny_eny_samurai_00_officer_alert_06	omuk		Samurai	commanding	instructs other guards to stay alert	Attack on sight. Show no mercy.	6	格杀勿论，不要心慈手软	1
+vo_eny_eny_	samurai_00_	officer_alert_07	vo_eny_eny_samurai_00_officer_alert_07	omuk		Samurai	commanding	instructs other guards to stay alert	Do not cower before common criminals.	6	别害怕这些罪犯	1
+vo_eny_eny_	samurai_00_	officer_alert_08	vo_eny_eny_samurai_00_officer_alert_08	omuk		Samurai	commanding	instructs other guards to stay alert	Teach them fear. Give them no place to hide.	9	让他们无处可藏，尝尝恐惧的滋味	1
+vo_eny_eny_	samurai_00_	pickup_object_00	vo_eny_eny_samurai_00_pickup_object_00	omuk		Samurai		(sound) pickup heavy object		0		0
+vo_eny_eny_	samurai_00_	regain_consciousness_00	vo_eny_eny_samurai_00_regain_consciousness_00	omuk	hambo	Samurai	angry	knocked out, wakes up	… damn them	3	……这帮该死的	1
+vo_eny_eny_	samurai_00_	regain_consciousness_01	vo_eny_eny_samurai_00_regain_consciousness_01	omuk	hambo	Samurai	headache	knocked out, wakes up	Hrm … it is nothing …	6	呃……没事……	1
+vo_eny_eny_	samurai_00_	regain_consciousness_02	vo_eny_eny_samurai_00_regain_consciousness_02	omuk	hambo	Samurai	angry	knocked out, wakes up	… I was shamed.	4	……真是丢脸	1
+vo_eny_eny_	samurai_00_	regain_consciousness_03	vo_eny_eny_samurai_00_regain_consciousness_03	omuk	hambo	Samurai	headache	knocked out, wakes up	Hrm … cowards …	4	哼！……懦夫……	1
+vo_eny_eny_	samurai_00_	regain_consciousness_04	vo_eny_eny_samurai_00_regain_consciousness_04	omuk	hambo	Samurai	angry	knocked out, wakes up	… they attacked me!	4	……他们偷袭了我！	1
+vo_eny_eny_	samurai_00_	regain_consciousness_05	vo_eny_eny_samurai_00_regain_consciousness_05	omuk	hambo	Samurai	angry	knocked out, wakes up	… they beat me down!	5	……他们把我打晕了！	1
+vo_eny_eny_	samurai_00_	regain_consciousness_06	vo_eny_eny_samurai_00_regain_consciousness_06	omuk	hambo	Samurai	angry	knocked out, wakes up	… I will see them suffer!	6	……我要让他们不得好死！	1
+vo_eny_eny_	samurai_00_	see_flying_body_00	vo_eny_eny_samurai_00_see_flying_body_00	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	How?!	1	什么？！	1
+vo_eny_eny_	samurai_00_	see_flying_body_01	vo_eny_eny_samurai_00_see_flying_body_01	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	Demons!	1	魔鬼！	1
+vo_eny_eny_	samurai_00_	see_flying_body_02	vo_eny_eny_samurai_00_see_flying_body_02	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	Honourless killers!	2	可耻的杀手！	1
+vo_eny_eny_	samurai_00_	see_flying_object_00	vo_eny_eny_samurai_00_see_flying_object_00	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	What's this?!	2	这是什么?！	1
+vo_eny_eny_	samurai_00_	see_flying_object_01	vo_eny_eny_samurai_00_see_flying_object_01	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	Who did that?!	3	是谁干的?!	1
+vo_eny_eny_	samurai_00_	see_flying_object_02	vo_eny_eny_samurai_00_see_flying_object_02	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	Oh come on! This is ridiculous!	6	算了吧！这也太蠢了！	1
+vo_eny_eny_	samurai_00_	see_something_00	vo_eny_eny_samurai_00_see_something_00	omuk	hambo	Samurai	suspicious	sees something strange	What?	1	什么？	1
+vo_eny_eny_	samurai_00_	see_something_01	vo_eny_eny_samurai_00_see_something_01	omuk	hambo	Samurai	suspicious	sees something strange	Huh?	1	嗯？	1
+vo_eny_eny_	samurai_00_	see_something_02	vo_eny_eny_samurai_00_see_something_02	omuk	hambo	Samurai	suspicious	sees something strange	What's that?	2	那是什么？	1
+vo_eny_eny_	samurai_00_	see_something_03	vo_eny_eny_samurai_00_see_something_03	omuk	hambo	Samurai	suspicious	sees something strange	Something …	2	好像是……	1
+vo_eny_eny_	samurai_00_	see_something_04	vo_eny_eny_samurai_00_see_something_04	omuk	hambo	Samurai	suspicious	sees something strange	Hmm …	2	嗯……	1
+vo_eny_eny_	samurai_00_	snore_00	vo_eny_eny_samurai_00_snore_00	omuk		Samurai		(sound) snore		0		0
+vo_eny_eny_	samurai_00_	squad_investigate_end_00	vo_eny_eny_samurai_00_squad_investigate_end_00	omuk	hambo	Samurai	commanding	squad leader stops investigation	Nothing here. Resume your duties.	5	什么都没有，继续执勤吧	1
+vo_eny_eny_	samurai_00_	squad_investigate_end_01	vo_eny_eny_samurai_00_squad_investigate_end_01	omuk	hambo	Samurai	commanding	squad leader stops investigation	They are long gone. Resume your duties.	7	他们早跑了，继续执勤吧	1
+vo_eny_eny_	samurai_00_	squad_investigate_end_02	vo_eny_eny_samurai_00_squad_investigate_end_02	omuk	hambo	Samurai	commanding	squad leader stops investigation	There is no one here. Resume your duties.	8	这里没人，继续执勤吧	1
+vo_eny_eny_	samurai_00_	squad_investigate_end_03	vo_eny_eny_samurai_00_squad_investigate_end_03	omuk	hambo	Samurai	commanding	squad leader stops investigation	Stop the search. Return to your posts.	7	停止搜索，各回岗位吧	1
+vo_eny_eny_	samurai_00_	squad_investigate_end_04	vo_eny_eny_samurai_00_squad_investigate_end_04	omuk	hambo	Samurai	commanding	squad leader stops investigation	Danger has passed. Return to your posts.	7	没有危险了，各回岗位吧	1
+vo_eny_eny_	samurai_00_	squad_investigate_start_00	vo_eny_eny_samurai_00_squad_investigate_start_00	omuk	hambo	Samurai	commanding	squad leader starts investigation	Search the area!	3	搜索这片区域!	1
+vo_eny_eny_	samurai_00_	squad_investigate_start_01	vo_eny_eny_samurai_00_squad_investigate_start_01	omuk	hambo	Samurai	commanding	squad leader starts investigation	Attack on sight!	3	看到就立即射击！	1
+vo_eny_eny_	samurai_00_	squad_investigate_start_02	vo_eny_eny_samurai_00_squad_investigate_start_02	omuk	hambo	Samurai	commanding	squad leader starts investigation	They could still be here!	5	他可能还在附近!	1
+vo_eny_eny_	samurai_00_	squad_investigate_start_03	vo_eny_eny_samurai_00_squad_investigate_start_03	omuk	hambo	Samurai	commanding	squad leader starts investigation	Search everywhere!	2	搜索每个角落！	1
+vo_eny_eny_	samurai_00_	squad_investigate_start_04	vo_eny_eny_samurai_00_squad_investigate_start_04	omuk	hambo	Samurai	commanding	squad leader starts investigation	Show no mercy.	3	往死里打	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_00	vo_eny_eny_samurai_00_squad_investigate_talk_00	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	There is nothing here!	4	什么都没有发现！	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_01	vo_eny_eny_samurai_00_squad_investigate_talk_01	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	Where did they go?!	4	他们去哪了?！	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_02	vo_eny_eny_samurai_00_squad_investigate_talk_02	omuk	hambo	Samurai	commanding	squad serches the area, commenting on things	Keep your eyes open.	4	眼睛都睁大点	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_03	vo_eny_eny_samurai_00_squad_investigate_talk_03	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	Hrm, do I see tracks?	5	这是足迹吗？	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_04	vo_eny_eny_samurai_00_squad_investigate_talk_04	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	Are these tracks … no.	5	这些是足迹吗？……不是。	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_05	vo_eny_eny_samurai_00_squad_investigate_talk_05	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	Do you see them?	4	你看见他们了吗？	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_06	vo_eny_eny_samurai_00_squad_investigate_talk_06	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	They cannot have vanished …	5	他们不可能就这么消失了……	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_07	vo_eny_eny_samurai_00_squad_investigate_talk_07	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	We are not hunting ghosts!	5	我们又不是在追踪鬼魂！	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_08	vo_eny_eny_samurai_00_squad_investigate_talk_08	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	What are we looking for?	5	我们到底在找什么?	1
+vo_eny_eny_	samurai_00_	squad_investigate_talk_09	vo_eny_eny_samurai_00_squad_investigate_talk_09	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	Are you certain you saw something?	6	你真的看到敌人了吗？	1
+vo_eny_eny_	samurai_00_	stun_end_00	vo_eny_eny_samurai_00_stun_end_00	omuk		Samurai	enraged	stands up after stun	… they use firearms! The cowards!	6	…他们用枪！懦夫！	1
+vo_eny_eny_	samurai_00_	stun_end_01	vo_eny_eny_samurai_00_stun_end_01	omuk		Samurai	enraged	stands up after stun	… ambush!	2	……有埋伏！	1
+vo_eny_eny_	samurai_00_	stun_end_02	vo_eny_eny_samurai_00_stun_end_02	omuk		Samurai	enraged	stands up after stun	… you shot me ... Now I cut you in half!	11	竟敢开枪打我！现在我要把你切成两半！	1
+vo_eny_eny_	samurai_00_	stun_end_03	vo_eny_eny_samurai_00_stun_end_03	omuk		Samurai	enraged	stands up after stun	 … you think that would kill me?!	8	 ……你以为那样就能杀得了我？！	2
+vo_eny_eny_	samurai_00_	stun_end_04	vo_eny_eny_samurai_00_stun_end_04	omuk		Samurai	enraged	stands up after stun	… assassins!	2	…有刺客！	1
+vo_eny_eny_	samurai_00_	stun_scream_00	vo_eny_eny_samurai_00_stun_scream_00	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	samurai_00_	stun_scream_01	vo_eny_eny_samurai_00_stun_scream_01	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	samurai_00_	stun_scream_02	vo_eny_eny_samurai_00_stun_scream_02	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	samurai_00_	stun_scream_03	vo_eny_eny_samurai_00_stun_scream_03	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	… y-you ...	3	啊！……你……	1
+vo_eny_eny_	samurai_00_	stun_scream_04	vo_eny_eny_samurai_00_stun_scream_04	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	… cowards ...	3	呃！懦夫！	1
+vo_gothic_gothic_	samurai_00_	talk_idle_00	vo_gothic_gothic_samurai_00_talk_idle_00	omuk		Samurai	relaxed	(sound) humming tune		0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_01	vo_gothic_gothic_samurai_00_talk_idle_01	omuk		Samurai		(sound) sneeze		0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_02	vo_gothic_gothic_samurai_00_talk_idle_02	omuk		Samurai	surprised	makes noise on duty	Hmm!	1	嗯…	1
+vo_gothic_gothic_	samurai_00_	talk_idle_03	vo_gothic_gothic_samurai_00_talk_idle_03	omuk		Samurai	surprised	makes noise on duty	Ah!	1	啊…	1
+vo_gothic_gothic_	samurai_00_	talk_idle_04	vo_gothic_gothic_samurai_00_talk_idle_04	omuk		Samurai	in thought	makes noise on duty	Hmm …	2	嗯……	1
+vo_gothic_gothic_	samurai_00_	talk_idle_05	vo_gothic_gothic_samurai_00_talk_idle_05	omuk		Samurai	in thought	makes noise on duty	Hm, yes.	2	嗯,是的	1
+vo_gothic_gothic_	samurai_00_	talk_idle_06	vo_gothic_gothic_samurai_00_talk_idle_06	omuk		Samurai	focussed	makes noise on duty	Hrm, focus.	2	嗯，集中注意力	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_00	vo_gothic_gothic_samurai_talk_idle_calm_00	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	Victory is certain.	3	我军必胜	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_01	vo_gothic_gothic_samurai_talk_idle_calm_01	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	Hrm … curse the Shogun.	5	哼……混蛋将军	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_02	vo_gothic_gothic_samurai_talk_idle_calm_02	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	A single strike …	4	只需一击……	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_03	vo_gothic_gothic_samurai_talk_idle_calm_03	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	… this is our place.	5	…这是我们的地盘	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_04	vo_gothic_gothic_samurai_talk_idle_calm_04	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	Honour in death …	4	虽死犹容……	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_05	vo_gothic_gothic_samurai_00_talk_idle_battle_05	omuk		Samurai	rush of battle	makes noise in battle	Reloading!	1	装弹中！	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_06	vo_gothic_gothic_samurai_00_talk_idle_battle_06	omuk		Samurai	rush of battle	makes noise in battle	I'm reloading!	2	我在重新装弹!	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_07	vo_gothic_gothic_samurai_00_talk_idle_battle_07	omuk		Samurai	rush of battle	makes noise in battle	Cover me!	2	掩护我!	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_08	vo_gothic_gothic_samurai_00_talk_idle_battle_08	omuk		Samurai	rush of battle	makes noise in battle	Die, Shogunate scum!	3	去死吧，幕府人渣!	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_09	vo_gothic_gothic_samurai_00_talk_idle_battle_09	omuk		Samurai	rush of battle	makes noise in battle	Hold the castle!	3	一定要守住城	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_10	vo_gothic_gothic_samurai_00_talk_idle_battle_10	omuk		Samurai	rush of battle	makes noise in battle	Push them back!	3	挡住他们！	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_11	vo_gothic_gothic_samurai_00_talk_idle_battle_11	omuk		Samurai	rush of battle	makes noise in battle	Retreat!	1	撤退！	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_12	vo_gothic_gothic_samurai_00_talk_idle_battle_12	omuk		Samurai	rush of battle	makes noise in battle	Fall back!	2	撤退!	1
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_13	vo_gothic_gothic_samurai_00_talk_idle_battle_13	omuk		Samurai	rush of battle	makes noise in battle	Officer dead!	2	指挥官死了！	1
+vo_gothic_gothic_	samurai_00_	talk_idle_daimyo_00	vo_gothic_gothic_samurai_00_talk_idle_daimyo_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	For lord Yabu.	3	为了薮大人	1
+vo_gothic_gothic_	samurai_00_	talk_idle_general_00	vo_gothic_gothic_samurai_00_talk_idle_general_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	For lord Okkoto.	3	为了乙事大人	1
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_00	vo_gothic_gothic_samurai_00_talk_idle_kagesama_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	For Kage-sama.	2	为了影大人	1
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_01	vo_gothic_gothic_samurai_00_talk_idle_kagesama_01	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	For Lord Noboru.	3	为了昇大人	1
+vo_gothic_gothic_	samurai_00_	talk_idle_night_00	vo_gothic_gothic_samurai_00_talk_idle_night_00	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	Hmm … sake.	3	嗯…想喝酒了	1
+vo_gothic_gothic_	samurai_00_	talk_idle_night_01	vo_gothic_gothic_samurai_00_talk_idle_night_01	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	It was a long day.	5	…忙了一整天了	1
+vo_gothic_gothic_	samurai_00_	talk_idle_night_02	vo_gothic_gothic_samurai_00_talk_idle_night_02	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	Dark tonight.	2	夜好黑啊	1
+vo_gothic_gothic_	samurai_00_	talk_idle_night_03	vo_gothic_gothic_samurai_00_talk_idle_night_03	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	Hrm …	2	嗯……	1
+vo_gothic_gothic_	samurai_00_	talk_idle_night_04	vo_gothic_gothic_samurai_00_talk_idle_night_04	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	Hrm … focus.	3	嗯……集中精神	1
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_00	vo_gothic_gothic_samurai_00_talk_idle_snow_00	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	Cursed snow.	2	该死的雪	1
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_01	vo_gothic_gothic_samurai_00_talk_idle_snow_01	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	The wind is freezing.	4	风好刺骨	1
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_02	vo_gothic_gothic_samurai_00_talk_idle_snow_02	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	It is too cold.	4	太冷了	1
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_03	vo_gothic_gothic_samurai_00_talk_idle_snow_03	omuk		Samurai	cold	(sound) slight shiver		0		0
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_04	vo_gothic_gothic_samurai_00_talk_idle_snow_04	omuk		Samurai	cold	(sound) strong shiver		0		0
+vo_gothic_gothic_	samurai_00_	talk_npc_00	vo_gothic_gothic_samurai_00_talk_npc_00	omuk		Samurai	dismissive	dialog without topic	That is not my concern.	5	我不关心这个	1
+vo_gothic_gothic_	samurai_00_	talk_npc_01	vo_gothic_gothic_samurai_00_talk_npc_01	omuk		Samurai	aggree	dialog without topic	That much is clear.	4	这很清楚了	1
+vo_gothic_gothic_	samurai_00_	talk_npc_02	vo_gothic_gothic_samurai_00_talk_npc_02	omuk		Samurai	dismissive	dialog without topic	You should not believe baseless rumours.	6	你不该相信毫无根据的谣言	1
+vo_gothic_gothic_	samurai_00_	talk_npc_03	vo_gothic_gothic_samurai_00_talk_npc_03	omuk		Samurai	disagree	dialog without topic	I've heard differently.	3	我听到的有所不同	1
+vo_gothic_gothic_	samurai_00_	talk_npc_04	vo_gothic_gothic_samurai_00_talk_npc_04	omuk		Samurai	aggree	dialog without topic	That's how it has always been.	6	一向如此	1
+vo_gothic_gothic_	samurai_00_	talk_npc_05	vo_gothic_gothic_samurai_00_talk_npc_05	omuk		Samurai	dismissive	dialog without topic	He is a coward. Do not listen to him.	9	他是个懦夫，不要听他的	1
+vo_gothic_gothic_	samurai_00_	talk_npc_06	vo_gothic_gothic_samurai_00_talk_npc_06	omuk		Samurai	aggree	dialog without topic	I can agree to that.	5	我同意	1
+vo_gothic_gothic_	samurai_00_	talk_npc_07	vo_gothic_gothic_samurai_00_talk_npc_07	omuk		Samurai	warning	dialog without topic	Look I warn you. Be careful what you say.	9	我警告你，小心你说的话	1
+vo_gothic_gothic_	samurai_00_	talk_npc_08	vo_gothic_gothic_samurai_00_talk_npc_08	omuk		Samurai	displeased	dialog without topic	He'll only cause trouble.	4	他只会惹麻烦	1
+vo_gothic_gothic_	samurai_00_	talk_npc_09	vo_gothic_gothic_samurai_00_talk_npc_09	omuk		Samurai	unconcerned	dialog without topic	It'll change nothing.	3	什么也改变不了	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_00	omuk		Samurai	dutiful	confirms orders during battle	Understood.	1	明白	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_01	omuk		Samurai	dutiful	confirms orders during battle	My lord.	2	大人	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_02	omuk		Samurai	dutiful	confirms orders during battle	At once.	2	马上	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_00	omuk		Samurai	rush of battle	confirms orders during battle	Understood!	1	明白！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_01	omuk		Samurai	rush of battle	confirms orders during battle	I shall not fail!	4	我会完成任务！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_02	omuk		Samurai	rush of battle	confirms orders during battle	For honour!	2	为了荣誉！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_00	vo_gothic_gothic_samurai_00_talk_npc_orders_00	omuk		Samurai	focussed	gives orders to guardpost	Carry on.	2	保持警戒	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_01	vo_gothic_gothic_samurai_00_talk_npc_orders_01	omuk		Samurai	focussed	gives orders to guardpost	Continue.	1	继续保持	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_02	vo_gothic_gothic_samurai_00_talk_npc_orders_02	omuk		Samurai	focussed	gives orders to guardpost	Stay vigilant.	2	保持警惕	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_03	vo_gothic_gothic_samurai_00_talk_npc_orders_03	omuk		Samurai	focussed	gives orders to guardpost	Stay sharp.	2	提高警惕	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_04	vo_gothic_gothic_samurai_00_talk_npc_orders_04	omuk		Samurai	focussed	gives orders to guardpost during battle	Keep it up.	3	很好，继续坚持	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_05	vo_gothic_gothic_samurai_00_talk_npc_orders_05	omuk		Samurai	focussed	gives orders to guardpost during battle	Do not get lazy.	4	别偷懒	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_00	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	Carry on!	2	保持警戒！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_01	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	I have new orders!	4	我收到新命令了！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_02	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_02	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Stay strong!	2	继续保持警戒！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_03	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_03	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Hold your position!	3	守住防线！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_04	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_04	omuk		Samurai	rush of battle	gives orders to guardpost during battle	New orders!	2	新命令！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_05	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_05	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Continue!	1	继续坚持！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_06	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_06	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Reload!	1	重新装弹！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_07	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_07	omuk		Samurai	rush of battle	gives orders to guardpost during battle	Fire!	1	开火！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_00	vo_gothic_gothic_samurai_00_talk_npc_report_00	omuk		Samurai	focussed	asks guardpost for status	Report.	1	报告情况	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_01	vo_gothic_gothic_samurai_00_talk_npc_report_01	omuk		Samurai	focussed	asks guardpost for status	Your report?	2	什么情况?	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_02	vo_gothic_gothic_samurai_00_talk_npc_report_02	omuk		Samurai	focussed	asks guardpost for status	What news?	2	战况如何?	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_03	vo_gothic_gothic_samurai_00_talk_npc_report_03	omuk		Samurai	focussed	asks guardpost for status	Anything new?	2	有新消息吗？	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_04	vo_gothic_gothic_samurai_00_talk_npc_report_04	omuk		Samurai	focussed	asks guardpost for status	Everything quiet?	2	一切正常吗？	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_00	vo_gothic_gothic_samurai_00_talk_npc_report_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	Report!	1	报告情况！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_01	vo_gothic_gothic_samurai_00_talk_npc_report_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	Tell me!	2	汇报情况！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_02	vo_gothic_gothic_samurai_00_talk_npc_report_battle_02	omuk		Samurai	rush of battle	asks guardpost for status during battle	Give your report!	3	向我汇报情况！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_00	vo_gothic_gothic_samurai_00_talk_npc_tense_00	omuk		Samurai	dutiful	"dialog without topic
+(during open battle)"	We have our orders!	4	我们有令在身！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_01	vo_gothic_gothic_samurai_00_talk_npc_tense_01	omuk		Samurai	confident	"dialog without topic
+(during open battle)"	Keep fighting!	2	继续战斗！	1
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_02	vo_gothic_gothic_samurai_00_talk_npc_tense_02	omuk		Samurai	for honor!	"dialog without topic
+(during open battle)"	We will gain honour today.	5	今天我们无比荣耀	1
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_03	vo_gothic_gothic_samurai_00_talk_npc_tense_03	omuk		Samurai	for honor!	"dialog without topic
+(during open battle)"	We must stay strong.	4	必须保持状态	1
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_04	vo_gothic_gothic_samurai_00_talk_npc_tense_04	omuk		Samurai	fierce	"dialog without topic
+(during open battle)"	Let the enemy come to us.	6	让敌人放马过来吧	1
+vo_eny_eny_	samurai_00_	urinate_00	vo_eny_eny_samurai_00_urinate_00	omuk		Samurai		(sound) relieves himself		0		0
+vo_eny_eny_	samurai_00_	whistle_00	vo_eny_eny_samurai_00_whistle_00	omuk		Samurai		(sound) whistles a tune		0		0
+vo_eny_eny_	samurai_00_	wounded_00	vo_eny_eny_samurai_00_wounded_00	omuk		Samurai		(sound) badly wounded, lying on stretcher, moaning		0		0
+vo_eny_eny_	samurai_00_	yawn_00	vo_eny_eny_samurai_00_yawn_00	omuk		Samurai		(sound) yawn		0		0
+												
+									WORDCOUNT EN:	1200		310

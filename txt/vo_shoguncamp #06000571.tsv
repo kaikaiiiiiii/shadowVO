@@ -1,0 +1,239 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The Shogun's army makes camp on a snowy mountain pass.
+2) The team infiltrates the camp with a tied up Masaru in tow.
+3) Underway, Aiko asks Hayato because there might not be another chance.
+4) Hayato tells her that Mugen made him realize why he really joined the team.
+5) Hayato never was in it for the money, but because Mugen was a friend to him.
+6) Through flawless teamwork the team infiltrates the Shogun's tent."																								
+																																	
+BRIEFING									The team have penetrated the outer layers of the camp and now face the final stretch up the pass to where the Shogun's massive tent is located.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Myōgi Pass		妙义岭	1																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_briefing_n00				TRAPPER	amazed		Wow! So many tents! It's like a city!	8	哇！这么多帐篷！连起来就像座城市！	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_briefing_n01				NINJA	focussed		Hmm … full of soldiers with orders to shoot us on sight.	12	嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_briefing_n02				GEISHA	careful		Yes, giving ourselves up would be pointless. Best to not draw any attention.	13	是的，到时候我们就算投降也没有用。注意不要引起任何警觉。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_briefing_n03				NINJA	smug	cam to tent	The Shogun's tent is at the very top. No surprise there.	11	不出所料，将军的营帐在最顶端。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_briefing_n04				GEISHA	focussed	cam to entrances1	This entrance is heavily guarded.	5	而且入口有重兵把守。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_briefing_n05				GEISHA	focussed	cam to entrances2	We need a strategy to get inside.	7	看来得有好的战略才能进得去。	1																					
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_briefing_n06				ALCHEMIST	pondering		The guards here seem to enjoy their sake.	8	这里的守卫似乎很喜欢喝清酒。 	2																					
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_briefing_n07				ALCHEMIST	humorous		I know a recipe that will help them to sleep.	10	我知道有个配方可以让他们入睡。	1																					
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_briefing_n08				ALCHEMIST	humorous		I still have some ingredients left. All I need is a place to brew.	14	我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。	1																					
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_briefing_n09				GEISHA	focussed		I like the idea.	4	这个办法不错。	1																					
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_briefing_n10				GEISHA	focussed		I could pour your brew into the sake barrel. A disguise would help with this.	15	我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。	1																					
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_briefing_n11				GEISHA	focussed		There must be a kimono with the Shogun's entourage.	9	将军的随从那边肯定有和服。	1																					
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_briefing_n12				GEISHA	focussed		I could also look for a servant's uniform at that small temple.	12	小庙那里也有佣人的衣服。	1																					
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_briefing_n13				TRAPPER	sneaky	cam to wagon1	I see wagons! We could hide inside. 	8	我看见马车了！我们可以藏在里面。 	2																					
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_briefing_n14				TRAPPER	sneaky	cam to wagon2	Maybe they'll carry us to the Shogun. Might be fun yes?	11	也许马车就能带我们到将军那儿。好像很好玩。	1																					
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_briefing_n15				NINJA	smug	cam to wagon check	Indeed … if they don't find us.	7	的确……只要不被发现的话。	1																					
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_briefing_n16				GEISHA	summarizing		We have two options then. Either we drug the sake and put the guards to sleep, or we find a wagon that goes to the Shogun's tent.	27	也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。	1																					
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_briefing_n17				NINJA	smug		It won't be easy either way. Good thing we're up for a challenge.	13	两种办法都不简单，好在咱们向来天不怕地不怕。	1																					
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_briefing_n18				NINJA	smug		I'll carry our guest.	4	我负责背咱们的“客人”吧。	1																					
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_briefing_n19				GEISHA	leader		I agree. Let us begin.	5	好的，开始行动吧。	1																					
+																																	
+BRIEFING1a									Alternative for Briefing.		Alternative for Briefing.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+						TITLECARD			Myōgi Pass		妙义岭	1																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_briefing1a_n00				TRAPPER	amazed		Wow! So many tents! It's like a city!	8	哇！这么多帐篷！连起来就像座城市！	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_briefing1a_n01				NINJA	focussed		Mhm … full of soldiers with orders to shoot us on sight.	12	嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_briefing1a_n02				GEISHA	careful		Yes, giving ourselves up would be pointless. Best to not draw any attention.	13	是的，到时候我们就算投降也没有用。注意不要引起任何警觉。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_briefing1a_n03				NINJA	smug	cam to tent	The Shogun's tent is at the very top. No surprise there then.	12	不出所料，将军的营帐在最顶端。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_briefing1a_n04				GEISHA	focussed	cam to entrance1	This entrance is heavily guarded.	5	而且入口有重兵把守。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_briefing1a_n05				TRAPPER	sneaky	wagon 1 through entrance1	I see wagons! 	4	我看见马车了！ 	2																					
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_briefing1a_n06				TRAPPER	sneaky		We could hide inside. Let them carry us through.	9	可以藏在马车里面，让马车带我们过去。	1																					
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_briefing1a_n07				ALCHEMIST	focussed		Hehe, a clever plan, though it pays to have a second option.	12	呵呵呵，此法甚妙，但我还有一计。	1																					
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_briefing1a_n08				ALCHEMIST	pondering	cam to entrance2	The guards here seem to enjoy their sake. 	9	这里的守卫似乎很喜欢喝清酒。 	2																					
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_briefing1a_n09				ALCHEMIST	humorous		I know a recipe that will put them straight to sleep.	11	我知道有个配方可以让他们入睡。	1																					
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_briefing1a_n10				ALCHEMIST	planning	cam to brewing place 	I still have some ingredients left. All I need is a place to brew.	14	我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。	1																					
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_briefing1a_n11				GEISHA	focussed		I like the idea.	4	这个办法不错。	1																					
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_briefing1a_n12				GEISHA	focussed	cam to disguise1	I could pour your brew into the sake barrel. A disguise would help with this.	15	我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。	1																					
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_briefing1a_n13				GEISHA	focussed	cam to disguise2	There are multiple opportunities to acquire one.	7	能入手伪装的地方不止一处。	1																					
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_briefing1a_n14				NINJA	summarizing	cam back to start	So we have two options. Either we drug the sake and put the guards to sleep, or find a wagon that carries us to the Shogun's tent.	27	也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。	1																					
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_briefing1a_n15				ALCHEMIST	smug		And then we face our destiny.	6	之后就听天由命了。	1																					
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_briefing1a_n16				GEISHA	leader		It is our only hope. 	6	这是我们最后的希望。 	2																					
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_briefing1a_n17				TRAPPER	anxious		The Shogun will be angry with us …	8	将军大人一定会发火吧…	1																					
+vocs_over_over_	_n17a	vocs_over_over_shoguncamp_briefing1a_n17a				TRAPPER	excited	"ALTERNATIVE
+if team never met Shogun"	We will meet the Shogun …	6	终于要见到将军大人了么…	1																					
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_briefing1a_n18				GEISHA	leader		Hayato-san. Will you carry our present for the Shogun?	9	隼人兄，为将军准备的“礼物”能交给你来背吗？	1																					
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_briefing1a_n19				NINJA	smug	picks up Masaru	I'm ready.	2	嗯，没问题。	1																					
+vocs_over_over_	_n20	vocs_over_over_shoguncamp_briefing1a_n20				GEISHA	leader		Very well. Let us begin then.	6	很好。开始行动吧。	1																					
+																																	
+MURDER1									The team kills one of the Shogun's men.		The team kills one of the Shogun's men.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder1_n00				NINJA	discontent	Hayato first	Hrm …	2	唔……	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder1_n01				TRAPPER	uncomfortable	Yuki first	Shhh … I'm sorry … I'm so sorry …	9	嘘……对不起……对不起……	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder1_n02				ALCHEMIST	serious	Takuma first	… dark times.	3	……形势所迫。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder1_n03				GEISHA	determined		It feels wrong, killing our allies, but it cannot be changed. Noboru has forced their deaths upon us.	18	杀死友军虽然不对，但也是迫于无奈。一切都是昇害的。	1																					
+																																	
+MURDER2									The team kills more of the Shogun's men. At the 10th kill …		The team kills more of the Shogun's men. At the 10th kill …																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder2_n00				NINJA	discontent	Hayato first	Hrm … this is not right.	6	嗯……这样不好吧。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder2_n01				TRAPPER	uncomfortable	Yuki first	I'm sorry …	3	对不起……	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder2_n02				GEISHA	determined	Aiko first	Forgive me …	3	请原谅……	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder2_n03				ALCHEMIST	serious		Hmm, today's friend, tomorrow's enemy. It cannot be helped.	9	哎，今天的朋友就是明天的敌人。我们也别无选择。	1																					
+																																	
+MURDER3									The team kills even more of the Shogun's men. At the 20th kill …		The team kills even more of the Shogun's men. At the 20th kill …																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_murder3_n00				NINJA	discontent	Yuki first	Hrm … damn …	4	嗯……真该死……	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_murder3_n01				TRAPPER	uncomfortable	Aiko first	I don't like this … 	6	我讨厌这样…… 	2																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_murder3_n02				ALCHEMIST	sad	Takuma first	Forgive me, friend.	3	非常抱歉。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_murder3_n03				GEISHA	determined		We killed them for our own survival. Judgement falls to the Shogun alone.	13	我们也不过是为了自保，一切都交给将军决断吧。	1																					
+																																	
+CARGO NIN									Hayato carries the tied up Masaru around.		Hayato carries the tied up Masaru around.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargonin_n00				NINJA	slightly encumbered		Hrm … I  hope you don't snore.	8	嗯……希望他别打呼噜。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargonin_n01				NINJA	slightly encumbered		Are you getting heavier?	4	怎么变重了？	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargonin_n02				NINJA	slightly encumbered		You're heavier than you look.	5	比看起来重多了。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_cargonin_n03				NINJA	slightly encumbered		How high is this wretched mountain.	6	这该死的山到底有多高啊？	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_cargonin_n04				NINJA	slightly encumbered		Nice and easy.	3	慢慢来。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_cargonin_n05				NINJA	slightly encumbered		Up we go …	4	往上走…	1																					
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_cargonin_n06				NINJA	slightly encumbered		The old man really did put you to sleep.	9	…老爷子的安眠药也太有效了吧？	1																					
+																																	
+CARGO TRA									Yuki drags the tied up Masaru around.		Yuki drags the tied up Masaru around.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargotra_n00				TRAPPER	exchausted		Urgh ... he's heavy!	4	呜……好重……	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargotra_n01				TRAPPER	exchausted		Urgh ... Hayato-san, why can't you do it?	8	呜……隼人师父，你怎么不来背呢？	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargotra_n02				TRAPPER	exchausted		Urgh … too slow, too slow …	7	呃……好慢，太慢了……	1																					
+																																	
+CARGO GEI									Aiko drags the tied up Masaru around.		Aiko drags the tied up Masaru around.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_cargogei_n00				GEISHA	very encumbered, focussed	Hayato first	No, this is too slow.	5	不行，这样太慢了。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_cargogei_n01				GEISHA	very encumbered, focussed	Yuki first	I should leave this to Hayato-san.	6	应该交给隼人兄来搬。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_cargogei_n02				GEISHA	very encumbered, focussed	Aiko first	This won't do.	3	这样下去不行。	1																					
+																																	
+WAGONS1									The team discovers a place where a wagon is loaded before it heads up to the small temple.		The team discovers a place where a wagon is loaded before it heads up to the small temple.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagons1_n00				NINJA	focussed	Hayato first	Hmm ... is that the wagon we need?	8	这辆是我们要找的马车吗？	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_wagons1_n01				TRAPPER	sneaky	Yuki first	Yes, there's a wagon … but is it the right one?	11	看，是马车…不过，这辆对吗?	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_wagons1_n02				ALCHEMIST	in thought	Takuma first	Ah, I see a wagon, but I doubt it is the one we need.	14	啊，看到马车了。但好像不是我们需要的那辆。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_wagons1_n03				GEISHA	leader		This wagon is not heading for the Shogun's tent. It can only carry us up the mountain to that small temple.	21	这辆马车不是前往将军营帐的。只能带我们到山上小庙那里。	1																					
+																																	
+CHECKPOINT1									The wagon driver stops briefly to talk with a guard.		The wagon driver stops briefly to talk with a guard.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_checkpoint1_n00				CIVILIAN M	cheerful	as wagon driver	Any trouble ahead?	3	前面有异常吗？	1																					
+vo_hint_hint_	_n01	vo_hint_hint_checkpoint1_n01				ENEMY	bored		All's quiet.	2	风平浪静。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_checkpoint1_n02				CIVILIAN M	cheerful	as wagon driver	I'm heading for the temple.	5	我这车是去寺庙的。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_checkpoint1_n03				ENEMY	bored		Your wagon will be inspected then.	6	那就让我们检查一下。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_checkpoint1_n04				CIVILIAN M	cheerful	as wagon driver	Ah, same as always.	4	哎呀，就还是那几样货。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_checkpoint1_n05				ENEMY	bored		Go on. On your way.	5	去吧，快走。	1																					
+																																	
+CHECKPOINT2									A samurai halts the wagon driver to inspect the wagon.		A samurai halts the wagon driver to inspect the wagon.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_checkpoint2_n00				SAMURAI	dutyful		Hold up! We must inspect your cargo.	7	停车!让我们检查一下货物。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_checkpoint2_n01				CIVILIAN M	nervous	as wagon driver	Sure. Go ahead.	3	当然可以，您请便。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_checkpoint2_n02				SAMURAI	dutyful		It'll only take a moment.	5	很快的。	1																					
+																																	
+WAGON CHECK									A samurai discovers a team member in the back of the wagon.		A samurai discovers a team member in the back of the wagon.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	o	CEN	o2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagoncheck_n00				SAMURAI	alarmed		Someone's hiding in the wagon! Intruders!	6	有人藏在马车里!有刺客!	1																					
+																																	
+WAGONS2									The team discovers a small temple where the Shogunate men load wagons before they are sent directly to the Shogun's tent.		The team discovers a small temple where the Shogunate men load wagons before they are sent directly to the Shogun's tent.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_wagons2_n00				NINJA	neutral	Hayato first	Must be harsh, living up here at the temple.	9	住在这种山上的庙里，一定很辛苦。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_wagons2_n01				TRAPPER	curious	Yuki first	The temple ... it looks so peaceful.	7	是寺庙……看起来真祥和啊。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_wagons2_n02				ALCHEMIST	slightly irritated	Takuma first	This temple ... at least the Shogunate army respects the inhabitants.	11	这个寺庙……看来幕府军对庙里的人还算尊重。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_wagons2_n03				GEISHA	leader		The wagon that's loaded here is heading for the Shogun's tent. It might be our chance.	16	在这里装货的马车会前往将军的营帐。可以利用这个机会。	1																					
+																																	
+PARTY1									The team goes near the crowd of drinking soldiers.		The team goes near the crowd of drinking soldiers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_party1_n00				NINJA	tense	Hayato first	There's no chance we'll get through there.	7	这里是完全不可能通过的吧。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_party1_n01				TRAPPER	afraid	Yuki first	No, no not there! They'll see us!	7	不行！不行，不能走这边！肯定会被看到的!	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_party1_n02				GEISHA	tense	Aiko first	Even in disguise, I would not be able to pass through this crowd.	13	即使乔装，我也无法混过这群人。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_party1_n03				ALCHEMIST	sly		They cannot spot us if they are fast asleep.	9	但如果让他们睡着，就不会发现我们了。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_party1_n04				GEISHA	tense	if poison has not been brewed	Then let us find a place where you can brew the sleeping draught.	13	先找个能调制安眠药的地方吧。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_party1_n05				GEISHA	tense	if poison has been brewed	You made the sleeping draught. I will put on a disguise and add it to the sake barrel.	18	安眠药已经准备好了。让我乔装一下，把药倒进清酒桶里。	1																					
+																																	
+SOBER									Guards sit at the campfire near the Shogun's tent. They drink sake and talk.		Guards sit at the campfire near the Shogun's tent. They drink sake and talk.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_sober_n00				SAMURAI	contempt		Damn the traitors.	3	该死的叛徒。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_sober_n01				ENEMY	contempt		They deserve it, they murdered the heir to the Shogunate.	10	是啊，他们竟敢杀害将军的继承人。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_sober_n02				STATIC	contempt		I still can't believe it.	5	我还是不敢相信。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_shoguncamp_sober_n03				SAMURAI	contempt		They will not escape justice!	5	正义必将制裁他们！	1																					
+vo_hint_hint_	_n04	vo_hint_hint_shoguncamp_sober_n04				ENEMY	contempt		Wonder where they're hiding.	4	他们到底藏在哪里？	1																					
+vo_hint_hint_	_n05	vo_hint_hint_shoguncamp_sober_n05				STATIC	contempt		What is Kage-sama up to?	5	影大人在干什么？	1																					
+vo_hint_hint_	_n06	vo_hint_hint_shoguncamp_sober_n06				SAMURAI	dutyful		We must protect the Shogun!	5	必须保护好将军!	1																					
+vo_hint_hint_	_n07	vo_hint_hint_shoguncamp_sober_n07				ENEMY	anticipation		I never thought I'd ever lay eyes on the emperor.	10	从没想过我还能到京都保卫天皇。	1																					
+vo_hint_hint_	_n08	vo_hint_hint_shoguncamp_sober_n08				STATIC	weary		The road to Kyoto is so long.	7	去京都的路真是漫长。	1																					
+vo_hint_hint_	_n09	vo_hint_hint_shoguncamp_sober_n09				SAMURAI	neutral		Sake!	1	上酒！	1																					
+vo_hint_hint_	_n10	vo_hint_hint_shoguncamp_sober_n10				ENEMY	neutral		Sake!	1	上酒！	1																					
+vo_hint_hint_	_n11	vo_hint_hint_shoguncamp_sober_n11				STATIC	neutral		Sake!	1	上酒！	1																					
+																																	
+BREW									Takuma brews a very strong liquid. Aiko can slip this into sake barrels to make the crowd of drinking soldiers harmless.		Takuma brews a very strong liquid. Aiko can slip this into sake barrels to make the crowd of drinking soldiers harmless.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_brew_n00				ALCHEMIST	pleased with himself		Hehe, a potent concoction. This can put the men at the campfire to sleep.	14	呵呵呵，强效安眠药完成了。能让篝火旁的那群士兵都睡着。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_brew_n01				GEISHA	focussed		Let me carry the flask. I can put on a disguise and pour this into the sake barrel.	18	安眠药就交给我吧。我先乔装混进去，然后把药倒进酒清桶里。	1																					
+																																	
+PARTY2									Aiko pours Takuma's brew into the sake barrels.		Aiko pours Takuma's brew into the sake barrels.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_party2_n00				GEISHA	elegant		There … let us wait until the serving maids do their part.	12	好了...就等佣人给他们上酒了。	1																					
+																																	
+DRUNK									The wagon driver stops briefly to talk with a guard.		The wagon driver stops briefly to talk with a guard.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_shoguncamp_drunk_n00				SAMURAI	sleeping	*snore*		0		0																					
+vo_hint_hint_	_n01	vo_hint_hint_shoguncamp_drunk_n01				ENEMY	sleeping	*snore*		0		0																					
+vo_hint_hint_	_n02	vo_hint_hint_shoguncamp_drunk_n02				STATIC	sleeping	*snore*		0		0																					
+vo_hint_hint_	_n03	vo_hint_hint_shoguncamp_drunk_n03				SAMURAI	super drunk	*mumbling*		0		0																					
+vo_hint_hint_	_n04	vo_hint_hint_shoguncamp_drunk_n04				ENEMY	super drunk	*mumbling*		0		0																					
+vo_hint_hint_	_n05	vo_hint_hint_shoguncamp_drunk_n05				STATIC	super drunk	*mumbling*		0		0																					
+vo_hint_hint_	_n06	vo_hint_hint_shoguncamp_drunk_n06				SAMURAI	super drunk		Hmn … sake …	4	嗯…酒…	1																					
+vo_hint_hint_	_n07	vo_hint_hint_shoguncamp_drunk_n07				ENEMY	super drunk		Hmhm … kehehehe …	4	嗯…哈哈哈哈...	1																					
+vo_hint_hint_	_n08	vo_hint_hint_shoguncamp_drunk_n08				STATIC	super drunk		Hhn? Uhm … never mind …	6	嗯？啊…没什么…	1																					
+																																	
+REASONS1									Hayato carries Masaru halfway to the Shogun's tent.		Hayato carries Masaru halfway to the Shogun's tent.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_reasons1_n00				GEISHA	honest gratitude		I thank you for your trust, Hayato-san. I admit, I was unsure whether you would stay with us.	18	谢谢你的信任，隼人兄。说实话，我之前一直不敢确定你是否会参加这次行动。	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_reasons1_n01				NINJA	cool		Please, don't mention it.	4	别和我说这些。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_reasons1_n02				GEISHA	respectful		Forgive me, but I am curious. Was this ever about payment? Part of me wonders if there is not another reason.	21	抱歉，但我还是很好奇。你仅仅只是为了拿佣金吗？我总觉得还另有原因。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_reasons1_n03				NINJA	remembers		Heh … you know, Mugen asked me the same thing.	10	呵……无限也问过我这个问题。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_reasons1_n04				GEISHA	respectful		Did you have an answer for him?	7	你回答了吗？	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_reasons1_n05				NINJA	quiet		Not back then.	3	那时候，并没有回答他。	1																					
+																																	
+REASONS2									Hayato has carried Masaru to the Shogun's tent.		Hayato has carried Masaru to the Shogun's tent.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_reasons2_n00				GEISHA	last chance		We're almost at the end, Hayato-san. Will you tell me why you did all this? Why you entered Mugen's service? Why you are still with us?	26	是时候回答我了，隼人兄。你所做的一切都是为什么？为什么当初要帮助无限？为什么现在还和我们在一起？	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_reasons2_n01				NINJA	wondering		Maybe I just liked helping out a friend. And now, well … now it's personal.	15	一开始或许只是想帮朋友一把。至于现在……完全是因为我想报仇。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_reasons2_n02				GEISHA	persistent		But why fight with us now? Why not seek vengeance on your own?	13	那为什么愿同我们一起？为什么不独自去寻仇？	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_reasons2_n03				NINJA	honest	new feeling of duty	Because you were right. It's not about me. It's about what Mugen would want.	14	因为你说的对，我不是为自己复仇，而是要以无限所希望看到的方式，为他讨回公道。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_reasons2_n04				GEISHA	grateful		I thank you, Hayato-san.	4	谢谢你，隼人兄。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_reasons2_n05				NINJA	cool		Just like I said. Don't mention it.	7	我说过了，别和我说这些。	1																					
+																																	
+TENT									The team is almost at the Shogun's tent.		The team is almost at the Shogun's tent.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_tent_n00				TRAPPER	amazed		Ooh, his tent is huge!	5	哇！好大的帐篷！	1																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_tent_n01				GEISHA	elegant		This is our destination.	4	这里就是我们的目的地。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_tent_n02				ALCHEMIST	epic		The moment of truth draws near.	6	揭晓真相的时刻即将来临。	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_tent_n03				NINJA	focussed		Better make sure we have Masaru before we go in.	10	进去前最好确认下真申在不在。	1																					
+											NINJA																						
+									MISSION-WORDCOUNT EN:	1051	0	#REF!	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+											0		0	414	153	0	0	0	0	0	0	0	0	42	24	36	0	15	0	0	0	0	0
+													0	37	16	0	0	0	0	0	0	0	0	10	7	10	0	4	0	0	0	0	0
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	

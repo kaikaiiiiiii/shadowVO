@@ -1,0 +1,67 @@
+4,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The team questions Masaru. What they learn here is revealed later.
+2) The team decides to have Masaru confess to Shogun to regain his trust.
+3) Problem is the Shogun is currently traveling to Kyoto with 300.000 soldiers
+4) This is where we see how close the team has grown together."
+									
+POST									The team has questioned Masaru. Future plans are discussed.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_bathhouse_post_n00				BROGUNSON	under the influence of narcotics	falls unconcious in the end	知らない…父上は…計画を…私に話そうとはしない…。
+vocs_over_over_	_n01	vocs_over_over_bathhouse_post_n01				ALCHEMIST	apologetic		これが限界じゃ。もしこれ以上薬を増やせば、二度と起きんくなるわい。
+vocs_over_over_	_n02	vocs_over_over_bathhouse_post_n02				GEISHA	pragmatic		なら、別の方法で続けるしかないわね。
+vocs_over_over_	_n03	vocs_over_over_bathhouse_post_n03				TRAPPER	with contempt	to Masaru	痛めつけましょう。
+vocs_over_over_	_n04	vocs_over_over_bathhouse_post_n04				GEISHA	in thought		彼はこの件の解決のためのたった一つの可能性。
+vocs_over_over_	_n05	vocs_over_over_bathhouse_post_n05				ALCHEMIST	intrigued		ふーむ、何かあるのじゃな？
+vocs_over_over_	_n06	vocs_over_over_bathhouse_post_n06				GEISHA	leader		上様は私たちを信用しようとしないでしょうね。けど、自分が龍之介様を殺したと勝が自白すれば、こちらの思うようにいくかもしれないわ。
+vocs_over_over_	_n07	vocs_over_over_bathhouse_post_n07				TRAPPER	puzzled		ってことは、将軍にこの人を渡すの？土産みたいに？
+vocs_over_over_	_n08	vocs_over_over_bathhouse_post_n08				NINJA	worried		そんな簡単に結果は得られないだろう。
+vocs_over_over_	_n09	vocs_over_over_bathhouse_post_n09				ALCHEMIST	troubled		そうじゃ、雪ちゃんとワシは外にいた時に聞いてたんじゃよ。上様は最近江戸を出られたらしい。
+vocs_over_over_	_n10	vocs_over_over_bathhouse_post_n10				TRAPPER			京都の天皇の所へ参られる途中だよ。
+vocs_over_over_	_n11	vocs_over_over_bathhouse_post_n11				NINJA	isn't that good		つまり、上様は江戸城には不在か。うまくいくかもしれん。
+vocs_over_over_	_n12	vocs_over_over_bathhouse_post_n12				GEISHA	suspicious		側近はどれほどいるかしら？
+vocs_over_over_	_n13	vocs_over_over_bathhouse_post_n13				ALCHEMIST	troubled		30万じゃ。力の証じゃよ。陛下へのな。
+vocs_over_over_	_n14	vocs_over_over_bathhouse_post_n14				NINJA	that's bad		それは問題だな。
+vocs_over_over_	_n15	vocs_over_over_bathhouse_post_n15				ALCHEMIST	pragmatic		賢者は知る、負けを認めて頭を下げる時をな。
+vocs_over_over_	_n16	vocs_over_over_bathhouse_post_n16				GEISHA	determined		…違う。 
+vocs_over_over_	_n17	vocs_over_over_bathhouse_post_n17				GEISHA	determined		武源様は上様のために命をかけたわ。上様のため、真実を暴いて、上様の手に委ねましょう。
+vocs_over_over_	_n18	vocs_over_over_bathhouse_post_n18				NINJA	smug	supports Aiko in his way	…30万に対抗かぁ。武源だったら、喜びそうな話だ。
+vocs_over_over_	_n19	vocs_over_over_bathhouse_post_n19				ALCHEMIST	persistent		愛琥さん、いいじゃろうか。この件に雪ちゃんを巻き込みたくはない。
+vocs_over_over_	_n20	vocs_over_over_bathhouse_post_n20				TRAPPER	honest		…あたしは愛琥さんを信じます。
+vocs_over_over_	_n21	vocs_over_over_bathhouse_post_n21				ALCHEMIST	surprised		雪ちゃん！
+vocs_over_over_	_n22	vocs_over_over_bathhouse_post_n22				TRAPPER	pleading		巧磨先生…あたし、愛琥さんと行きたいです。
+vocs_over_over_	_n23	vocs_over_over_bathhouse_post_n23				ALCHEMIST	about to give up		子どもじゃの…。
+vocs_over_over_	_n24	vocs_over_over_bathhouse_post_n24				TRAPPER	pleading		お願い。選びたくないの。あたしに選ばせないで。
+vocs_over_over_	_n25	vocs_over_over_bathhouse_post_n25				ALCHEMIST	giving up		うーむ…そうかい、雪ちゃん。もう一度、死地へと共にしよう。
+vocs_over_over_	_n26	vocs_over_over_bathhouse_post_n26				TRAPPER	happy		はい！
+vocs_over_over_	_n27	vocs_over_over_bathhouse_post_n27				GEISHA	honest gratitude		感謝します。上様が今どこにいるかわかるかしら？
+vocs_over_over_	_n28	vocs_over_over_bathhouse_post_n28				NINJA	prepared		おそらく中山道にいるはずだ。妙義峠で追いつこう。
+vocs_over_over_	_n29	vocs_over_over_bathhouse_post_n29				GEISHA	honest gratitude		その辺り、今年は寒くなりそうね。備えて向かいましょう。
+									
+									
+									
+									
+									
+									
+									

@@ -1,0 +1,70 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The convoy belongs to the local Daimyo Yabu. He could be Kage-sama.
+2) Hayato has uncovered that Takuma is alive.
+3) Takuma is held captive by Yabu in the temple where the convoy originated.
+4) Mugen goes to meet the unknown team member there and rescue him."																										
+																																			
+POST									In their meeting place the team discusses their next moves. Hayato appears with interesting news.																										
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																							
+						TITLECARD			Safe house		安全屋	1																							
+vocs_over_over_	_n00	vocs_over_over_snowcity_post_n00				WARRIOR	pleased	has documents on a table before him	 ... I did not expect this. Most fortunate indeed.	10	 ……完全没料到这个，不过还真是幸运啊。	2																							
+vocs_over_over_	_n01	vocs_over_over_snowcity_post_n01				TRAPPER	a little bored	watched Mugen sift through papers	Huh?	1	嗯?	1																							
+vocs_over_over_	_n02	vocs_over_over_snowcity_post_n02				WARRIOR	pleased	has documents on a table before him	These documents are proof that Lord Yabu is responsible for  the weapon transports. And there is something else, a name I thought I'd never hear again.	27	薮大人就是武器运输的负责人，这些文件就是铁证。另外有个名字我还以为再也不会听到了。	1																							
+vocs_over_over_	_n02a	vocs_over_over_snowcity_post_n02a				WARRIOR	pleased	has documents on a table before him	These documents are proof that Lord Yabu is responsible for  the weapon transports. And there is something else... A name I have not heard for many years.	28	薮大人就是武器运输的负责人，这些文件就是铁证。另外有个名字我已多年没听到了。	1																							
+vocs_over_over_	_n03	vocs_over_over_snowcity_post_n03				NINJA	non-chalant	enters the room	Still at it, huh.	4	还在研究呢，哈。	1																							
+vocs_over_over_	_n04	vocs_over_over_snowcity_post_n04				TRAPPER	happy	turns to Hayato	Sensei!	1	师傅！	1																							
+vocs_over_over_	_n05	vocs_over_over_snowcity_post_n05				WARRIOR	pleased	turns to Hayato	Ah, Hayato-san. Have you decided to join us?	8	啊，隼人先生。决定加入我们了？	1																							
+vocs_over_over_	_n06	vocs_over_over_snowcity_post_n06				NINJA	smug		What can I say? The Shogun pays well.	8	将军给的报酬很高，我还能说啥。	1																							
+vocs_over_over_	_n07	vocs_over_over_snowcity_post_n07				WARRIOR	more pleased		Take a look at this.	5	呵，看看这个。	1																							
+vocs_over_over_	_n08	vocs_over_over_snowcity_post_n08				WARRIOR	planning	Hayato joins at the table	We have found evidence that Takuma-san is alive.	8	从收集的情报来看，琢磨先生还活着。	1																							
+vocs_over_over_	_n09	vocs_over_over_snowcity_post_n09				NINJA	perplexed		Takuma-san … wait, the old marksman who helped us at Osaka Castle? I thought he got killed by a cannon!	20	琢磨先生……等等，就那个枪法很神在大阪城帮咱们的老头？我还以为他早被火炮炸死了！	1																							
+vocs_over_over_	_n10	vocs_over_over_snowcity_post_n10				WARRIOR	explaining		Apparently he survived. The documents mention him as a prisoner of Lord Yabu, held captive at an old temple on Mount Tsuru.	22	显然他没死。这文件里提到他被薮大人囚禁在鹤山上的一座古庙里。	1																							
+vocs_over_over_	_n11	vocs_over_over_snowcity_post_n11				NINJA	intrigued		Huh … that's not far from Imai town.	8	嗯……那儿离今井镇不远。	1																							
+vocs_over_over_	_n11a	vocs_over_over_snowcity_post_n11a				NINJA	intrigued		Huh .... Tough old man. Wonder what they want with him there.	12	嗯……老头命很硬啊。但不知道他们把他关在那所为何事。	1																							
+vocs_over_over_	_n12	vocs_over_over_snowcity_post_n12				WARRIOR	pleased		Indeed. I suspect this temple to be the origin of the illegal weapon transports.	14	老人确实值得钦佩。而且我怀疑这座寺庙就是非法武器运输的源头所在。	1																							
+vocs_over_over_	_n12a	vocs_over_over_snowcity_post_n12a				WARRIOR	pleased		We will find out soon. This temple must be the origin of the illegal weapon transports.	16	这点很快就会弄清的。另外此庙肯定是非法武器运输的源头所在。	1																							
+vocs_over_over_	_n13	vocs_over_over_snowcity_post_n13				TRAPPER	cautious		Uhm … who's Takuma-san?	4	嗯……琢磨先生是谁啊？	1																							
+vocs_over_over_	_n14	vocs_over_over_snowcity_post_n14				WARRIOR	explaining	preparing to leave	A man we owe a great debt. I will head for Mount Tsuru at once.	15	我们欠他很大一份人情。我这就去鹤山走一遭。	1																							
+vocs_over_over_	_n15	vocs_over_over_snowcity_post_n15				NINJA	eager		What about us?	3	那我们呢？	1																							
+vocs_over_over_	_n16	vocs_over_over_snowcity_post_n16				WARRIOR	planning	still looking at his gear	A confrontation with Lord Yabu seems more and more likely. We must gather information, in case we need to act fast.	21	与薮大人交锋的可能性越来越大了。我们必须收集更多情报，做好迅速出击的准备。	1																							
+vocs_over_over_	_n17	vocs_over_over_snowcity_post_n17				NINJA	surprised	Mugen turns to Hayato	Don't you need help at the temple?	7	你去寺庙不用我搭把手吗？	1																							
+vocs_over_over_	_n18	vocs_over_over_snowcity_post_n18				WARRIOR	"explaining
+slight teasing"		Do not worry, Hayato-san. I will meet with an old associate of mine.	13	别担心，隼人先生。我去见一位老朋友。	1																							
+vocs_over_over_	_n19	vocs_over_over_snowcity_post_n19				WARRIOR	explaining	turning to leave	Besides, I promised Yuki-chan that she could learn from you.	10	此外，我答应过友希妹妹，让她拜你为师。	1																							
+vocs_over_over_	_n20	vocs_over_over_snowcity_post_n20				NINJA	disbelief	as Mugen leaves	Wait ... you did what?	5	等等，…你说啥？	1																							
+vocs_over_over_	_n21	vocs_over_over_snowcity_post_n21				WARRIOR	instructing		The two of you will scout the Lord Yabu's residence. I left some directions on the table.	17	你们二人的任务是侦察薮大人的宅邸。桌子上我留了一些情报。	1																							
+vocs_over_over_	_n22	vocs_over_over_snowcity_post_n22				WARRIOR	instructing	leaves	Find out everything you can, then wait for my return.	10	查的越细越好，然后等我回来。	1																							
+vocs_over_over_	_n23	vocs_over_over_snowcity_post_n23				TRAPPER	wondering		Who is he meeting?	4	他去见谁啊？	1																							
+vocs_over_over_	_n24	vocs_over_over_snowcity_post_n24				NINJA	briefly wondering		Hmm, I think we'll find out soon.	7	嗯，我想答案很快就会揭晓。	1																							
+vocs_over_over_	_n25	vocs_over_over_snowcity_post_n25				NINJA	focussed	walks to the table	Anyway, let's see where this Lord Yabu has his estate.	10	先不管他了，我们先看看薮大人的老窝在哪。	1																							
+vocs_over_over_	_n26	vocs_over_over_snowcity_post_n26				TRAPPER	enthusiastic		Hai, sensei!	2	是，师傅！	1																							
+vocs_over_over_	_n27	vocs_over_over_snowcity_post_n27				NINJA	here we go again	*sigh*	…	1	唉 …	2																							
+																																			
+									MISSION-WORDCOUNT EN:	321		#REF!	NINJA	TRAPPER	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+											Words		85	12	224	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+											Lines		11	5	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																																			
+																																			

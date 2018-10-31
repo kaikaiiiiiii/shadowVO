@@ -1,0 +1,265 @@
+5,2,9		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Team is split into two groups: Hayato+Mugen and Takuma+Yuki
+2) Both tackle the fortress from different sides. They talk on the way.
+3) Hayato and Mugen work together like old times. They talk about honor.
+4) Hayato sees no point in honor, but Mugen's explanation makes him think.
+5) Yuki was born in Kanazawa and lost her parents when it fell during the war.
+6) She relives these memories now, Takuma stabilizes her, sealing their bond.
+7) Once inside the castle, the team regroups and blows up the supply depot.
+8) Eventually the team confronts Okkoto. A battle ensues.
+9) Mortally wounded, Okkoto reveals new information about Kage-sama."
+									
+BRIEFING									Noboru instructs the team Commandos style
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			金沢の街
+vocs_over_over_	_n00	vocs_over_over_uprising_briefing_n00	omuk		mo	BROGUN	commanding	Cam at start	謀反者どもは金沢城で立てこもっておる。要塞へ侵入し内側から弱らせよ。 
+vocs_over_over_	_n01	vocs_over_over_uprising_briefing_n01	omuk		mo	BROGUN	commanding	Cam to 1, then 2	二手に分かれ、城を両側から攻めてもらう。
+vocs_over_over_	_n02	vocs_over_over_uprising_briefing_n02	omuk		mo	BROGUN	commanding	Cam to wall with officer	我が幕府軍は乙事へ正面から向かう。そなたらが役人を討てば、部下の進入もできるだろう。
+vocs_over_over_	_n03	vocs_over_over_uprising_briefing_n03	omuk		mo	BROGUN	commanding	Cam to depot	城内壁で道を見つけ、供給庫を破壊せよ。
+vocs_over_over_	_n04	vocs_over_over_uprising_briefing_n04	omuk		mo	BROGUN	commanding	Cam to Okkoto	それが終われば如何様にも乙事と対峙できる。
+vocs_over_over_	_n05	vocs_over_over_uprising_briefing_n05	omuk		mo	BROGUN	commanding		彼の死は反乱の終わりを意味するだろう。彼は強敵だ、覚悟してかかれ。
+vocs_over_over_	_n06	vocs_over_over_uprising_briefing_n06	omuk		mo	BROGUN	commanding	Cam to player start	そなたらの行動が、戦の契機となろう。失敗は許されぬ。
+									
+DUTY1									Hayato and Mugen start their mission.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_duty1_n00	omuk		mo	NINJA	focussed	Hayato first	この辺りは、どうも慌ただしいな。
+vocs_over_over_	_n01	vocs_over_over_uprising_duty1_n01	omuk		mo	WARRIOR	rush of battle		再び共に困難へ立ち向かうことになりましたな！
+vocs_over_over_	_n02	vocs_over_over_uprising_duty1_n02	omuk		mo	NINJA	smug		あんたと働くの、割と嫌いじゃないぜ。
+vocs_over_over_	_n03	vocs_over_over_uprising_duty1_n03	omuk		mo	WARRIOR	rush of battle		ぬはは！それは光栄な話だ！
+									
+DUTY2									Mugen and Hayato advance into enemy territory.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_duty2_n00	omuk		mo	NINJA	tense	Hayato first	っむ、近くにいるな。後ろのそこか…。
+vocs_over_over_	_n01	vocs_over_over_uprising_duty2_n01	omuk		mo	WARRIOR	rush of battle		外壁はさほど遠くない。では死に臨むとするか、ぬはは。
+vocs_over_over_	_n02	vocs_over_over_uprising_duty2_n02	omuk		mo	NINJA	honest question		武源、聞かせてくれ。なぜいつも死を求める？名誉の死はそれほどまでに大事なものなのか？
+vocs_over_over_	_n03	vocs_over_over_uprising_duty2_n03	omuk		mo	WARRIOR	simple answer		上様に仕える者として当然のこと。隼人殿も、拙者と同じでは？
+vocs_over_over_	_n04	vocs_over_over_uprising_duty2_n04	omuk		mo	NINJA	not satisfied		いや、俺はただの雇われ傭兵に過ぎん。主とは違う。
+									
+DUTY3									Mugen and Hayato reach the castle entrance.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_duty3_n00	omuk		mo	WARRIOR	honest	Mugen first	もうすぐ中に入れそうだ…。
+vocs_over_over_	_n02	vocs_over_over_uprising_duty3_n02	omuk		mo	NINJA	stubborn		やはり分からぬ。名誉に如何ほどの価値があるというのだ、そんなものが命の代わりになど…。
+vocs_over_over_	_n03	vocs_over_over_uprising_duty3_n03	omuk		mo	WARRIOR	direct		なれば問おう。貴殿はなぜこの混沌へ…拙者に着いてくる？金欲しさゆえか？
+vocs_over_over_	_n04	vocs_over_over_uprising_duty3_n04	omuk		mo	NINJA	lost for words	has never thought about it	いや…俺は…。
+vocs_over_over_	_n05	vocs_over_over_uprising_duty3_n05	omuk		mo	WARRIOR	honest		責務を持ち、責務に生きるが人の在るべき姿と言えよう。何も拙者の使命を理解せずとも構わぬ。だが己が使命はしかと心に抱かれよ。
+									
+SENSEI1									Yuki and Takuma start their mission.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_sensei1_n00	omuk		mo	TRAPPER	remembering		この場所、覚えてる！大きなお侍さんたちの家だ。
+vocs_over_over_	_n01	vocs_over_over_uprising_sensei1_n01	omuk		mo	ALCHEMIST	curious		ここに住んでおったのか、雪ちゃんよ？
+vocs_over_over_	_n02	vocs_over_over_uprising_sensei1_n02	omuk		mo	TRAPPER	remembering		うん、お母さんと。…長くはなかったけど。
+vocs_over_over_	_n03	vocs_over_over_uprising_sensei1_n03	omuk		mo	ALCHEMIST	cautious		ほぅ、なぜここを離れた？何かあったのかの？
+vocs_over_over_	_n04	vocs_over_over_uprising_sensei1_n04	omuk		mo	TRAPPER	surpressing		嫌なことがね、ずっと前に。そう…こんな感じだった。
+vocs_over_over_	_n05	vocs_over_over_uprising_sensei1_n05	omuk		mo	ALCHEMIST	forget that I asked		ああ、暗澹たる記憶じゃったか。すまぬ、忘れてくれ。城へ向かおうかの。
+									
+SENSEI2									Yuki and Takuma come closer to the castle.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_sensei2_n00	omuk		mo	ALCHEMIST	persistent		雪ちゃんや、そこを出てからはどうしてたんじゃ？
+vocs_over_over_	_n01	vocs_over_over_uprising_sensei2_n01	omuk		mo	TRAPPER	difficult	doesn't want to remember	なんで…なんで知りたいの？
+vocs_over_over_	_n02	vocs_over_over_uprising_sensei2_n02	omuk		mo	ALCHEMIST	persistent		うむ…如何にしておまえさんがものを学んでいったのか気になっての。
+vocs_over_over_	_n03	vocs_over_over_uprising_sensei2_n03	omuk		mo	TRAPPER	struggles a bit		まあ…人から学んだのもあるしそうじゃないのもある。もし教えてくれる人がいなかったら…。
+vocs_over_over_	_n04	vocs_over_over_uprising_sensei2_n04	omuk		mo	ALCHEMIST	understands her	has learned most of what he knows the same way	…なれば自らで自らを教えればよい。見て、学び、己に問い、己で解を出す。どうじゃ？
+vocs_over_over_	_n05	vocs_over_over_uprising_sensei2_n05	omuk		mo	TRAPPER	surprised		はい…。
+									
+SENSEI3									Yuki and Takuma reach the castle entrance.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_sensei3_n00	omuk		mo	ALCHEMIST	persistent		最後の質問じゃ、雪ちゃんよ。ワシはどうやって銃の音を消したと思う？
+vocs_over_over_	_n01	vocs_over_over_uprising_sensei3_n01	omuk		mo	TRAPPER	surprised		それは…えっと…そうだなぁ、うーん、えーと…。むー！そんな難しいこと、分からないよ！
+vocs_over_over_	_n02	vocs_over_over_uprising_sensei3_n02	omuk		mo	ALCHEMIST	wise		ほっほ、人生とは素晴らしい先生じゃよ、じゃが、人が指導してくれた時にしかわからぬものもいくつかある。
+vocs_over_over_	_n03	vocs_over_over_uprising_sensei3_n03	omuk		mo	TRAPPER	emotional		巧磨様…。
+vocs_over_over_	_n04	vocs_over_over_uprising_sensei3_n04	omuk		mo	ALCHEMIST	encouraging	can finally pass on his knowledge	ワシの手ほどきを受けてみるかのう、雪ちゃん？
+vocs_over_over_	_n05	vocs_over_over_uprising_sensei3_n05	omuk		mo	TRAPPER	emotional		つまり…先生ってこと？
+vocs_over_over_	_n06	vocs_over_over_uprising_sensei3_n06	omuk		mo	ALCHEMIST	very pleased		それがお主の望みならのう。
+vocs_over_over_	_n07	vocs_over_over_uprising_sensei3_n07	omuk		mo	TRAPPER	very happy	has a new sensei	本当？！はい！教えてほしいです！
+vocs_over_over_	_n08	vocs_over_over_uprising_sensei3_n08	omuk		mo	ALCHEMIST	very pleased		へへ、戦場で弟子ができるとは思わんかったの。
+									
+WARZONE									Screams of soldiers across the warzone. (random)
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_uprising_warzone_n00	omuk			ENEMY	very tense		後には引くな！
+vo_hint_hint_	_n01	vo_hint_hint_uprising_warzone_n01	omuk			ENEMY	very tense		誰も入れるな！
+vo_hint_hint_	_n02	vo_hint_hint_uprising_warzone_n02	omuk			ENEMY	very tense		将軍の者ども、死ね！
+vo_hint_hint_	_n03	vo_hint_hint_uprising_warzone_n03	omuk			STATIC	very tense		後には引くな！
+vo_hint_hint_	_n04	vo_hint_hint_uprising_warzone_n04	omuk			STATIC	very tense		乙事様のため！
+vo_hint_hint_	_n05	vo_hint_hint_uprising_warzone_n05	omuk			STATIC	very tense		押し返せ。
+vo_hint_hint_	_n06	vo_hint_hint_uprising_warzone_n06	omuk			SAMURAI	very tense		後には引くな！
+vo_hint_hint_	_n07	vo_hint_hint_uprising_warzone_n07	omuk			SAMURAI	very tense		死と栄誉だ！
+vo_hint_hint_	_n08	vo_hint_hint_uprising_warzone_n08	omuk			SAMURAI	very tense		名誉のため。
+vo_hint_hint_	_n09	vo_hint_hint_uprising_warzone_n09	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	押せ！
+vo_hint_hint_	_n10	vo_hint_hint_uprising_warzone_n10	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	撃て！
+vo_hint_hint_	_n11	vo_hint_hint_uprising_warzone_n11	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	手を弱めるな！
+vo_hint_hint_	_n12	vo_hint_hint_uprising_warzone_n12	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	将軍様のため
+vo_hint_hint_	_n13	vo_hint_hint_uprising_warzone_n13	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	昇様のため！
+vo_hint_hint_	_n14	vo_hint_hint_uprising_warzone_n14	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	反逆者に反抗だ！
+vo_hint_hint_	_n15	vo_hint_hint_uprising_warzone_n15	omuk			CIVILIAN M	very tense	"character:
+friendly soldier"	行け！
+									
+HOLD									Two officers at two fronts of the battle. A samurai delivers messages between them (silently).
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_uprising_hold_n00	omuk		mo	ENEMY	very tense	as Officer1	我らはかろうじて留めることができている。
+vo_hint_hint_	_n01	vo_hint_hint_uprising_hold_n01	omuk		mo	STATIC	very tense	as Officer2	かまわん。側面は死守するのだ！
+vo_hint_hint_	_n02	vo_hint_hint_uprising_hold_n02	omuk		mo	ENEMY	very tense	as Officer1	できることをしている。供給がほしい。
+vo_hint_hint_	_n03	vo_hint_hint_uprising_hold_n03	omuk		mo	STATIC	very tense	as Officer2	供給が欲しいだと？！運が悪い、門を開けることはできぬ。
+vo_hint_hint_	_n04	vo_hint_hint_uprising_hold_n04	omuk		mo	ENEMY	very tense	as Officer1	供給なしか？なら人員がほしい。
+vo_hint_hint_	_n05	vo_hint_hint_uprising_hold_n05	omuk		mo	STATIC	very tense	as Officer2	今度は人か？！これ以上は無理だ！
+									
+OFFICER									The team kills an officer and Noboru's soldiers can advance.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_officer_n00	omuk		mo	NINJA	smug	Hayato first	一人やったな。
+vocs_over_over_	_n01	vocs_over_over_uprising_officer_n01	omuk		mo	WARRIOR	rush of battle	Mugen first	役人を討ち取り申した！
+vocs_over_over_	_n02	vocs_over_over_uprising_officer_n02	omuk		mo	TRAPPER	brave	Yuki first	旗を１つ倒したわ。
+vocs_over_over_	_n03	vocs_over_over_uprising_officer_n03	omuk		mo	ALCHEMIST	pleased	Takuma first	ほっほ、役人を倒したぞい！
+vocs_over_over_	_n04	vocs_over_over_uprising_officer_n04	omuk		mo	BROGUN	commanding	first officer	敵の指揮は弱まっている！進撃だ！
+vocs_over_over_	_n05	vocs_over_over_uprising_officer_n05	omuk		mo	BROGUN	commanding	second officer	別の役人が倒された。突破するぞ！
+vocs_over_over_	_n06	vocs_over_over_uprising_officer_n06	omuk		mo	BROGUN	commanding	third officer	さらに進撃だ！進め、将軍のため！
+									
+REGROUP									Everyone has entered the castle.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_regroup_n00	omuk			WARRIOR	rush of battle		後ろにおられるか？
+vocs_over_over_	_n01	vocs_over_over_uprising_regroup_n01	omuk			NINJA	cool		あぁ、ここだ。
+vocs_over_over_	_n02	vocs_over_over_uprising_regroup_n02	omuk			ALCHEMIST	glad he made it		ここじゃよ、雪ちゃんもじゃ。
+vocs_over_over_	_n03	vocs_over_over_uprising_regroup_n03	omuk			WARRIOR	rush of battle		よし！急ぎ供給庫を破壊致そう！
+									
+PRIORITIES									The team gets close to General Okkoto's tent before they blow up the barracks.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_priorities_n00	omuk			NINJA	focussed	Hayato first	乙事の天幕か？
+vocs_over_over_	_n01	vocs_over_over_uprising_priorities_n01	omuk			TRAPPER	brave	Yuki first	奴は近いよ。
+vocs_over_over_	_n02	vocs_over_over_uprising_priorities_n02	omuk			ALCHEMIST	pondering	Takuma first	運命的対峙の瞬間じゃのぅ。
+vocs_over_over_	_n03	vocs_over_over_uprising_priorities_n03	omuk			WARRIOR	rush of battle		乙事と戦う前に倉庫を破壊致そう！
+									
+PRISONERS									The team frees some captured Shogunate troops
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_prisoners_n00	omuk			CIVILIAN M	surprised	"character:
+friendly soldier"	乙事の兵ではないのですね。
+vocs_over_over_	_n01	vocs_over_over_uprising_prisoners_n01	omuk			WARRIOR	stay calm		戸の鍵を開けておいた。しかし、昇様が城を強襲し終わるまではここにおられよ。
+vocs_over_over_	_n02	vocs_over_over_uprising_prisoners_n02	omuk			CIVILIAN M	focussed	"character:
+friendly soldier"	わかりました！乙事と戦う時はお気をつけください。奴を倒すには真の侍の力が必要です
+vocs_over_over_	_n02a	vocs_over_over_uprising_prisoners_n02a	omuk			CIVILIAN M	focussed	"character:
+friendly soldier"	わかりました！礼を言います！
+									
+EXPLOSIVES1									Mugen picks up the barrel of gunpowder.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_explosives1_n00	omuk			WARRIOR	exhausted	picks up the barrel	…。
+vocs_over_over_	_n01	vocs_over_over_uprising_explosives1_n01	omuk			ALCHEMIST	teasing		ほっほ、年をとったかね、武源殿よ？
+vocs_over_over_	_n02	vocs_over_over_uprising_explosives1_n02	omuk			WARRIOR	teasing back	encumbered	ぬはは！おのこにとって年を重ねるは誇り！貴殿が何よりの証！
+vocs_over_over_	_n03	vocs_over_over_uprising_explosives1_n03	omuk			ALCHEMIST	amused		ほっほ、賢い言葉じゃ、うむ！賢いぞ武源殿よ！ほっほっほ。
+									
+EXPLOSIVES2									Mugen places the gunpowder near the supply depot.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_explosives2_n00	omuk			WARRIOR	relieved	places the barrel	終わりだ！
+vocs_over_over_	_n01	vocs_over_over_uprising_explosives2_n01	omuk			ALCHEMIST	memories		昔を思い出させるのぅ。みな、離れておれ！
+									
+EXPLOSIVES3									Takuma has blown up the gunpowder in the wrong spot.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_explosives3_n00	omuk			ALCHEMIST	very displeased		うーむ、重大な計算違いじゃのぅ。倉庫を破壊する手段を失ってしもうた。
+									
+EXPLOSIVES4									Takuma blows up the depot with the barrel of gunpowder.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_explosives4_n00	omuk			WARRIOR	rush of battle		反乱軍は軍備を失った！今こそ好機！乙事との戦いの覚悟を決めようぞ！
+									
+INVESTIGATE									Rebel soldiers react to the depot explosion.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_uprising_investigate_n00	omuk			ENEMY	shocked		ああ！
+vo_hint_hint_	_n01	vo_hint_hint_uprising_investigate_n01	omuk			SAMURAI	shocked		何？！
+vo_hint_hint_	_n02	vo_hint_hint_uprising_investigate_n02	omuk			STATIC	shocked		ああ！
+vo_hint_hint_	_n03	vo_hint_hint_uprising_investigate_n03	omuk			ENEMY	shocked		どうしてこんなことが？？
+vo_hint_hint_	_n04	vo_hint_hint_uprising_investigate_n04	omuk			STATIC	shocked		奴ら倉庫を！
+vo_hint_hint_	_n05	vo_hint_hint_uprising_investigate_n05	omuk			ENEMY	tense		皆！やった奴を突き止めろ！
+vo_hint_hint_	_n06	vo_hint_hint_uprising_investigate_n06	omuk			SAMURAI	commanding	to peasants	水だ！火の広がりを抑えろ！
+									
+EXPLOSIVES5									Mugen picks up a small gunpowder barrel that won't be enough to blow up the barracks.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_explosives5_n00	omuk			WARRIOR	dismissive		これでは小さすぎて倉庫を破壊できぬ。大きな樽を探さねば。
+									
+BOSS SPAWN									Takuma climbs to his sniper spot as Okkoto emerges from his tent.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_bossspawn_n00	omuk			GENERAL	evil	comes out of tent	幕府の刺客どもめ。奴らの匂いがまだ残っておる。軍備を破壊し、次は私に歯向かうか。
+vocs_over_over_	_n01	vocs_over_over_uprising_bossspawn_n01	omuk			GENERAL	evil	guards come out of tent	部隊を取れ！カゲサマからの増援がくるまで耐えるのだ。虫けらどもに真の侍の怒りを見せてくれよう！
+vocs_over_over_	_n02	vocs_over_over_uprising_bossspawn_n02	omuk			WARRIOR	rush of battle		皆、位置につかれよ！
+vocs_over_over_	_n03	vocs_over_over_uprising_bossspawn_n03	omuk			WARRIOR	rush of battle		巧磨殿、貴殿は高地へ！
+vocs_over_over_	_n04	vocs_over_over_uprising_bossspawn_n04	omuk			ALCHEMIST	eager	moves towards higher ground	向かっとるぞーい、ほっほ。
+vocs_over_over_	_n05	vocs_over_over_uprising_bossspawn_n05	omuk			WARRIOR	rush of battle		隼人殿、雪殿！
+vocs_over_over_	_n06	vocs_over_over_uprising_bossspawn_n06	omuk			NINJA	focussed		行くか。
+vocs_over_over_	_n07	vocs_over_over_uprising_bossspawn_n07	omuk			TRAPPER	eager		はい！
+vocs_over_over_	_n08	vocs_over_over_uprising_bossspawn_n08	omuk			WARRIOR	rush of battle		反乱をこれにて終焉へと導く！
+									
+ORDER									Okkoto orders his men to stay vigilant.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_uprising_order_n00	omuk			GENERAL	full of hate		カゲサマがくる！それまで優勢を保て。
+vo_hint_hint_	_n01	vo_hint_hint_uprising_order_n01	omuk			GENERAL	full of hate		屑の進入を許すな。
+vo_hint_hint_	_n02	vo_hint_hint_uprising_order_n02	omuk			GENERAL	full of hate		油断するな！増援はすぐに届く。
+vo_hint_hint_	_n03	vo_hint_hint_uprising_order_n03	omuk			GENERAL	full of hate		皆の者！集中しろ、その辺にいるんだぞ。
+vo_hint_hint_	_n04	vo_hint_hint_uprising_order_n04	omuk			GENERAL	full of hate		見つけたら撃て、ためらうな。
+									
+INSULT									Okkoto insults the team as they hide from him.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_uprising_insult_n00	omuk			GENERAL	full of hate		汚らしい忍め！
+vo_hint_hint_	_n01	vo_hint_hint_uprising_insult_n01	omuk			GENERAL	full of hate		蛇のように隠れおって。
+vo_hint_hint_	_n02	vo_hint_hint_uprising_insult_n02	omuk			GENERAL	full of hate		相手にならんぞ、屑め。
+vo_hint_hint_	_n03	vo_hint_hint_uprising_insult_n03	omuk			GENERAL	full of hate		馬鹿め！貴様らの頭をカゲサマへ差し上げよう。
+vo_hint_hint_	_n04	vo_hint_hint_uprising_insult_n04	omuk			GENERAL	full of hate		臆病者はそのまま腐ってしまえ。
+									
+DEBRIEFING									Okkoto has been mortally wounded. Mugen wants to question him before he dies.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_uprising_debriefing_n00	omuk			GENERAL	"stubborn
+hopeful"	mortally wounded	屑めに私を討ち取れるはずがない。ぬう…なぜカゲサマは来ない…。
+vocs_over_over_	_n01	vocs_over_over_uprising_debriefing_n01	omuk			WARRIOR	direct		まだ分からぬか？誰も来はせぬ！カゲサマはお主を見捨てたのだ。
+vocs_over_over_	_n02	vocs_over_over_uprising_debriefing_n02	omuk			GENERAL	broken	mortally wounded	そ…そんな馬鹿な…カゲサマ！っく、奴に名誉はないのか？裏切り者の臆病者め！
+vocs_over_over_	_n03	vocs_over_over_uprising_debriefing_n03	omuk			WARRIOR	honest		拙者は大代武源！拙者と貴殿、どちらも名誉ある武士！誰がカゲサマか教えよ、さすれば侍としての誇りある死を与えん！
+vocs_over_over_	_n04	vocs_over_over_uprising_debriefing_n04	omuk			GENERAL	full of contempt	mortally wounded	っふ…ありがたい話だが、その申し出は受けられぬ。その男の顔は見たことがなくてな。
+vocs_over_over_	_n05	vocs_over_over_uprising_debriefing_n05	omuk			WARRIOR	persistend	approaches Okkoto	ならば、知っていることを教えよ。
+vocs_over_over_	_n08	vocs_over_over_uprising_debriefing_n08	omuk			GENERAL	bitter	mortally wounded	くそっ…3つの同盟があった。藪大名、カゲサマ、そして自分だ。江戸を制圧するための力を集めていた…だが、刺客が藪を殺した…。
+vocs_over_over_	_n10	vocs_over_over_uprising_debriefing_n10	omuk			WARRIOR	questioning		その同盟の目的を聞かせよ。なぜ平和を脅かす。
+vocs_over_over_	_n11	vocs_over_over_uprising_debriefing_n11	omuk			GENERAL	bitter	mortally wounded	平和な世において侍など…無価値だ。我ら侍は戦いこそが全て、戦いの中にこそ生がある。なれば平和など…。カゲサマはそれを知っていた、だから我らはついていくことにしたのだ。
+vocs_over_over_	_n12	vocs_over_over_uprising_debriefing_n12	omuk			WARRIOR	direct		しかし、最後は裏切りか。カゲサマに名誉などありはせぬ、正義のもとに鉄槌をくだそう！
+vocs_over_over_	_n13	vocs_over_over_uprising_debriefing_n13	omuk			GENERAL	full of hatred	hates Mugen, hates Kage-sama, hates that he must break his vows	そうか。最後に会ったのは潜伏の野営地。天幕の中に地図がある、そこで奴を見つけられるかもしれぬ。次は我らの名誉だ。
+vocs_over_over_	_n14	vocs_over_over_uprising_debriefing_n14	omuk			WARRIOR	dutyful		成すべき事を成す。これを取られよ…。
+vocs_over_over_	_n15	vocs_over_over_uprising_debriefing_n15	omuk			WARRIOR		gives Okkoto his short blade then goes into position	拙者が介錯致す。皆が証人となろう！
+vocs_over_over_	_n16	vocs_over_over_uprising_debriefing_n16	omuk			GENERAL	speaks his death poem		阿修羅王に…われ劣らめや、やがてまた生まれて取らん…大代が首。
+vocs_over_over_	_n16a	vocs_over_over_uprising_debriefing_n16a	omuk			GENERAL	speaks his death poem	ALTERNATIVE	阿修羅王に…われ劣らめや、やがてまた生まれて取らん…カゲサマが首。
+vocs_over_over_	_n17	vocs_over_over_uprising_debriefing_n17	omuk			GENERAL	dying	plunges the sword in his belly	…。
+vocs_over_over_	_n18	vocs_over_over_uprising_debriefing_n18	omuk			WARRIOR	killing	waits, then readies his sword, then decapitates Okkoto	…。
+vocs_over_over_	_n19	vocs_over_over_uprising_debriefing_n19	omuk			NINJA	focussed	after a brief silence, Mugen walks away from Okkoto	どうしてカゲサマは裏切ったんだ？
+vocs_over_over_	_n20	vocs_over_over_uprising_debriefing_n20	omuk			WARRIOR	"excited
+dutiful"		難しいな。もし乙事の話が本当であらば、カゲサマは手の内にある。
+vocs_over_over_	_n21	vocs_over_over_uprising_debriefing_n21	omuk			ALCHEMIST			うむ、なら注意して行かんとのぅ。
+vocs_over_over_	_n22	vocs_over_over_uprising_debriefing_n22	omuk			TRAPPER	thinking		愛琥さんはどうしているかな。
+vocs_over_over_	_n23	vocs_over_over_uprising_debriefing_n23	omuk			WARRIOR			愛琥殿と昇様に再会し、江戸へ戻ろう。上様が次の手を考えてくださるであろう。
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

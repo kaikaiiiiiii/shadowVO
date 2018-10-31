@@ -1,0 +1,376 @@
+PREFIX	CHAR	ACTION	SUFFIX	NAME	Variation	Loop	Gameplay	REC.	IMPL.	used for	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE	EN - Proofread	Changed?	Simplified Chinese	
+vo_ply_ply_	nin_	char_select_	normal_00	vo_ply_ply_nin_char_select_normal_00	Iconic	No	Yes	omuk	philipp	sel character	Ninja	stealthy		Time to move.	3		0	Time to move.		该走了	
+vo_ply_ply_	nin_	char_select_	normal_01	vo_ply_ply_nin_char_select_normal_01				omuk	philipp	sel character	Ninja	stealthy		Let's get to work.	4		0	Let's get to work.		干活了	
+vo_ply_ply_	nin_	char_select_	normal_02	vo_ply_ply_nin_char_select_normal_02				omuk	philipp	sel character	Ninja	stealthy		Teh, I'm waiting.	3		0	I'm waiting.	YES	等候指示	
+vo_ply_ply_	nin_	char_select_	normal_03	vo_ply_ply_nin_char_select_normal_03				omuk	philipp	sel character	Ninja	stealthy		No use waiting.	3		0	No use waiting.		干等也没有用	
+vo_ply_ply_	nin_	char_select_	normal_04	vo_ply_ply_nin_char_select_normal_04				omuk	philipp	sel character	Ninja	stealthy		Calm. Focus.	2		0	Calm. Focus.		冷静，专注	
+vo_ply_ply_	nin_	char_select_	normal_05	vo_ply_ply_nin_char_select_normal_05				omuk	philipp	sel character	Ninja	stealthy		Skill over numbers.	3		0	Skill over numbers.		技术大于数量	
+vo_ply_ply_	nin_	char_select_	normal_06	vo_ply_ply_nin_char_select_normal_06				omuk	philipp	sel character	Ninja	stealthy		Let's get going.	3		0	Let's get going.		行动吧	
+vo_ply_ply_	nin_	char_select_	normal_07	vo_ply_ply_nin_char_select_normal_07				omuk	philipp	sel character	Ninja	stealthy		I'm ready.	2		0	I'm ready.		准备就绪	
+vo_ply_ply_	nin_	char_select_	normal_08	vo_ply_ply_nin_char_select_normal_08				omuk	philipp	sel character	Ninja	stealthy		Always ready.	2		0	Always ready.		时刻准备着	
+vo_ply_ply_	nin_	char_select_	normal_09	vo_ply_ply_nin_char_select_normal_09				omuk	philipp	sel character	Ninja	stealthy		My blade is sharp.	4		0	My blade is sharp.		利刃出鞘	
+vo_ply_ply_	nin_	char_select_	normal_10	vo_ply_ply_nin_char_select_normal_10				omuk	philipp	sel character	Ninja	stealthy		Seishin Teki Kyoyo	3		0	Seishin Teki Kyoyo.	YES	修养心性	
+vo_ply_ply_	nin_	char_select_	tense_00	vo_ply_ply_nin_char_select_tense_00				omuk	philipp	sel character	Ninja	tense		Time to move!	3		0	Time to move!		该走了！	
+vo_ply_ply_	nin_	char_select_	tense_01	vo_ply_ply_nin_char_select_tense_01				omuk	philipp	sel character	Ninja	tense		No time to waste.	4		0	No time to waste.		没时间可以浪费	
+vo_ply_ply_	nin_	char_select_	tense_02	vo_ply_ply_nin_char_select_tense_02				omuk	philipp	sel character	Ninja	tense		Careful now.	2		0	Careful now.		小心	
+vo_ply_ply_	nin_	char_select_	tense_03	vo_ply_ply_nin_char_select_tense_03				omuk	philipp	sel character	Ninja	tense		It's not safe here.	4		0	It's not safe here.		这里不安全	
+vo_ply_ply_	nin_	char_select_	tense_04	vo_ply_ply_nin_char_select_tense_04				omuk	philipp	sel character	Ninja	tense		Enemies everywhere.	2		0	Enemies everywhere.		到处都是敌人	
+vo_ply_ply_	nin_	char_select_	tense_05	vo_ply_ply_nin_char_select_tense_05				omuk	philipp	sel character	Ninja	tense		Guards everywhere.	2		0	Guards everywhere.		到处都是守卫	
+vo_ply_ply_	nin_	char_select_	tense_06	vo_ply_ply_nin_char_select_tense_06				omuk	philipp	sel character	Ninja	tense		Shouldn't wait here.	3		0	Shouldn't wait here.		此地不宜久留	
+vo_ply_ply_	nin_	char_select_	tense_07	vo_ply_ply_nin_char_select_tense_07				omuk	philipp	sel character	Ninja	tense		No use waiting.	3		0	No use waiting.		干等没有用	
+vo_ply_ply_	nin_	char_select_	tense_08	vo_ply_ply_nin_char_select_tense_08				omuk	philipp	sel character	Ninja	tense		Come on.	2		0	Come on.		快行动	
+vo_ply_ply_	nin_	char_select_	tense_09	vo_ply_ply_nin_char_select_tense_09				omuk	philipp	sel character	Ninja	tense		Why are we waiting?	4		0	Why are we waiting?		还在等什么？	
+vo_ply_ply_	nin_	char_select_	tense_10	vo_ply_ply_nin_char_select_tense_10				omuk	philipp	sel character	Ninja	tense		We're wasting time …	4		0	We're wasting time…	YES	这是浪费时间	
+vo_ply_ply_	nin_	char_select_	tense_11	vo_ply_ply_nin_char_select_tense_11				omuk	philipp	sel character	Ninja	tense		Close call …	3		0	Close call…	YES	刚才好险	
+vo_ply_ply_	nin_	char_select_	dark_00	vo_ply_ply_nin_char_select_dark_00				omuk	philipp	sel character	Ninja	quiet anger		Hrm?	1		0	Argh…	YES	嗯…	
+vo_ply_ply_	nin_	char_select_	dark_01	vo_ply_ply_nin_char_select_dark_01				omuk	philipp	sel character	Ninja	quiet anger		Yeah?	1		0	Yeah?		怎么？	
+vo_ply_ply_	nin_	char_select_	dark_02	vo_ply_ply_nin_char_select_dark_02				omuk	philipp	sel character	Ninja	quiet anger		Uhuh?	1		0	Ungh…	YES	喝…	
+vo_ply_ply_	nin_	char_select_	dark_03	vo_ply_ply_nin_char_select_dark_03				omuk	philipp	sel character	Ninja	quiet anger		I'll get him for this.	5		0	I'll get him for this.		还治其人之身	
+vo_ply_ply_	nin_	char_select_	dark_04	vo_ply_ply_nin_char_select_dark_04				omuk	philipp	sel character	Ninja	quiet anger		I know how this ends.	5		0	I know how this ends.		结局只有一种	
+vo_ply_ply_	nin_	char_select_	dark_05	vo_ply_ply_nin_char_select_dark_05				omuk	philipp	sel character	Ninja	quiet anger		They'll pay.	2		0	They'll pay.		血债血偿	
+vo_ply_ply_	nin_	char_select_	dark_06	vo_ply_ply_nin_char_select_dark_06				omuk	philipp	sel character	Ninja	quiet anger		Yes.	1		0	Yes?	YES	啊？	
+vo_ply_ply_	nin_	char_select_	dark_07	vo_ply_ply_nin_char_select_dark_07				omuk	philipp	sel character	Ninja	quiet anger		It's the only way.	4		0	It's the only way.		别无他法	
+vo_ply_ply_	nin_	char_select_	dark_08	vo_ply_ply_nin_char_select_dark_08				omuk	philipp	sel character	Ninja	quiet anger		What?	1		0	What?		什么？	
+vo_ply_ply_	nin_	char_select_	dark_09	vo_ply_ply_nin_char_select_dark_09				omuk	philipp	sel character	Ninja	quiet anger		Come on …	3		0	Come on…	YES	来吧…	
+vo_ply_ply_	nin_	char_select_	cold_00	vo_ply_ply_nin_char_select_cold_00				omuk	philipp	sel character	Ninja	cold		Hrm, freezing.	2		0	Ugh, freezing…	YES	呃，好冷…	
+vo_ply_ply_	nin_	char_select_	cold_01	vo_ply_ply_nin_char_select_cold_01				omuk	philipp	sel character	Ninja	cold		Damn snow …	3		0	Damn snow…	YES	该死的雪	
+vo_ply_ply_	nin_	char_select_	cold_02	vo_ply_ply_nin_char_select_cold_02				omuk	philipp	sel character	Ninja	cold		Ignore the cold.	3		0	Ignore the cold.		不要在意寒冷	
+vo_ply_ply_	nin_	char_select_	cold_03	vo_ply_ply_nin_char_select_cold_03				omuk	philipp	sel character	Ninja	cold		Concentrate.	1		0	Concentrate.		集中注意力	
+vo_ply_ply_	nin_	char_select_	cold_04	vo_ply_ply_nin_char_select_cold_04				omuk	philipp	sel character	Ninja	cold		I'd kill for hot sake.	5		0	I'd kill for hot sake.		有杯热酒就好了	
+vo_ply_ply_	nin_	char_select_	cold_05	vo_ply_ply_nin_char_select_cold_05				omuk	philipp	sel character	Ninja	cold	rare	Toes are getting numb.	4		0	Toes are getting numb.		脚趾发麻了	
+vo_ply_ply_	nin_	char_select_	night_00	vo_ply_ply_nin_char_select_night_00				omuk	philipp	sel character	Ninja	stealthy		I work best at night.	5		0	Heh. I work best at night.	YES	晚上最适合工作	
+vo_ply_ply_	nin_	char_select_	night_01	vo_ply_ply_nin_char_select_night_01				omuk	philipp	sel character	Ninja	stealthy		This is how like it.	5		0	This is how I like it.	YES	就是这种感觉	
+vo_ply_ply_	nin_	char_select_	night_02	vo_ply_ply_nin_char_select_night_02				omuk	philipp	sel character	Ninja	stealthy		Now you see me ...	5		0	Now you see me…	YES	看得到我么…	
+vo_ply_ply_	nin_	char_select_	night_03	vo_ply_ply_nin_char_select_night_03				omuk	philipp	sel character	Ninja	stealthy		Low visibility. Perfect.	3		0	Low visibility. Perfect.		能见度很差，完美	
+vo_ply_ply_	nin_	char_select_	night_04	vo_ply_ply_nin_char_select_night_04				omuk	philipp	sel character	Ninja	stealthy		One with the shadows.	4		0	One with the shadows.		与黑暗融为一体	
+vo_ply_ply_	nin_	char_select_	night_05	vo_ply_ply_nin_char_select_night_05				omuk	philipp	sel character	Ninja	stealthy		Light's our enemy.	3		0	Light's our enemy.		光明是忍者的敌人	
+vo_ply_ply_	nin_	char_select_	night_06	vo_ply_ply_nin_char_select_night_06				omuk	philipp	sel character	Ninja	stealthy		Don't get too cocky.	4		0	Don't get too cocky.		不可轻敌	
+vo_ply_ply_	nin_	char_select_	war_00	vo_ply_ply_nin_char_select_war_00				omuk	philipp	sel character	Ninja	tense		We're in it now.	4		0	We're in it now.		身处战场之中	
+vo_ply_ply_	nin_	char_select_	war_01	vo_ply_ply_nin_char_select_war_01				omuk	philipp	sel character	Ninja	smug		Busy place.	2		0	Busy place.		真是热闹	
+vo_ply_ply_	nin_	char_select_	war_02	vo_ply_ply_nin_char_select_war_02				omuk	philipp	sel character	Ninja	smug		You keep shooting …	4		0	You keep shooting.	YES	你们射你们的	
+vo_ply_ply_	nin_	char_select_	war_03	vo_ply_ply_nin_char_select_war_03				omuk	philipp	sel character	Ninja	smug		Teh … war never changes.	5		0	Hah! War never changes.	YES	哈！战争从未改变	
+vo_ply_ply_	nin_	char_select_	war_04	vo_ply_ply_nin_char_select_war_04				omuk	philipp	sel character	Ninja	tense		Right in the thick of it.	6		0	Right in the thick of it.		打得正激烈	
+vo_ply_ply_	nin_	char_select_	war_05	vo_ply_ply_nin_char_select_war_05				omuk	philipp	sel character	Ninja	smug		Let them fight.	3		0	Let them fight.		让他们打去吧	
+vo_ply_ply_	nin_	char_select_	war_06	vo_ply_ply_nin_char_select_war_06				omuk	philipp	sel character	Ninja	tense	rare	Behind enemy lines again.	4		0	Heh. Behind enemy lines again.	YES	呵！又深入敌营了。	
+vo_ply_ply_	nin_	char_select_	team_00	vo_ply_ply_nin_char_select_team_00				omuk	philipp	sel character	Ninja	encouraging		We're doing great.	3		0	We're doing great.		干得不错	
+vo_ply_ply_	nin_	char_select_	team_01	vo_ply_ply_nin_char_select_team_01				omuk	philipp	sel character	Ninja	encouraging		Everyone OK?	2		0	Everyone okay?	YES	大家还好吧？	
+vo_ply_ply_	nin_	char_select_	team_02	vo_ply_ply_nin_char_select_team_02				omuk	philipp	sel character	Ninja	encouraging		Let's all do our job.	5		0	Let's all do our job.		做好手头任务	
+vo_ply_ply_	nin_	char_select_	team_03	vo_ply_ply_nin_char_select_team_03				omuk	philipp	sel character	Ninja	encouraging		We all have our mission.	5		0	We all have our mission.		还有任务要做	
+vo_ply_ply_	nin_	char_select_	team_04	vo_ply_ply_nin_char_select_team_04				omuk	philipp	sel character	Ninja	encouraging		Anyone in trouble?	3		0	Anyone in trouble?		都还好吧？	
+vo_ply_ply_	nin_	char_select_	team_05	vo_ply_ply_nin_char_select_team_05				omuk	philipp	sel character	Ninja	encouraging		Don't let them see you.	5		0	Don't let them see you.		别让他们看见	
+vo_ply_ply_	nin_	char_select_	team_06	vo_ply_ply_nin_char_select_team_06				omuk	philipp	sel character	Ninja	encouraging		Let's finish this together.	4		0	Let's finish this together.		一起完成任务吧	
+vo_ply_ply_	nin_	char_select_	team_07	vo_ply_ply_nin_char_select_team_07				omuk	philipp	sel character	Ninja	smug	in final mission, rare	Hope you see this, Mugen.	5		0	Hope you see this, Mugen.		无限，希望你能看到	
+vo_ply_ply_	nin_	char_select_	team_08	vo_ply_ply_nin_char_select_team_08				omuk	philipp	sel character	Ninja	smug	in final mission, rare	You see, Mugen? This is all you.	7		0	You see, Mugen? This is all for you.	YES	看到了吗，无限？都是为你而做的	
+vo_ply_ply_	nin_	confirm_	normal_00	vo_ply_ply_nin_confirm_normal_00				omuk	philipp	com valid	Ninja	stealthy		I'm going in.	3		0	I'm going in.		冲进去	
+vo_ply_ply_	nin_	confirm_	normal_01	vo_ply_ply_nin_confirm_normal_01				omuk	philipp	com valid	Ninja	stealthy		Leave it to me.	4		0	Leave it to me.		交给我吧	
+vo_ply_ply_	nin_	confirm_	normal_02	vo_ply_ply_nin_confirm_normal_02				omuk	philipp	com valid	Ninja	stealthy		They won't see me coming.	5		0	They won't see me coming.		他们看不到我	
+vo_ply_ply_	nin_	confirm_	normal_03	vo_ply_ply_nin_confirm_normal_03				omuk	philipp	com valid	Ninja	stealthy		Nuki Ashi.	2		0	Nuki Ashi.		落地无声	
+vo_ply_ply_	nin_	confirm_	normal_04	vo_ply_ply_nin_confirm_normal_04				omuk	philipp	com valid	Ninja	stealthy		Quiet.	1		0	Quiet.		安静	
+vo_ply_ply_	nin_	confirm_	normal_05	vo_ply_ply_nin_confirm_normal_05				omuk	philipp	com valid	Ninja	stealthy		No noise.	2		0	No noise.		不要发出声音	
+vo_ply_ply_	nin_	confirm_	normal_06	vo_ply_ply_nin_confirm_normal_06				omuk	philipp	com valid	Ninja	stealthy		Move like water.	3		0	Move like water.		行如流水	
+vo_ply_ply_	nin_	confirm_	normal_07	vo_ply_ply_nin_confirm_normal_07				omuk	philipp	com valid	Ninja	stealthy		Stay unseen.	2		0	Stay unseen.		保持隐蔽	
+vo_ply_ply_	nin_	confirm_	normal_08	vo_ply_ply_nin_confirm_normal_08				omuk	philipp	com valid	Ninja	stealthy		Careful now.	2		0	Careful now.		小心行事	
+vo_ply_ply_	nin_	confirm_	normal_09	vo_ply_ply_nin_confirm_normal_09				omuk	philipp	com valid	Ninja	stealthy		No problem.	2		0	No problem.		没问题	
+vo_ply_ply_	nin_	confirm_	normal_10	vo_ply_ply_nin_confirm_normal_10				omuk	philipp	com valid	Ninja	stealthy		Teh, too easy.	3		0	Haha! Too easy.	YES	小菜一碟	
+vo_ply_ply_	nin_	confirm_	normal_11	vo_ply_ply_nin_confirm_normal_11				omuk	philipp	com valid	Ninja	stealthy		Done.	1		0	Done.		完事儿	
+vo_ply_ply_	nin_	confirm_	normal_12	vo_ply_ply_nin_confirm_normal_12				omuk	philipp	com valid	Ninja	stealthy		Good plan.	2		0	Good plan.		好主意	
+vo_ply_ply_	nin_	confirm_	normal_13	vo_ply_ply_nin_confirm_normal_13				omuk	philipp	com valid	Ninja	stealthy		Taken care of.	3		0	Taken care of.		包在我身上	
+vo_ply_ply_	nin_	confirm_	normal_14	vo_ply_ply_nin_confirm_normal_14				omuk	philipp	com valid	Ninja	stealthy		Let's do it.	3		0	Let's do it.		立刻行动	
+vo_ply_ply_	nin_	confirm_	normal_15	vo_ply_ply_nin_confirm_normal_15				omuk	philipp	com valid	Ninja	stealthy		Looks doable.	2		0	Looks doable.		应该可行	
+vo_ply_ply_	nin_	confirm_	normal_16	vo_ply_ply_nin_confirm_normal_16				omuk	philipp	com valid	Ninja	stealthy		Might work.	2		0	Might work.		或许可	
+vo_ply_ply_	nin_	confirm_	normal_17	vo_ply_ply_nin_confirm_normal_17				omuk	philipp	com valid	Ninja	stealthy		Worth a try.	3		0	Worth a try.		值得一试	
+vo_ply_ply_	nin_	confirm_	tense_00	vo_ply_ply_nin_confirm_tense_00				omuk	philipp	com valid	Ninja	tense		Quick now!	2		0	Quick now!		快点！	
+vo_ply_ply_	nin_	confirm_	tense_01	vo_ply_ply_nin_confirm_tense_01				omuk	philipp	com valid	Ninja	tense		Got to be fast.	4		0	Got to be fast.		得快一点	
+vo_ply_ply_	nin_	confirm_	tense_02	vo_ply_ply_nin_confirm_tense_02				omuk	philipp	com valid	Ninja	tense		It'll be close.	3		0	It'll be close.		会有风险	
+vo_ply_ply_	nin_	confirm_	tense_03	vo_ply_ply_nin_confirm_tense_03				omuk	philipp	com valid	Ninja	tense		Close one.	2		0	Close one.		好险	
+vo_ply_ply_	nin_	confirm_	tense_04	vo_ply_ply_nin_confirm_tense_04				omuk	philipp	com valid	Ninja	tense		Time for action.	3		0	Time for action.		该行动了	
+vo_ply_ply_	nin_	confirm_	tense_05	vo_ply_ply_nin_confirm_tense_05				omuk	philipp	com valid	Ninja	tense		Getting there.	2		0	Getting there.		很快就到	
+vo_ply_ply_	nin_	confirm_	tense_06	vo_ply_ply_nin_confirm_tense_06				omuk	philipp	com valid	Ninja	tense		Moving.	1		0	Moving.		移动中	
+vo_ply_ply_	nin_	confirm_	tense_07	vo_ply_ply_nin_confirm_tense_07				omuk	philipp	com valid	Ninja	tense		Fast!	1		0	Fast.	YES	快	
+vo_ply_ply_	nin_	confirm_	tense_08	vo_ply_ply_nin_confirm_tense_08				omuk	philipp	com valid	Ninja	tense		Quick!	1		0	Quick!		加速！	
+vo_ply_ply_	nin_	confirm_	tense_09	vo_ply_ply_nin_confirm_tense_09				omuk	philipp	com valid	Ninja	tense		Wari Ashi!	2		0	Wari Ashi!		快如疾风	
+vo_ply_ply_	nin_	confirm_	tense_10	vo_ply_ply_nin_confirm_tense_10				omuk	philipp	com valid	Ninja	tense		Done.	1		0	Done.		搞定	
+vo_ply_ply_	nin_	confirm_	tense_11	vo_ply_ply_nin_confirm_tense_11				omuk	philipp	com valid	Ninja	tense		Right.	1		0	Right.		是的	
+vo_ply_ply_	nin_	confirm_	tense_12	vo_ply_ply_nin_confirm_tense_12				omuk	philipp	com valid	Ninja	tense		On the move.	3		0	On the move.		正在移动	
+vo_ply_ply_	nin_	confirm_	tense_13	vo_ply_ply_nin_confirm_tense_13				omuk	philipp	com valid	Ninja	tense		Time to move.	3		0	Time to move.		该走了	
+vo_ply_ply_	nin_	confirm_	dark_00	vo_ply_ply_nin_confirm_dark_00				omuk	philipp	com valid	Ninja	quiet anger		Uhuh …	2		0	Uh-huh…	YES	嗯…	
+vo_ply_ply_	nin_	confirm_	dark_01	vo_ply_ply_nin_confirm_dark_01				omuk	philipp	com valid	Ninja	quiet anger		Right …	2		0	Right…	YES	是…	
+vo_ply_ply_	nin_	confirm_	dark_02	vo_ply_ply_nin_confirm_dark_02				omuk	philipp	com valid	Ninja	quiet anger		Hrm …	2		0	Hrm.	YES	是么…	
+vo_ply_ply_	nin_	confirm_	dark_03	vo_ply_ply_nin_confirm_dark_03				omuk	philipp	com valid	Ninja	quiet anger		Mhm ...	2		0	Hmm…	YES	是啊…	
+vo_ply_ply_	nin_	confirm_	dark_04	vo_ply_ply_nin_confirm_dark_04				omuk	philipp	com valid	Ninja	quiet anger		Sure ...	2		0	Sure.	YES	嗯…	
+vo_ply_ply_	nin_	confirm_	dark_05	vo_ply_ply_nin_confirm_dark_05				omuk	philipp	com valid	Ninja	quiet anger		Teh …	2		0	Tch.	YES	嘁	
+vo_ply_ply_	nin_	confirm_	dark_06	vo_ply_ply_nin_confirm_dark_06				omuk	philipp	com valid	Ninja	quiet anger		Yeah …	2		0	Yeah…	YES	对…	
+vo_ply_ply_	nin_	confirm_	dark_07	vo_ply_ply_nin_confirm_dark_07				omuk	philipp	com valid	Ninja	quiet anger		Hm …	2		0	Hm.	YES	嗯…	
+vo_ply_ply_	nin_	confirm_	dark_08	vo_ply_ply_nin_confirm_dark_08				omuk	philipp	com valid	Ninja	quiet anger		Alright …	2		0	All right…	YES	好…	
+vo_ply_ply_	nin_	confirm_	dark_09	vo_ply_ply_nin_confirm_dark_09				omuk	philipp	com valid	Ninja	quiet anger		Tch …	2		0	Tch…	YES	嘁…	
+vo_ply_ply_	nin_	confirm_	dark_10	vo_ply_ply_nin_confirm_dark_10				omuk	philipp	com valid	Ninja	quiet anger		Going …	2		0	Going…	YES	去了…	
+vo_ply_ply_	nin_	confirm_	dark_11	vo_ply_ply_nin_confirm_dark_11				omuk	philipp	com valid	Ninja	quiet anger		Eh …	2		0	Eh…	YES	咯…	
+vo_ply_ply_	nin_	confirm_	cold_00	vo_ply_ply_nin_confirm_cold_00				omuk	philipp	com valid	Ninja	cold		Let's get this over with.	5		0	Let's get this over with.		快点搞定	
+vo_ply_ply_	nin_	confirm_	cold_01	vo_ply_ply_nin_confirm_cold_01				omuk	philipp	com valid	Ninja	cold		Don't leave tracks!	3		0	Don't leave tracks!		别留下足迹	
+vo_ply_ply_	nin_	confirm_	cold_02	vo_ply_ply_nin_confirm_cold_02				omuk	philipp	com valid	Ninja	cold		Watch your tracks …	4		0	Watch your tracks…	YES	小心足迹	
+vo_ply_ply_	nin_	confirm_	cold_03	vo_ply_ply_nin_confirm_cold_03				omuk	philipp	com valid	Ninja	cold		Keep moving.	2		0	Keep moving.		保持移动	
+vo_ply_ply_	nin_	confirm_	cold_04	vo_ply_ply_nin_confirm_cold_04				omuk	philipp	com valid	Ninja	cold		Keep warm.	2		0	Keep warm.		保持体温	
+vo_ply_ply_	nin_	confirm_	cold_05	vo_ply_ply_nin_confirm_cold_05				omuk	philipp	com valid	Ninja	cold		Cold won't stop me.	4		0	Cold won't stop me.		寒冷也挡不住我	
+vo_ply_ply_	nin_	confirm_	night_00	vo_ply_ply_nin_confirm_night_00				omuk	philipp	com valid	Ninja	stealthy		Better avoid the lights.	4		0	Better avoid the lights.		最好避开亮处	
+vo_ply_ply_	nin_	confirm_	night_01	vo_ply_ply_nin_confirm_night_01				omuk	philipp	com valid	Ninja	stealthy		Like a shadow.	3		0	Like a shadow.		如阴影一般	
+vo_ply_ply_	nin_	confirm_	night_02	vo_ply_ply_nin_confirm_night_02				omuk	philipp	com valid	Ninja	stealthy		Use the night.	3		0	Use the night.		利用好夜色	
+vo_ply_ply_	nin_	confirm_	night_03	vo_ply_ply_nin_confirm_night_03				omuk	philipp	com valid	Ninja	stealthy		Stick to the shadows.	4		0	Stick to the shadows.		好好利用阴影	
+vo_ply_ply_	nin_	confirm_	night_04	vo_ply_ply_nin_confirm_night_04				omuk	philipp	com valid	Ninja	stealthy		Like a wolf in the night.	6		0	Like a wolf in the night.		就像夜晚的独狼	
+vo_ply_ply_	nin_	confirm_	night_05	vo_ply_ply_nin_confirm_night_05				omuk	philipp	com valid	Ninja	stealthy		A blade in the dark.	5		0	A blade in the dark.		黑夜中的利刃	
+vo_ply_ply_	nin_	confirm_	night_06	vo_ply_ply_nin_confirm_night_06				omuk	philipp	com valid	Ninja	stealthy		My kind of work.	4		0	My kind of work.		为我量身定做的任务	
+vo_ply_ply_	nin_	confirm_	war_00	vo_ply_ply_nin_confirm_war_00				omuk	philipp	com valid	Ninja	smug		Don't get shot now.	4		0	Don't get shot now.		别被枪打中	
+vo_ply_ply_	nin_	confirm_	war_01	vo_ply_ply_nin_confirm_war_01				omuk	philipp	com valid	Ninja	tense		Watch for cannon fire.	4		0	Watch for cannon fire.		小心炮火	
+vo_ply_ply_	nin_	confirm_	war_02	vo_ply_ply_nin_confirm_war_02				omuk	philipp	com valid	Ninja	smug		Straight into battle.	3		0	Straight into battle.		直接开战	
+vo_ply_ply_	nin_	confirm_	war_03	vo_ply_ply_nin_confirm_war_03				omuk	philipp	com valid	Ninja	tense		Keep your head down.	4		0	Keep your head down.		别被发现	
+vo_ply_ply_	nin_	confirm_	war_04	vo_ply_ply_nin_confirm_war_04				omuk	philipp	com valid	Ninja	smug		Just passing through.	3		0	Just passing through.		我只是路过	
+vo_ply_ply_	nin_	confirm_	war_05	vo_ply_ply_nin_confirm_war_05				omuk	philipp	com valid	Ninja	tense		Better stick to cover.	4		0	Better stick to cover.		最好待在掩体里	
+vo_ply_ply_	nin_	confirm_	war_06	vo_ply_ply_nin_confirm_war_06				omuk	philipp	com valid	Ninja	smug		Too easy.	2		0	Too easy.		太简单了	
+vo_ply_ply_	nin_	confirm_	team_00	vo_ply_ply_nin_confirm_team_00				omuk	philipp	com valid	Ninja	confident		Watch and learn, Yuki-chan.	4		0	Watch and learn, Yuki-chan.		友希，好好看好好学	
+vo_ply_ply_	nin_	confirm_	team_01	vo_ply_ply_nin_confirm_team_01				omuk	philipp	com valid	Ninja	confident		Don't worry, I have this.	5		0	Don't worry, I have this.		别担心，有我在	
+vo_ply_ply_	nin_	confirm_	team_02	vo_ply_ply_nin_confirm_team_02				omuk	philipp	com valid	Ninja	confident		Watch my back, old man.	5		0	Watch my back, old man.		掩护我，老爷子	
+vo_ply_ply_	nin_	confirm_	team_03	vo_ply_ply_nin_confirm_team_03				omuk	philipp	com valid	Ninja	confident		Agreed.	1		0	Agreed.		可以	
+vo_ply_ply_	nin_	confirm_	team_04	vo_ply_ply_nin_confirm_team_04				omuk	philipp	com valid	Ninja	confident		Already done.	2		0	Already done.		已经搞定	
+vo_ply_ply_	nin_	confirm_	team_05	vo_ply_ply_nin_confirm_team_05				omuk	philipp	com valid	Ninja	confident		Don't wait for me.	4		0	Don't wait for me.		不必等我	
+vo_ply_ply_	nin_	confirm_	team_06	vo_ply_ply_nin_confirm_team_06				omuk	philipp	com valid	Ninja	confident		You know what to do.	5		0	You know what to do.		你们知道该怎么做	
+vo_ply_ply_	nin_	confirm_	team_07	vo_ply_ply_nin_confirm_team_07				omuk	philipp	com valid	Ninja	confident		Be ready, everyone.	3		0	Be ready, everyone.		大家都准备好	
+vo_ply_ply_	nin_	confirm_	team_08	vo_ply_ply_nin_confirm_team_08				omuk	philipp	com valid	Ninja	confident		I'll be right back.	4		0	I'll be right back.		我速去速回	
+vo_ply_ply_	nin_	confirm_	team_09	vo_ply_ply_nin_confirm_team_09				omuk	philipp	com valid	Ninja	confident	rare	Aiko-san, I got this.	4		0	Aiko-san, I got this.		爱子小姐，交给我吧	
+vo_ply_ply_	nin_	refuse_	normal_00	vo_ply_ply_nin_refuse_normal_00				omuk	philipp	com invalid	Ninja	stealthy		Can't do that.	3		0	Can't do that.		做不到	
+vo_ply_ply_	nin_	refuse_	normal_01	vo_ply_ply_nin_refuse_normal_01				omuk	philipp	com invalid	Ninja	stealthy		No.	1		0	No.		不	
+vo_ply_ply_	nin_	refuse_	normal_02	vo_ply_ply_nin_refuse_normal_02				omuk	philipp	com invalid	Ninja	stealthy		Don't see how.	3		0	Don't see how.		毫无头绪	
+vo_ply_ply_	nin_	refuse_	normal_03	vo_ply_ply_nin_refuse_normal_03				omuk	philipp	com invalid	Ninja	stealthy		Teh, bad idea.	3		0	Tch, bad idea.	YES	这样不行	
+vo_ply_ply_	nin_	refuse_	normal_04	vo_ply_ply_nin_refuse_normal_04				omuk	philipp	com invalid	Ninja	stealthy		No chance.	2		0	No chance.		不可能	
+vo_ply_ply_	nin_	refuse_	tense_00	vo_ply_ply_nin_refuse_tense_00				omuk	philipp	com invalid	Ninja	tense		Can't do that.	3		0	Can't do that.		办不到	
+vo_ply_ply_	nin_	refuse_	tense_01	vo_ply_ply_nin_refuse_tense_01				omuk	philipp	com invalid	Ninja	tense		No.	1		0	No.		不	
+vo_ply_ply_	nin_	refuse_	tense_02	vo_ply_ply_nin_refuse_tense_02				omuk	philipp	com invalid	Ninja	tense		No chance.	2		0	No chance.		不可能	
+vo_ply_ply_	nin_	refuse_	tense_03	vo_ply_ply_nin_refuse_tense_03				omuk	philipp	com invalid	Ninja	tense		Bad idea.	2		0	Bad idea.		不行	
+vo_ply_ply_	nin_	refuse_	tense_04	vo_ply_ply_nin_refuse_tense_04				omuk	philipp	com invalid	Ninja	tense		I can't.	2		0	I can't.		办不到	
+vo_ply_ply_	nin_	refuse_	dark_00	vo_ply_ply_nin_refuse_dark_00				omuk	philipp	com invalid	Ninja	quiet anger		No …	2		0	No…	YES	不…	
+vo_ply_ply_	nin_	refuse_	dark_01	vo_ply_ply_nin_refuse_dark_01				omuk	philipp	com invalid	Ninja	quiet anger		I can't …	3		0	I can't…	YES	做不到…	
+vo_ply_ply_	nin_	refuse_	dark_02	vo_ply_ply_nin_refuse_dark_02				omuk	philipp	com invalid	Ninja	quiet anger		Damn …	2		0	Damn…	YES	该死…	
+vo_ply_ply_	nin_	refuse_path_	normal_00	vo_ply_ply_nin_refuse_path_normal_00				omuk	philipp	com move unreachable	Ninja	stealthy		I can't go there.	4		0	I can't go there.		到不了哪里	
+vo_ply_ply_	nin_	refuse_path_	normal_01	vo_ply_ply_nin_refuse_path_normal_01				omuk	philipp	com move unreachable	Ninja	stealthy		No way there.	3		0	No way there.		没办法过去	
+vo_ply_ply_	nin_	refuse_path_	normal_02	vo_ply_ply_nin_refuse_path_normal_02				omuk	philipp	com move unreachable	Ninja	stealthy		Don't see a way.	4		0	Don't see a way.		想不出办法	
+vo_ply_ply_	nin_	refuse_path_	tense_00	vo_ply_ply_nin_refuse_path_tense_00				omuk	philipp	com move unreachable	Ninja	tense		Can't go there.	3		0	Can't go there.		去不了那里	
+vo_ply_ply_	nin_	refuse_path_	tense_01	vo_ply_ply_nin_refuse_path_tense_01				omuk	philipp	com move unreachable	Ninja	tense		No way.	2		0	No way!	YES	没办法	
+vo_ply_ply_	nin_	refuse_path_	tense_02	vo_ply_ply_nin_refuse_path_tense_02				omuk	philipp	com move unreachable	Ninja	tense		Don't see a way.	4		0	Don't see a way.		想不出办法	
+vo_ply_ply_	nin_	refuse_door_enemy_	normal_00	vo_ply_ply_nin_refuse_door_enemy_normal_00				omuk	philipp	com door with enemy	Ninja	stealthy		Better not. Enemies inside.	4		0	Better not. Enemies inside.		最好别进去，里面有敌人	
+vo_ply_ply_	nin_	refuse_door_enemy_	normal_01	vo_ply_ply_nin_refuse_door_enemy_normal_01				omuk	philipp	com door with enemy	Ninja	stealthy		No, that's occupied.	3		0	No, that's occupied.		里面有人	
+vo_ply_ply_	nin_	refuse_door_enemy_	normal_02	vo_ply_ply_nin_refuse_door_enemy_normal_02				omuk	philipp	com door with enemy	Ninja	stealthy		There's guards in there.	4		0	There's guards in there.		里面有守卫	
+vo_ply_ply_	nin_	refuse_door_enemy_	tense_00	vo_ply_ply_nin_refuse_door_enemy_tense_00				omuk	philipp	com door with enemy	Ninja	tense		Enemies inside.	2		0	Enemies inside.		里面有敌人	
+vo_ply_ply_	nin_	refuse_door_enemy_	tense_01	vo_ply_ply_nin_refuse_door_enemy_tense_01				omuk	philipp	com door with enemy	Ninja	tense		Occupied.	1		0	Occupied.		有人了	
+vo_ply_ply_	nin_	refuse_door_enemy_	tense_02	vo_ply_ply_nin_refuse_door_enemy_tense_02				omuk	philipp	com door with enemy	Ninja	tense		Guards in there.	3		0	Guards in there.		里面有守卫	
+vo_ply_ply_	nin_	refuse_path_usable_	normal_00	vo_ply_ply_nin_refuse_path_usable_normal_00				omuk	philipp	com move unreachable without usables	Ninja	stealthy		Have to take a shortcut.	5		0	Have to take a shortcut.		得找个捷径	
+vo_ply_ply_	nin_	refuse_path_usable_	normal_01	vo_ply_ply_nin_refuse_path_usable_normal_01				omuk	philipp	com move unreachable without usables	Ninja	stealthy		Have to improvise.	3		0	Have to improvise.		得想个办法才行	
+vo_ply_ply_	nin_	refuse_path_usable_	normal_02	vo_ply_ply_nin_refuse_path_usable_normal_02				omuk	philipp	com move unreachable without usables	Ninja	stealthy		Hmm, no straight path.	4		0	Hmm…no straight path.	YES	不能直接过去	
+vo_ply_ply_	nin_	refuse_path_usable_	tense_00	vo_ply_ply_nin_refuse_path_usable_tense_00				omuk	philipp	com move unreachable without usables	Ninja	tense		Need a shortcut.	3		0	Need a shortcut.		需要找个捷径	
+vo_ply_ply_	nin_	refuse_path_usable_	tense_01	vo_ply_ply_nin_refuse_path_usable_tense_01				omuk	philipp	com move unreachable without usables	Ninja	tense		Need to improvise.	3		0	Need to improvise.		得想个办法	
+vo_ply_ply_	nin_	refuse_path_usable_	tense_02	vo_ply_ply_nin_refuse_path_usable_tense_02				omuk	philipp	com move unreachable without usables	Ninja	tense		Better find a way.	4		0	Better find a way.		得找条路	
+vo_ply_ply_	nin_	refuse_cooldown_	normal_00	vo_ply_ply_nin_refuse_cooldown_normal_00				omuk	philipp	com skill on cooldown	Ninja	stealthy		Not yet.	2		0	Not yet.		还没好	
+vo_ply_ply_	nin_	refuse_cooldown_	normal_01	vo_ply_ply_nin_refuse_cooldown_normal_01				omuk	philipp	com skill on cooldown	Ninja	stealthy		Not ready.	2		0	Not ready.		还没准备好	
+vo_ply_ply_	nin_	refuse_cooldown_	normal_02	vo_ply_ply_nin_refuse_cooldown_normal_02				omuk	philipp	com skill on cooldown	Ninja	stealthy		Needs more time.	3		0	Needs more time.		还需要时间	
+vo_ply_ply_	nin_	refuse_cooldown_	tense_00	vo_ply_ply_nin_refuse_cooldown_tense_00				omuk	philipp	com skill on cooldown	Ninja	tense		Not yet.	2		0	Not yet.		还没好	
+vo_ply_ply_	nin_	refuse_cooldown_	tense_01	vo_ply_ply_nin_refuse_cooldown_tense_01				omuk	philipp	com skill on cooldown	Ninja	tense		Not ready.	2		0	Not ready!	YES	还没准备好！	
+vo_ply_ply_	nin_	refuse_cooldown_	tense_02	vo_ply_ply_nin_refuse_cooldown_tense_02				omuk	philipp	com skill on cooldown	Ninja	tense		Needs time.	2		0	Needs time.		需要时间	
+vo_ply_ply_	nin_	refuse_noammo_	normal_00	vo_ply_ply_nin_refuse_noammo_normal_00				omuk	philipp	com skill no ammo	Ninja	stealthy		I'm out.	2		0	I'm out.		用光了	
+vo_ply_ply_	nin_	refuse_noammo_	normal_01	vo_ply_ply_nin_refuse_noammo_normal_01				omuk	philipp	com skill no ammo	Ninja	stealthy		Nothing left.	2		0	Nothing left!	YES	没有了	
+vo_ply_ply_	nin_	refuse_noammo_	normal_02	vo_ply_ply_nin_refuse_noammo_normal_02				omuk	philipp	com skill no ammo	Ninja	stealthy		No ammo.	2		0	No ammo!	YES	没弹药了	
+vo_ply_ply_	nin_	refuse_noammo_	tense_00	vo_ply_ply_nin_refuse_noammo_tense_00				omuk	philipp	com skill no ammo	Ninja	tense		I'm out!	2		0	I'm out!		用光了	
+vo_ply_ply_	nin_	refuse_noammo_	tense_01	vo_ply_ply_nin_refuse_noammo_tense_01				omuk	philipp	com skill no ammo	Ninja	tense		Empty!	1		0	Empty!		没有了	
+vo_ply_ply_	nin_	refuse_noammo_	tense_02	vo_ply_ply_nin_refuse_noammo_tense_02				omuk	philipp	com skill no ammo	Ninja	tense		No ammo.	2		0	No ammo!	YES	没弹药了	
+vo_ply_ply_	nin_	take_damage_	normal_00	vo_ply_ply_nin_take_damage_normal_00				omuk	philipp	char take damage	Ninja	tense	hit by enemy	Being attacked!	2		0	Being attacked!		被攻击了！	
+vo_ply_ply_	nin_	take_damage_	normal_01	vo_ply_ply_nin_take_damage_normal_01				omuk	philipp	char take damage	Ninja	tense	hit by enemy	Urgh … That hurt!	4		0	Agh! That hurt!	YES	呃…好痛…	
+vo_ply_ply_	nin_	take_damage_	normal_02	vo_ply_ply_nin_take_damage_normal_02				omuk	philipp	char take damage	Ninja	tense	(sound) gets hurt				0				
+vo_ply_ply_	nin_	take_damage_	normal_03	vo_ply_ply_nin_take_damage_normal_03				omuk	philipp	char take damage	Ninja	tense	(sound) gets hurt				0				
+vo_ply_ply_	nin_	take_damage_	normal_04	vo_ply_ply_nin_take_damage_normal_04				omuk	philipp	char take damage	Ninja	tense	(sound) gets hurt				0				
+vo_ply_ply_	nin_	take_damage_	normal_05	vo_ply_ply_nin_take_damage_normal_05				omuk	philipp	char take damage	Ninja	tense	(sound) gets hurt				0				
+vo_ply_ply_	nin_	death_	normal_00	vo_ply_ply_nin_death_normal_00				omuk	philipp	char death	Ninja	dying	dies in the end	Ugh …			0	Ugh…	YES	咯…	
+vo_ply_ply_	nin_	death_	normal_01	vo_ply_ply_nin_death_normal_01				omuk	philipp	char death	Ninja	dying	dies in the end	Damn …	2		0	Damn…	YES	该死…	
+vo_ply_ply_	nin_	corpse_pickup_execute_	normal_00	vo_ply_ply_nin_corpse_pickup_execute_normal_00				omuk	philipp	"pickup corpse
+pickup object"	Ninja		(sound) pick up dead body				0				
+vo_ply_ply_	nin_	corpse_pickup_execute_	normal_01	vo_ply_ply_nin_corpse_pickup_execute_normal_01				omuk	philipp	"pickup corpse
+pickup object"	Ninja		(sound) pick up dead body				0				
+vo_ply_ply_	nin_	corpse_pickup_execute_	normal_02	vo_ply_ply_nin_corpse_pickup_execute_normal_02				omuk	philipp	"pickup corpse
+pickup object"	Ninja		(sound) pick up dead body				0				
+vo_ply_ply_	nin_	corpse_drop_execute_	normal_00	vo_ply_ply_nin_corpse_drop_execute_normal_00				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Ninja		(sound) lay down dead body				0				
+vo_ply_ply_	nin_	corpse_drop_execute_	normal_01	vo_ply_ply_nin_corpse_drop_execute_normal_01				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Ninja		(sound) lay down dead body				0				
+vo_ply_ply_	nin_	corpse_drop_execute_	normal_02	vo_ply_ply_nin_corpse_drop_execute_normal_02				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Ninja		(sound) lay down dead body				0				
+vo_ply_ply_	nin_	jump_execute_	normal_00	vo_ply_ply_nin_jump_execute_normal_00				omuk	philipp	jump	Ninja		(sound) jump				0				
+vo_ply_ply_	nin_	jump_execute_	normal_01	vo_ply_ply_nin_jump_execute_normal_01				omuk	philipp	jump	Ninja		(sound) jump				0				
+vo_ply_ply_	nin_	jump_execute_	normal_02	vo_ply_ply_nin_jump_execute_normal_02				omuk	philipp	jump	Ninja		(sound) jump				0				
+vo_ply_ply_	nin_	jump_comment_	normal_03	vo_ply_ply_nin_jump_comment_normal_03				omuk		after jump	Ninja		rare	There we go.	3		0	There we go.		这两下如何	
+vo_ply_ply_	nin_	use_vertical_execute_	normal_00	vo_ply_ply_nin_use_vertical_execute_normal_00				omuk	philipp	use vertical	Ninja		(sound) climbing				0				
+vo_ply_ply_	nin_	use_vertical_execute_	normal_01	vo_ply_ply_nin_use_vertical_execute_normal_01				omuk	philipp	use vertical	Ninja		(sound) climbing				0				
+vo_ply_ply_	nin_	use_vertical_execute_	normal_02	vo_ply_ply_nin_use_vertical_execute_normal_02				omuk	philipp	use vertical	Ninja		(sound) climbing				0				
+vo_ply_ply_	nin_	use_vertical_comment_	normal_03	vo_ply_ply_nin_use_vertical_comment_normal_03				omuk		after com use vertical	Ninja		rare	Good exercise.	2		0	Good exercise.		可以热热身	
+vo_ply_ply_	nin_	melee_select_	normal_00	vo_ply_ply_nin_melee_select_normal_00				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	stealthy	6	Blade's ready.	2		0	Blade's ready.		利刃渴望鲜血	
+vo_ply_ply_	nin_	melee_select_	normal_01	vo_ply_ply_nin_melee_select_normal_01				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	stealthy	also happens when skill switch from knockout	Time for swordwork.	3		0	Time for swordwork.		该展现刀法了	
+vo_ply_ply_	nin_	melee_select_	normal_02	vo_ply_ply_nin_melee_select_normal_02				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	stealthy	also happens when skill switch from knockout	Ken Jutsu.	2		0	Ken Jutsu.		剑术	
+vo_ply_ply_	nin_	melee_select_	tense_02	vo_ply_ply_nin_melee_select_tense_02				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	tense	also happens when skill switch from knockout	Blade's ready.	2		0	Blade's ready.		利刃渴望鲜血	
+vo_ply_ply_	nin_	melee_select_	tense_02	vo_ply_ply_nin_melee_select_tense_02				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	tense	also happens when skill switch from knockout	Sword ready.	2		0	Sword ready.		我的刀渴望鲜血	
+vo_ply_ply_	nin_	melee_select_	tense_02	vo_ply_ply_nin_melee_select_tense_02				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	tense	also happens when skill switch from knockout	Ken Jutsu.	2		0	Ken Jutsu!	YES	剑术	
+vo_ply_ply_	nin_	melee_select_	dark_00	vo_ply_ply_nin_melee_select_dark_00				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	quiet anger	also happens when skill switch from knockout	Swordwork.	1		0	Swordwork.		该出刀了	
+vo_ply_ply_	nin_	melee_select_	dark_01	vo_ply_ply_nin_melee_select_dark_01				omuk	philipp	"sel skill melee
+switch from knockout"	Ninja	quiet anger	also happens when skill switch from knockout	Ken Jutsu.	2		0	Ken Jutsu.		剑术	
+vo_ply_ply_	nin_	melee_execute_	normal_00	vo_ply_ply_nin_melee_execute_normal_00				omuk	philipp	use skill melee	Ninja	quietly	(sound) stab person in the back with Ninjato				0				
+vo_ply_ply_	nin_	melee_execute_	normal_01	vo_ply_ply_nin_melee_execute_normal_01				omuk	philipp	use skill melee	Ninja	quietly	(sound) stab person in the back with Ninjato				0				
+vo_ply_ply_	nin_	melee_execute_	normal_02	vo_ply_ply_nin_melee_execute_normal_02				omuk	philipp	use skill melee	Ninja	quietly	(sound) stab person in the back with Ninjato				0				
+vo_ply_ply_	nin_	melee_comment_	normal_03	vo_ply_ply_nin_melee_comment_normal_03				omuk		use skill melee	Ninja	smug	rare	Nothing personal …	3		0	Nothing personal…	YES	这不是个人恩怨…	
+vo_ply_ply_	nin_	melee_comment_	tense_00	vo_ply_ply_nin_melee_comment_tense_00				omuk		use skill melee	Ninja	tense	rare	Shhh …	2		0	Shhh…	YES	嘘…	
+vo_ply_ply_	nin_	melee_comment_	dark_00	vo_ply_ply_nin_melee_comment_dark_00				omuk		use skill melee	Ninja	quiet anger	rare	One more …	3		0	One more…	YES	又干掉一个…	
+vo_ply_ply_	nin_	knockout_select_	normal_00	vo_ply_ply_nin_knockout_select_normal_00				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	stealthy		Don't need a blade for that.	6		0	Don't need a blade for that.		没必要动刀子	
+vo_ply_ply_	nin_	knockout_select_	normal_01	vo_ply_ply_nin_knockout_select_normal_01				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	stealthy		I'll use my hands.	4		0	I'll use my hands.		空手就够了	
+vo_ply_ply_	nin_	knockout_select_	normal_02	vo_ply_ply_nin_knockout_select_normal_02				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	stealthy		Tai Jutsu.	2		0	Tai Jutsu.		体术	
+vo_ply_ply_	nin_	knockout_select_	tense_00	vo_ply_ply_nin_knockout_select_tense_00				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	tense		Sword sheathed.	2		0	Sword away.	YES	收刀	
+vo_ply_ply_	nin_	knockout_select_	tense_01	vo_ply_ply_nin_knockout_select_tense_01				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	tense		No weapons.	2		0	No weapons.		不用武器	
+vo_ply_ply_	nin_	knockout_select_	tense_02	vo_ply_ply_nin_knockout_select_tense_02				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	tense		Tai Jutsu.	2		0	Tai Jutsu!	YES	体术	
+vo_ply_ply_	nin_	knockout_select_	dark_00	vo_ply_ply_nin_knockout_select_dark_00				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	quiet anger		To the neck …	4		0	To the neck…	YES	脖子上来个手刀…	
+vo_ply_ply_	nin_	knockout_select_	dark_01	vo_ply_ply_nin_knockout_select_dark_01				omuk	philipp	"sel skill knockout
+switch from melee"	Ninja	quiet anger		Tai Jutsu …	3		0	Tai Jutsu…	YES	体术…	
+vo_ply_ply_	nin_	knockout_execute_	normal_00	vo_ply_ply_nin_knockout_execute_normal_00				omuk	philipp	use skill knockout	Ninja	quietly	(sound) karate chop to a person's neck		0		0				
+vo_ply_ply_	nin_	knockout_execute_	normal_01	vo_ply_ply_nin_knockout_execute_normal_01				omuk	philipp	use skill knockout	Ninja	quietly	(sound) karate chop to a person's neck		0		0				
+vo_ply_ply_	nin_	knockout_execute_	normal_02	vo_ply_ply_nin_knockout_execute_normal_02				omuk	philipp	use skill knockout	Ninja	quietly	(sound) karate chop to a person's neck		0		0				
+vo_ply_ply_	nin_	knockout_comment_	normal_00	vo_ply_ply_nin_knockout_comment_normal_00				omuk		use skill knockout	Ninja	smug	rare	Sweet dreams.	2		0	Sweet dreams.		做个好梦	
+vo_ply_ply_	nin_	knockout_comment_	normal_01	vo_ply_ply_nin_knockout_comment_normal_01				omuk		use skill knockout	Ninja	stealthy	rare	Ura Shuto Ken.	3		0	Ura Shuto Ken.		手刀	
+vo_ply_ply_	nin_	knockout_comment_	tense_00	vo_ply_ply_nin_knockout_comment_tense_00				omuk		use skill knockout	Ninja	tense	rare	One strike.	2		0	One strike.		一击即倒	
+vo_ply_ply_	nin_	knockout_comment_	tense_01	vo_ply_ply_nin_knockout_comment_tense_01				omuk		use skill knockout	Ninja	tense	rare	Ura Shuto Ken.	3		0	Ura Shuto Ken.		手刀	
+vo_ply_ply_	nin_	knockout_comment_	dark_00	vo_ply_ply_nin_knockout_comment_dark_00				omuk		use skill knockout	Ninja	quiet anger	rare	You're lucky …	3		0	You're lucky…	YES	算你运气好	
+vo_ply_ply_	nin_	dropkill_execute_	normal_00	vo_ply_ply_nin_dropkill_execute_normal_00				omuk	philipp	use skill dropkill	Ninja		(sound) drop down attack		2		0				
+vo_ply_ply_	nin_	dropkill_execute_	normal_01	vo_ply_ply_nin_dropkill_execute_normal_01				omuk	philipp	use skill dropkill	Ninja		(sound) drop down attack				0				
+vo_ply_ply_	nin_	dropkill_execute_	normal_02	vo_ply_ply_nin_dropkill_execute_normal_02				omuk	philipp	use skill dropkill	Ninja		(sound) drop down attack				0				
+vo_ply_ply_	nin_	dropkill_comment_	normal_00	vo_ply_ply_nin_dropkill_comment_normal_00				omuk		use skill dropkill	Ninja	smug	rare	You stay down.	3		0	You stay down.		就在这儿长眠吧	
+vo_ply_ply_	nin_	dropkill_comment_	normal_01	vo_ply_ply_nin_dropkill_comment_normal_01				omuk		use skill dropkill	Ninja	smug	rare	Death from above.	3		0	Death from above.		天降死神	
+vo_ply_ply_	nin_	dropkill_comment_	tense_00	vo_ply_ply_nin_dropkill_comment_tense_00				omuk		use skill dropkill	Ninja	tense	rare	Stay down.	2		0	Stay down.		躺着吧	
+vo_ply_ply_	nin_	dropkill_comment_	tense_01	vo_ply_ply_nin_dropkill_comment_tense_01				omuk		use skill dropkill	Ninja	tense	rare	Got you.	2		0	Got you.		中招了	
+vo_ply_ply_	nin_	dropkill_comment_	dark_00	vo_ply_ply_nin_dropkill_comment_dark_00				omuk		use skill dropkill	Ninja	quiet anger	rare	No chance …	3		0	No chance…	YES	不可能的…	
+vo_ply_ply_	nin_	stone_select_	normal_00	vo_ply_ply_nin_stone_select_normal_00				omuk	philipp	sel skill stone	Ninja	stealthy		I'll cause a distraction.	4		0	I'll cause a distraction.		我来吸引敌人	
+vo_ply_ply_	nin_	stone_select_	normal_01	vo_ply_ply_nin_stone_select_normal_01				omuk	philipp	sel skill stone	Ninja	stealthy		Let's make some noise.	4		0	Let's make some noise.		来制造点噪音吧	
+vo_ply_ply_	nin_	stone_select_	normal_02	vo_ply_ply_nin_stone_select_normal_02				omuk	philipp	sel skill stone	Ninja	stealthy		Yoji-gakure.	1		0	Yoji-gakure.		佯动隐身之术	
+vo_ply_ply_	nin_	stone_select_	tense_00	vo_ply_ply_nin_stone_select_tense_00				omuk	philipp	sel skill stone	Ninja	tense		Need a distraction.	3		0	Need a distraction.		需要吸引一下敌人	
+vo_ply_ply_	nin_	stone_select_	tense_01	vo_ply_ply_nin_stone_select_tense_01				omuk	philipp	sel skill stone	Ninja	tense		I'll make noise.	3		0	I'll make noise.		我来制造噪音	
+vo_ply_ply_	nin_	stone_select_	tense_02	vo_ply_ply_nin_stone_select_tense_02				omuk	philipp	sel skill stone	Ninja	tense		Yoji-gakure.	1		0	Yoji-gakure.		佯动隐身之术	
+vo_ply_ply_	nin_	stone_select_	dark_00	vo_ply_ply_nin_stone_select_dark_00				omuk	philipp	sel skill stone	Ninja	quiet anger		Distraction.	1		0	Distraction.		引开敌人	
+vo_ply_ply_	nin_	stone_execute_	normal_00	vo_ply_ply_nin_stone_execute_normal_00				omuk	philipp	use skill stone	Ninja	quietly	(sound) throw a small stone as distraction		0		0				
+vo_ply_ply_	nin_	stone_execute_	normal_01	vo_ply_ply_nin_stone_execute_normal_01				omuk	philipp	use skill stone	Ninja	quietly	(sound) throw a small stone as distraction		0		0				
+vo_ply_ply_	nin_	stone_execute_	normal_02	vo_ply_ply_nin_stone_execute_normal_02				omuk	philipp	use skill stone	Ninja	quietly	(sound) throw a small stone as distraction		0		0				
+vo_ply_ply_	nin_	stone_comment_	normal_00	vo_ply_ply_nin_stone_comment_normal_00				omuk		use skill dropkill	Ninja	quietly	rare	Listen up.	2		0	Listen…	YES	听…	
+vo_ply_ply_	nin_	stone_comment_	normal_01	vo_ply_ply_nin_stone_comment_normal_01				omuk		use skill dropkill	Ninja	quietly	rare	You hear that?	3		0	You hear that?		听到了吗？	
+vo_ply_ply_	nin_	stone_comment_	tense_00	vo_ply_ply_nin_stone_comment_tense_00				omuk		use skill dropkill	Ninja	tense	rare	Come on …	3		0	Come on…	YES	这样啊…	
+vo_ply_ply_	nin_	stone_comment_	dark_00	vo_ply_ply_nin_stone_comment_dark_00				omuk		use skill dropkill	Ninja	quiet anger	rare	Hrm …	2		0	Hrm…	YES	嗯…	
+vo_ply_ply_	nin_	shuriken_select_	normal_00	vo_ply_ply_nin_shuriken_select_normal_00				omuk	philipp	sel skill shuriken	Ninja	stealthy		Shuriken is ready.	3		0	Shuriken ready.	YES	手里剑就绪	
+vo_ply_ply_	nin_	shuriken_select_	normal_01	vo_ply_ply_nin_shuriken_select_normal_01				omuk	philipp	sel skill shuriken	Ninja	stealthy		I'll use Shuriken.	3		0	I'll use Shuriken.		使用手里剑	
+vo_ply_ply_	nin_	shuriken_select_	normal_02	vo_ply_ply_nin_shuriken_select_normal_02				omuk	philipp	sel skill shuriken	Ninja	stealthy		Shuriken Jutsu.	2		0	Shuriken Jutsu.		手里剑术	
+vo_ply_ply_	nin_	shuriken_select_	tense_00	vo_ply_ply_nin_shuriken_select_tense_00				omuk	philipp	sel skill shuriken	Ninja	tense		Shuriken ready!	2		0	Shuriken ready!		手里剑就绪！	
+vo_ply_ply_	nin_	shuriken_select_	tense_01	vo_ply_ply_nin_shuriken_select_tense_01				omuk	philipp	sel skill shuriken	Ninja	tense		Using Shuriken!	2		0	Using Shuriken!		使用手里剑！	
+vo_ply_ply_	nin_	shuriken_select_	tense_02	vo_ply_ply_nin_shuriken_select_tense_02				omuk	philipp	sel skill shuriken	Ninja	tense		Shuriken Jutsu!	2		0	Shuriken Jutsu!		手里剑术！	
+vo_ply_ply_	nin_	shuriken_select_	dark_00	vo_ply_ply_nin_shuriken_select_dark_00				omuk	philipp	sel skill shuriken	Ninja	quiet anger		Shuriken Jutsu …	3		0	Shuriken Jutsu…	YES	手里剑术…	
+vo_ply_ply_	nin_	shuriken_execute_	normal_00	vo_ply_ply_nin_shuriken_execute_normal_00				omuk	philipp	use skill shuriken	Ninja		(sound) quickly throw 3 shuriken				0				
+vo_ply_ply_	nin_	shuriken_execute_	normal_01	vo_ply_ply_nin_shuriken_execute_normal_01				omuk	philipp	use skill shuriken	Ninja		(sound) quickly throw 3 shuriken				0				
+vo_ply_ply_	nin_	shuriken_execute_	normal_02	vo_ply_ply_nin_shuriken_execute_normal_02				omuk	philipp	use skill shuriken	Ninja		(sound) quickly throw 3 shuriken				0				
+vo_ply_ply_	nin_	shuriken_comment_	normal_00	vo_ply_ply_nin_shuriken_comment_normal_00				omuk		after skill shuriken	Ninja	quietly	rare	Cutting wind.	2		0	Cutting wind.		风斩	
+vo_ply_ply_	nin_	shuriken_comment_	normal_01	vo_ply_ply_nin_shuriken_comment_normal_01				omuk		after skill shuriken	Ninja	quietly	rare	I never miss.	3		0	I never miss.		从不失手	
+vo_ply_ply_	nin_	shuriken_comment_	tense_00	vo_ply_ply_nin_shuriken_comment_tense_00				omuk		after skill shuriken	Ninja	tense	rare	Down.	1		0	Down.		倒下吧	
+vo_ply_ply_	nin_	shuriken_comment_	tense_01	vo_ply_ply_nin_shuriken_comment_tense_01				omuk		after skill shuriken	Ninja	tense	rare	Got you …	3		0	Got you…	YES	中招…	
+vo_ply_ply_	nin_	shuriken_comment_	dark_00	vo_ply_ply_nin_shuriken_comment_dark_00				omuk		after skill shuriken	Ninja	quiet anger	rare	Simple …	2		0	Simple…	YES	简单…	
+vo_ply_ply_	nin_	shuriken_comment_	dark_01	vo_ply_ply_nin_shuriken_comment_dark_01				omuk		after skill shuriken	Ninja	quiet anger	rare	Next …	2		0	Next.	YES	下一个	
+vo_ply_ply_	nin_	shuriken_no_ammo_	normal_00	vo_ply_ply_nin_shuriken_no_ammo_normal_00				omuk	philipp	use skill shuriken no ammo	Ninja	stealthy	special no ammo for shuriken	Tch … no shuriken.	4		0	Huh. No Shuriken.	YES	嘁…没手里剑了	
+vo_ply_ply_	nin_	shuriken_no_ammo_	normal_01	vo_ply_ply_nin_shuriken_no_ammo_normal_01				omuk	philipp	use skill shuriken no ammo	Ninja	stealthy	special no ammo for shuriken	I'm missing my shuriken.	4		0	I'm missing my Shuriken.	YES	手里剑不在了	
+vo_ply_ply_	nin_	shuriken_no_ammo_	normal_02	vo_ply_ply_nin_shuriken_no_ammo_normal_02				omuk	philipp	use skill shuriken no ammo	Ninja	stealthy	special no ammo for shuriken	Huh ... where're my shuriken?	5		0	Huh… Where're my Shuriken?	YES	手里剑在哪？	
+vo_ply_ply_	nin_	shuriken_no_ammo_	tense_00	vo_ply_ply_nin_shuriken_no_ammo_tense_00				omuk	philipp	use skill shuriken no ammo	Ninja	tense	special no ammo for shuriken	No shuriken.	2		0	No Shuriken.	YES	没有手里剑	
+vo_ply_ply_	nin_	shuriken_no_ammo_	tense_01	vo_ply_ply_nin_shuriken_no_ammo_tense_01				omuk	philipp	use skill shuriken no ammo	Ninja	tense	special no ammo for shuriken	Missing my shuriken.	3		0	Missing my Shuriken.	YES	手里剑不在	
+vo_ply_ply_	nin_	shuriken_no_ammo_	tense_02	vo_ply_ply_nin_shuriken_no_ammo_tense_02				omuk	philipp	use skill shuriken no ammo	Ninja	tense	special no ammo for shuriken	Where're my shuriken?	3		0	Where are my Shuriken?	YES	手里剑在哪？	
+vo_ply_ply_	nin_	shuriken_no_ammo_	dark_00	vo_ply_ply_nin_shuriken_no_ammo_dark_00				omuk	philipp	use skill shuriken no ammo	Ninja	quiet anger	special no ammo for shuriken	No shuriken.	2		0	No Shuriken.	YES	没有手里剑	
+vo_ply_ply_	nin_	ammo_pickup_execute_	normal_00	vo_ply_ply_nin_ammo_pickup_execute_normal_00				omuk	philipp	pickup ammo	Ninja	stealthy	picks up ammo for shuriken/gun/heal	Nice.	1		0	Nice!	YES	很好	
+vo_ply_ply_	nin_	ammo_pickup_execute_	normal_01	vo_ply_ply_nin_ammo_pickup_execute_normal_01				omuk	philipp	pickup ammo	Ninja	stealthy	picks up ammo for shuriken/gun/heal	This is mine.	3		0	This is mine.		是我的了	
+vo_ply_ply_	nin_	ammo_pickup_execute_	normal_02	vo_ply_ply_nin_ammo_pickup_execute_normal_02				omuk	philipp	pickup ammo	Ninja	stealthy	picks up ammo for shuriken/gun/heal	I'll take that.	3		0	I'll take that.		我收下了	
+vo_ply_ply_	nin_	ammo_pickup_execute_	normal_03	vo_ply_ply_nin_ammo_pickup_execute_normal_03				omuk	philipp	pickup ammo	Ninja	stealthy	picks up ammo for shuriken/gun/heal	Don't mind if I do.	5		0	Don't mind if I do.		我就不客气了	
+vo_ply_ply_	nin_	ammo_pickup_execute_	normal_04	vo_ply_ply_nin_ammo_pickup_execute_normal_04				omuk	philipp	pickup ammo	Ninja	stealthy	picks up ammo for shuriken/gun/heal	Got it.	2		0	Got it.		拿到了	
+vo_ply_ply_	nin_	ammo_pickup_execute_	tense_00	vo_ply_ply_nin_ammo_pickup_execute_tense_00				omuk	philipp	pickup ammo	Ninja	tense	picks up ammo for shuriken/gun/heal	Good.	1		0	Good.		好	
+vo_ply_ply_	nin_	ammo_pickup_execute_	tense_01	vo_ply_ply_nin_ammo_pickup_execute_tense_01				omuk	philipp	pickup ammo	Ninja	tense	picks up ammo for shuriken/gun/heal	Mine.	1		0	Mine.		我的	
+vo_ply_ply_	nin_	ammo_pickup_execute_	tense_02	vo_ply_ply_nin_ammo_pickup_execute_tense_02				omuk	philipp	pickup ammo	Ninja	tense	picks up ammo for shuriken/gun/heal	Got it.	2		0	Got it.		拿到了	
+vo_ply_ply_	nin_	ammo_pickup_execute_	dark_00	vo_ply_ply_nin_ammo_pickup_execute_dark_00				omuk	philipp	pickup ammo	Ninja	quiet rage	picks up ammo for shuriken/gun/heal	Mine.	1		0	Mine.		我的	
+vo_ply_ply_	nin_	gun_select_	normal_00	vo_ply_ply_nin_gun_select_normal_00				omuk	philipp	sel skill gun	Ninja	stealthy		Matchlock's ready.	2		0	Matchlock's ready.		火绳枪就绪	
+vo_ply_ply_	nin_	gun_select_	normal_01	vo_ply_ply_nin_gun_select_normal_01				omuk	philipp	sel skill gun	Ninja	stealthy		Pistol is ready.	3		0	Pistol is ready.		手枪就绪	
+vo_ply_ply_	nin_	gun_select_	normal_02	vo_ply_ply_nin_gun_select_normal_02				omuk	philipp	sel skill gun	Ninja	stealthy		Ready and loaded.	3		0	Ready and loaded.		枪已上膛	
+vo_ply_ply_	nin_	gun_select_	tense_00	vo_ply_ply_nin_gun_select_tense_00				omuk	philipp	sel skill gun	Ninja	tense		Matchlock ready!	2		0	Matchlock ready!		火绳枪就绪！	
+vo_ply_ply_	nin_	gun_select_	tense_01	vo_ply_ply_nin_gun_select_tense_01				omuk	philipp	sel skill gun	Ninja	tense		Pistol ready!	2		0	Pistol ready!		手枪就绪！	
+vo_ply_ply_	nin_	gun_select_	tense_02	vo_ply_ply_nin_gun_select_tense_02				omuk	philipp	sel skill gun	Ninja	tense		Ready and loaded!	3		0	Ready and loaded!		枪已上膛！	
+vo_ply_ply_	nin_	gun_select_	dark_00	vo_ply_ply_nin_gun_select_dark_00				omuk	philipp	sel skill gun	Ninja	quiet anger		Aiming …	2		0	Aiming…	YES	正在瞄准…	
+vo_ply_ply_	nin_	gun_comment_	normal_00	vo_ply_ply_nin_gun_comment_normal_00				omuk		after skill gun	Ninja	stealthy	"rare after shot
+not after last shot"	Reloading …	2		0	Reloading…	YES	重新装弹中…	
+vo_ply_ply_	nin_	gun_comment_	normal_01	vo_ply_ply_nin_gun_comment_normal_01				omuk		after skill gun	Ninja	stealthy	after loading last shot	Last shot …	3		0	Last shot…	YES	最后一发…	
+vo_ply_ply_	nin_	gun_comment_	tense_00	vo_ply_ply_nin_gun_comment_tense_00				omuk		after skill gun	Ninja	tense		Reloading!	1		0	Reloading.	YES	重新装弹中	
+vo_ply_ply_	nin_	gun_comment_	tense_01	vo_ply_ply_nin_gun_comment_tense_01				omuk		after skill gun	Ninja	tense		Last shot!	2		0	Last shot!		最后一发!	
+vo_ply_ply_	nin_	gun_comment_	dark_00	vo_ply_ply_nin_gun_comment_dark_00				omuk		after skill gun	Ninja	quiet anger		Reloading …	2		0	Reloading…	YES	重新装弹中…	
+vo_ply_ply_	nin_	gun_comment_	dark_01	vo_ply_ply_nin_gun_comment_dark_01				omuk		after skill gun	Ninja	quiet anger		Last shot …	3		0	Last shot…	YES	最后一发…	
+vo_ply_ply_	nin_	heal_select_	normal_00	vo_ply_ply_nin_heal_select_normal_00				omuk	philipp	sel skill heal	Ninja	stealthy		Bandages here.	2		0	Bandages here.		这里有绷带	
+vo_ply_ply_	nin_	heal_select_	normal_01	vo_ply_ply_nin_heal_select_normal_01				omuk	philipp	sel skill heal	Ninja	stealthy		I'll patch that up.	4		0	I'll patch that up.		让我看看伤势	
+vo_ply_ply_	nin_	heal_select_	normal_02	vo_ply_ply_nin_heal_select_normal_02				omuk	philipp	sel skill heal	Ninja	stealthy		Anyone need patching up?	4		0	Anyone need patching up?		谁需要包扎吗？	
+vo_ply_ply_	nin_	heal_select_	tense_00	vo_ply_ply_nin_heal_select_tense_00				omuk	philipp	sel skill heal	Ninja	tense		I have bandages.	3		0	I have bandages.		我有绷带	
+vo_ply_ply_	nin_	heal_select_	tense_01	vo_ply_ply_nin_heal_select_tense_01				omuk	philipp	sel skill heal	Ninja	tense		Who's bleeding?	2		0	Who is bleeding?	YES	谁流血了？	
+vo_ply_ply_	nin_	heal_select_	tense_02	vo_ply_ply_nin_heal_select_tense_02				omuk	philipp	sel skill heal	Ninja	tense		I'll take care of it.	5		0	I'll take care of it.		交给我吧	
+vo_ply_ply_	nin_	heal_select_	dark_00	vo_ply_ply_nin_heal_select_dark_00				omuk	philipp	sel skill heal	Ninja	quiet anger		Wounds …	2		0	Wounds…	YES	伤口…	
+vo_ply_ply_	nin_	heal_execute_	normal_00	vo_ply_ply_nin_heal_execute_normal_00				omuk	philipp	use skill heal	Ninja	quietly	(sound) treats wound				0				
+vo_ply_ply_	nin_	heal_execute_	normal_01	vo_ply_ply_nin_heal_execute_normal_01				omuk	philipp	use skill heal	Ninja	quietly	(sound) treats wound				0				
+vo_ply_ply_	nin_	heal_execute_	normal_02	vo_ply_ply_nin_heal_execute_normal_02				omuk	philipp	use skill heal	Ninja	quietly	(sound) treats wound				0				
+vo_ply_ply_	nin_	heal_comment_	normal_00	vo_ply_ply_nin_heal_comment_normal_00				omuk		use skill heal	Ninja	smug	rare	It'll heal.	2		0	It'll heal.		很快就好了	
+vo_ply_ply_	nin_	heal_comment_	normal_01	vo_ply_ply_nin_heal_comment_normal_01				omuk		use skill heal	Ninja	smug	rare	Doesn't look too bad.	4		0	Doesn't look too bad.		不是很严重	
+vo_ply_ply_	nin_	heal_comment_	tense_00	vo_ply_ply_nin_heal_comment_tense_00				omuk		use skill heal	Ninja	tense	rare	Fixed.	1		0	Fixed.		治好了	
+vo_ply_ply_	nin_	heal_comment_	tense_01	vo_ply_ply_nin_heal_comment_tense_01				omuk		use skill heal	Ninja	tense	rare	Nothing fatal.	2		0	Nothing fatal.		没有大碍	
+vo_ply_ply_	nin_	heal_comment_	dark_00	vo_ply_ply_nin_heal_comment_dark_00				omuk		use skill heal	Ninja	quiet anger	rare	Can't die yet.	3		0	Can't die yet.		还死不了	
+vo_ply_ply_	nin_	key_door_	normal_00	vo_ply_ply_nin_key_door_normal_00				omuk	philipp	can't open locked gate	Ninja	stealthy		Locked. Better find the key.	5		0	Locked. Better find a key.	YES	上锁了，最好去找钥匙	
+vo_ply_ply_	nin_	key_door_	normal_01	vo_ply_ply_nin_key_door_normal_01				omuk	philipp	can't open locked gate	Ninja	stealthy		Can't get through without a key.	6		0	Can't get through without a key.		没有钥匙过不去	
+vo_ply_ply_	nin_	key_door_	normal_02	vo_ply_ply_nin_key_door_normal_02				omuk	philipp	can't open locked gate	Ninja	stealthy		I hate locks. Let's find the key.	7		0	I hate locks. Let's find the key.		就烦这些锁，去找钥匙吧	
+vo_ply_ply_	nin_	key_pickup_	normal_00	vo_ply_ply_nin_key_pickup_normal_00				omuk	philipp	pickup key	Ninja	stealthy		That key is mine.	4		0	This key is mine.	YES	钥匙是我的	
+vo_ply_ply_	nin_	key_pickup_	normal_01	vo_ply_ply_nin_key_pickup_normal_01				omuk	philipp	pickup key	Ninja	stealthy		I'll take this key.	4		0	I'll take this key.		钥匙归我了	
+vo_ply_ply_	nin_	key_pickup_	normal_02	vo_ply_ply_nin_key_pickup_normal_02				omuk	philipp	pickup key	Ninja	stealthy		A key. Could be useful.	5		0	A key. Could be useful.		是把钥匙，说不定有用	
+vo_ply_ply_	nin_	key_unlock_	normal_00	vo_ply_ply_nin_key_unlock_normal_00				omuk	philipp	unlock gate with key	Ninja	stealthy		There. Open for everyone.	4		0	There. Open for everyone.		好了，锁打开了	
+vo_ply_ply_	nin_	key_unlock_	normal_01	vo_ply_ply_nin_key_unlock_normal_01				omuk	philipp	unlock gate with key	Ninja	stealthy		We can go through here now.	6		0	We can go through here now.		可以通过这里了	
+vo_ply_ply_	nin_	key_unlock_	normal_02	vo_ply_ply_nin_key_unlock_normal_02				omuk	philipp	unlock gate with key	Ninja	stealthy		Good thing I have the key.	6		0	Good thing I have the key.		还好我有钥匙	
+vo_ply_ply_	nin_	joke_wait	normal_00	vo_ply_ply_nin_joke_waitnormal_00				omuk		waiting too long	Ninja		starts snoring in the end	Tired of waiting. Taking a nap …	7		0	Oy, tired of waiting. Taking a nap…	YES	等得烦了，让我睡个午觉吧…	
+vo_ply_ply_	nin_	joke_running	normal_00	vo_ply_ply_nin_joke_runningnormal_00				omuk		running too much	Ninja			We there yet? Who has the map? Do we have a map? Hello?	13		0	Are we there yet? Who has the map? Do we have a map? Hello?	YES	还没跑到吗？地图在谁那儿？话说到底有地图吗？听得到我说话么？	
+vo_ply_ply_	nin_	joke_dropkill	normal_00	vo_ply_ply_nin_joke_dropkillnormal_00				omuk		dropkill 0.001% chance	Ninja		unused, don't record		0		0				
+vo_ply_ply_	nin_	joke_dropkill	normal_01	vo_ply_ply_nin_joke_dropkillnormal_01				omuk		dropkill 0.001% chance	Ninja		quote from Assassin's Creed 2	Requiescat in Pace.	3		0	Requiescat in Pace.		愿死亡带给你平静,安息吧	
+vo_ply_ply_	nin_	joke_char_select_	normal_00	vo_ply_ply_nin_joke_char_select_normal_00				omuk		char select too often	Ninja		talks to the player	Who's doing that?	3		0	Aw, come on. Who's doing that?	YES	噢，别闹了，谁在那狂点我？	
+vo_ply_ply_	nin_	joke_char_select_	normal_01	vo_ply_ply_nin_joke_char_select_normal_01				omuk		char select too often	Ninja		talks to the player	Think this is funny?	4		0	You think this is funny?	YES	你觉得很好玩吗？	
+vo_ply_ply_	nin_	joke_char_select_	normal_02	vo_ply_ply_nin_joke_char_select_normal_02				omuk		char select too often	Ninja		talks to the player	What? Stop it!	3		0	What? Stop it!		干什么？别按了！	
+vo_ply_ply_	nin_	joke_char_select_	normal_03	vo_ply_ply_nin_joke_char_select_normal_03				omuk		char select too often	Ninja		talks to the player	That's it! Putting you on my list.	7		0	That's it! Putting you on my list.		我受够了！我要把你放到暗杀名单里	
+vo_ply_ply_	nin_	joke_char_select_	normal_04	vo_ply_ply_nin_joke_char_select_normal_04				omuk		char select too often	Ninja		talks to the player	Better lock your doors. Board your windows.	7		0	Better lock your doors. Board your windows.		劝你把家门关好，窗子封上	
+vo_ply_ply_	nin_	joke_char_select_	normal_05	vo_ply_ply_nin_joke_char_select_normal_05				omuk		char select too often	Ninja		talks to the player	Think I'll take a finger for this. Or two.	9		0	Think I'll take a finger for this. Or two.		我得去收你一两根指头	
+vo_ply_ply_	nin_	joke_char_select_	normal_06	vo_ply_ply_nin_joke_char_select_normal_06				omuk		char select too often	Ninja		talks to the player	Maybe put poison in your soup. Spikes in your mattress.	10		0	Maybe put poison in your soup. Spikes in your mattress.		或者在你汤里下毒，床垫上放钉子	
+vo_ply_ply_	nin_	joke_char_select_	normal_07	vo_ply_ply_nin_joke_char_select_normal_07				omuk		char select too often	Ninja		talks to the player	Maybe I'm waiting for you already, there, outside of your room.	11		0	Maybe I'm waiting for you already—there, outside your room.	YES	说不定我已经在等着你了，对，就在你房门外	
+vo_ply_ply_	nin_	joke_char_select_	normal_08	vo_ply_ply_nin_joke_char_select_normal_08				omuk		char select too often	Ninja		talks to the player	Maybe I'm behind you right now! Better not turn around!	10		0	Maybe I'm behind you right now! Better not turn around!		说不定我现在就站在你后面！劝你不要转身！	
+vo_ply_ply_	nin_	joke_char_select_	normal_09	vo_ply_ply_nin_joke_char_select_normal_09				omuk		char select too often	Ninja		talks to the player	Point is, you won't see me coming if you don't STOP–IT–RIGHT–NOW!	11		0	Point is, you won't see me coming if you don't STOP–IT–RIGHT–NOW!		总之，我会让你死得不明不白，除非你-立-刻-住-手！	
+vo_ply_ply_	nin_	joke_char_select_	normal_10	vo_ply_ply_nin_joke_char_select_normal_10				omuk		char select too often	Ninja		unused, don't record		0		0				
+vo_ply_ply_	nin_	joke_char_select_	normal_11	vo_ply_ply_nin_joke_char_select_normal_11				omuk		char select too often	Ninja		quote from Witcher	This sword is for monsters.	5		0	This sword is for monsters.		这把剑是对付怪物的	
+vo_ply_ply_	nin_	joke_char_select_	normal_12	vo_ply_ply_nin_joke_char_select_normal_12				omuk		char select too often	Ninja		quote from Witcher	I chose the lesser of two evils.	7		0	I chose the lesser of two evils.		两害选其轻	
+vo_ply_ply_	nin_	joke_char_select_	normal_13	vo_ply_ply_nin_joke_char_select_normal_13				omuk		char select too often	Ninja		quote from Metal Gear Solid	This is Snake. Colonel, can you hear me?	8		0	This is Snake. Colonel, can you hear me?		斯内克呼叫，上校，听得到吗？	
+vo_ply_ply_	nin_	joke_char_select_	normal_14	vo_ply_ply_nin_joke_char_select_normal_14				omuk		char select too often	Ninja		quote from Metal Gear Solid	Kept you waiting, huh. 	5		0	Kept you waiting, huh. 		让你久等了，嗯？	链接
+vo_ply_ply_	nin_	joke_char_select_	normal_15	vo_ply_ply_nin_joke_char_select_normal_15				omuk		char select too often	Ninja		quote from Metal Gear Solid	A name means nothing on the battlefield.	7		0	A name means nothing on the battlefield.		在战场上，名字没有任何意义	
+vo_ply_ply_	nin_	joke_char_select_	normal_16	vo_ply_ply_nin_joke_char_select_normal_16				omuk		char select too often	Ninja		quote from Metal Gear Solid	I'm no hero. Never was, never will be.	8		0	I'm no hero. Never was, never will be.		我不是英雄，以前不是，以后也不是	
+vo_ply_ply_	nin_	joke_char_select_	normal_17	vo_ply_ply_nin_joke_char_select_normal_17				omuk		char select too often	Ninja		cool action voice	Why do game characters all sound the same?	8		0	Why do the good guys…always sound the same?	YES	为什么好人的声音…听起来都一样？	
+																					
+														WORDCOUNT EN:	972	WORDCOUNT DE:	0				

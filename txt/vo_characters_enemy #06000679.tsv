@@ -1,0 +1,377 @@
+2,3,11														
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE		
+vo_eny_eny_	enemy_00_	alarm_area_00	vo_eny_eny_enemy_00_alarm_area_00	omuk	hambo	Enemy	high tension	sounds the alarm	Sound the alarm!	3	快发警报！	1		
+vo_eny_eny_	enemy_00_	alarm_area_01	vo_eny_eny_enemy_00_alarm_area_01	omuk	hambo	Enemy	high tension	sounds the alarm	We are under attack!	4	我们受到了攻击!	1		
+vo_eny_eny_	enemy_00_	alarm_area_02	vo_eny_eny_enemy_00_alarm_area_02	omuk	hambo	Enemy	high tension	sounds the alarm	To arms!	2	武装起来！	1		
+vo_eny_eny_	enemy_00_	alarm_area_03	vo_eny_eny_enemy_00_alarm_area_03	omuk	hambo	Enemy	high tension	sounds the alarm	Call reinforcements!	2	叫增援!	1		
+vo_eny_eny_	enemy_00_	alarm_area_04	vo_eny_eny_enemy_00_alarm_area_04	omuk	hambo	Enemy	high tension	sounds the alarm	Alert the others!	3	警告其他人!	1		
+vo_eny_eny_	enemy_00_	alarm_local_00	vo_eny_eny_enemy_00_alarm_local_00	omuk	hambo	Enemy	urgent, tense	calls for backup	Over here!	2	在这里!	1		
+vo_eny_eny_	enemy_00_	alarm_local_01	vo_eny_eny_enemy_00_alarm_local_01	omuk	hambo	Enemy	urgent, tense	calls for backup	To me!	2	到我这儿来！	1		
+vo_eny_eny_	enemy_00_	alarm_local_02	vo_eny_eny_enemy_00_alarm_local_02	omuk	hambo	Enemy	urgent, tense	calls for backup	I need backup!	3	我需要支援！	1		
+vo_eny_eny_	enemy_00_	alarm_local_03	vo_eny_eny_enemy_00_alarm_local_03	omuk	hambo	Enemy	urgent, tense	calls for backup	Help!	1	救命！	1		
+vo_eny_eny_	enemy_00_	alarm_local_04	vo_eny_eny_enemy_00_alarm_local_04	omuk	hambo	Enemy	urgent, tense	calls for backup	Assemble!	1	集合！	1		
+vo_eny_eny_	enemy_00_	alarm_local_05	vo_eny_eny_enemy_00_alarm_local_05	omuk	hambo	Enemy	urgent, tense	calls for backup	Men!	1	都过来！	1		
+vo_eny_eny_	enemy_00_	alarm_local_06	vo_eny_eny_enemy_00_alarm_local_06	omuk	hambo	Enemy	urgent, tense	curses	Damn!	1	该死！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_00	vo_eny_eny_enemy_00_alarm_stop_00	omuk	hambo	Enemy	commanding	end of alarm	They have escaped! Stop the alarm!	6	让他们逃了！警报解除！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_01	vo_eny_eny_enemy_00_alarm_stop_01	omuk	hambo	Enemy	commanding	end of alarm	It is over! Back to routine!	6	没事了！各回岗位！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_02	vo_eny_eny_enemy_00_alarm_stop_02	omuk	hambo	Enemy	commanding	end of alarm	They must have fled! Cease the alarm!	7	看来已经逃走了,警报解除！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_03	vo_eny_eny_enemy_00_alarm_stop_03	omuk	hambo	Enemy	commanding	end of alarm	No danger! At ease, everyone!	5	没有危险了！大家解散！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_04	vo_eny_eny_enemy_00_alarm_stop_04	omuk	hambo	Enemy	commanding	end of alarm	We have driven them off!	5	已经把他们赶跑了！	1		
+vo_eny_eny_	enemy_00_	alarm_stop_05	vo_eny_eny_enemy_00_alarm_stop_05	omuk	hambo	Enemy	commanding	end of alarm	All clear!	2	警报解除！	1		
+vo_eny_eny_	enemy_00_	carry_object_00	vo_eny_eny_enemy_00_carry_object_00	omuk		Enemy		(sound) carries heavy object		0		0		
+vo_eny_eny_	enemy_00_	clear_throat_00	vo_eny_eny_enemy_00_clear_throat_00	omuk		Enemy		(sound) clears throat		0		0		
+vo_eny_eny_	enemy_00_	cough_00	vo_eny_eny_enemy_00_cough_00	omuk		Enemy		(sound) coughs		0		0		
+vo_eny_eny_	enemy_00_	danger_toohigh_00	vo_eny_eny_enemy_00_danger_toohigh_00	omuk	hambo	Enemy	angry	has seen a player far above him	They're up there!	3	他们在上方!	1		
+vo_eny_eny_	enemy_00_	danger_toohigh_01	vo_eny_eny_enemy_00_danger_toohigh_01	omuk	hambo	Enemy	angry	has seen a player far above him	They're above us!	3	在我们上面！	1		
+vo_eny_eny_	enemy_00_	danger_toohigh_02	vo_eny_eny_enemy_00_danger_toohigh_02	omuk	hambo	Enemy	angry	has seen a player far above him	They're attacking from above!	4	是从上方攻击的!	1		
+vo_eny_eny_	enemy_00_	danger_unreachable_00	vo_eny_eny_enemy_00_danger_unreachable_00	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	Cowards! Fight like men!	4	懦夫！有本事像男人一样战斗!	1		
+vo_eny_eny_	enemy_00_	danger_unreachable_01	vo_eny_eny_enemy_00_danger_unreachable_01	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	How did they get there?	5	他们是怎么到那种地方的?	1		
+vo_eny_eny_	enemy_00_	danger_unreachable_02	vo_eny_eny_enemy_00_danger_unreachable_02	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	I cannot reach them!	4	我无法接近他们…	1		
+vo_eny_eny_	enemy_00_	death_scream_00	vo_eny_eny_enemy_00_death_scream_00	omuk	hambo	Enemy	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_01	vo_eny_eny_enemy_00_death_scream_01	omuk	hambo	Enemy	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_02	vo_eny_eny_enemy_00_death_scream_02	omuk	hambo	Enemy	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_03	vo_eny_eny_enemy_00_death_scream_03	omuk	hambo	Enemy	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_04	vo_eny_eny_enemy_00_death_scream_04	omuk	hambo	Enemy	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_muffled_00	vo_eny_eny_enemy_00_death_scream_muffled_00	omuk	hambo	Enemy	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_muffled_01	vo_eny_eny_enemy_00_death_scream_muffled_01	omuk	hambo	Enemy	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_muffled_02	vo_eny_eny_enemy_00_death_scream_muffled_02	omuk	hambo	Enemy	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_muffled_03	vo_eny_eny_enemy_00_death_scream_muffled_03	omuk	hambo	Enemy	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	enemy_00_	death_scream_muffled_04	vo_eny_eny_enemy_00_death_scream_muffled_04	omuk	hambo	Enemy	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	enemy_00_	detect_corpse_female_02	vo_eny_eny_enemy_00_detect_corpse_female_02	omuk		Enemy	shocked	sees a corpse	She's dead!	2	她死了！	1		
+vo_eny_eny_	enemy_00_	detect_corpse_female_03	vo_eny_eny_enemy_00_detect_corpse_female_03	omuk		Enemy	shocked	sees a corpse	They killed her!	3	他们杀了她！	1		
+vo_eny_eny_	enemy_00_	detect_corpse_male_00	vo_eny_eny_enemy_00_detect_corpse_male_00	omuk		Enemy	shocked	sees a corpse	He is dead!	3	他死了！	1		
+vo_eny_eny_	enemy_00_	detect_corpse_male_01	vo_eny_eny_enemy_00_detect_corpse_male_01	omuk		Enemy	shocked	sees a corpse	They killed him!	3	他们杀了他！	1		
+vo_eny_eny_	enemy_00_	detect_corpse_neutral_02	vo_eny_eny_enemy_00_detect_corpse_neutral_02	omuk	hambo	Enemy	shocked	sees a corpse	Murder!	1	杀人了！	1		
+vo_eny_eny_	enemy_00_	detect_corpse_neutral_03	vo_eny_eny_enemy_00_detect_corpse_neutral_03	omuk	hambo	Enemy	shocked	sees a corpse	Assassins!	1	有刺客！	1		
+vo_eny_eny_	enemy_00_	detect_footsteps_00	vo_eny_eny_enemy_00_detect_footsteps_00	omuk	hambo	Enemy	suspicious	sees player footprints	Hrm? Footprints …	3	嗯？脚印……	1		
+vo_eny_eny_	enemy_00_	detect_footsteps_01	vo_eny_eny_enemy_00_detect_footsteps_01	omuk	hambo	Enemy	suspicious	sees player footprints	Who made those footprints?	4	是谁的脚印？	1		
+vo_eny_eny_	enemy_00_	detect_footsteps_02	vo_eny_eny_enemy_00_detect_footsteps_02	omuk	hambo	Enemy	suspicious	sees player footprints	Who left those tracks!	4	是谁留下了的足迹！	1		
+vo_eny_eny_	enemy_00_	detect_footsteps_03	vo_eny_eny_enemy_00_detect_footsteps_03	omuk	hambo	Enemy	suspicious	sees player footprints	Those tracks are foreign!	4	是外人的足迹	1		
+vo_eny_eny_	enemy_00_	detect_footsteps_04	vo_eny_eny_enemy_00_detect_footsteps_04	omuk	hambo	Enemy	suspicious	sees player footprints	Is someone sneaking around?	4	有人潜伏在附近吗？	1		
+vo_eny_eny_	enemy_00_	detect_lightsource_00	vo_eny_eny_enemy_00_detect_lightsource_00	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	The light went out …	5	灯灭了……	1		
+vo_eny_eny_	enemy_00_	detect_lightsource_01	vo_eny_eny_enemy_00_detect_lightsource_01	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	Wind killed the flame.	4	风把火吹灭了	1		
+vo_eny_eny_	enemy_00_	detect_lightsource_02	vo_eny_eny_enemy_00_detect_lightsource_02	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	That light should be burning.	5	灯必须点亮	1		
+vo_eny_eny_	enemy_00_	detect_lightsource_03	vo_eny_eny_enemy_00_detect_lightsource_03	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	Someone was careless with the lamp.	6	是谁没看好火	1		
+vo_eny_eny_	enemy_00_	detect_lightsource_04	vo_eny_eny_enemy_00_detect_lightsource_04	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	The fire died …	4	火灭了……	1		
+vo_eny_eny_	enemy_00_	detect_player_00	vo_eny_eny_enemy_00_detect_player_00	omuk	hambo	Enemy	agressive	sees a player character	Don't move!	2	别动!	1		
+vo_eny_eny_	enemy_00_	detect_player_01	vo_eny_eny_enemy_00_detect_player_01	omuk	hambo	Enemy	agressive	sees a player character	Stop!	1	停下！	1		
+vo_eny_eny_	enemy_00_	detect_player_02	vo_eny_eny_enemy_00_detect_player_02	omuk	hambo	Enemy	agressive	sees a player character	Halt!	1	站住！	1		
+vo_eny_eny_	enemy_00_	detect_player_03	vo_eny_eny_enemy_00_detect_player_03	omuk	hambo	Enemy	agressive	sees a player character	I see you!	3	我看到你了！	1		
+vo_eny_eny_	enemy_00_	detect_player_04	vo_eny_eny_enemy_00_detect_player_04	omuk	hambo	Enemy	agressive	sees a player character	You there!	2	那边的!	1		
+vo_eny_eny_	enemy_00_	detect_player_05	vo_eny_eny_enemy_00_detect_player_05	omuk	hambo	Enemy	agressive	sees a player character	Stop right there!	3	站住别动！	1		
+vo_eny_eny_	enemy_00_	detect_player_06	vo_eny_eny_enemy_00_detect_player_06	omuk	hambo	Enemy	agressive	sees a player character	Intruder!	1	有入侵者！	1		
+vo_eny_eny_	enemy_00_	detect_player_07	vo_eny_eny_enemy_00_detect_player_07	omuk	hambo	Enemy	agressive	sees a player character	Die, scum!	2	死吧，渣滓！	1		
+vo_eny_eny_	enemy_00_	detect_player_08	vo_eny_eny_enemy_00_detect_player_08	omuk	hambo	Enemy	agressive	sees a player character	I've got you!	3	我找到你了！	1		
+vo_eny_eny_	enemy_00_	detect_player_09	vo_eny_eny_enemy_00_detect_player_09	omuk	hambo	Enemy	agressive	sees a player character	Hey you!	2	喂，你!	1		
+vo_eny_eny_	enemy_00_	detect_player_10	vo_eny_eny_enemy_00_detect_player_10	omuk	hambo	Enemy	agressive	sees a player character	Death to the attacker!	4	干掉入侵者！	1		
+vo_eny_eny_	enemy_00_	detect_player_11	vo_eny_eny_enemy_00_detect_player_11	omuk	hambo	Enemy	agressive	sees a player character	Kill the assailant!	3	干掉刺客！	1		
+vo_eny_eny_	enemy_00_	detect_player_12	vo_eny_eny_enemy_00_detect_player_12	omuk	hambo	Enemy	agressive	sees a player character	Shogunate men!	2	将军的走狗！	1		
+vo_eny_eny_	enemy_00_	detect_player_13	vo_eny_eny_enemy_00_detect_player_13	omuk	hambo	Enemy	agressive	sees a player character	It's them!	2	是他们!	1		
+vo_eny_eny_	enemy_00_	detect_player_14	vo_eny_eny_enemy_00_detect_player_14	omuk	hambo	Enemy	agressive	sees a player character	You shouldn't be here!	4	你不该在这儿出现!	1		
+vo_eny_eny_	enemy_00_	detect_player_15	vo_eny_eny_enemy_00_detect_player_15	omuk	hambo	Enemy	agressive	sees a player character	I will take care of you!	6	让我来教训你!	1		
+vo_eny_eny_	enemy_00_	detect_player_16	vo_eny_eny_enemy_00_detect_player_16	omuk	hambo	Enemy	agressive	sees a player character	Don't try to run!	4	别想跑!	1		
+vo_eny_eny_	enemy_00_	detect_player_17	vo_eny_eny_enemy_00_detect_player_17	omuk	hambo	Enemy	agressive	sees a player character	You won't escape!	3	你逃不掉的!	1		
+vo_eny_eny_	enemy_00_	detect_player_proximity_00	vo_eny_eny_enemy_00_detect_player_proximity_00	omuk	hambo	Enemy	suspicious	senses a nearby player character	Something's wrong …	3	不对劲…	1		
+vo_eny_eny_	enemy_00_	detect_player_proximity_01	vo_eny_eny_enemy_00_detect_player_proximity_01	omuk	hambo	Enemy	suspicious	senses a nearby player character	Strange … it feels like …	6	奇怪…感觉好像…	1		
+vo_eny_eny_	enemy_00_	detect_player_proximity_02	vo_eny_eny_enemy_00_detect_player_proximity_02	omuk	hambo	Enemy	suspicious	senses a nearby player character	Wait … is someone …	5	等等…好像有人…	1		
+vo_eny_eny_	enemy_00_	detect_player_proximity_03	vo_eny_eny_enemy_00_detect_player_proximity_03	omuk	hambo	Enemy	suspicious	senses a nearby player character	There's someone there …	4	感觉…好像有人…	1		
+vo_eny_eny_	enemy_00_	detect_sake_00	vo_eny_eny_enemy_00_detect_sake_00	omuk	hambo	Enemy	I want that	wants to pick up the sake bottle	Hm ... shame to leave that lying around.	8	居然在地上没人要，太浪费了	1		
+vo_eny_eny_	enemy_00_	detect_sake_01	vo_eny_eny_enemy_00_detect_sake_01	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	Oh ... wouldn't mind a cup of sake.	8	来杯清酒也不错	1		
+vo_eny_eny_	enemy_00_	detect_sake_02	vo_eny_eny_enemy_00_detect_sake_02	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	Sake, huh? Could use a sip.	6	清酒？可以小酌一杯	1		
+vo_eny_eny_	enemy_00_	detect_sake_03	vo_eny_eny_enemy_00_detect_sake_03	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	Oooh, sake!	2	哇，清酒！	1		
+vo_eny_eny_	enemy_00_	detect_sake_04	vo_eny_eny_enemy_00_detect_sake_04	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	A nice bottle of sake.	5	是上等清酒	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_00	vo_eny_eny_enemy_00_detect_tanuki_00	omuk	hambo	Enemy	surprised	sees the tanuki	Oh? It's a tanuki!	4	哦？是只狸猫！	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_01	vo_eny_eny_enemy_00_detect_tanuki_01	omuk	hambo	Enemy	Intrigued	sees the tanuki	Curious creature.	2	有趣的动物	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_02	vo_eny_eny_enemy_00_detect_tanuki_02	omuk	hambo	Enemy	amused	sees the tanuki	What are you doing here?	5	你在这儿干什么呀？	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_03	vo_eny_eny_enemy_00_detect_tanuki_03	omuk	hambo	Enemy	friendly	sees the tanuki	A tanuki? You hungry?	4	是狸猫！你饿不饿？	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_04	vo_eny_eny_enemy_00_detect_tanuki_04	omuk	hambo	Enemy	annoyed	sees the tanuki	Hey! Why so loud?	4	喂！叫这么大声干嘛?	1		
+vo_eny_eny_	enemy_00_	detect_tanuki_05	vo_eny_eny_enemy_00_detect_tanuki_05	omuk	hambo	Enemy	annoyed	sees the tanuki	Ha, a tanuki!	3	什么啊，原来是狸猫！	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_female_01	vo_eny_eny_enemy_00_detect_unconscious_female_01	omuk		Enemy	concerned	sees unconcious person	She's unconscious.	2	她晕过去了	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_female_02	vo_eny_eny_enemy_00_detect_unconscious_female_02	omuk		Enemy	concerned	sees unconcious person	She's been hit!	3	她受了重击	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_female_03	vo_eny_eny_enemy_00_detect_unconscious_female_03	omuk		Enemy	concerned	sees unconcious person	She's been attacked.	3	她被袭击了	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_male_00	vo_eny_eny_enemy_00_detect_unconscious_male_00	omuk		Enemy	concerned	sees unconcious person	He's unconscious.	2	他晕过去了	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_male_01	vo_eny_eny_enemy_00_detect_unconscious_male_01	omuk		Enemy	concerned	sees unconcious person	He's been hit!	3	他受了重击	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_male_02	vo_eny_eny_enemy_00_detect_unconscious_male_02	omuk		Enemy	concerned	sees unconcious person	He's been attacked.	3	他被袭击了	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_01	vo_eny_eny_enemy_00_detect_unconscious_neutral_01	omuk	hambo	Enemy	concerned	sees unconcious person	What happened?	2	发生了什么？	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_02	vo_eny_eny_enemy_00_detect_unconscious_neutral_02	omuk	hambo	Enemy	concerned	sees unconcious person	Hey! What's wrong with you?	5	喂！你怎么了？	1		
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_03	vo_eny_eny_enemy_00_detect_unconscious_neutral_03	omuk	hambo	Enemy	concerned	sees unconcious person	Are you sleeping?	3	你在睡觉吗?	1		
+vo_eny_eny_	enemy_00_	drink_sake_00	vo_eny_eny_enemy_00_drink_sake_00	omuk		Enemy		(sound) drink sake		0		0		
+vo_eny_eny_	enemy_00_	drop_object_00	vo_eny_eny_enemy_00_drop_object_00	omuk		Enemy		(sound) lay down heavy object		0		0		
+vo_eny_eny_	enemy_00_	friend_missing_female_00	vo_eny_eny_enemy_00_friend_missing_female_00	omuk		Enemy	concerned	his partner is missing	She left her post.	4	她擅离岗位	1		
+vo_eny_eny_	enemy_00_	friend_missing_female_01	vo_eny_eny_enemy_00_friend_missing_female_01	omuk		Enemy	concerned	his partner is missing	Where is she?	3	她去哪了?	1		
+vo_eny_eny_	enemy_00_	friend_missing_female_02	vo_eny_eny_enemy_00_friend_missing_female_02	omuk		Enemy	concerned	his partner is missing	What's keeping her?	3	她干什么去了？	1		
+vo_eny_eny_	enemy_00_	friend_missing_female_03	vo_eny_eny_enemy_00_friend_missing_female_03	omuk		Enemy	concerned	his partner is missing	She's been gone too long.	5	她怎么这么久不回来	1		
+vo_eny_eny_	enemy_00_	friend_missing_female_04	vo_eny_eny_enemy_00_friend_missing_female_04	omuk		Enemy	concerned	his partner is missing	She's missing!	2	她不见了!	1		
+vo_eny_eny_	enemy_00_	friend_missing_male_00	vo_eny_eny_enemy_00_friend_missing_male_00	omuk	hambo	Enemy	concerned	his partner is missing	He left his post.	4	他擅离岗位	1		
+vo_eny_eny_	enemy_00_	friend_missing_male_01	vo_eny_eny_enemy_00_friend_missing_male_01	omuk	hambo	Enemy	concerned	his partner is missing	Where is he?	3	他去哪了?	1		
+vo_eny_eny_	enemy_00_	friend_missing_male_02	vo_eny_eny_enemy_00_friend_missing_male_02	omuk	hambo	Enemy	concerned	his partner is missing	What's keeping him so long?	5	他干什么去了？	1		
+vo_eny_eny_	enemy_00_	friend_missing_male_03	vo_eny_eny_enemy_00_friend_missing_male_03	omuk	hambo	Enemy	concerned	his partner is missing	He's been gone too long.	5	他怎么这么久不回来	1		
+vo_eny_eny_	enemy_00_	friend_missing_male_04	vo_eny_eny_enemy_00_friend_missing_male_04	omuk	hambo	Enemy	concerned	his partner is missing	He's missing!	2	他不见了!	1		
+vo_eny_eny_	enemy_00_	friend_wakeup_00	vo_eny_eny_enemy_00_friend_wakeup_00	omuk	hambo	Enemy	urgent	wakes unconcious person	Hey! Wake up!	3	喂！醒醒！	1		
+vo_eny_eny_	enemy_00_	friend_wakeup_01	vo_eny_eny_enemy_00_friend_wakeup_01	omuk	hambo	Enemy	urgent	wakes unconcious person	Get up!	2	起来!	1		
+vo_eny_eny_	enemy_00_	friend_wakeup_02	vo_eny_eny_enemy_00_friend_wakeup_02	omuk	hambo	Enemy	urgent	wakes unconcious person	Are you alright?	3	你还好吗？	1		
+vo_eny_eny_	enemy_00_	friend_wakeup_03	vo_eny_eny_enemy_00_friend_wakeup_03	omuk	hambo	Enemy	urgent	wakes unconcious person	What happened to you?	4	你怎么了?	1		
+vo_eny_eny_	enemy_00_	friend_wakeup_04	vo_eny_eny_enemy_00_friend_wakeup_04	omuk	hambo	Enemy	urgent	wakes unconcious person	On your feet!	3	站起来!	1		
+vo_eny_eny_	enemy_00_	hard_work_00	vo_eny_eny_enemy_00_hard_work_00	omuk		Enemy		(sound) pushing a cart		0		0		
+vo_eny_eny_	enemy_00_	hear_noise_00	vo_eny_eny_enemy_00_hear_noise_00	omuk	hambo	Enemy	suspicious	hears strange noise	Huh?!	1	嗯?！	1		
+vo_eny_eny_	enemy_00_	hear_noise_01	vo_eny_eny_enemy_00_hear_noise_01	omuk	hambo	Enemy	suspicious	hears strange noise	What was that?	3	什么声音？	1		
+vo_eny_eny_	enemy_00_	hear_noise_02	vo_eny_eny_enemy_00_hear_noise_02	omuk	hambo	Enemy	suspicious	hears strange noise	I heard something …	4	我听到了什么…	1		
+vo_eny_eny_	enemy_00_	hear_noise_03	vo_eny_eny_enemy_00_hear_noise_03	omuk	hambo	Enemy	suspicious	hears strange noise	Strange sound …	3	奇怪的声音……	1		
+vo_eny_eny_	enemy_00_	hear_noise_04	vo_eny_eny_enemy_00_hear_noise_04	omuk	hambo	Enemy	suspicious	hears strange noise	That noise …	3	这声音…	1		
+vo_eny_eny_	enemy_00_	hear_noise_directhit_00	vo_eny_eny_enemy_00_hear_noise_directhit_00	omuk		Enemy	very irritated	is hit by stone	Ow! Who dares?	3	嗷！竟敢打我,胆小鬼!	1		
+vo_eny_eny_	enemy_00_	hear_noise_directhit_01	vo_eny_eny_enemy_00_hear_noise_directhit_01	omuk		Enemy	very irritated	is hit by stone	Argh … you will pay for this!	7	嗷！你会为此付出代价的！	1		
+vo_eny_eny_	enemy_00_	hear_noise_directhit_02	vo_eny_eny_enemy_00_hear_noise_directhit_02	omuk		Enemy	very irritated	is hit by stone	Gah! Show yourself, now!	4	啊！快给我出来！	1		
+vo_eny_eny_	enemy_00_	hear_noise_directhit_03	vo_eny_eny_enemy_00_hear_noise_directhit_03	omuk		Enemy	very irritated	is hit by stone	Ouch! Stop this!	3	痛！快住手!	1		
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_00	vo_eny_eny_enemy_00_hear_noise_gunshot_00	omuk		Enemy	alarmed	hears player gunshot	Why is there shooting?	4	怎么会有枪声?	1		
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_01	vo_eny_eny_enemy_00_hear_noise_gunshot_01	omuk		Enemy	alarmed	hears player gunshot	Gunshots! Alarm!	2	有枪声!快发警报！	1		
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_02	vo_eny_eny_enemy_00_hear_noise_gunshot_02	omuk		Enemy	alarmed	hears player gunshot	The enemy has firearms!	4	敌人有枪！	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_00	vo_eny_eny_enemy_00_hear_noise_human_00	omuk	hambo	Enemy	tense	hears human noise	Someone there?	2	有人在那儿吗?	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_01	vo_eny_eny_enemy_00_hear_noise_human_01	omuk	hambo	Enemy	tense	hears human noise	Who goes there?	3	谁在那儿?	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_02	vo_eny_eny_enemy_00_hear_noise_human_02	omuk	hambo	Enemy	tense	hears human noise	I heard that!	3	我听到了!	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_03	vo_eny_eny_enemy_00_hear_noise_human_03	omuk	hambo	Enemy	tense	hears human noise	Who's making noise?	3	是谁的声音？	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_04	vo_eny_eny_enemy_00_hear_noise_human_04	omuk	hambo	Enemy	tense	hears human noise	Who hides in the shadows?	5	是谁藏在暗处？	1		
+vo_eny_eny_	enemy_00_	hear_noise_human_05	vo_eny_eny_enemy_00_hear_noise_human_05	omuk	hambo	Enemy	tense	hears human noise	Who is this?	3	是谁?	1		
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_00	vo_eny_eny_enemy_00_hear_noise_toomuch_00	omuk	hambo	Enemy	irritated	hears continuous string of strange noises	Enough already!	2	够了!	1		
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_01	vo_eny_eny_enemy_00_hear_noise_toomuch_01	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	Who is doing this?	4	是谁在作怪？	1		
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_02	vo_eny_eny_enemy_00_hear_noise_toomuch_02	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	Show yourself!	2	快出来！	1		
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_03	vo_eny_eny_enemy_00_hear_noise_toomuch_03	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	This is not funny!	4	一点也不好玩！	1		
+vo_eny_eny_	enemy_00_	hum_00	vo_eny_eny_enemy_00_hum_00	omuk		Enemy		(sound) humming tune		0		0		
+vo_eny_eny_	enemy_00_	investigate_accident_start_00	vo_eny_eny_enemy_00_investigate_accident_start_00	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	What happened?	2	发生了什么？	1		
+vo_eny_eny_	enemy_00_	investigate_accident_start_01	vo_eny_eny_enemy_00_investigate_accident_start_01	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	How did this happen?	4	怎么会发生这种事？	1		
+vo_eny_eny_	enemy_00_	investigate_accident_start_02	vo_eny_eny_enemy_00_investigate_accident_start_02	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	Impossible!	1	怎么会...！	1		
+vo_eny_eny_	enemy_00_	investigate_accident_start_03	vo_eny_eny_enemy_00_investigate_accident_start_03	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	B-but … how?!	3	这……怎么会？	1		
+vo_eny_eny_	enemy_00_	investigate_accident_start_04	vo_eny_eny_enemy_00_investigate_accident_start_04	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	No! It can't be!	4	不！怎么不可能!	1		
+vo_eny_eny_	enemy_00_	investigate_accident_stop_00	vo_eny_eny_enemy_00_investigate_accident_stop_00	omuk	hambo	Enemy	accepting	stops investigating accident	Such a shame ...	4	真可怜……	1		
+vo_eny_eny_	enemy_00_	investigate_accident_stop_01	vo_eny_eny_enemy_00_investigate_accident_stop_01	omuk	hambo	Enemy	accepting	stops investigating accident	Karma, eh?	2	所谓，人各有命？	1		
+vo_eny_eny_	enemy_00_	investigate_accident_stop_02	vo_eny_eny_enemy_00_investigate_accident_stop_02	omuk	hambo	Enemy	accepting	stops investigating accident	A terrible tragedy …	4	可悲的事故……	1		
+vo_eny_eny_	enemy_00_	investigate_accident_stop_03	vo_eny_eny_enemy_00_investigate_accident_stop_03	omuk	hambo	Enemy	accepting	stops investigating accident	Fate was unkind today.	4	命运真是无情	1		
+vo_eny_eny_	enemy_00_	investigate_accident_stop_04	vo_eny_eny_enemy_00_investigate_accident_stop_04	omuk	hambo	Enemy	accepting	stops investigating accident	Nothing we can do.	4	我们也无能为力	1		
+vo_eny_eny_	enemy_00_	investigate_bush_00	vo_eny_eny_enemy_00_investigate_bush_00	omuk	hambo	Enemy	agressive	searches bushes for player characters	Hiding in the bushes?!	4	想藏在灌木丛里?	1		
+vo_eny_eny_	enemy_00_	investigate_bush_01	vo_eny_eny_enemy_00_investigate_bush_01	omuk	hambo	Enemy	agressive	searches bushes for player characters	Don't try to hide!	4	别想藏起来!	1		
+vo_eny_eny_	enemy_00_	investigate_bush_02	vo_eny_eny_enemy_00_investigate_bush_02	omuk	hambo	Enemy	agressive	searches bushes for player characters	You cannot fool me!	4	你骗不了我!	1		
+vo_eny_eny_	enemy_00_	investigate_bush_03	vo_eny_eny_enemy_00_investigate_bush_03	omuk	hambo	Enemy	agressive	searches bushes for player characters	Crawling through the thicket?	4	想从灌木丛爬走?	1		
+vo_eny_eny_	enemy_00_	investigate_bush_04	vo_eny_eny_enemy_00_investigate_bush_04	omuk	hambo	Enemy	agressive	searches bushes for player characters	The brush won't protect you!	5	灌木丛也保护不了你!	1		
+vo_eny_eny_	enemy_00_	investigate_door_00	vo_eny_eny_enemy_00_investigate_door_00	omuk	hambo	Enemy	agressive	follows player character inside buildings	Hiding in there, huh?	4	躲进屋里了吧?	1		
+vo_eny_eny_	enemy_00_	investigate_door_01	vo_eny_eny_enemy_00_investigate_door_01	omuk	hambo	Enemy	agressive	follows player character inside buildings	I know you're in there!	5	我知道你在里面!	1		
+vo_eny_eny_	enemy_00_	investigate_door_02	vo_eny_eny_enemy_00_investigate_door_02	omuk	hambo	Enemy	agressive	follows player character inside buildings	You think you're safe in there?	6	你以为在屋里就安全了么？	1		
+vo_eny_eny_	enemy_00_	investigate_end_00	vo_eny_eny_enemy_00_investigate_end_00	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Nobody here.	2	没找到人	1		
+vo_eny_eny_	enemy_00_	investigate_end_01	vo_eny_eny_enemy_00_investigate_end_01	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Gone.	1	人不见了	1		
+vo_eny_eny_	enemy_00_	investigate_end_02	vo_eny_eny_enemy_00_investigate_end_02	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Nothing.	1	什么都没发现	1		
+vo_eny_eny_	enemy_00_	investigate_end_03	vo_eny_eny_enemy_00_investigate_end_03	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Hmm, ran away.	3	逃走了么	1		
+vo_eny_eny_	enemy_00_	investigate_end_04	vo_eny_eny_enemy_00_investigate_end_04	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Must have fled.	3	看来已经逃走	1		
+vo_eny_eny_	enemy_00_	investigate_end_05	vo_eny_eny_enemy_00_investigate_end_05	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	Huh … can't find anyone.	5	一个人都没发现	1		
+vo_eny_eny_	enemy_00_	investigate_missing_00	vo_eny_eny_enemy_00_investigate_missing_00	omuk	hambo	Enemy	annoyed	searches the area for missing friend	Hello?	1	在么？	1		
+vo_eny_eny_	enemy_00_	investigate_missing_01	vo_eny_eny_enemy_00_investigate_missing_01	omuk	hambo	Enemy	annoyed	searches the area for missing friend	Are you hiding somewhere?	4	你躲到哪儿去了？	1		
+vo_eny_eny_	enemy_00_	investigate_missing_02	vo_eny_eny_enemy_00_investigate_missing_02	omuk	hambo	Enemy	annoyed	searches the area for missing friend	Are you there?	3	你在那里么？	1		
+vo_eny_eny_	enemy_00_	investigate_missing_03	vo_eny_eny_enemy_00_investigate_missing_03	omuk	hambo	Enemy	annoyed	searches the area for missing friend	I'm not in the mood for this!	7	我可没心情闹着玩	1		
+vo_eny_eny_	enemy_00_	investigate_missing_04	vo_eny_eny_enemy_00_investigate_missing_04	omuk	hambo	Enemy	annoyed	searches the area for missing friend	Where are you? Speak up!	5	你在哪里？快回答！	1		
+vo_eny_eny_	enemy_00_	investigate_missing_05	vo_eny_eny_enemy_00_investigate_missing_05	omuk	hambo	Enemy	annoyed	searches the area for missing friend	You hear me?	3	听到了么？	1		
+vo_eny_eny_	enemy_00_	investigate_start_00	vo_eny_eny_enemy_00_investigate_start_00	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	Where are you?	3	人在哪？	1		
+vo_eny_eny_	enemy_00_	investigate_start_01	vo_eny_eny_enemy_00_investigate_start_01	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	Anyone here?	2	有人吗？	1		
+vo_eny_eny_	enemy_00_	investigate_start_02	vo_eny_eny_enemy_00_investigate_start_02	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	I know you're here!	4	我知道你在附近！	1		
+vo_eny_eny_	enemy_00_	investigate_start_03	vo_eny_eny_enemy_00_investigate_start_03	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	I will find you!	4	我会找到你的	1		
+vo_eny_eny_	enemy_00_	investigate_start_04	vo_eny_eny_enemy_00_investigate_start_04	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	Come forward!	2	快出来！	1		
+vo_eny_eny_	enemy_00_	investigate_too_long_00	vo_eny_eny_enemy_00_investigate_too_long_00	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	Eh, not worth the walk.	5	没必跑这么远过去	1		
+vo_eny_eny_	enemy_00_	investigate_too_long_01	vo_eny_eny_enemy_00_investigate_too_long_01	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	No, that's too far off.	5	太远了，没必要	1		
+vo_eny_eny_	enemy_00_	investigate_too_long_02	vo_eny_eny_enemy_00_investigate_too_long_02	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	No, that's way over there.	5	没必要，实在太远了	1		
+vo_eny_eny_	enemy_00_	investigate_unreachable_00	vo_eny_eny_enemy_00_investigate_unreachable_00	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	No, I can't reach that.	5	没办法，我到不了那里	1		
+vo_eny_eny_	enemy_00_	investigate_unreachable_01	vo_eny_eny_enemy_00_investigate_unreachable_01	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	Eh, the path is blocked.	5	找不到去那边的路	1		
+vo_eny_eny_	enemy_00_	investigate_unreachable_02	vo_eny_eny_enemy_00_investigate_unreachable_02	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	That's too much trouble.	4	没必要，太麻烦了	1		
+vo_eny_eny_	enemy_00_	knockout_scream_00	vo_eny_eny_enemy_00_knockout_scream_00	omuk	hambo	Enemy	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	enemy_00_	knockout_scream_01	vo_eny_eny_enemy_00_knockout_scream_01	omuk	hambo	Enemy	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	enemy_00_	knockout_scream_02	vo_eny_eny_enemy_00_knockout_scream_02	omuk	hambo	Enemy	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	enemy_00_	knockout_scream_03	vo_eny_eny_enemy_00_knockout_scream_03	omuk	hambo	Enemy	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	enemy_00_	knockout_scream_04	vo_eny_eny_enemy_00_knockout_scream_04	omuk	hambo	Enemy	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	enemy_00_	laugh_evil_00	vo_eny_eny_enemy_00_laugh_evil_00	omuk		Enemy		(sound) dark laugh		0		0		
+vo_eny_eny_	enemy_00_	laugh_good_00	vo_eny_eny_enemy_00_laugh_good_00	omuk		Enemy		(sound) humorous laugh		0		0		
+vo_eny_eny_	enemy_00_	make_toast_00	vo_eny_eny_enemy_00_make_toast_00	omuk		Enemy		(sound) makes a toast		0		0		
+vo_eny_eny_	enemy_00_	officer_alert_00	vo_eny_eny_enemy_00_officer_alert_00	omuk		Enemy	tense	instructs other guards to stay alert	Stay vigilant. We have assassins in our midst.	8	保持警惕，附近有刺客	1		
+vo_eny_eny_	enemy_00_	officer_alert_01	vo_eny_eny_enemy_00_officer_alert_01	omuk		Enemy	tense	instructs other guards to stay alert	The enemy is among us. Stay sharp.	7	敌人还在附近，保持警觉	1		
+vo_eny_eny_	enemy_00_	officer_alert_02	vo_eny_eny_enemy_00_officer_alert_02	omuk		Enemy	tense	instructs other guards to stay alert	Don't be fooled. They are still here.	7	别被骗了，他们还在附近	1		
+vo_eny_eny_	enemy_00_	officer_alert_03	vo_eny_eny_enemy_00_officer_alert_03	omuk		Enemy	tense	instructs other guards to stay alert	Watch the shadows. It's where they hide.	7	注意，他们喜欢藏在暗处	1		
+vo_eny_eny_	enemy_00_	officer_alert_04	vo_eny_eny_enemy_00_officer_alert_04	omuk		Enemy	tense	instructs other guards to stay alert	Keep together. Don't let them separate you.	7	要一起行动，别东一个西一个	1		
+vo_eny_eny_	enemy_00_	officer_alert_05	vo_eny_eny_enemy_00_officer_alert_05	omuk		Enemy	tense	instructs other guards to stay alert	They are looking for weakness. Give them death.	8	他们正在观察我们的弱点，我们要先下手为强	1		
+vo_eny_eny_	enemy_00_	officer_alert_06	vo_eny_eny_enemy_00_officer_alert_06	omuk		Enemy	tense	instructs other guards to stay alert	Attack on sight. Show no mercy.	6	格杀勿论，不要心慈手软	1		
+vo_eny_eny_	enemy_00_	officer_alert_07	vo_eny_eny_enemy_00_officer_alert_07	omuk		Enemy	tense	instructs other guards to stay alert	Do not cower before common criminals.	6	别害怕这些罪犯	1		
+vo_eny_eny_	enemy_00_	officer_alert_08	vo_eny_eny_enemy_00_officer_alert_08	omuk		Enemy	tense	instructs other guards to stay alert	Teach them fear. Give them no place to hide.	9	让他们无处可藏，尝尝恐惧的滋味	1		
+vo_eny_eny_	enemy_00_	pickup_object_00	vo_eny_eny_enemy_00_pickup_object_00	omuk		Enemy		(sound) pickup heavy object		0		0		
+vo_eny_eny_	enemy_00_	regain_consciousness_00	vo_eny_eny_enemy_00_regain_consciousness_00	omuk	hambo	Enemy	ashamed	knocked out, wakes up	… s-sorry.	2	啊……对不起	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_01	vo_eny_eny_enemy_00_regain_consciousness_01	omuk	hambo	Enemy	headache	knocked out, wakes up	Uh … my head …	5	啊……我的头……	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_02	vo_eny_eny_enemy_00_regain_consciousness_02	omuk	hambo	Enemy	ashamed	knocked out, wakes up	… I am ashamed.	4	……真是丢脸	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_03	vo_eny_eny_enemy_00_regain_consciousness_03	omuk	hambo	Enemy	headache	knocked out, wakes up	Ow … that hurt …	5	嗷……疼……	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_04	vo_eny_eny_enemy_00_regain_consciousness_04	omuk	hambo	Enemy	angry	knocked out, wakes up	… they jumped me!	4	……他们偷袭我！	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_05	vo_eny_eny_enemy_00_regain_consciousness_05	omuk	hambo	Enemy	angry	knocked out, wakes up	… they knocked me out!	5	……他们把我打晕了!	1		
+vo_eny_eny_	enemy_00_	regain_consciousness_06	vo_eny_eny_enemy_00_regain_consciousness_06	omuk	hambo	Enemy	angry	knocked out, wakes up	… I was attacked!	4	……我被偷袭了！	1		
+vo_eny_eny_	enemy_00_	see_flying_body_00	vo_eny_eny_enemy_00_see_flying_body_00	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	Wha... AAH!	2	什么……啊！	1		
+vo_eny_eny_	enemy_00_	see_flying_body_01	vo_eny_eny_enemy_00_see_flying_body_01	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	Uh… ah! AAH!	3	什么……啊啊啊！	1		
+vo_eny_eny_	enemy_00_	see_flying_body_02	vo_eny_eny_enemy_00_see_flying_body_02	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	Hm…! AAH!	2	嗯？……啊！	1		
+vo_eny_eny_	enemy_00_	see_flying_object_00	vo_eny_eny_enemy_00_see_flying_object_00	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	Hey!	1	喂！	1		
+vo_eny_eny_	enemy_00_	see_flying_object_01	vo_eny_eny_enemy_00_see_flying_object_01	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	What the ... ?!	4	什么……?!	1		
+vo_eny_eny_	enemy_00_	see_flying_object_02	vo_eny_eny_enemy_00_see_flying_object_02	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	Huh?! How did …	4	嗯?！怎么……	1		
+vo_eny_eny_	enemy_00_	see_something_00	vo_eny_eny_enemy_00_see_something_00	omuk	hambo	Enemy	suspicious	sees something strange	What?	1	什么？	1		
+vo_eny_eny_	enemy_00_	see_something_01	vo_eny_eny_enemy_00_see_something_01	omuk	hambo	Enemy	suspicious	sees something strange	Huh?	1	嗯?	1		
+vo_eny_eny_	enemy_00_	see_something_02	vo_eny_eny_enemy_00_see_something_02	omuk	hambo	Enemy	suspicious	sees something strange	What's that?	2	那是什么？	1		
+vo_eny_eny_	enemy_00_	see_something_03	vo_eny_eny_enemy_00_see_something_03	omuk	hambo	Enemy	suspicious	sees something strange	Something …	2	好像是……	1		
+vo_eny_eny_	enemy_00_	see_something_04	vo_eny_eny_enemy_00_see_something_04	omuk	hambo	Enemy	suspicious	sees something strange	Hmm …	2	嗯？	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_done_00	vo_eny_eny_enemy_00_skill_tanuki_done_00	omuk	hambo	Enemy	tells tanuki to leave	stops watching tanuki	Right. Better be off now.	5	好了，该回去了	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_done_01	vo_eny_eny_enemy_00_skill_tanuki_done_01	omuk	hambo	Enemy	back to work	stops watching tanuki	Ah, well, back to work.	5	该回去工作了	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_done_02	vo_eny_eny_enemy_00_skill_tanuki_done_02	omuk	hambo	Enemy	apologetic	stops watching tanuki	Sorry, I've got nothing for you.	6	抱歉，身上没吃的	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_done_03	vo_eny_eny_enemy_00_skill_tanuki_done_03	omuk	hambo	Enemy	back to work	stops watching tanuki	Enough. I better get back.	5	好了，得回去工作了	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_done_04	vo_eny_eny_enemy_00_skill_tanuki_done_04	omuk	hambo	Enemy	back to work	stops watching tanuki	Got to go. Take care.	5	好了，该干活了，再见	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_00	vo_eny_eny_enemy_00_skill_tanuki_runaway_00	omuk	hambo	Enemy	disappointed	tanuki runs away	Tsk. Ran off.	3	嘁，跑掉了	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_01	vo_eny_eny_enemy_00_skill_tanuki_runaway_01	omuk	hambo	Enemy	annoyed	tanuki runs away	That's right, away with you.	5	对了，快走	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_02	vo_eny_eny_enemy_00_skill_tanuki_runaway_02	omuk	hambo	Enemy	back to work	tanuki runs away	There he goes. Back to work.	6	走掉了…好，回去工作	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_03	vo_eny_eny_enemy_00_skill_tanuki_runaway_03	omuk	hambo	Enemy	back to work	tanuki runs away	Teh … funny little thing.	5	有趣的小家伙	1		
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_04	vo_eny_eny_enemy_00_skill_tanuki_runaway_04	omuk	hambo	Enemy	goodbye	tanuki runs away	Alright, off you go.	4	好，快走吧	1		
+vo_eny_eny_	enemy_00_	snore_00	vo_eny_eny_enemy_00_snore_00	omuk		Enemy		(sound) snore		0		0		
+vo_eny_eny_	enemy_00_	squad_investigate_end_00	vo_eny_eny_enemy_00_squad_investigate_end_00	omuk	hambo	Enemy	tension releases	squad leader stops investigation	Nothing. Back to your posts.	5	没发现情况，各回岗位吧	1		
+vo_eny_eny_	enemy_00_	squad_investigate_end_01	vo_eny_eny_enemy_00_squad_investigate_end_01	omuk	hambo	Enemy	tension releases	squad leader stops investigation	Long gone. Back to your posts.	6	看来早就跑了，各回岗位吧	1		
+vo_eny_eny_	enemy_00_	squad_investigate_end_02	vo_eny_eny_enemy_00_squad_investigate_end_02	omuk	hambo	Enemy	tension releases	squad leader stops investigation	Nobody here. Back to your posts.	6	没看到人，各回岗位吧	1		
+vo_eny_eny_	enemy_00_	squad_investigate_end_03	vo_eny_eny_enemy_00_squad_investigate_end_03	omuk	hambo	Enemy	tension releases	squad leader stops investigation	Stop your search. Return to your posts.	7	停止搜索，各回岗位吧	1		
+vo_eny_eny_	enemy_00_	squad_investigate_end_04	vo_eny_eny_enemy_00_squad_investigate_end_04	omuk	hambo	Enemy	tension releases	squad leader stops investigation	No danger. Return to your posts.	6	没有危险了，各回岗位吧	1		
+vo_eny_eny_	enemy_00_	squad_investigate_start_00	vo_eny_eny_enemy_00_squad_investigate_start_00	omuk	hambo	Enemy	tense	squad leader starts investigation	We must search the area!	5	必须搜索这片区域!	1		
+vo_eny_eny_	enemy_00_	squad_investigate_start_01	vo_eny_eny_enemy_00_squad_investigate_start_01	omuk	hambo	Enemy	tense	squad leader starts investigation	Everyone! Attack on sight!	4	所有人！看到就立即射击！	1		
+vo_eny_eny_	enemy_00_	squad_investigate_start_02	vo_eny_eny_enemy_00_squad_investigate_start_02	omuk	hambo	Enemy	tense	squad leader starts investigation	Careful, they could still be here!	6	小心，他可能还在附近!	1		
+vo_eny_eny_	enemy_00_	squad_investigate_start_03	vo_eny_eny_enemy_00_squad_investigate_start_03	omuk	hambo	Enemy	tense	squad leader starts investigation	Search everywhere!	2	搜索每个角落！	1		
+vo_eny_eny_	enemy_00_	squad_investigate_start_04	vo_eny_eny_enemy_00_squad_investigate_start_04	omuk	hambo	Enemy	tense	squad leader starts investigation	If you find anyone, show no mercy.	7	发现了就往死里打	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_00	vo_eny_eny_enemy_00_squad_investigate_talk_00	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	Nothing here!	2	什么都没有发现！	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_01	vo_eny_eny_enemy_00_squad_investigate_talk_01	omuk	hambo	Enemy	pondering	squad serches the area, commenting on things	Where did they go?	4	他们到底去哪了?	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_02	vo_eny_eny_enemy_00_squad_investigate_talk_02	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	Eyes open, everyone!	3	每个人都睁大眼睛！	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_03	vo_eny_eny_enemy_00_squad_investigate_talk_03	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	Tracks, maybe?	2	这是足迹吗？	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_04	vo_eny_eny_enemy_00_squad_investigate_talk_04	omuk	hambo	Enemy	frusttrated	squad serches the area, commenting on things	I'm no tracker.	3	追踪我不在行啊	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_05	vo_eny_eny_enemy_00_squad_investigate_talk_05	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	Anyone see them?	3	有人看到他们吗?	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_06	vo_eny_eny_enemy_00_squad_investigate_talk_06	omuk	hambo	Enemy	nervous	squad serches the area, commenting on things	They vanished …	3	他们消失了……	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_07	vo_eny_eny_enemy_00_squad_investigate_talk_07	omuk	hambo	Enemy	nervous	squad serches the area, commenting on things	Are we hunting ghosts?	4	他们难道是鬼魂吗？	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_08	vo_eny_eny_enemy_00_squad_investigate_talk_08	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	What are we looking for?	5	我们到底在找什么?	1		
+vo_eny_eny_	enemy_00_	squad_investigate_talk_09	vo_eny_eny_enemy_00_squad_investigate_talk_09	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	Are they sure they saw something?	6	他们真的看到敌人了吗？	1		
+vo_eny_eny_	enemy_00_	talk_geisha_00	vo_eny_eny_enemy_00_talk_geisha_00	omuk		Enemy	neutral	is approached by Geisha (Excuse me …)	What?	1	怎么了？	1		
+vo_eny_eny_	enemy_00_	talk_geisha_01	vo_eny_eny_enemy_00_talk_geisha_01	omuk		Enemy	friendly	is approached by Geisha (Excuse me …)	Yes?	1	嗯？	1		
+vo_eny_eny_	enemy_00_	talk_geisha_02	vo_eny_eny_enemy_00_talk_geisha_02	omuk		Enemy	shy	is approached by Geisha (Excuse me …)	Oh … uhm … yes?	5	啊…什么事?	1		
+vo_eny_eny_	enemy_00_	talk_geisha_03	vo_eny_eny_enemy_00_talk_geisha_03	omuk		Enemy	friendly	is approached by Geisha (Excuse me …)	How can I help you?	5	我能帮你什么忙吗?	1		
+vo_eny_eny_	enemy_00_	talk_geisha_04	vo_eny_eny_enemy_00_talk_geisha_04	omuk		Enemy	neutral	is approached by Geisha (Excuse me …)	Hmm?	1	嗯？	1		
+vo_eny_eny_	enemy_00_	talk_geisha_leave_00	vo_eny_eny_enemy_00_talk_geisha_leave_00	omuk		Enemy	charmed	"is left by Geisha
+(I thank you. Farewell ...)"	Uh … goodbye.	3	啊…再见	1		
+vo_eny_eny_	enemy_00_	talk_geisha_leave_01	vo_eny_eny_enemy_00_talk_geisha_leave_01	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	It was a pleasure.	4	我也很荣幸	1		
+vo_eny_eny_	enemy_00_	talk_geisha_leave_02	vo_eny_eny_enemy_00_talk_geisha_leave_02	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	Think nothing of it.	4	无须多礼	1		
+vo_eny_eny_	enemy_00_	talk_geisha_leave_03	vo_eny_eny_enemy_00_talk_geisha_leave_03	omuk		Enemy	remembers his duties	"is left by Geisha
+(I thank you. Farewell ...)"	Hrm … right!	3	嗯…得干活了	1		
+vo_eny_eny_	enemy_00_	talk_geisha_leave_04	vo_eny_eny_enemy_00_talk_geisha_leave_04	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	Farewell.	1	幸会	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_00	vo_gothic_gothic_enemy_00_talk_idle_00	omuk		Enemy	relaxed	(sound) humming tune		0		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_01	vo_gothic_gothic_enemy_00_talk_idle_01	omuk		Enemy		(sound) sneeze		0		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_02	vo_gothic_gothic_enemy_00_talk_idle_02	omuk		Enemy	surprised	makes noise on duty	Hmm!	1	哼！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_03	vo_gothic_gothic_enemy_00_talk_idle_03	omuk		Enemy	surprised	makes noise on duty	Ah!	1	啊！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_04	vo_gothic_gothic_enemy_00_talk_idle_04	omuk		Enemy	in thought	makes noise on duty	Hmm …	2	嗯……	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_05	vo_gothic_gothic_enemy_00_talk_idle_05	omuk		Enemy	in thought	makes noise on duty	Hm, yes.	2	嗯，是的	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_06	vo_gothic_gothic_enemy_00_talk_idle_06	omuk		Enemy	relaxed	"makes noise on duty
+(long exhale)"	Hah …	2	呼…	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_00	vo_gothic_gothic_enemy_talk_idle_calm_00	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	We will win.	3	我们会赢的	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_01	vo_gothic_gothic_enemy_talk_idle_calm_01	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	Hrm … curse the Shogun.	5	哼……混蛋将军	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_02	vo_gothic_gothic_enemy_talk_idle_calm_02	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	Aim true …	3	瞄准了！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_03	vo_gothic_gothic_enemy_talk_idle_calm_03	omuk		Enemy	nervous	"makes noise on duty
+(mumbling)"	… hah …	3	……啊……	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_04	vo_gothic_gothic_enemy_talk_idle_calm_04	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	Honour in death …	4	虽死犹容……	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_05	vo_gothic_gothic_enemy_00_talk_idle_battle_05	omuk		Enemy	rush of battle	makes noise in battle	Reloading!	1	装弹中！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_06	vo_gothic_gothic_enemy_00_talk_idle_battle_06	omuk		Enemy	rush of battle	makes noise in battle	I'm reloading!	2	我在重新装弹!	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_07	vo_gothic_gothic_enemy_00_talk_idle_battle_07	omuk		Enemy	rush of battle	makes noise in battle	Cover me!	2	掩护我!	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_08	vo_gothic_gothic_enemy_00_talk_idle_battle_08	omuk		Enemy	rush of battle	makes noise in battle	Die, Shogunate scum!	3	去死吧，幕府人渣!	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_09	vo_gothic_gothic_enemy_00_talk_idle_battle_09	omuk		Enemy	rush of battle	makes noise in battle	Hold the castle!	3	一定要守住城	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_10	vo_gothic_gothic_enemy_00_talk_idle_battle_10	omuk		Enemy	rush of battle	makes noise in battle	Push them back!	3	挡住他们！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_11	vo_gothic_gothic_enemy_00_talk_idle_battle_11	omuk		Enemy	rush of battle	makes noise in battle	Retreat!	1	撤退！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_12	vo_gothic_gothic_enemy_00_talk_idle_battle_12	omuk		Enemy	rush of battle	makes noise in battle	Fall back!	2	撤退!	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_13	vo_gothic_gothic_enemy_00_talk_idle_battle_13	omuk		Enemy	rush of battle	makes noise in battle	Officer dead!	2	指挥官死了！	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_daimyo_00	vo_gothic_gothic_enemy_00_talk_idle_daimyo_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	For lord Yabu.	3	为了薮大人	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_general_00	vo_gothic_gothic_enemy_00_talk_idle_general_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	For lord Okkoto.	3	为了乙事大人	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_00	vo_gothic_gothic_enemy_00_talk_idle_kagesama_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	For Kage-sama.	2	为了影大人	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_01	vo_gothic_gothic_enemy_00_talk_idle_kagesama_01	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	For Lord Noboru.	3	为了昇大人	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_night_00	vo_gothic_gothic_enemy_00_talk_idle_night_00	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	Hmm … sake.	3	嗯…想喝酒了	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_night_01	vo_gothic_gothic_enemy_00_talk_idle_night_01	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	Been up all day.	4	…忙了一整天了	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_night_02	vo_gothic_gothic_enemy_00_talk_idle_night_02	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	Night's dark.	2	夜好黑啊	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_night_03	vo_gothic_gothic_enemy_00_talk_idle_night_03	omuk		Enemy	tired	(sound) short yawn		0		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_night_04	vo_gothic_gothic_enemy_00_talk_idle_night_04	omuk		Enemy	tired	(sound) longer yawn		0		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_00	vo_gothic_gothic_enemy_00_talk_idle_snow_00	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	Damn snow.	2	该死的雪	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_01	vo_gothic_gothic_enemy_00_talk_idle_snow_01	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	It's freezing.	2	真冷啊	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_02	vo_gothic_gothic_enemy_00_talk_idle_snow_02	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	So cold.	2	好冷	1		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_03	vo_gothic_gothic_enemy_00_talk_idle_snow_03	omuk		Enemy	cold	(sound) slight shiver		0		0		
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_04	vo_gothic_gothic_enemy_00_talk_idle_snow_04	omuk		Enemy	cold	(sound) strong shiver		0		0		
+vo_gothic_gothic_	enemy_00_	talk_npc_00	vo_gothic_gothic_enemy_00_talk_npc_00	omuk		Enemy	dismissive	dialog without topic	That doesn't concern me.	4	与我无关咯	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_01	vo_gothic_gothic_enemy_00_talk_npc_01	omuk		Enemy	aggree	dialog without topic	That much is known.	4	对啊是这样的	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_02	vo_gothic_gothic_enemy_00_talk_npc_02	omuk		Enemy	dismissive	dialog without topic	You shouldn't believe everything you hear.	6	不要听到什么都相信啊	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_03	vo_gothic_gothic_enemy_00_talk_npc_03	omuk		Enemy	disagree	dialog without topic	I have heard otherwise.	4	我听到的恰恰相反	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_04	vo_gothic_gothic_enemy_00_talk_npc_04	omuk		Enemy	aggree	dialog without topic	That's how it's always been.	5	一向如此嘛	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_05	vo_gothic_gothic_enemy_00_talk_npc_05	omuk		Enemy	dismissive	dialog without topic	He's a fool. Don't listen to him.	7	他是傻子，别听他的	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_06	vo_gothic_gothic_enemy_00_talk_npc_06	omuk		Enemy	aggree	dialog without topic	We can agree on that.	5	我也是这么想的	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_07	vo_gothic_gothic_enemy_00_talk_npc_07	omuk		Enemy	warning	dialog without topic	Be careful what you say.	5	你说话要小心	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_08	vo_gothic_gothic_enemy_00_talk_npc_08	omuk		Enemy	concerned	dialog without topic	This means trouble.	3	这下麻烦了	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_09	vo_gothic_gothic_enemy_00_talk_npc_09	omuk		Enemy	unconcerned	dialog without topic	It will blow over.	4	很快大家就都忘了	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_00	vo_gothic_gothic_enemy_00_talk_npc_confirm_00	omuk		Enemy	dutiful	confirms orders during battle	Understood.	1	明白	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_01	vo_gothic_gothic_enemy_00_talk_npc_confirm_01	omuk		Enemy	dutiful	confirms orders during battle	Yes, my lord.	3	是的，大人	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_02	vo_gothic_gothic_enemy_00_talk_npc_confirm_02	omuk		Enemy	dutiful	confirms orders during battle	At once.	2	这就去办	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_00	omuk		Enemy	rush of battle	confirms orders during battle	Understood!	1	遵命！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_01	omuk		Enemy	rush of battle	confirms orders during battle	Yes, my lord!	3	是，大人	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_02	omuk		Enemy	rush of battle	confirms orders during battle	I won't fail you!	4	不会让你失望的！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_00	vo_gothic_gothic_enemy_00_talk_npc_orders_00	omuk		Enemy	focussed	gives orders to guardpost	Carry on.	2	保持警戒	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_01	vo_gothic_gothic_enemy_00_talk_npc_orders_01	omuk		Enemy	focussed	gives orders to guardpost	Continue.	1	继续保持	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_02	vo_gothic_gothic_enemy_00_talk_npc_orders_02	omuk		Enemy	focussed	gives orders to guardpost	Stay vigilant.	2	保持警惕	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_03	vo_gothic_gothic_enemy_00_talk_npc_orders_03	omuk		Enemy	focussed	gives orders to guardpost	Stay sharp.	2	提高警觉	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_04	vo_gothic_gothic_enemy_00_talk_npc_orders_04	omuk		Enemy	focussed	gives orders to guardpost during battle	Keep it up.	3	坚持下去	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_05	vo_gothic_gothic_enemy_00_talk_npc_orders_05	omuk		Enemy	focussed	gives orders to guardpost during battle	Don't give in!	3	别放弃!	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_00	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_00	omuk		Enemy	rush of battle	asks guardpost for status during battle	Carry on!	2	坚持下去！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_01	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	I have new orders!	4	收到新命令！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_02	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_02	omuk		Enemy	rush of battle	gives orders to guardpost during battle	Stay strong!	2	继续保持警戒	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_03	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_03	omuk		Enemy	rush of battle	gives orders to guardpost during battle	Hold your position!	3	守住防线！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_04	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_04	omuk		Enemy	rush of battle	gives orders to guardpost during battle	New orders!	2	新命令！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_05	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_05	omuk		Enemy	rush of battle	gives orders to guardpost during battle	Continue!	1	继续坚持！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_06	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_06	omuk		Enemy	rush of battle	gives orders to guardpost during battle	Reload!	1	重新装弹！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_07	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_07	omuk		Enemy	rush of battle	gives orders to guardpost during battle	Fire!	1	开火！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_00	vo_gothic_gothic_enemy_00_talk_npc_report_00	omuk		Enemy	focussed	asks guardpost for status	Report.	1	报告情况	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_01	vo_gothic_gothic_enemy_00_talk_npc_report_01	omuk		Enemy	focussed	asks guardpost for status	Your report?	2	什么情况?	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_02	vo_gothic_gothic_enemy_00_talk_npc_report_02	omuk		Enemy	focussed	asks guardpost for status	What news?	2	战况如何?	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_03	vo_gothic_gothic_enemy_00_talk_npc_report_03	omuk		Enemy	focussed	asks guardpost for status	Anything new?	2	有新消息吗？	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_04	vo_gothic_gothic_enemy_00_talk_npc_report_04	omuk		Enemy	focussed	asks guardpost for status	Everything quiet?	2	一切正常吗？	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_00	vo_gothic_gothic_enemy_00_talk_npc_report_battle_00	omuk		Enemy	rush of battle	asks guardpost for status during battle	Report!	1	报告情况！	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_01	vo_gothic_gothic_enemy_00_talk_npc_report_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	Tell me!	2	汇报情况!	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_02	vo_gothic_gothic_enemy_00_talk_npc_report_battle_02	omuk		Enemy	rush of battle	asks guardpost for status during battle	Give me your report!	4	向我汇报情况!	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_00	vo_gothic_gothic_enemy_00_talk_npc_tense_00	omuk		Enemy	dutiful	"dialog without topic
+(during open battle)"	We have our orders!	4	我们有令在身!	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_01	vo_gothic_gothic_enemy_00_talk_npc_tense_01	omuk		Enemy	anxious	"dialog without topic
+(during open battle)"	The battle wages on.	4	战斗仍在继续	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_02	vo_gothic_gothic_enemy_00_talk_npc_tense_02	omuk		Enemy	for honor!	"dialog without topic
+(during open battle)"	We will gain honour today.	5	今天我们无比荣耀	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_03	vo_gothic_gothic_enemy_00_talk_npc_tense_03	omuk		Enemy	for honor!	"dialog without topic
+(during open battle)"	We must stay strong.	4	必须保持状态	1		
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_04	vo_gothic_gothic_enemy_00_talk_npc_tense_04	omuk		Enemy	fierce	"dialog without topic
+(during open battle)"	Let the enemy come to us.	6	让敌人放马过来吧	1		
+vo_eny_eny_	enemy_00_	urinate_00	vo_eny_eny_enemy_00_urinate_00	omuk		Enemy		(sound) relieves himself		0		0		
+vo_eny_eny_	enemy_00_	whistle_00	vo_eny_eny_enemy_00_whistle_00	omuk		Enemy		(sound) whistles a tune		0		0		
+vo_eny_eny_	enemy_00_	wounded_00	vo_eny_eny_enemy_00_wounded_00	omuk		Enemy		(sound) badly wounded, lying on stretcher, moaning		0		0		
+vo_eny_eny_	enemy_00_	yawn_00	vo_eny_eny_enemy_00_yawn_00	omuk		Enemy		(sound) yawn		0		0		
+														
+									WORDCOUNT EN:	1035		299		

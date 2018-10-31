@@ -1,0 +1,71 @@
+5,2,11		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The team discusses their attack against the Daimyo Yabu
+2) Takuma urges them to take action because he wants revenge
+3) Mugen decides that an attack on Yabu's mansion is justified
+4) The plan is to either aprehend or kill Yabu before he escapes
+5) Mugen and Aiko will report to the Shogun
+6) Hayato, Yuki and Takuma will face Yabu"																								
+																																	
+POST									The team plans their next move in the meeting place.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Safe House	2	藏身处	1																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_post_n00				NINJA	impressed		So he took that cannon blast and it only cost him a leg? Got to say, I'm impressed. What is he doing now?	23	挨了一炮，只丢了条腿？真是命大啊。现在他在做什么?	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_post_n01				WARRIOR	pondering		We supplied him with tools and materials. He has been working in his chamber ever since.	16	我们给琢磨大师提供了工具和材料。之后他就一直在工作室里忙碌着。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_post_n02				GEISHA	skeptical		He seemed willing to enter the Shogun's services. How does he plan to compensate for his … disability?	18	虽然他很热心为将军效劳。但腿部的残疾……要如何克服呢？	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_post_n03				WARRIOR	reassuring		We will know soon enough. How was your scouting mission, Hayato-san?	11	很快就知道了。隼人兄，侦察的情况如何？	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_post_n04				NINJA	it was OK	to Table	We had a look Lord Yabu's mansion. Big place, heavily guarded. It's closed off by a wall, but Yuki found a way inside.	23	我们探查了薮大名的宅邸。地方很大，重兵把守，外有围墙。但友希还是发现了进去的路。	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery1_post_n05				WARRIOR	planning		That sounds promising. Speaking of whom, where is Yuki-chan?	9	看来有戏。话说，友希小妹去哪了？	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery1_post_n06				TRAPPER	enthusiastic	enters the room	Here, master samurai!	3	我来了，武士大哥。	1																					
+vocs_over_over_	_n07	vocs_over_over_monastery1_post_n07				ALCHEMIST	cheerful	Takuma and his Tanuki enter	Hehe, I must say Mugen, your young companion is full of curiosity.	12	哈哈，无限啊，你的这个小伙伴，好奇心可不小哇。	1																					
+vocs_over_over_	_n08	vocs_over_over_monastery1_post_n08				NINJA	aknowledging		Good to see you, old man.	6	很高兴再见到你，老爷子。	1																					
+vocs_over_over_	_n09	vocs_over_over_monastery1_post_n09				ALCHEMIST	cheerful		Ah, the young Shinobi. Hayato, is it? Good to see you too.	12	哦，这小伙不是忍者隼人么？我也很高兴见到你。	1																					
+vocs_over_over_	_n10	vocs_over_over_monastery1_post_n10				WARRIOR	approving	Yuki spots Tanuki	Takuma-san. Are you ready for the field?	7	琢磨大师，准备好出战了吗？	1																					
+vocs_over_over_	_n11	vocs_over_over_monastery1_post_n11				ALCHEMIST	cheerful		A bit rusty maybe.	4	嗯…就是身体还有点僵。	1																					
+vocs_over_over_	_n12	vocs_over_over_monastery1_post_n12				ALCHEMIST	cheerful	feels the weight of the backpack	Everything weighs less in my memory.	6	毕竟体力不如从前了。	1																					
+vocs_over_over_	_n13	vocs_over_over_monastery1_post_n13				WARRIOR	moving on	Yuki goes to Tanuki and  plays with it.	Then, let us discuss strategy.	5	那么，来一起讨论计划吧。	1																					
+vocs_over_over_	_n14	vocs_over_over_monastery1_post_n14				WARRIOR	planning	everyone else at the table	Lord Yabu's guilt is proven. He might only be allied with Kage-sama, but I believe he is the man himself.	20	薮大名的罪行已经坐实。虽然他也可能只是同党，但我感觉他就是影大人。	1																					
+vocs_over_over_	_n15	vocs_over_over_monastery1_post_n15				NINJA	practical		Only one way to find out. If we want to get to him we better move now.	17	要知道真相，只有一种方法。要抓他的话，最好现在就行动。	1																					
+vocs_over_over_	_n16	vocs_over_over_monastery1_post_n16				WARRIOR	considering		No doubt he will see us coming. It will be the most dangerous mission yet.	15	他一定早有提防了。这次可能是目前为止最为危险的任务。	1																					
+vocs_over_over_	_n17	vocs_over_over_monastery1_post_n17				ALCHEMIST	determined	puts a box on the table	Hmm, then we must be prepared. Here. I made one for each of you.	14	嗯！那就更要做好万全准备。拿着，我给你们每人做了一把。	1																					
+vocs_over_over_	_n18	vocs_over_over_monastery1_post_n18				NINJA	"curious
+appreciating"	takes a gun from the box	Matchlock pistols? Never seen one so small ... not too shabby, old man.	13	火绳枪吗？我还没见过这么小的…手艺不错嘛，老爷子。	1																					
+vocs_over_over_	_n19	vocs_over_over_monastery1_post_n19				ALCHEMIST	thankful for the rescue	puts a box on the table	A last resort for desperate times. My first contribution. Heh, may Yabu's downfall be the next.	16	这个可以当成紧急关头的最后手段，也算是我报解救之恩了。呵呵，希望我的下次贡献就是亲手干掉薮贼。	1																					
+vocs_over_over_	_n20	vocs_over_over_monastery1_post_n20				NINJA	practical	puts the gun away	Guess I'll come with you then. You'll need all the help you can get.	14	那我还是和你一起去吧。这事一个人办不了。	1																					
+vocs_over_over_	_n21	vocs_over_over_monastery1_post_n21				TRAPPER	enthusiastic	stops petting the tanuki	I want to come too!	5	我也要去。	1																					
+vocs_over_over_	_n22	vocs_over_over_monastery1_post_n22				ALCHEMIST	thankful for the rescue		I appreciate your support.	4	谢谢，感激不尽。	1																					
+vocs_over_over_	_n23	vocs_over_over_monastery1_post_n23				WARRIOR	determined		Very well. You have my blessings to do whatever is necessary. I, shall travel to Edo. The Shogun will want to know of our plan.	25	很好。祝你们旗开得胜。我要前往江户，向将军禀报情况。	1																					
+vocs_over_over_	_n24	vocs_over_over_monastery1_post_n24				GEISHA	elegant		Then I will accompany you. It has been long since we enjoyed a peaceful moment together.	16	我也一起去。你我二人已经很久没能一起享受片刻宁静了。	1																					
+vocs_over_over_	_n25	vocs_over_over_monastery1_post_n25				WARRIOR	determined	Mugen and Aiko leave the room	I would be honoured, Aiko-san. Let us prepare for the journey.	11	那太好了，爱子小姐。我们去收拾行装准备出发吧。	1																					
+vocs_over_over_	_n26	vocs_over_over_monastery1_post_n26				NINJA	smug		So, the three of us against a powerful daimyo in his heavily guarded mansion. I've had worse odds.	18	也就是说，我们区区三人要去对付藏在重兵把守的府邸里的大名么。嗯…比这更难的我也干过。	1																					
+vocs_over_over_	_n27	vocs_over_over_monastery1_post_n27				TRAPPER	sneaky		Some things there want to be taken. But we won't come for things. We'll come for Lord Yabu!	18	那边也有很多物件想被偷走呢。不过这次不偷东西了，直接对付薮大名！	1																					
+vocs_over_over_	_n28	vocs_over_over_monastery1_post_n28				ALCHEMIST	cheerful		Hmm ... a mercenary, a cripple and a child. They will tell stories about this one, hehehe.	17	嗯...一个是拿钱办事的，一个是瘸子，再加上一个小孩。这次可有好戏看了，呵呵呵。	1																					
+																																	
+									MISSION-WORDCOUNT EN:	380		30	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													119	34	85	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+													9	2	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																																	
+																																	
+																																	
+																																	

@@ -1,0 +1,214 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Aiko and Hayato are here to kidnap Masaru
+2) They'll spy on his men and find out he is in the bathhouse
+3) Then they'll kidnap and question him with Takuma to find out Noboru's plans
+4) Hayato is driven by revenge after Mugen's death
+5) Aiko keeps him in check and slowly shows that she is the new leader."																								
+																																	
+BRIEFING									Hayato and Aiko have entered the district where Masaru's house and business are located.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Kanazawa City	2	松山市	1																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_briefing_n00				GEISHA	focussed		This city is beautiful at night. We will find ample shadows here, don't you think, Hayato-san.	16	这里的夜景真美，应该会有大量阴暗区域便于我们行动吧。你觉得呢，隼人兄？	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_briefing_n01				NINJA	quiet		… let's get on with it.	6	……走吧。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_briefing_n02				GEISHA	focussed		As you wish.	3	悉听尊便。	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_briefing_n03				GEISHA	focussed	Cam to market	We must avoid the streets. No doubt Noboru's men are looking for us.	13	应该避开街道行动。昇的手下肯定在找咱们。	1																					
+vocs_over_over_	_n04	vocs_over_over_bathhouse_briefing_n04				NINJA	quiet		Hrm …	2	嗯……	1																					
+vocs_over_over_	_n05	vocs_over_over_bathhouse_briefing_n05				GEISHA	focussed	Cam to eavesdrop 1	Masaru's residence is in this district. Let us listen in on his men.	13	真申的宅邸就在这边，去偷听他的手下的谈话吧。	1																					
+vocs_over_over_	_n06	vocs_over_over_bathhouse_briefing_n06				GEISHA	focussed	Cam to eavesdrop 2	I am certain they will tell us where to find him.	11	他们肯定会泄露真申的行踪。	1																					
+vocs_over_over_	_n07	vocs_over_over_bathhouse_briefing_n07				GEISHA	tactful	Cam to disguise 1	I'd prefer having a disguise when listening in.	8	我更喜欢乔装后去窃听。	1																					
+vocs_over_over_	_n08	vocs_over_over_bathhouse_briefing_n08				GEISHA	tactful	Cam to disguise 2	I need a suitable Kimono.	5	所以需要一身和服。	1																					
+vocs_over_over_	_n09	vocs_over_over_bathhouse_briefing_n09				NINJA	quiet		Whatever. Let's get on with it.	6	随你便，好了，走吧。	1																					
+vocs_over_over_	_n10	vocs_over_over_bathhouse_briefing_n10				GEISHA	tactful		Very well.	2	好。	1																					
+																																	
+REDLIGHT									The team enters the neighboring redlight district.		The team enters the neighboring redlight district.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_redlight_n00				NINJA	quiet	Hayato first	Red lights …	3	红灯区……	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_redlight_n01				GEISHA	introspective	"Hanamachi = 
+Geisha district"	The hanamachi. This brings back memories.	6	花町么。真是回忆满满。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_redlight_n02				NINJA	quiet		Hrm …	2	嗯……	1																					
+																																	
+REDLIGHT									A citizen has cornered a female resident of the hanamachi (red light district).		A citizen has cornered a female resident of the hanamachi (red light district).																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hanamachi2_n00				CIVILIAN M	lusty		Why not here?	3	就在这里不行吗？	1																					
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_hanamachi2_n01				CIVILIAN F	cold		Please, it is not customary.	5	不行，不合规矩。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_hanamachi2_n02				CIVILIAN M	lusty		I have money.	3	我有钱啊。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_hanamachi2_n03				CIVILIAN F	cold		Then speak with the mistress of the house.	8	那你和老板娘说去。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_hanamachi2_n04				CIVILIAN M	lusty		Am I not good enough?	5	你嫌弃我？	1																					
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_hanamachi2_n05				CIVILIAN F	cold		It is not for me to say.	7	别这样。	1																					
+																																	
+RESIDENTIAL									The team passes through a residential area.		The team passes through a residential area.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_residential_n00				NINJA	quiet	Hayato first	Guards ...	2	有守卫……	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_residential_n01				GEISHA	focussed		Middleclass households. With more guards than usual I'd say.	9	这边都是中等家庭。没想到守卫也这么多。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_residential_n02				NINJA	quiet		Hrm …	2	嗯……	1																					
+																																	
+RESIDENTIAL									Citizens talk about recent events.		Citizens talk about recent events.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_residential_n00				CIVILIAN M			These are dark times.	4	真是闹得人心惶惶。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_residential_n01				CIVILIAN M			So it's true, the Shogun's son has been murdered?	9	真的吗？将军的儿子真的被谋杀了？	1																					
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_residential_n02				CIVILIAN M			It is not safe to go outside.	7	现在外面很不安全。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_residential_n03				CIVILIAN M			I heard the Shogun is on his way to Kyoto.	10	听说将军正在去京都的路上。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_residential_n04				CIVILIAN M			I see they are looking for the killers.	8	他们应该是在搜查凶手。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_residential_n05				CIVILIAN M			Did you know Lord Noboru's son is here.	8	昇大名的儿子就在这里啊，你居然不知道？	1																					
+vo_hint_hint_	_n06	vo_hint_hint_bathhouse_residential_n06				CIVILIAN M			Be wary, keep away from dark alleys.	7	小心点，千万别走黑巷子。	1																					
+vo_hint_hint_	_n07	vo_hint_hint_bathhouse_residential_n07				CIVILIAN F			Dark times.	2	真不太平。	1																					
+vo_hint_hint_	_n08	vo_hint_hint_bathhouse_residential_n08				CIVILIAN F			The Shogun's son has been murdered.	6	将军的儿子被谋杀了。	1																					
+vo_hint_hint_	_n09	vo_hint_hint_bathhouse_residential_n09				CIVILIAN F			It is not safe to go outside.	7	现在外面很不安全。	1																					
+vo_hint_hint_	_n10	vo_hint_hint_bathhouse_residential_n10				CIVILIAN F			I hear the Shogun is on his way to Kyoto.	10	听说将军正在去京都的路上。	1																					
+vo_hint_hint_	_n11	vo_hint_hint_bathhouse_residential_n11				CIVILIAN F			They are looking for the killers.	6	当兵的正在搜查凶手。	1																					
+vo_hint_hint_	_n12	vo_hint_hint_bathhouse_residential_n12				CIVILIAN F			Lord Noboru's son is here.	5	昇大名的儿子就在这里。	1																					
+vo_hint_hint_	_n13	vo_hint_hint_bathhouse_residential_n13				CIVILIAN F			If I were you I'd keep away from dark alleys.	10	我要是你，就绝不走黑巷子。	1																					
+																																	
+WANTED									The team balances on ropes to cross the well guarded market street.		The team balances on ropes to cross the well guarded market street.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_wanted_n00				NINJA	quiet	Hayato first	Busy …	2	真是热闹……	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_wanted_n01				GEISHA	focussed		I suspect that guards here have been doubled since Noboru learned of our escape.	14	自从我们逃走之后，这里的守卫大概增加了一倍吧。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_wanted_n02				NINJA	quiet		Mhm …	2	嗯……	1																					
+																																	
+DISGUISE									Aiko picks up the disguise.		Aiko picks up the disguise.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_disguise_n00				GEISHA	elegant		That will do fine. Let us continue.	7	这身衣服还可以。继续行动。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_disguise_n01				NINJA	quiet		Mhm …	2	嗯……	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_disguise_n02				GEISHA	respectful		… you have been quiet lately, Hayato-san.	7	……你最近话不多啊，隼人兄。	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_disguise_n03				NINJA	struggles to stay calm		… best I can do. No idea how you can be so calm, like nothing happened.	16	……我在尽力克制。其实我不明白你怎么还能如此冷静。	1																					
+vocs_over_over_	_n04	vocs_over_over_bathhouse_disguise_n04				GEISHA	respectful		I was forced to master my emotions at a very young age. I am sorry if this bothers you.	19	我从小就被迫练习如何掌控自身情绪。如果影响到你了，我诚心道歉。	1																					
+																																	
+INFO									The team eavesdroppes on Masaru's men.		The team eavesdroppes on Masaru's men.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_info_n00				NINJA	quiet	Hayato first	Got it.	2	原来如此。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_info_n01				GEISHA	"slight reproach
+decisive"	has heard that Masaru enjoys himself at the bathhouse	So he's in that place … Hayato-san, let us find a save spot and discuss what we have learned.	19	原来他在那里……隼人兄，先找到个安全地点会合，整理一下情报。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_info_n02				NINJA	quiet		Mhm …	2	嗯……	1																					
+																																	
+UNVEIL									The team knows that Masaru is currently at the bathhouse. It is unveiled as a new location in the level.		The team knows that Masaru is currently at the bathhouse. It is unveiled as a new location in the level.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_unveil_n00				GEISHA	leader	Cam to bathhouse	It appears that Masaru is enjoying himself at the public bathhouse.	11	据说真申在浴场玩得还挺开心。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_unveil_n01				NINJA	quiet hate		Hrm … bastard.	3	哼……小杂种。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_unveil_n02				GEISHA	leader	Cam follow Noboruson	No doubt he will have protection. Let us observe his movements. We may find an opportunity to isolate him from his entourage.	22	他肯定带着保镖。最好先观察一下他的行动规律，然后找个机会让他和保镖分开。	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_unveil_n03				GEISHA	leader	Cam to pier	After we take him, we must make a swift exit. I suggest we take the canal.	16	一旦抓到他必须迅速撤离。我建议走水路。	1																					
+vocs_over_over_	_n04	vocs_over_over_bathhouse_unveil_n04				NINJA	quiet hate	"thinks about
+killing Masaru"	So let's go.	3	动手吧。	1																					
+																																	
+RELAX									Citizens are relaxing in the bathhouse area.		Citizens are relaxing in the bathhouse area.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_relax_n00				CIVILIAN M	relaxed	in hotspring	Ahhh …	2	啊……	1																					
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_relax_n01				CIVILIAN M	relaxed	in hotspring	Mmm …	2	嗯……	1																					
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_relax_n02				CIVILIAN M	relaxed	in hotspring	Hah …	2	哈……	1																					
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_relax_n03				CIVILIAN M	relaxed	in hotspring	Hmm … sake?	3	喔哦……清酒？	1																					
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_relax_n04				CIVILIAN M	relaxed	during massage	Agh … ahhh …	4	啊……啊啊……	1																					
+vo_hint_hint_	_n05	vo_hint_hint_bathhouse_relax_n05				CIVILIAN M	relaxed	during massage	Oh yes …	3	嗯，爽……	1																					
+vo_hint_hint_	_n06	vo_hint_hint_bathhouse_relax_n06				CIVILIAN M	relaxed	during massage	Right there!	2	好酸爽！	1																					
+vo_hint_hint_	_n07	vo_hint_hint_bathhouse_relax_n07				CIVILIAN M	relaxed	during massage	Ooooh …	2	哦哦……	1																					
+																																	
+RAGE									The team infiltrates the bathhouse.		The team infiltrates the bathhouse.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_rage_n00				GEISHA	focussed		Very well. Let us proceed as planned.	7	好。继续按计划行动。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_rage_n01				NINJA	conflicted	knows his rage is getting the better of him	How do you do it, huh? All that talking, bowing, smiling, after all that happened. 	16	你究竟是怎么做到的，嗯？发生了这种事，还能像往常一样和敌人谈笑风生。 	2																					
+vocs_over_over_	_n01a	vocs_over_over_bathhouse_rage_n01a				NINJA	conflicted	ALTERNATIVE	How do you do it, huh? How can you act like nothing happened?	13	你究竟是怎么做到的，嗯？一举一动就像什么都没发生过一样？	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_rage_n02				GEISHA	open	realizes she needs to calm him down	If a woman does not surround herself with walls, she dies. All women learn this. If we must feel, we must do so in secret.	25	女人必须把内心藏在层层高墙后面，否则必死无疑。所有女人都迟早会体会到这个道理。即使内心汹涌澎湃，也断不能将感情流露人前。	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_rage_n03				NINJA	conflicted		That's ... I want to kill that bastard Masaru and his father!	12	这些我……我只想把这个小杂种和他爹一块宰了！	1																					
+vocs_over_over_	_n04	vocs_over_over_bathhouse_rage_n04				GEISHA	with authority		We cannot afford the luxury of rage, Hayato-san. Let my words be your walls. Reserve the cold hatred of revenge for when the time is right.	26	小不忍则乱大谋，隼人兄。听我一言，时候一到，此仇必报。	1																					
+vocs_over_over_	_n05	vocs_over_over_bathhouse_rage_n05				NINJA	conflicted	long inhale and exhale	… damn … alright … I'll follow.	7	……该死……好吧……听你的。	1																					
+																																	
+BATHTUBS1									The team discovers the bathtubs (large, wooden barrels for open air baths).		The team discovers the bathtubs (large, wooden barrels for open air baths).																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_bathtubs1_n00				NINJA	a bit more calm	Hayato first	Huh … bathtubs.	3	嗯……有个澡盆。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_bathtubs1_n01				GEISHA	focussed		This must be where he takes his bath.	8	肯定是他洗澡的地方。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_bathtubs1_n02				NINJA	a bit more calm		Obviously. Where do they heat the water?	7	显然就是。烧水的地方在哪?	1																					
+																																	
+HINT BATH									The team give a hint how to isolate Masaru from his guards in the bathing area.		The team give a hint how to isolate Masaru from his guards in the bathing area.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_hintbath_n00				NINJA	a bit more calm		Servant brings hot water.	4	有佣人负责添加热水。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_hintbath_n01				GEISHA	agrees		Why not tamper with the fire. Bring the water close to boiling.	12	能不能煽煽火，把水烧得烫一点呢。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_hintbath_n02				NINJA	a bit more calm		Teh … good idea.	4	嗯……好主意。	1																					
+																																	
+BATHTUBS2									Masaru wants to take a bath.		Masaru wants to take a bath.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_bathtubs2_n00				BROGUNSON	brat		A bath! I need a bath!	6	洗澡！我要洗澡！	1																					
+																																	
+HOT WATER1									Masaru calls for hot water.		Masaru calls for hot water.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hotwater1_n00				BROGUNSON	relaxed		Ahh, almost perfect. Servant? More hot water!	7	啊……水温还差一点。来人，加热水！	1																					
+																																	
+HOT WATER2									Masaru gets too hot water poured onto him. He curses and runs off to cool himself in the river.		Masaru gets too hot water poured onto him. He curses and runs off to cool himself in the river.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_hotwater2_n00				BROGUNSON	shock	jumps out of the tub and runs down to the shore	Aah! Hot hot hot, too hot! Aah! Aaaaah!	8	啊！烫烫烫，烫死我啦！啊！啊啊啊！	1																					
+																																	
+COOLING									Masaru cools down in the river.		Masaru cools down in the river.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_cooling_n00				BROGUNSON	relief	cools himself off with cold water	Ahh, ahh … 	4	啊……啊…… 	2																					
+																																	
+MASSAGE1									The team discovers the massage area.		The team discovers the massage area.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_massage1_n00				NINJA	a bit more calm	Hayato first	Hmm, the massage area.	4	嗯……是按摩院。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_massage1_n01				GEISHA	focussed		This must be where he gets his massage.	8	这里就是他做按摩的地方。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_massage1_n02				NINJA	a bit more calm		Hmm, who's giving the massage?	5	嗯，给他做按摩的是哪个？	1																					
+																																	
+HINT MASSAGE									The team give a hint how to isolate Masaru from his guards in the massage area.		The team give a hint how to isolate Masaru from his guards in the massage area.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_hintmassage_n00				NINJA	a bit more calm		Hrm … always the same masseur.	6	嗯……他好像有个专用按摩师。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_hintmassage_n01				GEISHA	agrees		What would happen if the masseur does not come.	9	假如按摩师不来他会怎样。	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_hintmassage_n02				NINJA	a bit more calm		Hmm … could be interesting.	5	嗯……可以试试。	1																					
+																																	
+MASSAGE2									Masaru calls for a massage.		Masaru calls for a massage.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_massage2_n00				BROGUNSON	brat		Ugh, I want a massage, now!	6	呃，我要按摩了！	1																					
+																																	
+MASSEUR1									Masaru calls for the masseur.		Masaru calls for the masseur.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur1_n00				BROGUNSON	relaxed		Hmm, yes. Masseur! Get to work.	6	嗯，对了。按摩师！交给你了。	1																					
+																																	
+MASSEUR2									The masseur hasn't appeared, so Masaru orders his bodyguards to look for him.		The masseur hasn't appeared, so Masaru orders his bodyguards to look for him.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur2_n00				BROGUNSON	annoyed		He's keeping me waiting. Does he not know who I am? Find him!	13	竟敢让我等。他不知道我是谁吗？快给我找出来！	1																					
+																																	
+MASSEUR3									The masseur appears and gives Masaru a massage.		The masseur appears and gives Masaru a massage.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_bathhouse_masseur3_n00				BROGUNSON	relaxed		There you are …	4	爽啊……	1																					
+vo_hint_hint_	_n01	vo_hint_hint_bathhouse_masseur3_n01				BROGUNSON	relaxed	being massaged	Ohh, yes.	2	哦，舒服。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_bathhouse_masseur3_n02				BROGUNSON	annoyed	being massaged	Uhhh … not so hard …	6	唔……小点劲……	1																					
+vo_hint_hint_	_n03	vo_hint_hint_bathhouse_masseur3_n03				BROGUNSON	relaxed	being massaged	Ahh ... that's the spot.	5	啊……就是那里。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_bathhouse_masseur3_n04				BROGUNSON	annoyed		That's enough. You can leave.	5	可以了。你退下吧。	1																					
+																																	
+KIDNAPPING									The team knocks out Masaru.		The team knocks out Masaru.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_kidnapping_n00				NINJA	satisfaction	Hayato took him	We've got him!	3	得手了！	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_kidnapping_n01				GEISHA	focussed	Aiko took him	We have him.	3	抓到他了！	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_kidnapping_n02				GEISHA	leader		Quickly, to the boat with him!	6	快，带他到船上！	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_kidnapping_n03				NINJA	confirming order		I'm on my way!	4	马上就到！	1																					
+																																	
+DEBRIEFING									The team regroups at the north pier with their victim. They leave by boat.		The team regroups at the north pier with their victim. They leave by boat.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_bathhouse_debriefing_n00				NINJA	feels a bit better		Alright then.	2	这下总算好了。	1																					
+vocs_over_over_	_n01	vocs_over_over_bathhouse_debriefing_n01				GEISHA	respectful		How is your temper, Hayato-san? Must I still fear for the safety of our hostage?	15	心情好些了吗，隼人兄？我还需要担心这位人质性命不保么？	1																					
+vocs_over_over_	_n02	vocs_over_over_bathhouse_debriefing_n02				NINJA	a bit ashamed		Teh … don't think so ... he's worth more alive.	10	嗯……不必担心……他的小命还有点用。	1																					
+vocs_over_over_	_n03	vocs_over_over_bathhouse_debriefing_n03				GEISHA	respectful compassion		You did well, Hayato-san.	4	那就好，隼人兄。	1																					
+vocs_over_over_	_n04	vocs_over_over_bathhouse_debriefing_n04				NINJA	accepting		Yes … you too.	4	啊…彼此彼此。	1																					
+vocs_over_over_	_n05	vocs_over_over_bathhouse_debriefing_n05				GEISHA	respectful compassion		Let us head to the safe house. Yuki and Takuma should be ready by now.	15	回藏身处吧。友希和琢磨应该也该准备妥当了。	1																					
+											0																						
+									MISSION-WORDCOUNT EN:	725		6	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													0	339	0	0	0	0	72	0	0	0	0	0	0	0	0	84	66	0	0	0	0
+													0	30	0	0	0	0	12	0	0	0	0	0	0	0	0	18	10	0	0	0	0

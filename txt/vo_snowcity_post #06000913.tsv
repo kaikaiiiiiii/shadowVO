@@ -1,0 +1,66 @@
+5,2,9		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The convoy belongs to the local Daimyo Yabu. He could be Kage-sama.
+2) Hayato has uncovered that Takuma is alive.
+3) Takuma is held captive by Yabu in the temple where the convoy originated.
+4) Mugen goes to meet the unknown team member there and rescue him."
+									
+POST									In their meeting place the team discusses their next moves. Hayato appears with interesting news.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			隠れ家にて
+vocs_over_over_	_n00	vocs_over_over_snowcity_post_n00				WARRIOR	pleased	has documents on a table before him	 …まさかこんな物がな。幸運だな、確かに。
+vocs_over_over_	_n01	vocs_over_over_snowcity_post_n01				TRAPPER	a little bored	watched Mugen sift through papers	えっ？
+vocs_over_over_	_n02	vocs_over_over_snowcity_post_n02				WARRIOR	pleased	has documents on a table before him	この文書は藪大名が武器輸送に関わっていることを証明する。さらに、もう二度と聞くことはないと思っていた名前があった。
+vocs_over_over_	_n02a	vocs_over_over_snowcity_post_n02a				WARRIOR	pleased	has documents on a table before him	この文書は藪大名が武器輸送に関わっていることを証明する。さらに、それだけではない…何年も聞く事のなかった名だ。
+vocs_over_over_	_n03	vocs_over_over_snowcity_post_n03				NINJA	non-chalant	enters the room	まだしてるか、ん？
+vocs_over_over_	_n04	vocs_over_over_snowcity_post_n04				TRAPPER	happy	turns to Hayato	先生。
+vocs_over_over_	_n05	vocs_over_over_snowcity_post_n05				WARRIOR	pleased	turns to Hayato	おお、隼人殿、加わってくれると決めたか？
+vocs_over_over_	_n06	vocs_over_over_snowcity_post_n06				NINJA	smug		なんというかな、上様は気前がいいんでね。
+vocs_over_over_	_n07	vocs_over_over_snowcity_post_n07				WARRIOR	more pleased		これを見てくれ。
+vocs_over_over_	_n08	vocs_over_over_snowcity_post_n08				WARRIOR	planning	Hayato joins at the table	この文書に巧磨殿についてのことが記されている。
+vocs_over_over_	_n09	vocs_over_over_snowcity_post_n09				NINJA	perplexed		巧磨…待て、あの大阪城で助けてくれた射手の爺さん？大砲で死んだかと思っていた。
+vocs_over_over_	_n10	vocs_over_over_snowcity_post_n10				WARRIOR	explaining		どうやら生きているらしい。文書によれば藪大名のもとで捕らえらている。鶴山にある古い寺院だ。
+vocs_over_over_	_n11	vocs_over_over_snowcity_post_n11				NINJA	intrigued		ふむ…今井町からはそう遠くないな。
+vocs_over_over_	_n11a	vocs_over_over_snowcity_post_n11a				NINJA	intrigued		ふっ…丈夫な爺さんだ。何のためにそこで捕らえているのだろうな。
+vocs_over_over_	_n12	vocs_over_over_snowcity_post_n12				WARRIOR	pleased		確かに。その寺院は元々は違法武器の輸送で使われておったと疑っておる。
+vocs_over_over_	_n12a	vocs_over_over_snowcity_post_n12a				WARRIOR	pleased		すぐにわかろう。その寺院は元々違法武器の輸送に使われたに違いない。
+vocs_over_over_	_n13	vocs_over_over_snowcity_post_n13				TRAPPER	cautious		うーん…巧磨って？
+vocs_over_over_	_n14	vocs_over_over_snowcity_post_n14				WARRIOR	explaining	preparing to leave	借りのある人だ。拙者はすぐに鶴山に向かおう。
+vocs_over_over_	_n15	vocs_over_over_snowcity_post_n15				NINJA	eager		俺たちはどうすればいい？
+vocs_over_over_	_n16	vocs_over_over_snowcity_post_n16				WARRIOR	planning	still looking at his gear	藪大名との対立はさらに有り得そうになった。情報を集めて、すぐさま行動を起こすべきだ。
+vocs_over_over_	_n17	vocs_over_over_snowcity_post_n17				NINJA	surprised	Mugen turns to Hayato	寺での助けはほしくないのか？
+vocs_over_over_	_n18	vocs_over_over_snowcity_post_n18				WARRIOR	"explaining
+slight teasing"		心配はいらぬ、隼人殿。拙者の昔からの付き合いのある方と向かう。
+vocs_over_over_	_n19	vocs_over_over_snowcity_post_n19				WARRIOR	explaining	turning to leave	ところで、雪殿がお主から指導を受けられるようにすると約束をしておる。
+vocs_over_over_	_n20	vocs_over_over_snowcity_post_n20				NINJA	disbelief	as Mugen leaves	待て…何だって？
+vocs_over_over_	_n21	vocs_over_over_snowcity_post_n21				WARRIOR	instructing		二人で藪大名の御殿へ偵察に行ってもらう。卓上に指示は残しておいた。
+vocs_over_over_	_n22	vocs_over_over_snowcity_post_n22				WARRIOR	instructing	leaves	見つけられるものは全て見つけて、拙者の帰りを待たれよ。
+vocs_over_over_	_n23	vocs_over_over_snowcity_post_n23				TRAPPER	wondering		会うって言ってたのは誰かしら？
+vocs_over_over_	_n24	vocs_over_over_snowcity_post_n24				NINJA	briefly wondering		ふん、まぁすぐに分かるだろう。
+vocs_over_over_	_n25	vocs_over_over_snowcity_post_n25				NINJA	focussed	walks to the table	とにかく、藪の御殿がどこにあるか、確認しよう。
+vocs_over_over_	_n26	vocs_over_over_snowcity_post_n26				TRAPPER	enthusiastic		はいっ、先生！
+vocs_over_over_	_n27	vocs_over_over_snowcity_post_n27				NINJA	here we go again	*sigh*	…。
+									
+									

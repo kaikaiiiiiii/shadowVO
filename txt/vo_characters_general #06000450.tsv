@@ -1,0 +1,140 @@
+2,3,11												
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE
+vo_eny_eny_	general_	death_scream_00	vo_eny_eny_general_death_scream_00	omuk	hambo	General	shocked	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_01	vo_eny_eny_general_death_scream_01	omuk	hambo	General	shocked	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_02	vo_eny_eny_general_death_scream_02	omuk	hambo	General	shocked	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_03	vo_eny_eny_general_death_scream_03	omuk	hambo	General	shocked	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_muffled_00	vo_eny_eny_general_death_scream_muffled_00	omuk	hambo	General	struggling	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_muffled_01	vo_eny_eny_general_death_scream_muffled_01	omuk	hambo	General	struggling	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_muffled_02	vo_eny_eny_general_death_scream_muffled_02	omuk	hambo	General	struggling	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_muffled_03	vo_eny_eny_general_death_scream_muffled_03	omuk	hambo	General	struggling	(sound) being wounded		0		0
+vo_eny_eny_	general_	death_scream_muffled_04	vo_eny_eny_general_death_scream_muffled_04	omuk	hambo	General	struggling	(sound) being wounded		0		0
+vo_eny_eny_	general_	detect_corpse_female_00	vo_eny_eny_general_detect_corpse_female_00	omuk		General	furious	sees a corpse	She's dead!	2	她死了！	1
+vo_eny_eny_	general_	detect_corpse_female_01	vo_eny_eny_general_detect_corpse_female_01	omuk		General	furious	sees a corpse	They killed her!	3	他们杀了她！	1
+vo_eny_eny_	general_	detect_corpse_male_00	vo_eny_eny_general_detect_corpse_male_00	omuk		General	furious	sees a corpse	He's dead!	2	他死了！	1
+vo_eny_eny_	general_	detect_corpse_male_01	vo_eny_eny_general_detect_corpse_male_01	omuk		General	furious	sees a corpse	They killed him!	3	他们杀了他！	1
+vo_eny_eny_	general_	detect_corpse_neutral_00	vo_eny_eny_general_detect_corpse_neutral_00	omuk	hambo	General	furious	sees a corpse	Murder!	1	杀人了！	1
+vo_eny_eny_	general_	detect_corpse_neutral_01	vo_eny_eny_general_detect_corpse_neutral_01	omuk	hambo	General	furious	sees a corpse	Assassins!	1	有刺客！	1
+vo_eny_eny_	general_	detect_lightsource_00	vo_eny_eny_general_detect_lightsource_00	omuk	hambo	General	slightly irritated	sees extiguished lamp	The light went out …	5	灯怎么灭了……	1
+vo_eny_eny_	general_	detect_lightsource_01	vo_eny_eny_general_detect_lightsource_01	omuk	hambo	General	slightly irritated	sees extiguished lamp	Did the wind kill the flame.	6	是风把火吹灭了吧？	1
+vo_eny_eny_	general_	detect_lightsource_02	vo_eny_eny_general_detect_lightsource_02	omuk	hambo	General	slightly irritated	sees extiguished lamp	That light should be burning.	5	灯必须点亮	1
+vo_eny_eny_	general_	detect_lightsource_03	vo_eny_eny_general_detect_lightsource_03	omuk	hambo	General	slightly irritated	sees extiguished lamp	Was someone careless with the lamp.	6	是谁没看好灯？	1
+vo_eny_eny_	general_	detect_lightsource_04	vo_eny_eny_general_detect_lightsource_04	omuk	hambo	General	slightly irritated	sees extiguished lamp	The fire died …	4	火灭了……	1
+vo_eny_eny_	general_	detect_player_00	vo_eny_eny_general_detect_player_00	omuk	hambo	General	agressive	sees a player character	I see you!	3	你是谁！	1
+vo_eny_eny_	general_	detect_player_01	vo_eny_eny_general_detect_player_01	omuk	hambo	General	agressive	sees a player character	There you are!	3	看到你了！	1
+vo_eny_eny_	general_	detect_player_02	vo_eny_eny_general_detect_player_02	omuk	hambo	General	agressive	sees a player character	Die, scum!	2	去死吧，渣滓！	1
+vo_eny_eny_	general_	detect_player_03	vo_eny_eny_general_detect_player_03	omuk	hambo	General	agressive	sees a player character	Now I have you!	4	我逮到你了	1
+vo_eny_eny_	general_	detect_player_04	vo_eny_eny_general_detect_player_04	omuk	hambo	General	agressive	sees a player character	Your life is mine!	4	纳命来	1
+vo_eny_eny_	general_	detect_player_05	vo_eny_eny_general_detect_player_05	omuk	hambo	General	agressive	sees a player character	I will take your head!	5	待我取你首级！	1
+vo_eny_eny_	general_	detect_player_kill_00	vo_eny_eny_general_detect_player_kill_00	omuk		General	aha!	senses a player behind him and decapitates him	Ha! You fool.	3	哈！蠢货	1
+vo_eny_eny_	general_	detect_player_kill_01	vo_eny_eny_general_detect_player_kill_01	omuk		General	aha!	senses a player behind him and decapitates him	Ha! Coward.	2	哈！懦夫	1
+vo_eny_eny_	general_	detect_player_kill_02	vo_eny_eny_general_detect_player_kill_02	omuk		General	aha!	senses a player behind him and decapitates him	Ha! Weakling.	2	哈！废物	1
+vo_eny_eny_	general_	detect_player_kill_03	vo_eny_eny_general_detect_player_kill_03	omuk		General	aha!	senses a player behind him and decapitates him	Ha! You are no samurai.	5	哈！你可不是武士	1
+vo_eny_eny_	general_	detect_player_kill_04	vo_eny_eny_general_detect_player_kill_04	omuk		General	aha!	senses a player behind him and decapitates him	Ha! You are no match for me.	7	哈！你不是我的对手	1
+vo_eny_eny_	general_	detect_player_proximity_00	vo_eny_eny_general_detect_player_proximity_00	omuk	hambo	General	suspicious	senses a nearby player character	Something is wrong …	4	不对劲…	1
+vo_eny_eny_	general_	detect_player_proximity_01	vo_eny_eny_general_detect_player_proximity_01	omuk	hambo	General	suspicious	senses a nearby player character	Strange … it feels like …	6	奇怪…感觉好像…	1
+vo_eny_eny_	general_	detect_player_proximity_02	vo_eny_eny_general_detect_player_proximity_02	omuk	hambo	General	suspicious	senses a nearby player character	Wait … is someone …	5	等等…好像有人…	1
+vo_eny_eny_	general_	detect_player_proximity_03	vo_eny_eny_general_detect_player_proximity_03	omuk	hambo	General	suspicious	senses a nearby player character	Someone is skulking about …	5	有人鬼鬼祟祟的……	1
+vo_eny_eny_	general_	detect_sake_00	vo_eny_eny_general_detect_sake_00	omuk		General	dismissive	spots the sake bottle	Sake, hm? ... I have my own.	7	清酒？……我自己就有	1
+vo_eny_eny_	general_	detect_sake_01	vo_eny_eny_general_detect_sake_01	omuk		General	dismissive	spots the sake bottle	Sake? … Hrm, low quality swill.	6	清酒？……哼，劣酒而已	1
+vo_eny_eny_	general_	detect_sake_02	vo_eny_eny_general_detect_sake_02	omuk		General	dismissive	spots the sake bottle	Only a peasant would bow down for sake.	8	只有贱民才会为清酒折腰	1
+vo_eny_eny_	general_	detect_tanuki_00	vo_eny_eny_general_detect_tanuki_00	omuk		General	dismissive	sees the tanuki	Filthy creature. You can't fool me.	6	脏兮兮的东西，你骗不了我	1
+vo_eny_eny_	general_	detect_tanuki_01	vo_eny_eny_general_detect_tanuki_01	omuk		General	dismissive	sees the tanuki	Hah! Is this supposed to scare me?	7	哈！以为能吓到我么？	1
+vo_eny_eny_	general_	detect_trap_00	vo_eny_eny_general_detect_trap_00	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	Eh? That will not work …	6	嗯？我可不会中招……	1
+vo_eny_eny_	general_	detect_trap_01	vo_eny_eny_general_detect_trap_01	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	Hah! You must take me for a fool.	8	哈！以为我是傻子么	1
+vo_eny_eny_	general_	detect_trap_02	vo_eny_eny_general_detect_trap_02	omuk	hambo	General	with contempt	spots the trap on the floor and breaks it	I will crush this little plaything.	6	看我砸碎这个小玩具	1
+vo_eny_eny_	general_	detect_unconscious_male_00	vo_eny_eny_general_detect_unconscious_male_00	omuk		General	displeased	sees unconcious person	He is unconscious.	3	他晕过去了	1
+vo_eny_eny_	general_	detect_unconscious_male_01	vo_eny_eny_general_detect_unconscious_male_01	omuk		General	displeased	sees unconcious person	He's been hit!	3	他受了重击	1
+vo_eny_eny_	general_	detect_unconscious_male_02	vo_eny_eny_general_detect_unconscious_male_02	omuk		General	displeased	sees unconcious person	He's been attacked.	3	他被袭击了	1
+vo_eny_eny_	general_	detect_unconscious_neutral_00	vo_eny_eny_general_detect_unconscious_neutral_00	omuk		General	displeased	sees unconcious person	What happened?	2	发生了什么？	1
+vo_eny_eny_	general_	detect_unconscious_neutral_01	vo_eny_eny_general_detect_unconscious_neutral_01	omuk		General	displeased	sees unconcious person	You! Who attacked you?	4	喂！是谁攻击了你？	1
+vo_eny_eny_	general_	detect_unconscious_neutral_02	vo_eny_eny_general_detect_unconscious_neutral_02	omuk		General	displeased	sees unconcious person	Stand up!	2	站起来！	1
+vo_eny_eny_	general_	friend_missing_male_00	vo_eny_eny_general_friend_missing_male_00	omuk	hambo	General	displeased	his partner is missing	How dare he leave his post!	6	他竟敢擅离岗位！	1
+vo_eny_eny_	general_	friend_missing_male_01	vo_eny_eny_general_friend_missing_male_01	omuk	hambo	General	displeased	his partner is missing	Where is he?!	3	他去哪了？！	1
+vo_eny_eny_	general_	friend_missing_male_02	vo_eny_eny_general_friend_missing_male_02	omuk	hambo	General	displeased	his partner is missing	He is missing!	3	他不见了!	1
+vo_eny_eny_	general_	friend_wakeup_00	vo_eny_eny_general_friend_wakeup_00	omuk	hambo	General	urgent	wakes unconcious person	Hey! Wake up!	3	喂！醒醒！	1
+vo_eny_eny_	general_	friend_wakeup_01	vo_eny_eny_general_friend_wakeup_01	omuk	hambo	General	urgent	wakes unconcious person	Get up!	2	起来!	1
+vo_eny_eny_	general_	friend_wakeup_02	vo_eny_eny_general_friend_wakeup_02	omuk	hambo	General	urgent	wakes unconcious person	Are you alright?	3	你还好吗？	1
+vo_eny_eny_	general_	friend_wakeup_03	vo_eny_eny_general_friend_wakeup_03	omuk	hambo	General	urgent	wakes unconcious person	What happened to you?	4	你怎么了?	1
+vo_eny_eny_	general_	friend_wakeup_04	vo_eny_eny_general_friend_wakeup_04	omuk	hambo	General	urgent	wakes unconcious person	On your feet!	3	站起来！	1
+vo_eny_eny_	general_	hear_noise_00	vo_eny_eny_general_hear_noise_00	omuk	hambo	General	suspicious	hears strange noise	Huh?!	1	啊？！	1
+vo_eny_eny_	general_	hear_noise_01	vo_eny_eny_general_hear_noise_01	omuk	hambo	General	suspicious	hears strange noise	What was that?	3	什么声音？	1
+vo_eny_eny_	general_	hear_noise_02	vo_eny_eny_general_hear_noise_02	omuk	hambo	General	suspicious	hears strange noise	I heard something …	4	我听到了什么…	1
+vo_eny_eny_	general_	hear_noise_03	vo_eny_eny_general_hear_noise_03	omuk	hambo	General	suspicious	hears strange noise	Strange sound …	3	奇怪的声音……	1
+vo_eny_eny_	general_	hear_noise_04	vo_eny_eny_general_hear_noise_04	omuk	hambo	General	suspicious	hears strange noise	That noise …	3	这声音…	1
+vo_eny_eny_	general_	hear_noise_directhit_00	vo_eny_eny_general_hear_noise_directhit_00	omuk		General	anger	is hit by stone	Hrm! How dare you, coward?!	5	嗷！竟敢打我,胆小鬼!	1
+vo_eny_eny_	general_	hear_noise_directhit_01	vo_eny_eny_general_hear_noise_directhit_01	omuk		General	contempt	is hit by stone	Hrm! You will suffer for this!	6	嗷！你会为此付出代价的！	1
+vo_eny_eny_	general_	hear_noise_directhit_02	vo_eny_eny_general_hear_noise_directhit_02	omuk		General	anger	is hit by stone	Hrm! That will cost you dearly!	6	嗷！你会为此付出沉重代价！	1
+vo_eny_eny_	general_	hear_noise_directhit_03	vo_eny_eny_general_hear_noise_directhit_03	omuk		General	contempt	is hit by stone	Hrm! You have achieved nothing, fool!	6	嗷！我一点也不痛，蠢货！	1
+vo_eny_eny_	general_	hear_noise_gunshot_00	vo_eny_eny_general_hear_noise_gunshot_00	omuk		General	alarmed	hears player gunshot	That was no rifle. They are here!	7	那不是普通的枪声，他们来了!	1
+vo_eny_eny_	general_	hear_noise_gunshot_01	vo_eny_eny_general_hear_noise_gunshot_01	omuk		General	alarmed	hears player gunshot	Shots fired! They are here!	5	有人开火!他们来了!	1
+vo_eny_eny_	general_	hear_noise_gunshot_02	vo_eny_eny_general_hear_noise_gunshot_02	omuk		General	alarmed	hears player gunshot	Hah! You have revealed yourself!	5	哈！你们暴露了！	1
+vo_eny_eny_	general_	hear_noise_human_00	vo_eny_eny_general_hear_noise_human_00	omuk		General	tense	hears human noise	Someone there?	2	有人在那儿吗?	1
+vo_eny_eny_	general_	hear_noise_human_01	vo_eny_eny_general_hear_noise_human_01	omuk		General	tense	hears human noise	Who goes there?	3	谁在那儿?	1
+vo_eny_eny_	general_	hear_noise_human_02	vo_eny_eny_general_hear_noise_human_02	omuk		General	tense	hears human noise	I heard that!	3	我听到了!	1
+vo_eny_eny_	general_	hear_noise_human_03	vo_eny_eny_general_hear_noise_human_03	omuk		General	tense	hears human noise	Who is making noise?	4	是谁的声音？	1
+vo_eny_eny_	general_	hear_noise_human_04	vo_eny_eny_general_hear_noise_human_04	omuk		General	tense	hears human noise	Who hides in the shadows?	5	谁藏在暗处？	1
+vo_eny_eny_	general_	hear_noise_human_05	vo_eny_eny_general_hear_noise_human_05	omuk		General	tense	hears human noise	Who is this?	3	是谁?	1
+vo_eny_eny_	general_	hear_noise_too_much_00	vo_eny_eny_general_hear_noise_too_much_00	omuk		General	irritated	irritated by a continuous string of strange noises	You are testing my patience.	5	你是在考验我的耐心	1
+vo_eny_eny_	general_	hear_noise_too_much_01	vo_eny_eny_general_hear_noise_too_much_01	omuk		General	irritated	irritated by a continuous string of strange noises	You will pay for this.	5	你会为此付出代价	1
+vo_eny_eny_	general_	hear_noise_too_much_02	vo_eny_eny_general_hear_noise_too_much_02	omuk		General	irritated	irritated by a continuous string of strange noises	Show yourself, coward.	3	出来，胆小鬼！	1
+vo_eny_eny_	general_	hear_noise_too_much_03	vo_eny_eny_general_hear_noise_too_much_03	omuk		General	irritated	irritated by a continuous string of strange noises	Play your games while you can, fool.	7	看你能玩到什么时候，蠢货	1
+vo_eny_eny_	general_	ignore_distraction_00	vo_eny_eny_general_ignore_distraction_00	omuk	hambo	General	agressive	ignores player distraction	You must think I'm a fool!	6	你当我傻吗!	1
+vo_eny_eny_	general_	ignore_distraction_01	vo_eny_eny_general_ignore_distraction_01	omuk	hambo	General	agressive	ignores player distraction	Hah! That will not work on me!	7	哈！对我没用的！	1
+vo_eny_eny_	general_	ignore_distraction_02	vo_eny_eny_general_ignore_distraction_02	omuk	hambo	General	agressive	ignores player distraction	This is absurd! Fight!	4	真是荒谬！快来一战！	1
+vo_eny_eny_	general_	investigate_bush_00	vo_eny_eny_general_investigate_bush_00	omuk	hambo	General	agressive	searches bushes for player characters	Ha, hiding in the bushes?!	5	哈！想躲在灌木丛中?	1
+vo_eny_eny_	general_	investigate_bush_01	vo_eny_eny_general_investigate_bush_01	omuk	hambo	General	agressive	searches bushes for player characters	You cannot hide from me!	5	你躲不了我的！	1
+vo_eny_eny_	general_	investigate_bush_02	vo_eny_eny_general_investigate_bush_02	omuk	hambo	General	agressive	searches bushes for player characters	You cannot fool me!	4	你骗不了我的!	1
+vo_eny_eny_	general_	investigate_bush_03	vo_eny_eny_general_investigate_bush_03	omuk	hambo	General	agressive	searches bushes for player characters	Hrm, crawling through the thicket?	5	哼！想从灌木丛爬走?	1
+vo_eny_eny_	general_	investigate_bush_04	vo_eny_eny_general_investigate_bush_04	omuk	hambo	General	agressive	searches bushes for player characters	The brush will not protect you!	6	灌木丛也保护不了你!	1
+vo_eny_eny_	general_	investigate_door_00	vo_eny_eny_general_investigate_door_00	omuk	hambo	General	agressive	follows player character inside buildings	I will drag you out of there.	7	我要把你拖出来	1
+vo_eny_eny_	general_	investigate_door_01	vo_eny_eny_general_investigate_door_01	omuk	hambo	General	agressive	follows player character inside buildings	I know you are inside!	5	我知道你在里面!	1
+vo_eny_eny_	general_	investigate_door_02	vo_eny_eny_general_investigate_door_02	omuk	hambo	General	agressive	follows player character inside buildings	You will find no safety inside.	6	躲进去也没用的	1
+vo_eny_eny_	general_	investigate_door_03	vo_eny_eny_general_investigate_door_03	omuk	hambo	General	agressive	follows player character inside buildings	Fine. This will be your grave.	6	好吧！这里就是你的坟墓	1
+vo_eny_eny_	general_	investigate_end_00	vo_eny_eny_general_investigate_end_00	omuk	hambo	General	tense	"stops investigating area
+(same as squad solo)"	This is not over.	4	别以为就这么完了	1
+vo_eny_eny_	general_	investigate_end_01	vo_eny_eny_general_investigate_end_01	omuk	hambo	General	tense	"stops investigating area
+(same as squad solo)"	They will return.	3	他们还会回来的	1
+vo_eny_eny_	general_	investigate_end_02	vo_eny_eny_general_investigate_end_02	omuk	hambo	General	tense	"stops investigating area
+(same as squad solo)"	I am waiting, cowards!	4	我等你们回来，胆小鬼!	1
+vo_eny_eny_	general_	investigate_end_03	vo_eny_eny_general_investigate_end_03	omuk	hambo	General	tense	"stops investigating area
+(same as squad solo)"	Yes, run away!	3	对，像懦夫一样逃跑吧！	1
+vo_eny_eny_	general_	investigate_start_00	vo_eny_eny_general_investigate_start_00	omuk	hambo	General	tense	"starts investigating area
+(same as squad solo)"	Where are you?!	3	你在哪？！	1
+vo_eny_eny_	general_	investigate_start_01	vo_eny_eny_general_investigate_start_01	omuk	hambo	General	tense	"starts investigating area
+(same as squad solo)"	Cowards!	1	懦夫！	1
+vo_eny_eny_	general_	investigate_start_02	vo_eny_eny_general_investigate_start_02	omuk	hambo	General	tense	"starts investigating area
+(same as squad solo)"	I know you're here!	4	我知道你在这儿！	1
+vo_eny_eny_	general_	investigate_start_03	vo_eny_eny_general_investigate_start_03	omuk	hambo	General	tense	"starts investigating area
+(same as squad solo)"	Wait until I find you!	5	等我找到你！	1
+vo_eny_eny_	general_	investigate_start_04	vo_eny_eny_general_investigate_start_04	omuk	hambo	General	tense	"starts investigating area
+(same as squad solo)"	Come forward!	2	快出来！	1
+vo_eny_eny_	general_	knockout_scream_00	vo_eny_eny_general_knockout_scream_00	omuk	hambo	General	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	general_	knockout_scream_01	vo_eny_eny_general_knockout_scream_01	omuk	hambo	General	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	general_	knockout_scream_02	vo_eny_eny_general_knockout_scream_02	omuk	hambo	General	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	general_	regain_consciousness_00	vo_eny_eny_general_regain_consciousness_00	omuk	hambo	General	angry	knocked out, wakes up	… they jumped me!	4	……他们偷袭我	1
+vo_eny_eny_	general_	regain_consciousness_01	vo_eny_eny_general_regain_consciousness_01	omuk	hambo	General	angry	knocked out, wakes up	… they knocked me down!	5	……他们把我打晕了!	1
+vo_eny_eny_	general_	regain_consciousness_02	vo_eny_eny_general_regain_consciousness_02	omuk	hambo	General	angry	knocked out, wakes up	… a cowardly attack!	4	……卑鄙的偷袭!	1
+vo_eny_eny_	general_	see_flying_body_00	vo_eny_eny_general_see_flying_body_00	omuk	hambo	General	startled	sees corpse that's thrown into his view by player	How?!	1	什么？！	1
+vo_eny_eny_	general_	see_flying_body_01	vo_eny_eny_general_see_flying_body_01	omuk	hambo	General	startled	sees corpse that's thrown into his view by player	Demons!	1	魔鬼！	1
+vo_eny_eny_	general_	see_flying_body_02	vo_eny_eny_general_see_flying_body_02	omuk	hambo	General	startled	sees corpse that's thrown into his view by player	Honourless killers!	2	可耻的杀手！	1
+vo_eny_eny_	general_	see_flying_object_00	vo_eny_eny_general_see_flying_object_00	omuk	hambo	General	agressive	sees object that's thrown into his view by player	What's this?!	2	这是什么?！	1
+vo_eny_eny_	general_	see_flying_object_01	vo_eny_eny_general_see_flying_object_01	omuk	hambo	General	agressive	sees object that's thrown into his view by player	Who did that?!	3	是谁干的?!	1
+vo_eny_eny_	general_	see_flying_object_02	vo_eny_eny_general_see_flying_object_02	omuk	hambo	General	agressive	sees object that's thrown into his view by player	Is this madness part of their plan?!	7	这也是他们耍的诡计吗？	1
+vo_eny_eny_	general_	see_something_00	vo_eny_eny_general_see_something_00	omuk	hambo	General	suspicious	sees something strange	What?!	1	什么？！	1
+vo_eny_eny_	general_	see_something_01	vo_eny_eny_general_see_something_01	omuk	hambo	General	suspicious	sees something strange	Hrm?!	1	嗯？！	1
+vo_eny_eny_	general_	see_something_02	vo_eny_eny_general_see_something_02	omuk	hambo	General	suspicious	sees something strange	Is that …	3	那是……	1
+vo_eny_eny_	general_	see_something_03	vo_eny_eny_general_see_something_03	omuk	hambo	General	suspicious	sees something strange	Something …	2	好像是……	1
+vo_eny_eny_	general_	see_something_04	vo_eny_eny_general_see_something_04	omuk	hambo	General	suspicious	sees something strange	Hmm …	2	嗯……	1
+vo_eny_eny_	general_	stun_end_00	vo_eny_eny_general_stun_end_00	omuk		General	enraged	stands up after stun	… firearms! Cowards!	3	……居然用枪？！懦夫！	1
+vo_eny_eny_	general_	stun_end_01	vo_eny_eny_general_stun_end_01	omuk		General	enraged	stands up after stun	… you fools. I will break you!	7	……蠢货，我要把你碎尸万段	1
+vo_eny_eny_	general_	stun_end_02	vo_eny_eny_general_stun_end_02	omuk		General	enraged	stands up after stun	… you shot me ... Now I cut you in half!	11	竟敢开枪打我！现在我要把你切成两半！	1
+vo_eny_eny_	general_	stun_end_03	vo_eny_eny_general_stun_end_03	omuk		General	enraged	stands up after stun	 … you thought that would kill me?!	8	 ……你以为那样就能杀得了我？！	2
+vo_eny_eny_	general_	stun_end_04	vo_eny_eny_general_stun_end_04	omuk		General	enraged	stands up after stun	… assassins! Face me!	4	……刺客！有种来单挑！	1
+vo_eny_eny_	general_	stun_scream_00	vo_eny_eny_general_stun_scream_00	omuk		General	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	general_	stun_scream_01	vo_eny_eny_general_stun_scream_01	omuk		General	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	general_	stun_scream_02	vo_eny_eny_general_stun_scream_02	omuk		General	surprised	(sound) receives a stunning blow, grunts and drops to his knees		0		0
+vo_eny_eny_	general_	stun_scream_03	vo_eny_eny_general_stun_scream_03	omuk		General	surprised	receives a stunning blow, grunts and drops to his knees	… y-you ...	3	啊……你……	1
+vo_eny_eny_	general_	stun_scream_04	vo_eny_eny_general_stun_scream_04	omuk		General	surprised	receives a stunning blow, grunts and drops to his knees	… cowards ...	3	呃……懦夫……	1
+												
+									WORDCOUNT EN:	462		113

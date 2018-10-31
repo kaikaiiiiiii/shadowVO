@@ -1,0 +1,239 @@
+5,2,11		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) During this mission, Aiko is introduced as the final team member.
+2) Together with Mugen, she will infiltrate a monastery and rescue Takuma from captivity.
+3) We learn that Mugen and Aiko are very fond of each other. This starts the buildup for when he betrays the Shogun to save Aiko.
+4) We reunite with Takuma, and learn a bit about what happened to him after the war."																								
+																																	
+BRIEFING									Mugen arrives at the monastery. A mysterious woman appears out of nowhere. It is Aiko, the fourth team member.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Mount Tsuru		鹤山	1																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_briefing_n00	omuk	hambo		WARRIOR	searching	worried because he doesn't see Aiko	Hmm ... is there a chance I got here first? Did she not get my message?	16	嗯……怎么没人？难道她没收到我的消息？	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_briefing_n01	omuk	hambo		GEISHA	elegant	comes out of nowhere	Konnichiwa, Mugen-san. 	3	午安，无限大哥。 	2																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_briefing_n02	omuk	hambo		WARRIOR	pleased		Ah, Aiko-san. Your beauty is most welcome on this desolate mountain.	11	哦喔，爱子小姐！在这荒山野岭还能一睹您的芳容，真是三生有幸。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_briefing_n03	omuk	hambo		GEISHA	"amused
+slight teasing"	happy to see Mugen again	Mugen-san! Have we come all this way for flattery?	9	无限大哥。跑到这种荒郊野外，就为了来献殷勤的吗？	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_briefing_n04	omuk	hambo		WARRIOR	changing subjects		I wish it were so. You seem to have arrived before me. What do you gather from this place?	19	我倒希望如此。看来你比我先到。有没有探到什么情报？	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery1_briefing_n05	omuk	hambo		GEISHA	sly		The guards are talkative. I heard them speak of a captive held near the waterfalls.	15	这边的守卫都很健谈。我听他们在说有个俘虏关押在瀑布那边。	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery1_briefing_n06	omuk	hambo		WARRIOR	I'm listening		That must be Takuma-san! How shall we proceed?	8	肯定是琢磨大师！你有什么计划？	1																					
+vocs_over_over_	_n07	vocs_over_over_monastery1_briefing_n07	omuk	hambo		GEISHA	this is what I do		There are a number of female temple servants. If we find a match, I can take her clothes and assume her identity.	22	寺庙里有不少女佣。如能拿到合适的衣服，我可以乔装成女佣。	1																					
+vocs_over_over_	_n08	vocs_over_over_monastery1_briefing_n08	omuk	hambo		GEISHA	I got this		It would allow me to move freely and ring the bell that calls the monks to prayer …	18	这样我就能进出自由，然后敲响大钟，召集僧人去祷告……	1																					
+vocs_over_over_	_n09	vocs_over_over_monastery1_briefing_n09	omuk	hambo		WARRIOR	satisfied		… thinning out the crowd. An elegant plan. One of the many things I have missed about you.	18	调虎离山，然后趁机潜入…… 此计甚妙，爱子小姐还是和当年一样才貌双全。	2																					
+vocs_over_over_	_n10	vocs_over_over_monastery1_briefing_n10	omuk	hambo		WARRIOR	satisfied		Very well. Once we reach Takuma-san, we should …	9	很好。一旦救出琢磨大师……	1																					
+vocs_over_over_	_n11	vocs_over_over_monastery1_briefing_n11	omuk	hambo		GEISHA	on edge	quickly moving into cover	Quickly! Someone is coming!	4	躲好！有人来了！	1																					
+vocs_over_over_	_n12	vocs_over_over_monastery1_briefing_n12	omuk	hambo		DAIMYO			I expect you to make up for the loss of the latest shipment.	13	你们要将功补过，弥补上批货物的损失。	1																					
+vocs_over_over_	_n13	vocs_over_over_monastery1_briefing_n13	omuk	hambo		SAMURAI			Yes, Lord Yabu. The monks will increase their workload, as will Takuma.	12	遵命，薮大人。我会让僧人和琢磨都加班加点。	1																					
+vocs_over_over_	_n14	vocs_over_over_monastery1_briefing_n14	omuk	hambo		DAIMYO			This matter will soon be concluded, and the old man will cease to be useful. See to it that he never leaves this mountain.	24	最后一批货很快就能造完，那么老家伙就没用了。到时候切记不能让他活着下山。	1																					
+vocs_over_over_	_n15	vocs_over_over_monastery1_briefing_n15	omuk	hambo		SAMURAI			As you wish, Yabu-sama.	4	谨遵指令，薮大人。	1																					
+vocs_over_over_	_n16	vocs_over_over_monastery1_briefing_n16	omuk	hambo		DAIMYO		turns and leaves after speaking	And make sure that the next transport leaves in time. I will not tolerate any further delays.	17	下批货一定要准时发出。不可再有拖延。	1																					
+vocs_over_over_	_n17	vocs_over_over_monastery1_briefing_n17	omuk	hambo		WARRIOR	slightly relieved	Samurai bows, heads back to temple	That was close. Best we start now, before more complications arrive.	11	好险。迟则生变，我们最好立即行动。	1																					
+vocs_over_over_	_n17a	vocs_over_over_monastery1_briefing_n17a	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	Lord Yabu. I expect we will meet again in the near future. For now, we must free Takuma-san.	18	薮大名，我们很快就会再见面的。但现在要先营救琢磨大师。	1																					
+vocs_over_over_	_n17b	vocs_over_over_monastery1_briefing_n17b	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	So Lord Yabu has forced Takuma-san and the monks to build weapons. We will deal with him once we have freed Takuma-san.	22	看来是薮大名强迫琢磨大师和僧人们制造武器。这次先营救琢磨大师，下次再去找他。	1																					
+vocs_over_over_	_n18	vocs_over_over_monastery1_briefing_n18	omuk	hambo		GEISHA	elegant		I agree, let us begin.	5	同意，开始行动吧。	1																					
+																																	
+TRANSPORT									An officer is annoyed by how slow the bridge is being repaired.		An officer is annoyed by how slow the bridge is being repaired.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_transport_n00	omuk	hambo		OFFICER	angry		This one must reach Kyoto, understand?	6	这批货一定要安全运到京都，明白吗？	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_transport_n01	omuk	hambo		OFFICER	angry		Then take a different route!	5	那就换条路走！	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_transport_n02	omuk	hambo		OFFICER	angry		You must protect these crates with your life.	8	就算搭上性命也得保护好这批货。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_transport_n03	omuk	hambo		OFFICER	angry		If  you fail, Lord Yabu will have your head.	10	要是办砸了，当心薮大人要你脑袋。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_transport_n04	omuk	hambo		OFFICER	angry		No excuses, no delays.	4	别找借口！不得拖延！	1																					
+																																	
+OPTIONS									The team reaches the monastery walls.		The team reaches the monastery walls.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_options_n00	omuk	hambo		WARRIOR	impressed		These wagons … I have seen their kind before. This place is indeed the source of the weapon transports.	19	这些马车…和我之前见过的一样。此地的确就是武器运输的源头。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_options_n01	omuk	hambo		GEISHA	tactful		The gate they came from is heavily guarded, but there are other ways in. Let's explore the possibilities.	18	大门戒备森严，但还有其它方法进入。先打探下周围吧。	1																					
+																																	
+CLIMBING									Aiko climbs a vine to get inside the monastery		Aiko climbs a vine to get inside the monastery																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_climbing_n00	omuk	hambo		GEISHA	teasing		I will go ahead. Will you be patient while I am gone?	12	我先走一步啦，你会耐心等我回来吗？	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_climbing_n01	omuk	hambo		WARRIOR	teasing back		The sight of your elegant ascent will keep my thoughts occupied.	11	你攀爬的背影实在优雅，在下都看呆了。就让我在原地好好回味吧。	1																					
+																																	
+SECRETS1									The team interacts with a crane statue. A secret passage opens. (This  dialog only triggers before Takuma has been freed)		The team interacts with a crane statue. A secret passage opens. (This  dialog only triggers before Takuma has been freed)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets1_n00	omuk	hambo		GEISHA	curious	Aiko first	Curious. This opened a secret passage of sorts. Let us keep that in mind for when we leave.	18	好神奇。这个机关能打开秘道，撤离的时候或许能派上用场。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets1_n01	omuk	hambo		WARRIOR	intrigued	Mugen first	What is this? It seems to have opened a secret passage. We must remember that for our escape.	18	这是什么？这个机关好像能打开秘道。最好记下来，逃离的时候用得到。	1																					
+																																	
+ENTRANCE									Aiko infiltrates the entrance area		Aiko infiltrates the entrance area																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_entrance_n00	omuk	hambo		GEISHA	observant		Carts and wagons, packed with firearms. What an unexpected place for such a sinister enterprise.	15	嗯…这么多装满火器的推车和马车。谁能想到堂堂庙宇之上，竟有这等勾当。	1																					
+																																	
+PILGRIMS									Aiko infiltrates the pilgrims area		Aiko infiltrates the pilgrims area																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_pilgrims_n00	omuk	hambo		GEISHA	observant		There are more guards than monks and pilgrims combined. Clearly the gods are not masters of this temple …	19	僧人和信众加起来都没守卫多。这座庙里，供奉的哪是神明……	1																					
+																																	
+SHY									A guard asks for guidance at a shrine. He then approaches a temple servant. She denies him, and he returns to the shrine. Repeat …		A guard asks for guidance at a shrine. He then approaches a temple servant. She denies him, and he returns to the shrine. Repeat …																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_shy_n00	omuk	hambo		ENEMY	unsure	at shrine	What should I do …	5	我该怎么办…	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_shy_n01	omuk	hambo		ENEMY	unsure	tries to ask her out	Uhm … I … hello again …	7	嗯…那个…我还是想…	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_shy_n02	omuk	hambo		CIVILIAN F	polite rebuke		I beg you. Leave me be.	6	求你了，别来找我了。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_shy_n03	omuk	hambo		ENEMY	sad	*sigh*		0		0																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_shy_n04	omuk	hambo		ENEMY	unsure	at shrine	Give me strength …	4	大神，赐予我勇气吧…	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_shy_n05	omuk	hambo		ENEMY	unsure		Uhm … would you … consider …	7	呃…那个…我想…	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_shy_n06	omuk	hambo		CIVILIAN F	polite rebuke		Please. It is forbidden.	4	别这样！不可以的。	1																					
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_shy_n07	omuk	hambo		ENEMY	sad	*sigh*		0		0																					
+																																	
+SERVANT									Aiko sees a temple servant she can steal clothes from. All guards in the area frequently glance at the girl.		Aiko sees a temple servant she can steal clothes from. All guards in the area frequently glance at the girl.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_servant_n00	omuk	hambo		GEISHA	amused		This woman has a few secret admirers. Her uniform would fit me perfectly.	13	好像有不少人对这个女佣有意思嘛。她的衣服正合我身。	1																					
+																																	
+LAUNDRY									Temple servants launder clothes		Temple servants launder clothes																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_laundry_n00	omuk	hambo		CIVILIAN F	working	humming a washing tune		0		0																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_laundry_n01	omuk	hambo		CIVILIAN F	working	mumbling		0		0																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_laundry_n02	omuk	hambo		CIVILIAN F	working		Hmm …	2	嗯……	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_laundry_n03	omuk	hambo		CIVILIAN F	working		Almost done.	2	快干完了。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_laundry_n04	omuk	hambo		CIVILIAN F	working		There …	2	嘿！	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_laundry_n05	omuk	hambo		CIVILIAN F	working		This needs mending.	3	这件得缝一下。	1																					
+																																	
+LAUNDRY									Aiko has reached the laundry, where a few temple servants are busy washing and peging out clothes.		Aiko has reached the laundry, where a few temple servants are busy washing and peging out clothes.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_laundry_n00	omuk	hambo		GEISHA	elegant		The laundry. What better place to look for new attire?	10	是洗衣场。要找衣服，来这里就对了。	1																					
+																																	
+DISGUISE1									Aiko has just received her temple servant disguise.		Aiko has just received her temple servant disguise.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise1_n00	omuk	hambo		GEISHA	elegant		Once I have changed clothes, the guards will not suspect me.	11	换上这身衣服，守卫就不会怀疑我了。	1																					
+																																	
+DISGUISE2									Aiko has put on her temple servant disguise.		Aiko has put on her temple servant disguise.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise2_n00	omuk	hambo		GEISHA	elegant		It has been some time since I have worn Hakama.	10	已经很久没穿过这种女袴了。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_disguise2_n01	omuk	hambo		GEISHA	elegant		Now I must proceed to ring the bell. Once the monks have gone to prayer it will be easier to bring Mugen-san inside.	23	得去敲钟了。如果僧人都去祷告，无限大哥就更容易进来。	1																					
+																																	
+TEMPLE									Aiko passes by an impressive staircase that leads to the inner temple.		Aiko passes by an impressive staircase that leads to the inner temple.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_temple_n00	omuk	hambo		GEISHA	elegant		Layers of walls, fortified gates ... this was once an armed temple. No wonder they have the means to produce weapons.	21	真是高墙林立，关卡重重…...这座寺庙曾在战时武装成据点，难怪会选这里生产武器。	1																					
+																																	
+GRAVEYARD									Aiko passes by a graveyard tended by temple servants.		Aiko passes by a graveyard tended by temple servants.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_graveyard_n00	omuk	hambo		GEISHA	elegant		A graveyard. Former servants of this temple. I always find these sorts of places soothing.	15	墓地。葬在这里的应该都是庙里的人。这种地方总能让人心神宁静。	1																					
+																																	
+TUNNELS									Aiko find tunnels that lead to different parts of the temple.		Aiko find tunnels that lead to different parts of the temple.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_tunnels_n00	omuk	hambo		GEISHA	elegant		Tunnels. Do they lead to the different parts of the temple? What a curious place this is.	17	有隧道，是连通寺庙其它地点的吗？这里的构造真是稀奇。	1																					
+																																	
+BELL									Aiko approaches the bell that calls the monks in for prayer.		Aiko approaches the bell that calls the monks in for prayer.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_bell_n00	omuk	hambo		GEISHA	playful		The bell. I hope the monks do not mind a change in routine.	13	钟在这里。希望大家不要察觉今日的祷告时间和平时不一样。	1																					
+																																	
+CLEAR									"Aiko has rung the bell and cleared the way for Mugen.
+(block if Mugen has already entered)"		Aiko has rung the bell and cleared the way for Mugen.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_clear_n00	omuk	hambo		GEISHA	playful		The path is clear. I should return to the entrance and help Mugen-san in.	14	路已开好，现在该回到入口，帮无限大哥进来。	1																					
+																																	
+INSIDE									Mugen enters the monastery.		Mugen enters the monastery.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_inside_n00	omuk	hambo		WARRIOR	careful		I'm in the temple. What is your impression so far, Aiko-san?	11	我已进入寺庙。你在庙中有什么发现吗，爱子小姐？	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_inside_n01	omuk	hambo		GEISHA	inrigued		This place hides many things. It must have a rich history.	11	此地藏了不少秘密，必有很多渊源。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_inside_n02	omuk	hambo		WARRIOR	direct		We could look for records to satisfy your curiosity.	9	文献里没有记载，不过我们可以一起去找找。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_inside_n03	omuk	hambo		GEISHA	amused	always finds Mugen's honest support charming	You mean well Mugen, but I think we have more urgent business to attend to.	15	无限大哥说笑了。还是赶紧办正事吧。	1																					
+																																	
+ROCKS									Mugen discovers large rocks that he can lift and throw on people.		Mugen discovers large rocks that he can lift and throw on people.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_rocks_n00	omuk	hambo		WARRIOR	confident		These rocks might prove useful. I could throw them on unsuspecting opponents.	12	这些岩石说不定有用。可以悄悄扔到敌人头上，给他们来个惊喜。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_rocks_n01	omuk	hambo		GEISHA	teasing		I am eager to hear the stories surrounding this particular battle strategy.	12	我很好奇，你每次用这个战术的时候，结果如何。	1																					
+																																	
+NINJA									On the way to Takuma, Mugen observes Aiko as she kills a man.		On the way to Takuma, Mugen observes Aiko as she kills a man.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_ninja_n00	omuk	hambo		WARRIOR	impressed		Your deadliness rivals that of Hayato-san.	6	你的身手和隼人兄不相上下啊。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_ninja_n01	omuk	hambo		GEISHA	neutral		Is that your Shinobi friend? I am looking forward to making his acquaintance.	13	是说你提过的忍者朋友吗?我期待与他相识。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_ninja_n02	omuk	hambo		WARRIOR	confident		Perhaps you and he can trade stories regarding your training and experience.	12	没准你们还可以交流切磋下技术。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_ninja_n03	omuk	hambo		GEISHA	cautious		A Shinobi from Iga and a Kunoichi from Shinano. It will be quite the exchange, I'm sure.	17	伊贺忍者和信浓女忍交流切磋么。应该会很有收获吧。	1																					
+vocs_over_over_	_n03a	vocs_over_over_monastery1_ninja_n03a	omuk	hambo		GEISHA	cautious	ALTERNATIVE	I wonder if he's worked with other Kunoichi before. From what you told me he seems a solitary person.	19	不知道他有没有和女忍一起行动过。你口中的他，似乎是位独行客。	1																					
+																																	
+HISTORY									When Mugen reaches the waterfall.		When Mugen reaches the waterfall.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_history_n00	omuk	hambo		WARRIOR	open		There's the waterfall. Takuma-san must be close.	7	看到瀑布了。琢磨大师一定在这附近。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_history_n01	omuk	hambo		GEISHA	respectful		From what you have told me, he enabled your victory in Osaka Castle.	13	据你所说，攻下大阪城也有他的功劳。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_history_n02	omuk	hambo		WARRIOR	matter of fact		We could not have done it without him. I never thought I would get the chance to thank him.	19	没有他我们不可能获胜。没想到事隔多年我还有机会当面感谢他。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_history_n03	omuk	hambo		GEISHA	elegant		We will both thank him, once we have freed him.	10	救出来之后，我们一同感谢他吧。	1																					
+																																	
+SAMURAI									When Mugen reaches the waterfall.		When Mugen reaches the waterfall.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_samurai_n00	omuk	hambo		WARRIOR	cautious	Mugen first	Samurai guard this area.	4	此地有武士看守。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_samurai_n01	omuk	hambo		GEISHA	cautious		Samurai ... they can see through my disguise. I should keep my distance.	13	武士……他们能识破我的伪装。我得离他们远点。	1																					
+																																	
+ARGUMENT									An officer is annoyed by how slow the bridge is being repaired.		An officer is annoyed by how slow the bridge is being repaired.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_argument_n00	omuk	hambo		SAMURAI	angry		No more excuses, old man.	5	不准再找借口，老头。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_argument_n01	omuk	hambo		ALCHEMIST	dismissive		Hmm, we are doing what we can.	7	唔，我已竭尽所能。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_argument_n02	omuk	hambo		SAMURAI	grumpy		Lord Yabu demands results.	4	薮大人要你拿出点成果。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_argument_n03	omuk	hambo		ALCHEMIST	dismissive		Hmm, of course he does.	5	嗯，那肯定的。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_argument_n04	omuk	hambo		SAMURAI	grumpy		When will the next shipment be ready?	7	下批货什么时候能备好？	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_argument_n05	omuk	hambo		ALCHEMIST	cheeky		Hmm, when it is finished, I presume.	7	唔，该好的时候自然就好了吧。	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_argument_n06	omuk	hambo		SAMURAI	grumpy		Will it take longer than expected?	6	工期难道要延长吗？	1																					
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_argument_n07	omuk	hambo		ALCHEMIST	cheeky		Hmm, an excellent question.	4	啊，这个问题问得好。	1																					
+vo_hint_hint_	_n08	vo_hint_hint_monastery1_argument_n08	omuk	hambo		SAMURAI	grumpy		Are you mocking me?	4	你是在耍我吗?	1																					
+vo_hint_hint_	_n09	vo_hint_hint_monastery1_argument_n09	omuk	hambo		ALCHEMIST	cheerful		Hehe, what makes you think that?	6	呵呵呵，何出此言?	1																					
+vo_hint_hint_	_n10	vo_hint_hint_monastery1_argument_n10	omuk	hambo		SAMURAI	grumpy		Do not test my patience!	5	别把我逼急了!	1																					
+vo_hint_hint_	_n11	vo_hint_hint_monastery1_argument_n11	omuk	hambo		ALCHEMIST	cheeky		Hmm, I shall follow your advice.	6	嗯，你说得是。	1																					
+																																	
+RESCUE									Takuma is arguing with the samurai who guards him. Mugen sneaks up on them and cuts the samurai down.		Takuma is arguing with the samurai who guards him. Mugen sneaks up on them and cuts the samurai down.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_rescue_n00	omuk	hambo		ALCHEMIST	surprised	waits briefly after Mugen has killed the samurai	… Hehe, good thing you came. His conversation went nowhere.	10	哈哈！来得正好。和他说话简直是对牛弹琴。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_rescue_n01	omuk	hambo		WARRIOR	urgent		Takuma-san. My name is Ōshiro Mugen. Do you remember me?	10	琢磨大师，在下尾城无限。还记得我吗?	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_rescue_n02	omuk	hambo		ALCHEMIST	amused		Hmm … hehe how could I forget? You were with the young Shinobi, at the siege of Osaka.	18	嗯…我怎会忘记呢？是在大阪攻城战的时候吧，你和一个年轻忍者一起。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_rescue_n03	omuk	hambo		WARRIOR	very cautious	notices that Takuma has a wooden leg	We have come to free you. I understand Lord Yabu forced you to build firearms here?	16	我们是来救你的。听说薮大名强迫你在这里制造火器？	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_rescue_n04	omuk	hambo		ALCHEMIST	explaining		He was quite keen on my knowledge. I had to instruct the monks, whom he enslaved to produce weapons in large numbers.	22	他觊觎我的学问。这些僧人也都是被他奴役的， 我被迫教他们大批量制造火器。	2																					
+vocs_over_over_	_n05	vocs_over_over_monastery1_rescue_n05	omuk	hambo		WARRIOR	angered		Hrm … Lord Yabu will pay for this.	8	哼，我无限一定要让薮大名为此付出代价。	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery1_rescue_n06	omuk	hambo		GEISHA	urgent		Might we continue this tale later? The monks might finish their prayer soon, and it is a long way back to the entrance.	23	待会儿再聊吧？僧人的祷告可能快做完了，而且逃出去的路还很长。	1																					
+vocs_over_over_	_n07	vocs_over_over_monastery1_rescue_n07	omuk	hambo		ALCHEMIST	cheerful		Hehe, yes, we should listen to your companion, Mugen.	9	嘿嘿，是的，你的同伴言之有理。	1																					
+																																	
+SECRETS2									Directly after Rescue Dialog		Directly after Rescue Dialog																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets2_n00	omuk	hambo		ALCHEMIST	mysterious		Hmm, on your way here, have you passed by any statues of cranes?	13	嗯，你们来的路上，可否经过一些仙鹤雕像？	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets2_n01	omuk	hambo		WARRIOR	curious	if secrets1 didn't happen	Why do you ask?	4	问这个干什么？	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_secrets2_n02	omuk	hambo		ALCHEMIST	mysterious	if secrets1 didn't happen	This is an old place, with old secrets. Let me mark these statues on your map … if we inspect them, who knows what we might find …	28	此地历史悠久，藏了很多古代秘密。我会把这些仙鹤雕像的位置标于地图之上。如能前去调查一番，或许会有意外收获……	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_secrets2_n03	omuk	hambo		GEISHA	confirmation	if secrets1 did happen	We have seen them, and noticed they open secret passages.	10	看到过，好像是打开密道的机关。	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_secrets2_n04	omuk	hambo		ALCHEMIST	ah, very good	if secrets1 did happen	I suspected as much. I'm sure some of them lead off this mountain. Here, let me mark the statues on your map.	22	果然如此，其中应该有能直接下山的通道，让我来把仙鹤雕像的位置都标到地图上吧。	1																					
+																																	
+SLOW									When Takuma passes the waterfall on the way out.		When Takuma passes the waterfall on the way out.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_slow_n00	omuk	hambo		ALCHEMIST	a bit annoyed		Hrm … too slow.	4	哎……走不快啊。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_slow_n01	omuk	hambo		WARRIOR	sincere	catching up	I am sorry about your leg Takuma-san.	7	琢磨大师，对于你的腿我深表遗憾。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_slow_n02	omuk	hambo		ALCHEMIST	cheerful		Oh don't be, I escaped death that day. A wise man does not question fate after fortune gave him a smile.	21	哦，不要在意。那日我也算死里逃生了。所谓大难不死，必有后福。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_slow_n03	omuk	hambo		GEISHA	curious		Your wooden leg has been crafted with care. Did you fashion it yourself?	13	你的木腿制作精良。是你亲手做的吗？	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_slow_n04	omuk	hambo		ALCHEMIST	cheerful		Indeed, it has served me well. Though I have been making some improvements.	13	是的，用着还挺顺的。另外，我还在上面做了些小改造。	1																					
+																																	
+DEBRIEFING									Near the exit		Near the exit																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery1_debriefing_n00	omuk	hambo		ALCHEMIST	satisfied		Oh, I will not miss this place.	7	哦，终于可以和这里说永别了。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery1_debriefing_n01	omuk	hambo		GEISHA	curious		I am curious. What are your plans, now that you are a free man?	14	冒昧地问一句。既然自由了，接下来有什么打算呢?	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery1_debriefing_n02	omuk	hambo		ALCHEMIST	determined		Hmm, I had no desire to support Lord Yabu's ambitions. But I will gladly help you end them.	18	之前我是迫于无奈才助纣为虐的，但现在我很乐意帮你们挫败薮大名的野心。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery1_debriefing_n03	omuk	hambo		WARRIOR	satisfied		I will not ask the impossible of you.	8	不能再让您老以身涉险了。	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery1_debriefing_n04	omuk	hambo		ALCHEMIST	determined		Heh, do not fear, Mugen-san. With the proper tools, even an old fool like me can be of use on the battlefield.	22	呵呵呵，别担心，无限。若有利器在身，我这样的老糊涂亦可在战场上有所作为。	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery1_debriefing_n05	omuk	hambo		GEISHA	impressed		You are a man of many talents, Takuma-san.	8	琢磨大师还真是文武双全，神通广大。	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery1_debriefing_n06	omuk	hambo		ALCHEMIST	mysterious		Oh, too many, I'm afraid. Heh, most bring me nothing but trouble.	12	神通是不少，但有用的不多，反而一堆麻烦，呵呵呵。	1																					
+vocs_over_over_	_n07	vocs_over_over_monastery1_debriefing_n07	omuk	hambo		WARRIOR	satisfied		Well then, let us return to the safe house and discuss the fate of Lord Yabu.	16	那么，先回藏身处，再商讨如何处置薮大名吧。	1																					
+											0																						
+									MISSION-WORDCOUNT EN:	1255	0	113	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													329	496	254	0	0	0	0	54	0	0	33	23	0	47	0	0	19	0	0	0	0
+													27	36	20	0	0	0	0	3	0	0	5	6	0	8	0	0	8	0	0	0	0
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	

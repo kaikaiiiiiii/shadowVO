@@ -1,0 +1,82 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) The Shogun is not pleased to see our team in his tent and calls the guards.
+2) The team knocks out the guards and the Shogun must listen to their story.
+3) The team has Masaru explain his father’s betrayal. 
+4) The Shogun is shocked, but quickly regains his control.
+5) The Shogun sends the team to Noboru's castle, where they must kill him."																								
+																																	
+POST									The team enters the Shogun's tent together. The Shogun is not pleased to see them.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Shogun's private tent	3	将军大帐	1																					
+vocs_over_over_	_n00	vocs_over_over_shoguncamp_post_n00				SHOGUN	"very short surprise
+selfcontrol"	sitting, writing	Hmm, so ... you have come ... 	8	嗯？…是你们……看来…… 	2																					
+vocs_over_over_	_n01	vocs_over_over_shoguncamp_post_n01				SHOGUN	"very short surprise
+selfcontrol"	"stops writing,
+looks up"	... to think, not even 300.000 men could stop you.	10	……即便有三十万大军也拦不住你们。	1																					
+vocs_over_over_	_n02	vocs_over_over_shoguncamp_post_n02				GEISHA	very respectful	deep bow	My Shogun …	3	将军大人……	1																					
+vocs_over_over_	_n03	vocs_over_over_shoguncamp_post_n03				SHOGUN	cold hard	rises	Do what you must then. I will not waste another word for the butchers of my son.	17	动手吧。我不想和杀害我儿子的凶手多费口舌。	1																					
+vocs_over_over_	_n04	vocs_over_over_shoguncamp_post_n04				GEISHA	passionate	steps forward	We never laid hands on your son. Neither were we responsible for the death of Ōshiro Mugen. It was your brother who twisted the truth to his desire.	28	我们没有杀害龙之介大人。尾城无限的死，也不是我们造成的。在背后歪曲真相的，正是将军大人您的兄弟。	1																					
+vocs_over_over_	_n05	vocs_over_over_shoguncamp_post_n05				SHOGUN	cold hard	walks towards the intruders	Why should I believe this outrageous accusation? What proof do you have?	12	我为何要相信这种大逆不道的说辞？你有什么证据？	1																					
+vocs_over_over_	_n06	vocs_over_over_shoguncamp_post_n06				GEISHA	respectful		We have a witness.	4	属下有证人。	1																					
+vocs_over_over_	_n07	vocs_over_over_shoguncamp_post_n07				BROGUNSON	in pain	Hayato dumps Masaru before the Shogun	Agh!	1	啊啊！	1																					
+vocs_over_over_	_n08	vocs_over_over_shoguncamp_post_n08				SHOGUN	cold hard		My nephew? Is this supposed to work in your favour?	10	这不是我侄儿吗？他还能替你们说话不成？	1																					
+vocs_over_over_	_n09	vocs_over_over_shoguncamp_post_n09				NINJA	with contempt		This creature killed your son with his own hands.	9	这个人渣，亲手杀了你儿子。	1																					
+vocs_over_over_	_n10	vocs_over_over_shoguncamp_post_n10				BROGUNSON	hastily	tries to save his hide by lying	Lies uncle, lies! I saw that filthy Shinobi put a blade in his back. He, he killed Ryūnosuke! 	19	他们说谎，叔父！说谎！我亲眼看到这个下贱的忍者用刀偷袭的。是他…就是他杀了龙之介! 	2																					
+vocs_over_over_	_n11	vocs_over_over_shoguncamp_post_n11				TRAPPER	desperate		No! He's lying!	3	不是的！他在撒谎!	1																					
+vocs_over_over_	_n12	vocs_over_over_shoguncamp_post_n12				SHOGUN	contemplating		… hmm ... go on, nephew.	6	……嗯……继续说，侄儿。	1																					
+vocs_over_over_	_n13	vocs_over_over_shoguncamp_post_n13				BROGUNSON	slimy		He killed Mugen-sensei, too. They all seek to deceive you, uncle. They hurt me, they told me to lie to you, but I won't!	24	他还杀了无限老师。他们都在骗你，叔父。他们拷打我，要挟我，让我欺骗你，但我不会屈服！	1																					
+vocs_over_over_	_n14	vocs_over_over_shoguncamp_post_n14				SHOGUN	with authority		And you know all this because you saw the murder happen, yes?	12	你之所以知道这一切，是因为你亲眼看见了，对吧？	1																					
+vocs_over_over_	_n15	vocs_over_over_shoguncamp_post_n15				BROGUNSON	startled		I … I'm not …	5	不…不是的…	1																					
+vocs_over_over_	_n16	vocs_over_over_shoguncamp_post_n16				SHOGUN	cold		Why were you there? How did you know where Ryūnosuke was hidden?	12	你当时为何在那儿？你是怎么知道龙之介藏在哪里的？	1																					
+vocs_over_over_	_n17	vocs_over_over_shoguncamp_post_n17				BROGUNSON	rising terror	breaks under Shogun's authority	Uncle! You don't understand … !	6	叔父！你误会了我的意思！……	1																					
+vocs_over_over_	_n18	vocs_over_over_shoguncamp_post_n18				SHOGUN	with authority	towers over Masaru	You cannot lie to me, nephew. Answer me now, truthfully. 	11	你骗不了我的，侄儿。现在，如实回答我。 	2																					
+vocs_over_over_	_n19	vocs_over_over_shoguncamp_post_n19				SHOGUN	with authority		Who, in this room, has murdered my son?	8	是谁？在场的人当中，到底是谁，杀了我的儿子？	1																					
+vocs_over_over_	_n20	vocs_over_over_shoguncamp_post_n20				BROGUNSON	"terrified
+cowardly"	breaks under Shogun's authority	Please, uncle. I only did what father told me. I didn't want to, he made me, he gave me the knife, it wasn't my fault I …	27	饶命啊，叔父。我只是按照我父亲说的做。我也不想啊，是父亲他事先准备好刀，然后逼我的。这不能怪我……	1																					
+vocs_over_over_	_n21	vocs_over_over_shoguncamp_post_n21				SHOGUN	cold hard anger	with finality	Enough! Not another word.	4	够了!不准你再说一个字。	1																					
+vocs_over_over_	_n22	vocs_over_over_shoguncamp_post_n22				SHOGUN	heartbraking disappointment	turns away	Noboru ... my own brother … all this time …	10	昇……我的亲弟弟……原来他一直……	1																					
+vocs_over_over_	_n23	vocs_over_over_shoguncamp_post_n23				GEISHA	respectful	steps forward	He blinded us all.	4	蒙骗了我们所有人。	1																					
+vocs_over_over_	_n24	vocs_over_over_shoguncamp_post_n24				SHOGUN	sees things clearly		I should have seen it. His eagerness for battle. His disapproval whenever we spoke of peaceful solutions.	17	我早该察觉到的。他执着于战争。每次谈到和平方案，他都反对。	1																					
+vocs_over_over_	_n25	vocs_over_over_shoguncamp_post_n25				SHOGUN	sees things clearly		"My brother never wanted peace. He was made for conquest.  Were he born a century ago; he would have been the greatest warlord."	24	我的弟弟从来不想要和平，只想着征服。如果他早出生百年，肯定会成为最强的统帅吧。	1																					
+vocs_over_over_	_n26	vocs_over_over_shoguncamp_post_n26				ALCHEMIST	deep		A shadow of the past, darkening the present day.	9	过去的黑暗，却能遮蔽如今的光明。	1																					
+vocs_over_over_	_n27	vocs_over_over_shoguncamp_post_n27				GEISHA	deep respect		We all desire revenge for what was lost.	8	我们几个很想为各自失去的一切复仇。	1																					
+vocs_over_over_	_n28	vocs_over_over_shoguncamp_post_n28				GEISHA	deep respect	bows, the others follow	But we will follow your command, as did Mugen before us.	11	但我们会遵照您的命令，就像无限当初那样。	1																					
+vocs_over_over_	_n29	vocs_over_over_shoguncamp_post_n29				SHOGUN	contemplating	moves behind writing table again	Mugen … even in death he proves his loyalty.	9	无限……即便死了，依然在用这种方式表达对我的一片忠心么。	1																					
+vocs_over_over_	_n30	vocs_over_over_shoguncamp_post_n30				SHOGUN	decisive		I will not grant my brother an honourable death. He will die forgotten, a brief mention in the annals of history.	21	我不会给我弟弟一个光荣的死法。他的死只会被遗忘，尘封在史书中一个不起眼的角落。	1																					
+vocs_over_over_	_n31	vocs_over_over_shoguncamp_post_n31				SHOGUN	decisive		Seek him out in his domain, at Sunpu Castle! Face him and do what must be done! 	18	去他的老巢骏府城把他揪出来！给他应有的下场！	1																					
+vocs_over_over_	_n32	vocs_over_over_shoguncamp_post_n32				SHOGUN	decisive	sits down	We will discuss your future when you return.	8	至于你们的待遇，就等回来再说。	1																					
+vocs_over_over_	_n33	vocs_over_over_shoguncamp_post_n33				GEISHA	deep respect	the whole team bows	As you command, my Shogun.	5	遵命，将军大人。	1																					
+vocs_over_over_	_n34	vocs_over_over_shoguncamp_post_n34				SHOGUN	decisive		Now go. We have wasted enough time already.	8	快去吧。我们已经浪费了太多时间。	1																					
+vocs_over_over_	_n35	vocs_over_over_shoguncamp_post_n35				SHOGUN	decisive		And now, to you, nephew.	5	现在，轮到你了，侄儿。	1																					
+																																	
+									MISSION-WORDCOUNT EN:	435		0	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													0	63	9	230	0	0	82	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+													0	7	1	20	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+																																	
+																																	
+																																	
+																																	
+																																	

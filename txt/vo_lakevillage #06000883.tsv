@@ -1,0 +1,256 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Team has been sent to spy on some rebels in a logging village.
+2) During the mission, Hayato's and Aiko's egos clash heavily.
+3) Yuki tries to make peace between the two, but is ignored by both.
+4) It's unveiled that general Okkoto is in the village. They must learn his plans.
+5) They learn that the rebels will attack Kanazawa, where Yuki was born.
+6) At the end, Hayato and Aiko send Yuki with the news to Brogun. The two will follow general Okkoto so maybe they can learn more."																								
+																																	
+BRIEFING									The team discusses how they will find out the rebel plans. Hayato and Aiko have different professional opinions and can't agree on anything.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Hida Village		飞騨村	1																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_briefing_n00				NINJA	irritated	Cam Start	This must be Hida village. I say we stick to the shadows. Avoid the lights.	15	这里就是飞騨村了。注意避开火光，暗中行动。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_briefing_n01				GEISHA	patient		I approve of your words, Hayato-san, but it will require more to learn the rebels' plans.	16	隼人兄所言极是。不过，要查清叛军的计划，还得先收集点情报。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_briefing_n02				GEISHA	planning	Cam to villagers	The villagers are being treated poorly. I do not think they would expose us, even if we show ourselves to them.	21	村民都受尽了虐待。所以就算被他们看到，应该也不会给叛军通风报信的吧。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_briefing_n03				GEISHA	planning	Cam to Tavern	The tavern will be full of conversation. No doubt we will gain insight there.	14	酒馆那儿聊得正酣。打探一番必有收获。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_briefing_n04				NINJA	better idea	Cam to Stables	Too crowded for my taste. Why not go for the stables? Less people, more cover.	15	那边人多眼杂。还是去牛棚吧？人又少，还便于藏身。	1																					
+vocs_over_over_	_n05	vocs_over_over_lakevillage_briefing_n05				GEISHA	reasoning	Cam to disguise	The tavern is the safer option. All we need is a suitable disguise.	13	还是酒馆更安全。只要有件合适的伪装即可。	1																					
+vocs_over_over_	_n06	vocs_over_over_lakevillage_briefing_n06				NINJA	smug		Heh, admit it, you just want a new set of clothes.	11	…嗯，你就是想穿新衣服而已吧。	1																					
+vocs_over_over_	_n07	vocs_over_over_lakevillage_briefing_n07				TRAPPER	impatient	Cam to Start	Uhm … can we just decide on the way? 	10	嗯……要不等会儿再决定吧？ 	2																					
+																																	
+NIGHT									"This is the first night vision in the game. Enemy field of view works differently.
+(trigger on tutorial scroll pickup)"		This is the first night vision in the game. Enemy field of view works differently.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_night_n00				NINJA	in his element		Ah, always a pleasure working at night.	7	哼，还是夜里行动最好。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_night_n01				GEISHA	elegant		It has it's advantages.	4	确实有好处。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_night_n02				NINJA	in his element		Keep your head down, avoid the lights, and no one will be able to spot us.	16	蹲下走，远离光源，这样就没人能发现我们。	1																					
+																																	
+LAMP									One of the team members extinguishes a lamp to hide in the shadows.		One of the team members extinguishes a lamp to hide in the shadows.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_lamp_n00				NINJA	smug	Hayato first	Fire's dead. Someone's bound to notice.	6	肯定会有人注意到火灭了。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_lamp_n01				TRAPPER	sneaky	Yuki first	Lights out! Leave before the guard sees it!	8	火灭了！在守卫发现前赶紧离开！	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_lamp_n02				GEISHA	elegant	Aiko first	These new shadows will not go unnoticed.	7	巡逻的敌人肯定会发现这边变暗了。	1																					
+																																	
+BURN									A rebel orders a villager to burn their belongings.		A rebel orders a villager to burn their belongings.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_burn_n00				ENEMY	commanding		Bring more!	2	再添把柴！	1																					
+vo_hint_hint_	_n01	vo_hint_hint_lakevillage_burn_n01				ENEMY	commanding		We'll burn everything!	3	全都给我烧了！	1																					
+vo_hint_hint_	_n02	vo_hint_hint_lakevillage_burn_n02				ENEMY	smug		We can't let the fire go out.	7	火不能灭。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_burn_n03				ENEMY	smug		Hurry. It's getting cold.	4	快点。火都快熄了。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_lakevillage_burn_n04				ENEMY	asshole		Faster, you dirty peasant.	4	麻利点，这帮贱民。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_lakevillage_burn_n05				ENEMY	asshole		That can't be all, can it?	6	怎么可能就这么点儿？	1																					
+																																	
+FEAR1									Yuki is disturbed by the rebels abuse of the villagers.		Yuki is disturbed by the rebels abuse of the villagers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_fear1_n00				TRAPPER	anxious		Why do the rebels hate the villagers so?	8	为什么叛军这么恨村民？	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_fear1_n01				NINJA	serious		I don't think they hate them.	6	我看他们并不是恨村民。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_fear1_n02				TRAPPER	anxious		So they just like hurting them.	6	那他们只是很喜欢欺负人吗？	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_fear1_n03				GEISHA	serious		They do this to spread fear, child. The villagers take this abuse, for if they resist, they will no doubt be executed.	22	他们这么做只是为了制造恐慌，村民们也只能默默承受。因为一旦反抗，会被当场处决。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_fear1_n04				TRAPPER	disturbed		Oh …	2	哦……	1																					
+																																	
+LAKE									Aiko and Hayato argue whether or not they should swim through the lake. (ARGUMENT)		Aiko and Hayato argue whether or not they should swim through the lake. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_lake_n00				GEISHA	determined	Aiko first.	Swimming across will get us close to the tavern.	9	从这里游过去就是酒馆了。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_lake_n01				NINJA	stubborn		Don't think we should go that way.	7	我还是觉得走这边不好。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_lake_n02				GEISHA	teasing		Hayato-san! Don't tell me you can't swim!	7	隼人兄！该不是你不会游泳吧？	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_lake_n03				NINJA	teased		You can't be serious …	5	开什么玩笑……	1																					
+																																	
+ROAD									Aiko and Hayato argue whether or not they should take the road through the outer village. (ARGUMENT)		Aiko and Hayato argue whether or not they should take the road through the outer village. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_road_n00				NINJA	determined	Hayato first	Let's follow the road, it'll take us to the stables.	10	沿着这条路，就能走到牛棚。  	3																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_road_n01				GEISHA	stubborn		I am against taking this route.	6	我反对走这边。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_road_n02				NINJA	teasing		What? Afraid you'll ruin your feet?	6	为什么？路太远你走不动？	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_road_n03				GEISHA	teasting back		Yes, that would be awful. You would have to carry me.	11	是啊，我脚吃不消。只能靠你背我了。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_road_n04				NINJA	teased		I … what?	3	呃…饶了我吧！	1																					
+																																	
+DISGUISE1									The team discovers a disguise near the generals tent. (ARGUMENT)		The team discovers a disguise near the generals tent. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_disguise1_n00				GEISHA	pleased	Aiko first	I see clothing lines. This looks promising.	7	我看见晾衣绳了。似乎有不错的衣服。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_disguise1_n01				NINJA	annoyed		Took you long enough to get there. I hope you're satisfied.	11	费这么大劲陪你找到这里。这下你满意了？	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_disguise1_n02				GEISHA	more pleased		Immensely. Your disapproval makes it even more delightful.	8	非常满意。而且看你这么不爽我就更开心了。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_disguise1_n03				NINJA	more annoyed		Hrm …	2	呃……	1																					
+																																	
+DISGUISE2									Aiko puts on ther disguise. (ARGUMENT)		Aiko puts on ther disguise. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_disguise2_n00				GEISHA	pleased		Now, this is much better.	5	这下像点样子了。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_disguise2_n01				NINJA	smug		Want me to fetch you a bath too?	8	要不我再帮您扛个澡盆过来？	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_disguise2_n02				GEISHA	teasing		Thank you, that would be wonderful.	6	那可就再好不过了。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_disguise2_n03				NINJA	less smug		You never yield, do you?	5	你还真是嘴上不饶人啊？	1																					
+																																	
+ABUSE									A rebel guards two terrified village women.		A rebel guards two terrified village women.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_abuse_n00				ENEMY	dark intentions		Almost time.	2	差不多到时间了。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_lakevillage_abuse_n01				CIVILIAN F	terrified		Please. Let us go!	4	求求你，放我们走吧！	1																					
+vo_hint_hint_	_n02	vo_hint_hint_lakevillage_abuse_n02				STATIC	evil		Quiet now.	2	闭嘴。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_abuse_n03				CIVILIAN F	terrified	*sobbing*		0		0																					
+																																	
+RESCUE									The team saves the two terrified village women.		The team saves the two terrified village women.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_rescue_n00				CIVILIAN F	deep gratitude	in tears	T-thank you. Thank you so much!	6	谢-谢谢你们。感激不尽！	1																					
+																																	
+FEAR2									"Yuki is disturbed by the rebels abuse of the villagers.
+(Happens only if you save the woman.)"		Yuki is disturbed by the rebels abuse of the villagers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_fear2_n00				TRAPPER	angry		Those men … they were going to …	8	那些人…他们居然想…	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_fear2_n01				GEISHA	sad		I know, child. I know …	6	我明白你的感受……	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_fear2_n02				TRAPPER	very angry		I hate them!	3	我恨他们！	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_fear2_n03				NINJA	stoic		We did what we could. Let's move on.	8	我们已经尽力了，继续任务吧。	1																					
+																																	
+OFFICERS A									The team discoveres a pair of talking officers in the outer village. (ARGUMENT)		The team discoveres a pair of talking officers in the outer village. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_officersa_n00				GEISHA	annoyed	Aiko first	So, we are at the stables.	6	好吧，还是到牛棚来了。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_officersa_n01				NINJA	smug		See the two samurai? I bet they have something interesting to say.	12	看到那两个武士没？他们肯定在聊些有用的情报。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_officersa_n02				GEISHA	elegant counter	no disguise	And now must dash after them like fools.	8	所以我们要像白痴一样，踉踉跄跄地跟在他们后面偷听么。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_officersa_n03				GEISHA	cool	with disguise	I will do my best to avoid them. A problem not present at the tavern. 	16	我会尽量避开他们的视线。要是去酒馆那边，根本就用不着这么麻烦。 	2																					
+																																	
+TAVERN1									Rebels are drinking heavily at the tavern and terrorize the servants.		Rebels are drinking heavily at the tavern and terrorize the servants.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern1_n00				STATIC	drunk		Hey! What's taking so long? More sake!	7	喂！在磨蹭什么？赶紧添酒！	1																					
+vo_hint_hint_	_n01	vo_hint_hint_lakevillage_tavern1_n01				CIVILIAN F	afraid	comes running	Forgive me. We had to fetch another barrel.	8	请大人息怒。酒喝光了，正去拿新的。	1																					
+vo_hint_hint_	_n01a	vo_hint_hint_lakevillage_tavern1_n01a				CIVILIAN M	afraid	comes running	Forgive me. We had to fetch another barrel.	8	请大人息怒。酒喝光了，正去拿新的。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_lakevillage_tavern1_n02				STATIC	drunk		Do I look like I care? When we call, you come running, understand?!	13	少废话！让你上酒，就赶紧过来，明白了吗？	1																					
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_tavern1_n03				CIVILIAN F	afraid		Yes. Of course.	3	遵，遵命。	1																					
+vo_hint_hint_	_n03a	vo_hint_hint_lakevillage_tavern1_n03a				CIVILIAN M	afraid		Yes. Of course, my lord.	5	遵，遵命，大人。	1																					
+																																	
+TAVERN2									Rebels are drinking heavily at the tavern and terrorize the servants. (random)		Rebels are drinking heavily at the tavern and terrorize the servants. (random)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_tavern2_n00				STATIC	drunk		More sake!	2	添酒！	1																					
+vo_hint_hint_	_n01	vo_hint_hint_lakevillage_tavern2_n01				STATIC	drunk laughter		Mmmm, haha!	2	唔嗯，哈哈！	1																					
+vo_hint_hint_	_n02	vo_hint_hint_lakevillage_tavern2_n02				ENEMY			To General Okkoto!	3	敬乙事大将！	1																					
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_tavern2_n03				ENEMY	satisfied	drinks sake	Ahh.	1	啊啊。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_lakevillage_tavern2_n04				ENEMY		*snore*		0		0																					
+vo_hint_hint_	_n05	vo_hint_hint_lakevillage_tavern2_n05				ENEMY			Faster, peasant!	2	动作快点，贱民！	1																					
+vo_hint_hint_	_n06	vo_hint_hint_lakevillage_tavern2_n06				CIVILIAN F	afraid		Forgive me.	2	万分抱歉。	1																					
+vo_hint_hint_	_n07	vo_hint_hint_lakevillage_tavern2_n07				CIVILIAN F	afraid		Yes. Of course.	3	是，遵命。	1																					
+vo_hint_hint_	_n08	vo_hint_hint_lakevillage_tavern2_n08				CIVILIAN M	afraid		At once.	2	马上就来。	1																					
+vo_hint_hint_	_n09	vo_hint_hint_lakevillage_tavern2_n09				CIVILIAN M	afraid		Anything for you. Of course, my lord.	7	是，任您吩咐，大人。	1																					
+																																	
+FEAR3									Yuki is disturbed by the rebels abuse of the villagers.		Yuki is disturbed by the rebels abuse of the villagers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_fear3_n00				TRAPPER	anxious		Will they leave the women alone?	6	他们会放过那些女人吗？	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_fear3_n01				NINJA	pragmatic		I wish I could say yes. But I don't think the sake will help with that.	16	我很想说“会”。但那些人都喝醉了，所以……	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_fear3_n02				TRAPPER	disturbed		I don't like these people.	5	我讨厌这些人。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_fear3_n03				GEISHA	focussed		A sentiment that we all share.	6	此刻大家心情都一样。	1																					
+																																	
+OFFICERS B									The team discoveres a pair of talking officers at the tavern. (ARGUMENT)		The team discoveres a pair of talking officers at the tavern. (ARGUMENT)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_officersb_n00				NINJA	smug	Hayato first.	Don't think there's enough cover here. Let's head for the stables.	11	这里能藏身的地方太少。还是去牛棚吧。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_officersb_n01				GEISHA	focussed		The two officers seem talkative. They would not notice if I'd followed them in disguise.	15	那两个军官好像聊得正欢。如果我乔装后靠近偷听，应该不会被发现。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_officersb_n02				NINJA	annoyed	no disguise	Fact is: we don't have one. And we wouldn't need one if we were at the stables.	17	你这不是没去找衣服就直接过来了么。如果去牛棚，根本就不需要什么伪装。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_officersb_n03				NINJA	giving in	with disguise	Fine. You already have your new clothes. Might as well use them.	12	好吧。既然都已经拿到新装了，不妨穿上试试。	1																					
+																																	
+PEACE1									Yuki is concerned because her teammates are constantly bickering. (happens after 2 ARGUMENTs)		Yuki is concerned because her teammates are constantly bickering. (happens after 2 ARGUMENTs)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_peace1_n00				TRAPPER	cautious		Uhm … why are you fighting?	6	呃……你们为什么吵架啊？	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_peace1_n01				NINJA	irritated		Not now, Yuki …	4	不是问这种问题的时候，友希…	1																					
+																																	
+PEACE2									Yuki tries to make peace between her team mates. (happens after 4 ARGUMENTs or after GENERAL)		Yuki tries to make peace between her team mates. (happens after 4 ARGUMENTs or after GENERAL)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_peace2_n00				TRAPPER	worried		Hayato-sensei … why can't you agree with Aiko-san?	8	隼人师父……你为什么总是和爱子姐闹别扭？	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_peace2_n01				NINJA	annoyed		Maybe it's because I'm a bad sensei. Why don't you go find a new one?	15	因为我本来就不是什么好师父。你赶紧另寻高明吧？	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_peace2_n02				TRAPPER	disappointed		Hayato-san …	2	隼人师父……	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_peace2_n03				NINJA	sorry	knows he hurt Yuki a bit, with a sigh	Sorry. Things are too tense here. Let's talk later, alright?	10	抱歉。是我话说重了。我们稍后再聊，好吗？	1																					
+																																	
+REGROUP									The team regroups and discusses what they have heard.		The team regroups and discusses what they have heard.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_regroup_n00				NINJA	smug	Hayato first	Interesting.	1	有意思。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_regroup_n01				TRAPPER	excited	Yuki first	Did you hear that?!	4	你听到了吗？！	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_regroup_n02				GEISHA	focussed		This information is vital! Let us find a safe spot and discuss what we've learned.	15	这个情报很关键！找个安全的地方整理一下吧。	1																					
+																																	
+INFO AB									The team has gathered information from listening in on some officers.		The team has gathered information from listening in on some officers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_infoab_n00				GEISHA	elegant		Are we all here?	4	全员都到了吧？	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_infoab_n01				TRAPPER	enthusiastic		Here!	1	到了！	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_infoab_n02				NINJA	hush!		Easy, Yuki.	2	别激动，友希。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_infoab_n03				GEISHA	digesting new info		It appears general Okkoto is here himself. He is having a word with the village elder.	16	看来乙事大将本人也在村里。正在和村长谈话。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_infoab_n04				TRAPPER	excited	cam shows Okkoto	Let's listen in. He'll tell us his plans!	8	我们去偷听吧。说不定会听到他的计划呢！	1																					
+vocs_over_over_	_n05	vocs_over_over_lakevillage_infoab_n05				GEISHA	planning		I agree. Let us seize this opportunity. If we can get close, and with a disguise …	17	同意。要抓住这次机会。如果我能乔装接近的话……	1																					
+vocs_over_over_	_n06	vocs_over_over_lakevillage_infoab_n06				NINJA	likes a challenge		How's this: you use your disguise, I stick to the shadows. Let's see who gets the mark.	17	要不这样吧，你用伪装，我用潜行。看谁先得手。	1																					
+vocs_over_over_	_n07	vocs_over_over_lakevillage_infoab_n07				GEISHA	elegant		Let us focus on the task at hand, Hayato-san. We can play your childish games when our mission is done.	20	请以眼前任务为主，隼人兄。任务完成后，我再陪你玩过家家。	1																					
+																																	
+GENERAL									The team comes close to Okkoto at the town elder's house.		The team comes close to Okkoto at the town elder's house.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_general_n00				TRAPPER	focussed	Yuki first	The general … he's a bad man.	7	那就是大将……坏人。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_general_n01				GEISHA	focussed	Aiko first	General Okkoto. A vicious man.	5	乙事大将，此人心狠手辣。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_general_n02				NINJA	smug		Okkoto, huh … imagine if we killed him. That'd end the rebellion pretty quickly.	14	乙事，哈……你说要是我们把他杀了，叛乱不就能很快结束了么。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_general_n03				GEISHA	tense		You would only end yourself! Do not attack him!	9	去了就是送死！千万不要对他出手！	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_general_n04				NINJA	annoyed		You don't really think I'm that stupid, do you?	9	你当真觉得我有那么蠢么？	1																					
+																																	
+ORDERS									Okkoto is giving orders to his officers.		Okkoto is giving orders to his officers.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_lakevillage_orders_n00				GENERAL	commanding		We will march at the break of dawn.	8	天一亮就进军。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_lakevillage_orders_n01				GENERAL	commanding		The men have another hour to enjoy themselves.	8	就让他们再快活半个时辰吧。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_lakevillage_orders_n02				GENERAL	commanding		I do not care for these filthy peasants.	8	这帮贱民会怎么样不关我的事。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_lakevillage_orders_n03				GENERAL	commanding		Make sure the carts are loaded and secured.	8	货物要全部装上马车，派人看好。	1																					
+vo_hint_hint_	_n04	vo_hint_hint_lakevillage_orders_n04				GENERAL	commanding		We will win glory and honour for Kage-sama.	8	要为影大人的荣耀而战。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_lakevillage_orders_n05				GENERAL	commanding		We have long waited for a good battle.	8	这一战酝酿已久。	1																					
+vo_hint_hint_	_n06	vo_hint_hint_lakevillage_orders_n06				GENERAL	commanding		Any peasant who fails to obey will be executed.	9	如有贱民胆敢不从，格杀勿论。	1																					
+																																	
+INFO MAIN									The team comes close to Okkoto at the town elder's house.		The team comes close to Okkoto at the town elder's house.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_infomain_n00				GENERAL	commanding		We will take all the rice from your granaries, and also your oxen. See that it is done.	18	把你们粮仓里的米都搬出来，还有牛也交出来。快去办。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_infomain_n01				OFFICER	submissive	Elder bows and leaves	… these peasants … they will not survive the year.	10	……那这些农民……都活不下去了。	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_infomain_n02				GENERAL	hard	"Shiroyama = 
+a castle town"	If they wanted to eat they should have joined our cause. The mighty Kage-sama has ordered that we take the city of Kanazawa tomorrow. I want the men well fed.	30	要想活命，就早该投靠我们。影大人下令，明天就要攻打金泽市。所以要让士兵们先吃饱才行。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_infomain_n03				OFFICER	submissive		I will instruct the officers to give out extra rations.	10	我一会去通知各个军官，多发些口粮。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_infomain_n04				GENERAL	confident	looking ahead	Kanazawa castle will be our bulwark against the wrath of the Shogun. Once it is ours, we will hold it until Kage-sama arrives with his army.	26	金泽城将是我们抵御将军进攻的坚实堡垒。一定要拿下它，然后坚守等影大人带援军过来。	1																					
+																																	
+DONE									The team has heard all they need and plan to leave.		The team has heard all they need and plan to leave.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_done_n00				GEISHA	focussed		Now we know Okkoto's and Kage-sama's plans.	7	这下乙事和影大人的计划就都知道了。	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_done_n01				TRAPPER	thinking	she was born in Kanazawa	… huh … Kanazawa city … 	7	……啊……金泽… 	2																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_done_n02				GEISHA	focussed		This must reach Noboru-sama as soon as possible. Let us steal a raft, head downriver and make for Noboru's camp.	20	这个情报一定要尽快告知昇大人。就去偷个木筏，沿河而下回昇大人的营地吧。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_done_n03				NINJA	focussed		For once I agree. Let's head to the piers.	9	这次我同意。快去码头吧。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_done_n04				TRAPPER	relieved		Finally!	1	你们终于不吵架啦！	1																					
+																																	
+DEBRIEFING									Aiko wants to stay and follow general Okkoto. Hayato wants to stay himself. Yuki convinces Aiko that she can deliver the news to Brogun so both can stay.		Aiko wants to stay and follow general Okkoto. Hayato wants to stay himself. Yuki convinces Aiko that she can deliver the news to Brogun so both can stay.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_lakevillage_debriefing_n00				GEISHA	just got an idea		Wait!	1	等一下！	1																					
+vocs_over_over_	_n01	vocs_over_over_lakevillage_debriefing_n01				NINJA	annoyed	with a sigh	What now?	2	哎，又怎么了？	1																					
+vocs_over_over_	_n02	vocs_over_over_lakevillage_debriefing_n02				GEISHA	explaining		It would be wise to follow the general and learn more about his plans. I will hide among his entourage as a concubine.	23	我应该尾随大将，打探更多情报才对。我可以假扮成小妾混到他的随从中。	1																					
+vocs_over_over_	_n03	vocs_over_over_lakevillage_debriefing_n03				NINJA	blunt		Good idea, but your plan's too risky. Take the raft, I'll follow them at a distance.	16	主意虽好，但太冒险了。你还是坐木筏走吧，让我去远远跟着他们就行。	1																					
+vocs_over_over_	_n04	vocs_over_over_lakevillage_debriefing_n04				GEISHA	doubtful		Will you hide atop the nearest mountain and read their lips from there?	13	然后呢，你要藏在最近的山顶上，用千里眼读他们的唇语不成？	1																					
+vocs_over_over_	_n05	vocs_over_over_lakevillage_debriefing_n05				TRAPPER	desperate		Why not both of you? Two's better than one.	9	为什么不两个人一起去呢？两个总比一个好。	1																					
+vocs_over_over_	_n06	vocs_over_over_lakevillage_debriefing_n06				GEISHA	dismissive		No, Yuki-chan. One of us must inform Lord Noboru.	9	不行，友希妹妹。我俩总得有个人回去禀报昇大人。	1																					
+vocs_over_over_	_n07	vocs_over_over_lakevillage_debriefing_n07				TRAPPER	confident		Aiko-san, I can do it!	5	爱子姐，这事交给我吧！	1																					
+vocs_over_over_	_n08	vocs_over_over_lakevillage_debriefing_n08				GEISHA	dismissive		This is an urgent matter, too important to leave it in the hands of a child.	16	此事至关重要，怎么能交给一个孩子来办。	1																					
+vocs_over_over_	_n09	vocs_over_over_lakevillage_debriefing_n09				TRAPPER	confident		I am not a child! I'll get there in time!	10	我不是小孩子了！我会按时赶到的！	1																					
+vocs_over_over_	_n10	vocs_over_over_lakevillage_debriefing_n10				NINJA	amused	vouches for Yuki	She's right. Let her go.	5	她能行的。让她去吧。	1																					
+vocs_over_over_	_n11	vocs_over_over_lakevillage_debriefing_n11				GEISHA	tense	after brief consideration	… very well. But I must stress how important this message is. Do not fail me in this, child.	19	……好吧。但这份情报真的非常重要，绝不能失败。	1																					
+vocs_over_over_	_n12	vocs_over_over_lakevillage_debriefing_n12				TRAPPER	proud	glad to be appreciated	Hai, Aiko-san!	2	明白，爱子姐！	1																					
+vocs_over_over_	_n13	vocs_over_over_lakevillage_debriefing_n13				GEISHA	tense	after brief consideration	Alright, let us begin.	4	那就开始行动吧。	1																					
+											0																						
+									MISSION-WORDCOUNT EN:	1109		20	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													0	411	0	0	0	0	0	0	131	0	20	34	26	0	0	22	26	0	0	0	0
+													0	37	0	0	0	0	0	0	10	0	2	11	5	0	0	4	7	0	0	0	0
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	

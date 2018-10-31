@@ -1,0 +1,365 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Mugen leads Noboru to the old temple where Ryūnosuke is hidden
+2) We recognize it as the place where Yabu once held Takuma captive 
+3) Noboru orders Masaru to kill Ryūnosuke. Mugen has to watch.
+4) After the deed is done the traitors leave Mugen with the dead heir.
+5) The rest of the team are held in a hidden prison
+6) They can free themselves and cut their way to Mugen.
+8) Mugen is glad to see them, but he has failed the Shogun and cannot carry on.
+9) To take responsibility and reclaim his honor, he commits ritual suicide.
+10) Striken by the loss of their leader and friend, the team escapes the monastery."																								
+																																	
+INTRO									Mugen leads Noboru and Masaru onto the monastery square, where they are greeted by Ryūnosuke. Noboru breaks his promise and has Ryūnosuke killed.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Mount Tsuru		鹤山	1																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_intro_n00				BROGUNSON	spiteful		Remember how you told me about patience, Mugen-sensei? Let us see how patient you can be.	16	还记得曾经教过我要忍耐吗？现在倒要看看无限老师你怎么忍耐。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_intro_n01				WARRIOR	quiet		Hrm …	2	嗯……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_intro_n02				BROGUN	cold		Masaru, do not waste your words.  Important things are about to happen.	13	真申，别废话。马上要办大事了。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_intro_n03				SHOGUNSON	glad	meets them on the temple square	Noboru-sama, Mugen-sensei, Masaru-san. What a pleasant surprise!	7	昇大人，无限老师，真申兄弟。你们怎么来了！	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery2_intro_n04				BROGUN	false delight	bows	Dear nephew, you cannot know how delighted I am to see you.	12	侄儿啊，你不知道我看到你有多高兴。	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery2_intro_n05				SHOGUNSON	glad		You bring good news, I hope? Has Kage-sama been defeated?	10	是有好消息了吧？影大人被打败了吗？	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery2_intro_n06				BROGUN	cold		I am afraid matters have changed quite drastically, nephew.	9	很遗憾，侄儿。事态恐怕和你想象的天差地别。	1																					
+								Noboru's guards kill Ryūnosuke's protection		0		0																					
+vocs_over_over_	_n07	vocs_over_over_monastery2_intro_n07				WARRIOR	depressed	Mugen runs to Ryūnosuke and kneels beside him	I have failed you, my lord...	6	恕属下失职，龙之介大人……	1																					
+vocs_over_over_	_n08	vocs_over_over_monastery2_intro_n08				SHOGUNSON	shocked	Turns to Mugen and makes a step	What is the meaning of this? 	7	这是什么意思？ 	2																					
+vocs_over_over_	_n09	vocs_over_over_monastery2_intro_n09				SHOGUNSON	shocked	turns to Noboru…	Uncle? 	2	叔父？ 	2																					
+vocs_over_over_	_n10	vocs_over_over_monastery2_intro_n10				SHOGUNSON	shocked	...makes some steps forward	What are you doing?	4	你这是做什么？	1																					
+vocs_over_over_	_n11	vocs_over_over_monastery2_intro_n11				BROGUN	cold		Only what must be done. 	6	做该做的事罢了。	1																					
+vocs_over_over_	_n12	vocs_over_over_monastery2_intro_n12				BROGUN	cold	turns away	Masaru …	2	真申……	1																					
+vocs_over_over_	_n13	vocs_over_over_monastery2_intro_n13				BROGUNSON	eager	makes step forward	Yes father.	2	遵命，父亲。	1																					
+vocs_over_over_	_n14	vocs_over_over_monastery2_intro_n14				SHOGUNSON	desperate	turns back to Mugen	Mugen, please! Explain yourself!	4	无限，拜托！解释一下!	1																					
+vocs_over_over_	_n15	vocs_over_over_monastery2_intro_n15				WARRIOR	struggling for words	Masaru kills Ryūnosuke	I … cannot … forgive me…	6	我……不能……请原谅……	1																					
+								Masaru stabs Ryūnosuke		0		0																					
+vocs_over_over_	_n16	vocs_over_over_monastery2_intro_n16				SHOGUNSON	dying	dies right in front of Mugen	… Mugen … why?	4	……无限…为什么?	1																					
+vocs_over_over_	_n17	vocs_over_over_monastery2_intro_n17				WARRIOR	broken		Ryūnosuke … 	3	龙之介…… 	2																					
+vocs_over_over_	_n17a	vocs_over_over_monastery2_intro_n17a				WARRIOR	broken	ALTERNATIVE	My lord …	3	少主……	1																					
+								Pause		0		0																					
+vocs_over_over_	_n18	vocs_over_over_monastery2_intro_n18				BROGUN	cold		It is finished. 	4	结束了。 	2																					
+vocs_over_over_	_n19	vocs_over_over_monastery2_intro_n19				BROGUN	submissive		Masaru, go prepare for our departure.	6	真申，准备启程。	1																					
+vocs_over_over_	_n20	vocs_over_over_monastery2_intro_n20				BROGUN	submissive		Yes, father.	2	明白了，父亲。	1																					
+vocs_over_over_	_n21	vocs_over_over_monastery2_intro_n21				BROGUN	cold		Why? Why did he have to die? What madness possesses you?	11	为什么？为什么非杀他不可？你到底在发什么疯？！	1																					
+vocs_over_over_	_n22	vocs_over_over_monastery2_intro_n22				BROGUN	cold		This … peace we have now, it is not our way. We are men of the sword. My brother is blind.	21	现在拥有的所谓和平，不是我想看到的。我们明明是为战而生的人。兄长他却看不到。	1																					
+vocs_over_over_	_n23	vocs_over_over_monastery2_intro_n23				BROGUN	cold	turns to Mugen and makes a step	You of all people should understand. Every man choses his duty. Without duty, life has no purpose.	17	你作为武士肯定明白。武士要有使命。没有使命，生命毫无意义。	1																					
+vocs_over_over_	_n24	vocs_over_over_monastery2_intro_n24				BROGUN	cold		And it is my duty to lead Japan back to her true glory.	13	我的使命即是让日本找回真正的辉煌。	1																					
+vocs_over_over_	_n25	vocs_over_over_monastery2_intro_n25				BROGUN	cold	throws knife at Mugen's feet at the end	I wonder, now that you have failed in your duty … will you do, what must be done?	18	既然未能完成使命……你还有什么用？知道该怎么做吧？	1																					
+vocs_over_over_	_n26	vocs_over_over_monastery2_intro_n26				BROGUN	cold	turns back and leaves	Farewell Mugen. We will not see each other again.	9	永别了，无限。我们不会再见面了。	1																					
+																																	
+BRIEFING									Hayato, Yuki and Takuma have been confined to separeate cages. Aiko is nowhere to be seen. They plan their escape.		Hayato, Yuki and Takuma have been confined to separeate cages. Aiko is nowhere to be seen. They plan their escape.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+						TITLECARD			Nearby		附近	1																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_briefing_n00				TRAPPER	desperate	cam to Yuki cage	No … they took Aiko-san away … where did they take her?	12	不好……他们把爱子姐带走了……要带她去哪？	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_briefing_n01				ALCHEMIST	serious	cam to Takuma cage	Such is the extent of his treachery. What will he do to the Shogun's son …	16	没想到做到如此地步。他到底想对将军的儿子做什么……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_briefing_n02				NINJA	defiant	cam to Hayato cage	… Mugen … don't you dare die now. I have to get out … damn it … DAMN IT!	19	……无限……千万别死。我必须出去……该死……畜生！	1																					
+											4																						
+NIN HINT1									Hayato tries to think up an escape plan.		Hayato tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_ninhint1_n00				NINJA	frustrated		Walls are too slick to climb … damn!	8	石壁太滑爬不上去……该死！	1																					
+																																	
+NIN HINT2									Hayato tries to think up an escape plan.		Hayato tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_ninhint2_n00				NINJA	frustrated		Guard looks nervous. Could provoke him … 	8	守卫看起来很紧张。可以适当刺激他一下……  	3																					
+																																	
+NIN HINT3									Hayato tries to think up an escape plan.		Hayato tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_ninhint3_n00				NINJA	frustrated		There's places to hide here. That has to be good for something!	12	牢里有能藏身的地方。可以利用一下！	1																					
+																																	
+TRA HINT1									Yuki tries to think up an escape plan.		Yuki tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_trahint1_n00				TRAPPER	desperate		There's a ledge below … no, you can't get out. Stupid!	11	下面有个平台……不行，得先想办法出笼子。笨蛋！	1																					
+																																	
+TRA HINT2									Yuki tries to think up an escape plan.		Yuki tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_trahint2_n00				TRAPPER	desperate		Take back rat's tooth from that samurai! No, have to get out first, stupid!	14	要把“鼠牙”从武士那里拿回来！不行，得先想办法出笼子。笨蛋！	1																					
+																																	
+TRA HINT3									Yuki tries to think up an escape plan.		Yuki tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_trahint3_n00				TRAPPER	anxious		The samurai has evil eyes. They don't like empty cages.	10	武士的眼睛很贼。笼子空了肯定会被他发现。	1																					
+																																	
+ALC HINT1									Takuma tries to think up an escape plan.		Takuma tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_alchint1_n00				ALCHEMIST	tired		I have my cane. I have my leg. Both no use without ammunition.	13	木腿在，手杖也在，但没有弹药也无济于事。	1																					
+																																	
+ALC HINT2									Takuma tries to think up an escape plan.		Takuma tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_alchint2_n00				ALCHEMIST	tired		Hmm, I wonder where Kuma is now.	7	嗯，不知道小熊现在在哪。	1																					
+																																	
+ALC HINT3									Takuma tries to think up an escape plan.		Takuma tries to think up an escape plan.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_alchint3_n00				ALCHEMIST	tired		I could help them both, had I anything to load my rifle with.	13	我能帮他俩逃脱，只要枪里有子弹就行。	1																					
+																																	
+OVERSEER									The overseer partrols through the prison and periodically checks the cells of Hayato, Takuma and Yuki.		The overseer partrols through the prison and periodically checks the cells of Hayato, Takuma and Yuki.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_overseer_n00				SAMURAI	contempt	to Hayato	Look at you … Shinobi filth.	6	看啊……肮脏的忍者。	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_overseer_n01				SAMURAI	contempt	to Hayato	You're nothing without your weapons.	5	没有武器你什么也干不了。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery2_overseer_n02				SAMURAI	contempt	to Hayato	You stay right where I can see you.	8	待在我能看见的地方。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery2_overseer_n03				SAMURAI	contempt	to Takuma	Still clinging to life, are we?	6	还在垂死挣扎呢，啊？	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery2_overseer_n04				SAMURAI	contempt	to Takuma	You will die in here, old fool.	7	你早晚死在这里，老傻帽。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery2_overseer_n05				SAMURAI	contempt	to Takuma	None of your friends can reach you here.	8	你的朋友都过不来的。	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery2_overseer_n06				SAMURAI	contempt	to Yuki	Not so clever now, are we?	6	你不是很会耍小聪明吗，来啊？	1																					
+vo_hint_hint_	_n07	vo_hint_hint_monastery2_overseer_n07				SAMURAI	contempt	to Yuki	Murdering child … you are despicable.	6	小小年纪就学着杀人……真是贱。	1																					
+vo_hint_hint_	_n08	vo_hint_hint_monastery2_overseer_n08				SAMURAI	contempt	to Yuki	Your little dagger is mine now.	6	你那把小刀我就收下了。	1																					
+																																	
+PELLETS									Takuma calls Kuma. The pet arrives shortly after, with a bag of pellets in its jaws.		Takuma calls Kuma. The pet arrives shortly after, with a bag of pellets in its jaws.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_pellets_n00				TANUKI		tanuki sound	Meep!		咪!	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_pellets_n01				ALCHEMIST	excited		Kuma! Hehe, you came! And what's that in your mouth?	10	小熊！嘿嘿，你来了！你嘴里衔的是什么？	1																					
+vocs_over_over_	_n01a	vocs_over_over_monastery2_pellets_n01a				ALCHEMIST	excited		Kuma! Hehe, you came! And what did you throw me just now?	12	小熊！嘿嘿，你来了！你刚刚扔给我的是什么？	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_pellets_n02				TANUKI		happy tanuki sound	Meep!		咪!	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_pellets_n03				ALCHEMIST	delighted		A bag of ammunition. My thanks. Maybe there's still hope left.	11	原来是弹药包，非常感谢。真是雪中送炭啊。	1																					
+																																	
+VINE SHOT									Takuma shoots free the vine that lets Hayato escape from his cage.		Takuma shoots free the vine that lets Hayato escape from his cage.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_vineshot_n00				NINJA	excited	talks to himself	What the … no idea how he did that, but I'll take it.	13	什么情况……虽然不知道是怎么做到的，总之谢谢了。	1																					
+																																	
+CAGE SHOT									Takuma shoots down Yuki's cage. She crashes into the ledge below her and escapes.		Takuma shoots down Yuki's cage. She crashes into the ledge below her and escapes.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_cageshot_n00				TRAPPER	excited	whispered	Ah! … Thank you, Takuma-sensei!	5	啊！……谢谢，琢磨师父！	1																					
+																																	
+KNIFE									Yuki steals her knife back from the overseer		Yuki steals her knife back from the overseer																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_knife_n00				TRAPPER	excited		Yes! Fast and sharp, just like me!	7	我的小刀，灵活又锋利，就像我一样！	1																					
+																																	
+ESCAPE1									Once team members have escaped, there's a limited time before the patroling overseer will check on them and notice that they are missing.		Once team members have escaped, there's a limited time before the patroling overseer will check on them and notice that they are missing.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_escape1_n00				NINJA	urgent	"Hayato first
+whispered"	OK. Have to be fast. Overseer's on patrol, and he's checking the cells.	13	好，动作要快。有狱卒在巡查，很快就会发现牢房空了。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_escape1_n01				TRAPPER	urgent	"Yuki first
+whispered"	Quick! The samurai with the evil eyes, he'll see that you're gone.	12	快点！那个武士眼睛很贼的，很快就会发现我逃跑啦。	1																					
+																																	
+FREE NIN									Another team member opens Hayato's cage.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Another team member opens Hayato's cage.	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_freenin_n00				NINJA	urgent	whispered	Quick! We have to get to the others!	8	快！一起去救其他人！	1																					
+																																	
+FREE TRA									Another team member opens Yuki's cage.		Another team member opens Yuki's cage.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_freetra_n00				TRAPPER	excited	whispered	Thank you! The others need our help!	7	谢谢！其他人也需要我们帮忙！	1																					
+																																	
+FREE ALC									Another team member opens Takuma's cage.		Another team member opens Takuma's cage.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_freealc_n00				ALCHEMIST	urgent	whispered	Ah, thank you. We have no time to lose.	9	啊，谢谢。抓紧时间去救其他人把。	1																					
+																																	
+ESCAPE2									The prison overseer notices that a team member has escaped.		The prison overseer notices that a team member has escaped.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_escape2_n00				SAMURAI	commanding		Raise the alarm! Someone escaped! Secure the exit! Let no one leave the prison!	14	快发警报！有人逃跑了！看住出口！别让任何人逃出监狱！	1																					
+																																	
+ESCAPE3 NIN									Hayato has left the prison area behind.		Hayato has left the prison area behind.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_escape3nin_n00				NINJA	angry		I'll kill that Noboru and his brat.	7	我要杀了昇和他的小崽子。	1																					
+																																	
+ESCAPE3 TRA									Yuki has left the prison area behind.		Yuki has left the prison area behind.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_escape3tra_n00				TRAPPER	energetic		Quickly! Aiko-san and Mugen-san need us!	6	快点儿！快去救爱子姐和无限大哥！	1																					
+																																	
+ESCAPE3 ALC									Takuma has left the prison area behind.		Takuma has left the prison area behind.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_escape3alc_n00				ALCHEMIST	weary		Twice now I had to escape a prison on this mountain.	11	这是我第二次从这座山上越狱了。	1																					
+																																	
+STATUES									Takuma tells Hayato and Yuki about the statues that open secret passages.		Takuma tells Hayato and Yuki about the statues that open secret passages.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_statues_n00				ALCHEMIST	urgent	whispered	Hmm, I just remembered. The crane statues here open secret passages.	11	嗯，我还记得，这里的仙鹤雕像能开启密道。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_statues_n01				NINJA	tense	if Ninja is free	Hope this isn't one of your jokes, old man.	9	希望这次你不是在开玩笑，老爷子。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_statues_n02				TRAPPER	surprised	if Trapper is free	How do you know, Takuma-sensei?	5	你怎么知道的，琢磨师父？	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_statues_n03				ALCHEMIST	serious		Just keep it in mind. We need every advantage we can get now.	13	你们只管记住就好。现在必须利用一切有利条件。	1																					
+																																	
+FIND GEISHA									After escaping the prison, the team moves into the main compound of the monastery. Geisha is being interrogated there.		After escaping the prison, the team moves into the main compound of the monastery. Geisha is being interrogated there.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_findgeisha_n00				NINJA	urgent	Hayato first	Better find Aiko fast.	4	最好快点找到爱子。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_findgeisha_n01				TRAPPER	determined	Yuki first	Aiko-san. We're coming!	3	爱子姐，我们来了！	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_findgeisha_n02				ALCHEMIST	urgent	Takuma first	Aiko-san needs us.	3	爱子小姐，我们来了。	1																					
+																																	
+GUARDS1									Hayato hears a guard ordering another to search the underbrush.		Hayato hears a guard ordering another to search the underbrush.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_guards1_n00				ENEMY	lusty		Look at her. Have you ever seen such beauty?	9	看看她，你见过这么美的人儿吗？	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_guards1_n01				STATIC	lusty		We should draw lots to see who will have her first, or it will end in a fight again.	19	应该抽签决定谁先和她那啥，要不又得打起来。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery2_guards1_n02				GEISHA	contempt		Touch me, and you will die a slow, agonizing death.	10	敢碰我的人，都会受漫长痛苦折磨而死哦。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery2_guards1_n03				ENEMY	second thoughts		Do you think there's poison in her body? I heard stories once …	13	她不会身上带毒吧？我听过这种传闻……	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery2_guards1_n04				STATIC	laughs it off		That's what they are just stories. You can't have poison in your body ... can you?	16	传闻而已吧。身上怎么可能带毒……对吧？	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery2_guards1_n05				GEISHA	contempt		You will know soon, if one of you is fool enough to find out.	14	你们哪个蠢材敢来试试的话，不就知道了么。	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery2_guards1_n06				STATIC	nervous		Let's just stick to questions, for now.	7	那咱们还是先审问吧。	1																					
+																																	
+FREE GEISHA									The team finds Aiko in a guarded cage. They kill the guards and free her.		The team finds Aiko in a guarded cage. They kill the guards and free her.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_freegeisha_n00				NINJA	direct	Hayato first	Anything hurt?	2	还好吧?	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_freegeisha_n01				TRAPPER	worried	Yuki first	Aiko-san! Did they hurt you?	5	爱子姐!他们没伤到你吧?	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_freegeisha_n02				ALCHEMIST	respectful	Takuma first	Hmm, any injuries, Aiko-san?	4	唔，没受伤吧，爱子小姐?	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_freegeisha_n03				GEISHA	urgent		I'm fine. We must find Mugen, quickly!	7	我没事。去找无限大哥吧，快！	1																					
+																																	
+GUARDS2									Hayato hears a guard ordering another to search the underbrush.		Hayato hears a guard ordering another to search the underbrush.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_guards2_n00				ENEMY	baffled		Where did she go?	4	她去哪啦?	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_guards2_n01				STATIC	baffled		We have to find her! Search the area!	8	必须找到她！快去附近搜！	1																					
+																																	
+TRAP									Yuki gets back her trap		Yuki gets back her trap																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_trap_n00				TRAPPER	caring		Hush, little trap. Did they hurt you?	7	嘘，欢迎回来，他们伤到你了没?	1																					
+																																	
+GUN NIN									Hayato gets back his gun		Hayato gets back his gun																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_gunnin_n00				NINJA	tense		Better than nothing. Where'd they put my weapons?	8	总比什么都没有强。我的武器到底藏到哪了？	1																					
+																																	
+GUN TRA									Yuki gets back her gun		Yuki gets back her gun																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_guntra_n00				TRAPPER	tense	coughs because she smells gunpowder	… take it, stupid.	4	……我收下了。	1																					
+																																	
+GUN ALC									Takuma gets back his gun		Takuma gets back his gun																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_gunalc_n00				ALCHEMIST	tense		Hmm, every bit counts.	4	嗯，说不定会用上呢。	1																					
+																																	
+GUN GEI									Aiko gets back her gun		Aiko gets back her gun																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_gungei_n00				GEISHA	urgent		Good. Let us move on.	5	很好。继续行动。	1																					
+																																	
+ABUSE1									A monk is arguing with a guard to defend the female temple servants.		A monk is arguing with a guard to defend the female temple servants.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_abuse1_n00				CIVILIAN M	desperate	as monk	You cannot do this!	4	不能这么做！	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_abuse1_n01				ENEMY	cold		We will do as we please.	6	我们想干嘛就干嘛。	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery2_abuse1_n02				CIVILIAN M	desperate	as monk	They have done you no wrong!	6	她们又没做错事！	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery2_abuse1_n03				ENEMY	cold		What do I care?	4	关我屁事？	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery2_abuse1_n04				CIVILIAN M	desperate	as monk	I beg you … Please.	5	我求求你……拜托了。	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery2_abuse1_n05				ENEMY	cold		You can beg all you want.	6	你想求就求呗。	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery2_abuse1_n06				CIVILIAN M	desperate	as monk	I … I will not let you touch them …	10	我……我不会让你碰她们……	1																					
+vo_hint_hint_	_n07	vo_hint_hint_monastery2_abuse1_n07				ENEMY	cold		Teh … who are you to stop me?	8	嘁……就凭你也敢拦我？	1																					
+																																	
+REUNION NIN									Hayato finds Mugen, but everyone needs to be there.		Hayato finds Mugen, but everyone needs to be there.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_reunionnin_n00				NINJA	excited		Mugen!	1	无限！	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_reunionnin_n01				WARRIOR	broken, tormented	trapped in his mind	No … Ryūnosuke …	4	不……龙之介……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_reunionnin_n02				NINJA	excited		Hrm … have to get the others …	8	嗯……得让其他人也都过来……	1																					
+																																	
+REUNION TRA									Yuki finds Mugen, but everyone needs to be there.		Yuki finds Mugen, but everyone needs to be there.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_reuniontra_n00				TRAPPER	excited		Master Samurai!	2	武士大哥！	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_reuniontra_n01				WARRIOR	broken, tormented	trapped in his mind	Forgive me … forgive me …	6	对不起……对不起……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_reuniontra_n02				TRAPPER	excited		What's wrong with you …	5	你怎么了……	1																					
+																																	
+REUNION GEI									Aiko finds Mugen, but everyone needs to be there.		Aiko finds Mugen, but everyone needs to be there.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_reuniongei_n00				GEISHA	excited		My love!	2	无限大哥！	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_reuniongei_n01				WARRIOR	broken, tormented	trapped in his mind	I failed you … I'm sorry …	7	我失败了……对不起……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_reuniongei_n02				GEISHA	excited		He is not thinking clearly. We need the others here.	10	他现在头脑不清楚。得把其他人都找来。	1																					
+																																	
+REUNION ALC									Takuma finds Mugen, but everyone needs to be there.		Takuma finds Mugen, but everyone needs to be there.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_reunionalc_n00				ALCHEMIST	worried		Mugen-san …	2	无限啊……	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_reunionalc_n01				WARRIOR	broken, tormented	trapped in his mind	Impossible … why …	4	不可能……为什么……	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_reunionalc_n02				ALCHEMIST	worried		He is trapped in his own mind. We must gather everyone here.	12	他现在思绪混乱。必须把所有人都找来。	1																					
+																																	
+SEPPUKU									The team hears from Mugen what has happened. Since he has failed his master, he wishes to commit Seppuku, and instructs the team to continue their mission.		The team hears from Mugen what has happened. Since he has failed his master, he wishes to commit Seppuku, and instructs the team to continue their mission.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_seppuku_n00				WARRIOR	tired, broken	blickt auf	You … you are all still alive …	8	你们……大家都还活着……	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_seppuku_n01				GEISHA	shocked	tritt vor	My love what happened to the Shogun's son? Did Noboru kill him?	12	无限大哥，龙之介大人怎么了？是昇杀了他吗？	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_seppuku_n02				WARRIOR	tired, broken		… his son did the deed.	6	……是他儿子杀的。	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_seppuku_n03				ALCHEMIST	dark		So much darkness.	3	真是凄惨啊。	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery2_seppuku_n04				NINJA	let's go	tritt vor	We'll make him pay for this! Come with us.	9	要让他血债血偿！我们走。	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery2_seppuku_n05				WARRIOR	tired, broken		I ... I can accompany you no longer.	8	我……不能再与你们同行了。	1																					
+vocs_over_over_	_n06	vocs_over_over_monastery2_seppuku_n06				GEISHA	fear	knows that Mugen will commit suicide	Mugen … 	3	无限大哥…… 	2																					
+vocs_over_over_	_n07	vocs_over_over_monastery2_seppuku_n07				WARRIOR	sorry, determined		I have failed Ryūnosuke ... I have failed my Shogun … now I must beg your forgiveness as well.	19	我没能……没能保护龙之介大人……现在必须给大家一个交代。	1																					
+vocs_over_over_	_n08	vocs_over_over_monastery2_seppuku_n08				TRAPPER	anxious		What is he talking about?	5	这是在说什么呢？	1																					
+vocs_over_over_	_n09	vocs_over_over_monastery2_seppuku_n09				NINJA	angry		When a samurai has been shamed ... he thinks he has to …	13	武士的名誉受辱之时……为了一雪前耻，只能……	1																					
+vocs_over_over_	_n10	vocs_over_over_monastery2_seppuku_n10				TRAPPER	horrified		What?! No! Master samurai!	4	什么？！不要！武士大哥！	1																					
+vocs_over_over_	_n11	vocs_over_over_monastery2_seppuku_n11				ALCHEMIST	gentle, sad		Yuki-chan …	2	友希姑娘……	1																					
+vocs_over_over_	_n12	vocs_over_over_monastery2_seppuku_n12				TRAPPER	horrified		No! We can't let him! I … I don't want him to die! 	14	不！不能不管！我……不想让他死！ 	2																					
+vocs_over_over_	_n13	vocs_over_over_monastery2_seppuku_n13				ALCHEMIST	gentle, sad		We feel the same, Yuki-chan. But don't you see? To die like a samurai … it is the only thing left to him. We must show our respect, for we can do nothing else.	34	我们也不想啊，友希姑娘。但没有办法，用武士的方式死去……是留给他最后的尊严了。除了尊重他的选择我们也无能为力了。	1																					
+vocs_over_over_	_n14	vocs_over_over_monastery2_seppuku_n14				GEISHA	open	approaches him slowly	… do you wish me to join you?	8	……让我陪你一起。	1																					
+vocs_over_over_	_n15	vocs_over_over_monastery2_seppuku_n15				WARRIOR	sad, broken		My love … I would be honoured … but they need you most of all.	15	我的爱人……谢谢你……但大家还需要你。	1																					
+vocs_over_over_	_n16	vocs_over_over_monastery2_seppuku_n16				GEISHA	gentle, sad	approaches him	Then let me make you one final gift. A secret, meant only for you …	15	那让我送你最后一件礼物。一个只对你讲的秘密……	1																					
+vocs_over_over_	_n17	vocs_over_over_monastery2_seppuku_n17				WARRIOR	a bit hopeful	Aiko whispers in his ear.	… ah … something ends, something begins. It is as it should be.	13	……啊……这就是所谓的有终便有始么。世道本该如此。	1																					
+vocs_over_over_	_n18	vocs_over_over_monastery2_seppuku_n18				GEISHA	accepting, sad	leaves him	Farewell … my love.	4	永别了……我的爱人。	1																					
+vocs_over_over_	_n19	vocs_over_over_monastery2_seppuku_n19				WARRIOR	sad determination	picks up the blade Noboru gave him	The time has come …	5	时辰已到……	1																					
+vocs_over_over_	_n20	vocs_over_over_monastery2_seppuku_n20				NINJA	surprisingly emotional		Mugen …	2	无限……	1																					
+vocs_over_over_	_n21	vocs_over_over_monastery2_seppuku_n21				WARRIOR	sad determination		Hayato-san?	1	隼人兄?	1																					
+vocs_over_over_	_n22	vocs_over_over_monastery2_seppuku_n22				NINJA	surprisingly emotional	struggle for words	What you said …  I … I'm glad we met. It was an honour, fighting by your side.	19	要怎么说……我……很高兴能认识你。很荣幸能与您并肩战斗。	1																					
+vocs_over_over_	_n23	vocs_over_over_monastery2_seppuku_n23				WARRIOR	emotional		… likewise, Hayato-san. Farewell.	4	……我也一样，隼人兄。永别了。	1																					
+vocs_over_over_	_n23a	vocs_over_over_monastery2_seppuku_n23a				WARRIOR	emotional	ALTERNATIVE	Farewell, Hayato-san.	2	永别了，隼人兄。	1																					
+vocs_over_over_	_n24	vocs_over_over_monastery2_seppuku_n24				TRAPPER	desperate	tries to run to Mugen	No! Mugen-sama!	2	不行！武士大哥!	1																					
+vocs_over_over_	_n25	vocs_over_over_monastery2_seppuku_n25				ALCHEMIST	commanding		Yuki!	1	友希！	1																					
+vocs_over_over_	_n26	vocs_over_over_monastery2_seppuku_n26				TRAPPER	loses her fight	stops when she hears Takuma's voice, breaks down	No …	2	不要……	1																					
+vocs_over_over_	_n27	vocs_over_over_monastery2_seppuku_n27				WARRIOR	solemn	"readies the blade
+speaks death poem"	Falling ill on a journey … my dreams go wandering … over withered fields.	14	旅途罹病……荒原驰骋……梦魂萦。	1																					
+vocs_over_over_	_n28	vocs_over_over_monastery2_seppuku_n28				WARRIOR	dying	cuts his belly, takes his time, finally collapses 	… !	2	……!	1																					
+vocs_over_over_	_n29	vocs_over_over_monastery2_seppuku_n29				TRAPPER	crying	*quiet sobbing*	…	1	…	1																					
+vocs_over_over_	_n30	vocs_over_over_monastery2_seppuku_n30				GEISHA	sad	Geisha leaves first, Ninja follows, then Takuma and Yuki	Death has found him. Let us leave.	7	他已经去了。我们走吧。	1																					
+																																	
+LEADER1									Having left the main plaza, now outside the main monastery gate.		Having left the main plaza, now outside the main monastery gate.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_leader1_n00				GEISHA	urgent		We are not safe yet. Let us leave this place.	10	我们也还没脱离险境，赶紧离开这里。	1																					
+																																	
+LEADER2									Hayato is filled with rage. Aiko keeps him in line		Hayato is filled with rage. Aiko keeps him in line																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_leader2_n00				NINJA	quiet rage		Mugen … damn!	3	无限……混账！	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_leader2_n01				GEISHA	urgent		Control your temper, Hayato-san. Focus.	5	冷静下来，隼人兄。该做的事还没做完。	1																					
+																																	
+LEADER3									Hayato is filled with rage. Aiko keeps him in line		Hayato is filled with rage. Aiko keeps him in line																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_leader3_n00				TRAPPER	in shock		M-Mugen-sama. H-he's ...	3	武士大哥。为-为什么……	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_leader3_n01				GEISHA	urgent		Not now, Yuki-chan. There is no time for grief.	9	友希小妹，这样可不行。现在还不是悲伤的时候。	1																					
+																																	
+NINJATO									Hayato takes his Ninjato off a dead or unconcious enemy. (also works with Shuriken)		Hayato takes his Ninjato off a dead or unconcious enemy. (also works with Shuriken)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_ninjato_n00				NINJA	quiet rage		Alive again. Good.	3	拿回来了，好！	1																					
+																																	
+ABUSE2									A temple servant is begging a guard for mercy.		A temple servant is begging a guard for mercy.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_abuse2_n00				CIVILIAN F	desperate	as temple servant	Please, I beg you …	5	求求你，饶了我们……	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_abuse2_n01				ENEMY	angry		Quiet, woman!	2	闭嘴，女人！	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery2_abuse2_n02				CIVILIAN F	desperate	as temple servant	Don't do this …	4	请住手……	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery2_abuse2_n03				ENEMY	angry		I said quiet!	3	我说了，闭嘴！	1																					
+vo_hint_hint_	_n04	vo_hint_hint_monastery2_abuse2_n04				CIVILIAN F	desperate	as temple servant	We did nothing …	4	我们什么都没做啊……	1																					
+vo_hint_hint_	_n05	vo_hint_hint_monastery2_abuse2_n05				ENEMY	angry		You are mine, woman. Now kneel!	6	你归我了，女人，跪下！	1																					
+vo_hint_hint_	_n06	vo_hint_hint_monastery2_abuse2_n06				CIVILIAN F	desperate	as temple servant	I … I won't …	5	我……我不……	1																					
+vo_hint_hint_	_n07	vo_hint_hint_monastery2_abuse2_n07				ENEMY	angry		Silence! Kneel beside the others.	5	闭嘴！跪在她们旁边。	1																					
+																																	
+ABUSE3									A guard shots a monk and two temple servants one after the other.		A guard shots a monk and two temple servants one after the other.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vo_hint_hint_	_n00	vo_hint_hint_monastery2_abuse3_n00				CIVILIAN M	terror	as monk	Please, I beg you …	5	求求你，饶了我们……	1																					
+vo_hint_hint_	_n01	vo_hint_hint_monastery2_abuse3_n01				CIVILIAN F	contempt	as temple servant	Demon …	2	魔鬼……	1																					
+vo_hint_hint_	_n02	vo_hint_hint_monastery2_abuse3_n02				CIVILIAN F	hopeless	as temple servant	… you killed them.	4	……你杀了他们。	1																					
+vo_hint_hint_	_n03	vo_hint_hint_monastery2_abuse3_n03				ENEMY	cold		All done …	3	完事儿……	1																					
+																																	
+DEBRIEFING									The team escapes the monastery		The team escapes the monastery																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	EN2	CDE																					
+vocs_over_over_	_n00	vocs_over_over_monastery2_debriefing_n00				GEISHA	slight relief		We have made it.	4	大家都逃出来了。	1																					
+vocs_over_over_	_n01	vocs_over_over_monastery2_debriefing_n01				NINJA	quiet rage		… not all of us.	5	……少一个人。	1																					
+vocs_over_over_	_n02	vocs_over_over_monastery2_debriefing_n02				TRAPPER	sad	close to crying	He's still up there …	5	他还在那……	1																					
+vocs_over_over_	_n03	vocs_over_over_monastery2_debriefing_n03				ALCHEMIST	consoling		Hush, Yuki-chan. There is nothing we could have done.	9	嘘，友希姑娘。我们已经尽力了。	1																					
+vocs_over_over_	_n04	vocs_over_over_monastery2_debriefing_n04				NINJA	tense		What now?	2	接下来...怎么办？	1																					
+vocs_over_over_	_n05	vocs_over_over_monastery2_debriefing_n05				GEISHA	calm		We must wait until an opportunity presents itself. It will give us time to recover our strength. For now, I suggest we leave this awful place.	26	我们需要时间来恢复力量，同时等待机会。现在，先离开这个残酷的地方吧。	1																					
+											0																						
+									MISSION-WORDCOUNT EN:	1260		6	WARRIOR	GEISHA	ALCHEMIST	SHOGUN	SHOGUNSON	BROGUN	BROGUNSON	DAIMYO	GENERAL	NARRATOR	OFFICER	ENEMY	STATIC	SAMURAI	OFFICIAL	CIVILIAN M	CIVILIAN F	HUSBAND	GUARD1	GUARD2	FAKE
+													138	151	200	0	38	143	18	0	0	0	0	69	50	72	0	30	24	0	0	0	0
+													21	17	21	0	7	14	2	0	0	0	0	12	4	10	0	5	6	0	0	0	0
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	
+																																	

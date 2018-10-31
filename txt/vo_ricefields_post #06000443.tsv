@@ -1,0 +1,81 @@
+5,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) General Okkoto has successfully taken Kanazawa castle.
+2) The team regroup at Noboru's warcamp. Information is exchanged.
+3) Hayato and Aiko report that Okkoto has set up command in the castle
+4) Mugen wants Aiko to wait out the battle in safety
+5) Aiko realizes that Yuki saved her husbands live and apologizes to her."
+									
+POST									At Noboru's warcamp.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			次の日
+vocs_over_over_	_n00	vocs_over_over_ricefields_post_n00				BROGUN	displeased		奴らは暗殺を逃れた。全力で城を攻撃すべきだ、息をする暇を与えてはならぬ。
+vocs_over_over_	_n00a	vocs_over_over_ricefields_post_n00a				BROGUN	displeased		奴らは金沢城内にて防備を強化している。この勝利で休ませなどせぬ。次の一手で反抗を終わらせ、乙事を完全に止めるのだ。
+vocs_over_over_	_n01	vocs_over_over_ricefields_post_n01				WARRIOR	stubborn		愛琥殿と隼人殿から知らせがあるまでは大砲を絶対使いはせぬ！
+vocs_over_over_	_n01a	vocs_over_over_ricefields_post_n01a				WARRIOR	stubborn		昇様、お言葉ですが、愛琥殿と隼人殿が情報を持って帰ってくるまでは、戦いを始めるのは待つが得策かと。
+vocs_over_over_	_n02	vocs_over_over_ricefields_post_n02				BROGUNSON	sharp		わきまえろ、武源！もっと早く情報が届いていれば、今日の戦闘はなかったはずだ！
+vocs_over_over_	_n03	vocs_over_over_ricefields_post_n03				GEISHA	tense	enters scene with Hayato	不可解な問題があります。なぜ乙事大将は金沢城の支配を許されたのでしょう？
+vocs_over_over_	_n04	vocs_over_over_ricefields_post_n04				WARRIOR	greatly relieved	loves her	愛琥殿！隼人殿！
+vocs_over_over_	_n05	vocs_over_over_ricefields_post_n05				NINJA	relaxed	greeting	生きてるよ。
+vocs_over_over_	_n06	vocs_over_over_ricefields_post_n06				GEISHA	perplexed		飛騨村で乙事の計画を聞いた？雪はメッセージを届けなかったの？
+vocs_over_over_	_n07	vocs_over_over_ricefields_post_n07				TRAPPER	anxious		えと…その…。
+vocs_over_over_	_n08	vocs_over_over_ricefields_post_n08				GEISHA	angered	goes towards Yuki	雪ちゃん。
+vocs_over_over_	_n09	vocs_over_over_ricefields_post_n09				GEISHA	angered		これが、どれだけ大切か伝えたはずよ。
+vocs_over_over_	_n10	vocs_over_over_ricefields_post_n10				ALCHEMIST	protective		落ち着きなされ、愛琥さんよ。雪ちゃんは悪くないんじゃ。
+vocs_over_over_	_n11	vocs_over_over_ricefields_post_n11				WARRIOR	"appeasing
+gentle"	loves Aiko	雪殿が任務を果たせなんだのは、窮地に陥った我らを救うべく、尽力してくれ、と申したがゆえ。
+vocs_over_over_	_n12	vocs_over_over_ricefields_post_n12				BROGUN	commanding	interrupting their argument	そのようなことはいい！できることをせねばならぬ。二方は乙事の守備について何がわかったのだ？
+vocs_over_over_	_n13	vocs_over_over_ricefields_post_n13				NINJA	to the point		奴とその部隊を飛騨から尾行した。戦闘でよく訓練された部隊だった。武器もよく手入れされていた。城を落とすぐらい、奴らには造作もないことだろう。
+vocs_over_over_	_n14	vocs_over_over_ricefields_post_n14				GEISHA	to the point		食料や軍備は揃っておりました。数ヶ月は耐えうることでしょう。また、カゲサマからの増援がすぐにあるとの話も聞いております。
+vocs_over_over_	_n15	vocs_over_over_ricefields_post_n15				BROGUN	commanding		数ヶ月も待てぬ。準備をしろ！次の攻撃には参加してもらう。情勢を優位に変えてくれることを期待する。
+vocs_over_over_	_n16	vocs_over_over_ricefields_post_n16				GEISHA	professional		昇様！私には乙事の守りに関する確かな考えがあります。おそらく、今後の戦いへの助けになるかと。
+vocs_over_over_	_n17	vocs_over_over_ricefields_post_n17				BROGUN	commanding	goes into the tent	もし、その知恵が作戦に欠かせぬものと言うならば、愛琥殿、余の力となってもらおう。残りは戦の準備だ。指令はすぐに伝える。
+vocs_over_over_	_n18	vocs_over_over_ricefields_post_n18				GEISHA	professional	follows Noboru	仰せのままに、昇様。
+vocs_over_over_	_n19	vocs_over_over_ricefields_post_n19				BROGUNSON	sharp		ちっ、女が政治だと？馬鹿馬鹿しい…。
+vocs_over_over_	_n20	vocs_over_over_ricefields_post_n20				WARRIOR	submissive	moves away from Noboru with team	皆よ、いいな。
+								Aiko follows Noboru and Masaru, the rest walk away from the tent.	
+vocs_over_over_	_n21	vocs_over_over_ricefields_post_n21				NINJA	eager		また敵の後ろにつくんだな。
+vocs_over_over_	_n22	vocs_over_over_ricefields_post_n22				WARRIOR	worried		そのようだ。
+vocs_over_over_	_n23	vocs_over_over_ricefields_post_n23				ALCHEMIST	pleased		ほっほ、昔のようじゃわい。
+vocs_over_over_	_n24	vocs_over_over_ricefields_post_n24				TRAPPER	determined		愛琥さんは一緒じゃないの？
+vocs_over_over_	_n25	vocs_over_over_ricefields_post_n25				WARRIOR			愛琥殿は昇様への助言で我らを助けてくれぬか。次の戦いはとても危険ゆえ、雪殿は来なくてもよい。
+vocs_over_over_	_n26	vocs_over_over_ricefields_post_n26				TRAPPER			ううん、あたしも行く。だって金沢は私の故郷だから。それに裏路地だって全部知ってるしね！
+vocs_over_over_	_n27	vocs_over_over_ricefields_post_n27				WARRIOR		has faith in Yuki	お主の意思であれば止めはせぬ。では準備を整え、昇様の命令を待とう。
+								Everybode moves out, only Yuki is stopped by Aiko	
+vocs_over_over_	_n28	vocs_over_over_ricefields_post_n28				GEISHA	neutral	comes out of the tent	雪ちゃん！
+vocs_over_over_	_n29	vocs_over_over_ricefields_post_n29				TRAPPER	anxious		愛琥さん、その…すみません。
+vocs_over_over_	_n30	vocs_over_over_ricefields_post_n30				GEISHA	direct		いいのよ、雪ちゃん。
+vocs_over_over_	_n31	vocs_over_over_ricefields_post_n31				TRAPPER	shy		その…途中でクマを見つけて、血だらけで、その…。
+vocs_over_over_	_n32	vocs_over_over_ricefields_post_n32				GEISHA	sincere		難しい選択だったわね。そういう場面、私にもあったわ。
+vocs_over_over_	_n33	vocs_over_over_ricefields_post_n33				GEISHA	sincere		あなたは立派な大人よ、雪ちゃん。疑っていた事、謝らせて。
+vocs_over_over_	_n34	vocs_over_over_ricefields_post_n34				TRAPPER	astonished	Aiko bows before Yuki	愛琥さん…っ！
+vocs_over_over_	_n35	vocs_over_over_ricefields_post_n35				GEISHA	elegant	heads back to the tent	必ず、戻ってくるのよ、皆と！
+vocs_over_over_	_n36	vocs_over_over_ricefields_post_n36				TRAPPER	grateful	waits briefly, then runs off	はい！！愛琥さん！
+									
+									
+									
+									
+									
+									
+									

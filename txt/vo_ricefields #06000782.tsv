@@ -1,0 +1,273 @@
+4,2,9		"CUTSCENE
+CONTEXT DIALOG
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Farming village has been attacked by rebels, survivors are questioned and killed
+2) Mugen has been captured, Takuma is hiding
+3) Yuki arrives in time to help Takuma
+4) Together they rescue Mugen and the surviving farmers
+5) Yuki is the driving force behind this mission. She motivates Takuma
+6) Takuma is impressed by her simple sense of justice and eagerness to help
+7) Takuma considers passing on his knowledge to her and wants to connect"									
+BRIEFING									Takuma is hiding from the rebels, who are on the search for him, when suddenly Yuki enters his hidingspot.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			菅沼村
+vocs_over_over_	_n00	vocs_over_over_ricefields_briefing_n00	omuk	hambo		ALCHEMIST	dark		うーむ、死がワシをここへ呼び寄せるか？もう十分生きたということかの…。
+vocs_over_over_	_n01	vocs_over_over_ricefields_briefing_n01	omuk	hambo		TRAPPER	loud whispering	*sneaks beside Takuma*	ねえ、巧磨先生！
+vocs_over_over_	_n02	vocs_over_over_ricefields_briefing_n02	omuk	hambo		ALCHEMIST	startled		おぉ！…雪ちゃん！…お主一人か？
+vocs_over_over_	_n03	vocs_over_over_ricefields_briefing_n03	omuk	hambo		TRAPPER	tense		はい、クマに着いてきたの。他の人は来られなかったけど…。何があったの？
+vocs_over_over_	_n04	vocs_over_over_ricefields_briefing_n04	omuk	hambo		ALCHEMIST	troubled		暗黒と恐怖じゃ、反乱者は農民を殺傷しておる。ほとんどもう死んでしもうた。
+vocs_over_over_	_n05	vocs_over_over_ricefields_briefing_n05	omuk	hambo		ALCHEMIST	troubled		武源は助けようとはしたのじゃが、投獄されてしもうた。尋問されて、おそらくすぐに処刑されるじゃろう。
+vocs_over_over_	_n06	vocs_over_over_ricefields_briefing_n06	omuk	hambo		TRAPPER	determined		そんな、助けないと…。
+vocs_over_over_	_n07	vocs_over_over_ricefields_briefing_n07	omuk	hambo		ALCHEMIST	dark		無理じゃよ、雪ちゃん。そのような力はありゃせん。
+vocs_over_over_	_n08	vocs_over_over_ricefields_briefing_n08	omuk	hambo		TRAPPER	sincere		やってみなきゃ！だって仲間よ…。見捨てるなんてできない！
+vocs_over_over_	_n09	vocs_over_over_ricefields_briefing_n09	omuk	hambo		ALCHEMIST	gives in		若い心じゃのぅ…よし、わかったわい雪ちゃん！もし助けられなければ、目的もまた死ぬ、進む他ないということじゃのぅ…。
+									
+SHOOTING									A rebel has line up a group of farmers and shoots them one by one.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_shooting_n00	omuk	hambo		CIVILIAN M	in terror		ああ！
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_shooting_n01	omuk	hambo		CIVILIAN F	in terror		やめて…。
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_shooting_n02	omuk	hambo		CIVILIAN F	hateful		悪魔め！鬼め！呪ってやる…。
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_shooting_n03	omuk	hambo		CIVILIAN F	in terror	*sobbing*	
+									
+TANUKI									Takuma sets down Kuma. Yuki mentions how she met the tanuki.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_tanuki_n00	omuk	hambo		TRAPPER	worried		どうしてクマに血が？
+vocs_over_over_	_n01	vocs_over_over_ricefields_tanuki_n01	omuk	hambo		ALCHEMIST	dark		隣で農民が死んだのじゃよ。ここに戻ってきたとは驚きじゃったよ。
+vocs_over_over_	_n02	vocs_over_over_ricefields_tanuki_n02	omuk	hambo		TRAPPER	nonchalant		簡単だよ。巧磨さんがやるみたいに音を出したの。
+vocs_over_over_	_n03	vocs_over_over_ricefields_tanuki_n03	omuk	hambo		ALCHEMIST	slightly intrigued		うーむ…気づいておったとはの…。
+vocs_over_over_	_n04	vocs_over_over_ricefields_tanuki_n04	omuk	hambo		TRAPPER	worried		きっとクマもお侍さんを助けて欲しがってるよ！
+									
+FIELDS									The team enters a field of rice. The high growing crops provide cover. However, rebels are searching the fields.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_fields_n00	omuk	hambo		ALCHEMIST	intrigued	Takuma first	うむ、稲で隠れられるのぅ。
+vocs_over_over_	_n01	vocs_over_over_ricefields_fields_n01	omuk	hambo		TRAPPER	cautious		あれは反乱者よ！…どうしてこの場所を探しているのかな？
+vocs_over_over_	_n02	vocs_over_over_ricefields_fields_n02	omuk	hambo		ALCHEMIST	intrigued		うーむ、生存者を探しているといったところかのぅ。
+vocs_over_over_	_n03	vocs_over_over_ricefields_fields_n03	omuk	hambo		TRAPPER	disturbed		皆…皆死んじゃったのかな…。お侍さん…。
+vocs_over_over_	_n04	vocs_over_over_ricefields_fields_n04	omuk	hambo		ALCHEMIST	intrigued		落ち着くんじゃ、雪ちゃん。武源をなんとしてでも救い出すぞい。
+									
+SEARCH									A rebel officer is ordering others to search the ricefields for hiding farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_search_n00	omuk	hambo		OFFICER	commanding		影を見たぞ、探せ！
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_search_n01	omuk	hambo		OFFICER	commanding		誰も逃がすな！乙事様のご命令だ。
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_search_n02	omuk	hambo		OFFICER	commanding		いるんだろ、わかるぞ。
+									
+RIFLE									Takuma uses his rifle to snipe an enemy.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_rifle_n00	omuk	hambo		TRAPPER	amazed		その足が欲しいわ。速くて強くて、しかもあたしの罠みたいに隠すこともできるし。
+vocs_over_over_	_n01	vocs_over_over_ricefields_rifle_n01	omuk	hambo		ALCHEMIST	intrigued		うーむ、なんとも突飛な称賛じゃわい。どうやって音を消しているか分かるかのぅ？
+vocs_over_over_	_n02	vocs_over_over_ricefields_rifle_n02	omuk	hambo		TRAPPER	focussed		全然わからないよ！謎なぞだね、でも今はそれどころじゃないわ！
+vocs_over_over_	_n03	vocs_over_over_ricefields_rifle_n03	omuk	hambo		ALCHEMIST	mild teasing		そういうことじゃな！武源のもとへ急ごう！
+									
+SCOUTS									A couple of rebel scouts leave the area for patrol.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_scouts_n00	omuk			OFFICER	relaxed	returning from patrol	誰かいないか道の方に出て周辺を探そう。
+vocs_over_over_	_n01	vocs_over_over_ricefields_scouts_n01	omuk			TRAPPER	focussed		よし、あっちへ行け…。
+vocs_over_over_	_n02	vocs_over_over_ricefields_scouts_n02	omuk			ALCHEMIST	intrigued		また戻ってくるじゃろう、そのことを忘れてはいかん。
+									
+TRAGEDY1									A farming woman tries to escape from a house. A rebel shoots her.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy1_n00	omuk	hambo		CIVILIAN F	in terror	bursts out of the door	駄目！お願い！助けて！助けて！
+vo_hint_hint_	_n00a	vo_hint_hint_ricefields_tragedy1_n00a	omuk	hambo		CIVILIAN M	in terror	bursts out of the door	やめろ！お願いだ！助けて！助けて！
+								rebel comes out the door and shoots escapee	
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy1_n01	omuk	hambo		ENEMY		returns inside	ふん…報いだ。
+									
+VICTIMS1									Right after the rebels shot the helpless farming woman
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims1_n01	omuk	hambo		TRAPPER	uneasy		撃たなくてもいいのに。
+vocs_over_over_	_n01a	vocs_over_over_ricefields_victims1_n01a	omuk	hambo		TRAPPER	uneasy		撃たなくてもいいのに。
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims1_n02	omuk	hambo		ALCHEMIST	calming		奴らは獣じゃ。欲望のままに命を奪う、そこに理由などありゃせん。
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims1_n03	omuk	hambo		TRAPPER	uneasy	if Mugen hasn't been freed	…お侍さん、無事でいてね。
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims1_n04	omuk	hambo		ALCHEMIST	calming		雪ちゃん、心配しなさんな。ワシらで助けるんじゃ。
+									
+VICTIMS2									The team discovers a pile of executed farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims2_n00	omuk	hambo		ALCHEMIST	sad	Takuma first	残念なことじゃ。
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims2_n01	omuk	hambo		TRAPPER	shocked		どうして死ななきゃならないの？この人達は誰も傷つけてないのに。
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims2_n02	omuk	hambo		ALCHEMIST	calm		あえて言うなら、農民は将軍への忠誠を持ち続けたがために死んだのじゃ。
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims2_n03	omuk	hambo		TRAPPER	urgent	if Mugen hasn't been freed	死なないで、お侍さん。
+vocs_over_over_	_n04	vocs_over_over_ricefields_victims2_n04	omuk	hambo		ALCHEMIST	calm	if Mugen hasn't been freed	あやつは強い、雪ちゃん。必ず間に合う。
+vocs_over_over_	_n05	vocs_over_over_ricefields_victims2_n05	omuk	hambo		WARRIOR	serious	if Mugen has been freed	生き延びた人たちを助けるのだ。
+									
+TRAGEDY2									Two rebels keep knocking on a door an demanding entrance.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy2_n00	omuk	hambo		SAMURAI	menacing		開けろ！
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy2_n01	omuk	hambo		SAMURAI	menacing		戸を開けろ！
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy2_n02	omuk	hambo		SAMURAI	menacing		そこに入るんだぞ！
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_tragedy2_n03	omuk	hambo		SAMURAI	menacing		いつまでも閉じたままではいられぬ。
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_tragedy2_n04	omuk	hambo		SAMURAI	menacing		開けろ！すぐにだ！
+									
+TRAGEDY3									Two rebels break down a door and storm inside a house. You hears screaming from the inside.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_tragedy3_n00	omuk	hambo		ENEMY	triumphantly	breaks down the door	はっ！
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_tragedy3_n01	omuk	hambo		CIVILIAN F	in terror		お願い。出ていって…。
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_tragedy3_n02	omuk	hambo		CIVILIAN F	absolute terror	screaming and sobbing	
+									
+VICTIMS3									The team witnesses rebels who force their way into a house. You hear screaming from inside.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_victims3_n00	omuk	hambo		ALCHEMIST	angry		悪魔の獣じゃ。
+vocs_over_over_	_n01	vocs_over_over_ricefields_victims3_n01	omuk	hambo		TRAPPER	dark memories		お母さんみたいに…。
+vocs_over_over_	_n02	vocs_over_over_ricefields_victims3_n02	omuk	hambo		ALCHEMIST	cautious		…むぅ？
+vocs_over_over_	_n03	vocs_over_over_ricefields_victims3_n03	omuk	hambo		TRAPPER	evasive		なんでもない…。それよりお侍さんを助けないと！
+									
+LOOTERS									The team sees looters putting bags and crates on wagons.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_looters_n00	omuk	hambo		ALCHEMIST	disgusted	Takuma first	うーむ、盗品じゃの。
+vocs_over_over_	_n01	vocs_over_over_ricefields_looters_n01	omuk	hambo		TRAPPER	focussed		たぶんお侍さんの武器がどこかにあるはずよ。
+vocs_over_over_	_n02	vocs_over_over_ricefields_looters_n02	omuk	hambo		ALCHEMIST	appreciative		うむ、そうじゃな。
+									
+WARRIOR1									Yuki and Takuma approach the area where Mugen is held captive and questioned by a samurai.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior1_n00	omuk	hambo		TRAPPER	eager		お侍さんがいたわ！
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior1_n01	omuk	hambo		ALCHEMIST	focussed		見張られておるのぅ。尋問者を二人で片付けるんじゃ、よいな？
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior1_n02	omuk	hambo		TRAPPER	eager		はい！あなたが撃って、あたしが仕留める。
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior1_n03	omuk	hambo		ALCHEMIST	intrigued		時に雪ちゃん。なぜ、そこまで武源のために？
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior1_n04	omuk	hambo		TRAPPER	persistent	Mugen is the only kind/accepting samurai she met	言ったでしょ！仲間だって！それにお侍さん、とってもいい人だから！
+									
+QUESTIONS									A samurai interrogates Mugen
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_questions_n00	omuk	hambo		SAMURAI	harsh		我らのことをどうやって知った？
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_questions_n01	omuk	hambo		SAMURAI	harsh		貴様一人か？それとも幕府の犬が近くにでも隠れているのか？
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_questions_n02	omuk	hambo		SAMURAI	cold		貴様の抵抗は何も生まぬぞ！
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_questions_n03	omuk	hambo		SAMURAI	harsh		将軍の兄弟は何か知っているのか？
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_questions_n04	omuk	hambo		SAMURAI	impatient		話せ、さすれば切腹ぐらいはさせてやる。
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_questions_n05	omuk	hambo		SAMURAI	cruel		貴様は本当に乙事様に立ち向かえるとでも思っているのか？ 
+vo_hint_hint_	_n06	vo_hint_hint_ricefields_questions_n06	omuk	hambo		SAMURAI	cruel		生き茹でにするまでには、すぐ話したくなるであろう 。
+									
+WARRIOR2									Yuki and Takuma free Mugen from his shackles.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_warrior2_n00	omuk	hambo		WARRIOR	heavy breathing	Yuki first	雪殿！なぜここへ？
+vocs_over_over_	_n01	vocs_over_over_ricefields_warrior2_n01	omuk	hambo		WARRIOR	heavy breathing	Takuma first	巧磨殿も、一体なぜこの場所に！
+vocs_over_over_	_n02	vocs_over_over_ricefields_warrior2_n02	omuk	hambo		ALCHEMIST	praise		雪ちゃんがワシらを助けてくれたのじゃよ、ほっほ。武源、この子に借りができたのぅ。
+vocs_over_over_	_n03	vocs_over_over_ricefields_warrior2_n03	omuk	hambo		WARRIOR	deep gratitude	rubs his chaffed wrists	おぉ雪殿！そうでありましたか！命の借りができてしまいましたな。この恩、忘れはしませぬぞ。
+vocs_over_over_	_n04	vocs_over_over_ricefields_warrior2_n04	omuk	hambo		TRAPPER	very happy		えへへ、うん！
+vocs_over_over_	_n05	vocs_over_over_ricefields_warrior2_n05	omuk	hambo		WARRIOR	back in action		では、生き残った農民を見つけ、同じように助けに参りましょうぞ。
+vocs_over_over_	_n06	vocs_over_over_ricefields_warrior2_n06	omuk	hambo		TRAPPER	cautious	doesn't like being praised so much	えっと、お侍さん…敵に取られたあなたの武器が…。
+vocs_over_over_	_n07	vocs_over_over_ricefields_warrior2_n07	omuk	hambo		WARRIOR	urgent		む、そうでした。先に武器を探さねば、急ぎましょう！
+									
+GEAR1									Yuki or Takuma find Mugen's gear.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear1_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	おぉ、武器があったわい、じゃが肝心の持ち主がおらぬときては。
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear1_n01	omuk	hambo		TRAPPER	exhausted	Yuki first	うぅぅ…重い。お侍さんじゃないと。
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear1_n02	omuk	hambo		WARRIOR	in haste	if Mugen has been freed	急ぎ向かいます！
+									
+GEAR2									Mugen picks up his gear and now wants to free the farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_gear2_n00	omuk	hambo		WARRIOR	pleased		おぉ、取り戻しましたぞ！なれば、いざ農場へ！残った者たちが待っておる。
+vocs_over_over_	_n01	vocs_over_over_ricefields_gear2_n01	omuk	hambo		ALCHEMIST	inquisitive		まだ残っておるのかえ？
+vocs_over_over_	_n02	vocs_over_over_ricefields_gear2_n02	omuk	hambo		WARRIOR	urgent		急げばまだ、希望はあります！
+									
+TROUBLE									On the way to the farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_trouble_n00	omuk	hambo		WARRIOR	focussed		愛琥殿と隼人殿は近くにおりますか？
+vocs_over_over_	_n01	vocs_over_over_ricefields_trouble_n01	omuk	hambo		TRAPPER	more and more anxious	afraid Mugen will kick her out	いないよ、大将を追ってる…って、あぁ！！あたし昇様への伝言があったのに、クマを見つけて、それで…うぅ、どうしよう。
+vocs_over_over_	_n02	vocs_over_over_ricefields_trouble_n02	omuk	hambo		WARRIOR	"reassuring
+showing gratitude"		心配はご無用ですぞ、雪殿！そなたはワシらを救ってくれた、なればその責任を負うは拙者の使命。ささ、共に伝言を伝えに行きましょうぞ！
+vocs_over_over_	_n03	vocs_over_over_ricefields_trouble_n03	omuk	hambo		TRAPPER	"very relieved
+grateful"		…っ！はい！！お侍さん！！
+									
+PRISONERS									The team discoveres the captured farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_prisoners_n00	omuk	hambo		ALCHEMIST	pondering	Takuma first	女と男たちが家畜のように閉じ込められておるわい。
+vocs_over_over_	_n01	vocs_over_over_ricefields_prisoners_n01	omuk	hambo		TRAPPER	focussed	Yuki first	見える…小屋と裏庭ね。
+vocs_over_over_	_n02	vocs_over_over_ricefields_prisoners_n02	omuk	hambo		WARRIOR	tension		解放致そう。反逆者を討ち、話をしてみましょうぞ。
+									
+IMPRISONED									A group of farmers is penned in at the stables. (loop)
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_imprisoned_n00	omuk	hambo		CIVILIAN M	extremely nervous	pacing up and down	ひどい…俺たちきっと…。
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_imprisoned_n01	omuk	hambo		CIVILIAN F	depressed		おそろしやおそろしや。
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_imprisoned_n02	omuk	hambo		CIVILIAN M	not thinking clearly		殺しに来る！
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_imprisoned_n03	omuk	hambo		CIVILIAN F	worried		あなた…無事で…。
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_imprisoned_n04	omuk	hambo		CIVILIAN M	not thinking clearly		降伏すべきだった。
+vo_hint_hint_	_n05	vo_hint_hint_ricefields_imprisoned_n05	omuk	hambo		CIVILIAN F	praying		恐れてはいけないわ、きっと誰か…。
+									
+FARMERS									The team frees the farmers.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_farmers_n00	omuk	hambo		CIVILIAN M	deep gratitude		ありがとうございます。将軍様がきっと助けを送ってくれると信じていました。
+vocs_over_over_	_n01	vocs_over_over_ricefields_farmers_n01	omuk	hambo		CIVILIAN F	pleading		あなた！あのお方たちが追い払ってくれたのよ…。
+vocs_over_over_	_n02	vocs_over_over_ricefields_farmers_n02	omuk	hambo		WARRIOR	"reassuring
+tense"	if headfarmer not free	かの者は死なぬ、信じるのだ！では、着いて参られよ！
+vocs_over_over_	_n03	vocs_over_over_ricefields_farmers_n03	omuk	hambo		WARRIOR	"reassuring
+tense"	if headfarmer free	かの者は既に共にいる。落ち合って、ここから逃げましょうぞ。
+vocs_over_over_	_n04	vocs_over_over_ricefields_farmers_n04	omuk	hambo		CIVILIAN F	submissive		着いて行きます。
+									
+INTERROGATE									A samurai interrogates a farmer in the backyard.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_ricefields_interrogate_n00	omuk	hambo		SAMURAI	malicious		手助けをした侍は誰だ？
+vo_hint_hint_	_n01	vo_hint_hint_ricefields_interrogate_n01	omuk	hambo		HUSBAND	defiant	"Civilian M
+hard voice"	誰かなど知らぬ！
+vo_hint_hint_	_n02	vo_hint_hint_ricefields_interrogate_n02	omuk	hambo		SAMURAI			嘘をつくな、百姓め。
+vo_hint_hint_	_n03	vo_hint_hint_ricefields_interrogate_n03	omuk	hambo		HUSBAND	defiant	"Civilian M
+hard voice"	わかるのは将軍様がそのような方をこちらにお送りするということのみ。お主を討ち取りにくるであろう。
+vo_hint_hint_	_n04	vo_hint_hint_ricefields_interrogate_n04	omuk	hambo		SAMURAI			無駄な抵抗を、さっさと話せ！
+									
+HUSBAND									The team frees the head farmer.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_husband_n00	omuk	hambo		HUSBAND	pleading		ありがとうございます。どうか小屋にいる他の者たちも…。私の妻もいるのです…。
+vocs_over_over_	_n01	vocs_over_over_ricefields_husband_n01	omuk	hambo		WARRIOR	"reassuring
+tense"	if farmers not free	解放させよう。では、言う通りに動いてくれぬだろうか。
+vocs_over_over_	_n02	vocs_over_over_ricefields_husband_n02	omuk	hambo		WARRIOR	"reassuring
+tense"	if farmers free	既に解放しており申す。着いて参られよ、皆で脱出する！
+vocs_over_over_	_n03	vocs_over_over_ricefields_husband_n03	omuk	hambo		HUSBAND	submissive		着いて行きます。
+									
+ALARM									The prison patrol discovers that someone has escaped. (also used this for when Mugen's escape is discovered)
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_alarm_n00	omuk			SAMURAI	commanding		誰か逃げたぞ！辺りを探せ！
+vocs_over_over_	_n01	vocs_over_over_ricefields_alarm_n01	omuk			SAMURAI	commanding		誰か逃げたぞ！辺りを探せ！
+									
+DEBT									During the escape, halfway out the level.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_debt_n00	omuk	hambo		HUSBAND			これほどの御親切に、なんとお礼を言ったらいいのか…。
+vocs_over_over_	_n01	vocs_over_over_ricefields_debt_n01	omuk	hambo		WARRIOR			まだ、安心はできませぬぞ。
+vocs_over_over_	_n02	vocs_over_over_ricefields_debt_n02	omuk	hambo		CIVILIAN F			あなた様がいなければ既に死んでおりました。
+vocs_over_over_	_n03	vocs_over_over_ricefields_debt_n03	omuk	hambo		WARRIOR			将軍様は民を見捨てはせぬ、それを皆に伝えられよ。
+									
+MORE									A couple of rebel scouts enter the farm and block the exit.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_more_n00	omuk	hambo		OFFICER	relaxed, then tense	returning from patrol	戻りました！どうやら…まて、何かおかしいぞ！皆！道を塞げ！
+vocs_over_over_	_n01	vocs_over_over_ricefields_more_n01	omuk	hambo		WARRIOR	tense		偵察が巡回から戻ってきたようだ、皆、距離をとられよ！
+vocs_over_over_	_n02	vocs_over_over_ricefields_more_n02	omuk	hambo		ALCHEMIST	cheeky		ほーれ、戻ってくると言ったじゃろ。ほっほ、足が痒くなってきおったわい。
+vocs_over_over_	_n03	vocs_over_over_ricefields_more_n03	omuk	hambo		TRAPPER	tense		皆もうすぐよ！あと少し！
+									
+DEBRIEFING									At the exit of the level.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_ricefields_debriefing_n00	omuk	hambo		WARRIOR			みな、無事か？
+vocs_over_over_	_n01	vocs_over_over_ricefields_debriefing_n01	omuk	hambo		HUSBAND	nervous		はい！ありがとうございます。お侍様、本当にありがとうございます！
+vocs_over_over_	_n02	vocs_over_over_ricefields_debriefing_n02	omuk	hambo		WARRIOR			みな、この勇敢な娘にも感謝せねばなりますまい！名は雪、この娘なくしては生きて帰るなど到底成し得ぬことであったがゆえ！
+vocs_over_over_	_n03	vocs_over_over_ricefields_debriefing_n03	omuk	hambo		TRAPPER	surprised		え、そ、そんなんじゃ…。
+vocs_over_over_	_n04	vocs_over_over_ricefields_debriefing_n04	omuk	hambo		CIVILIAN F	greatful	all farmers bow in gratitude	あなたのおかげです、雪様！いつかこの御恩、必ず！必ず返します！
+vocs_over_over_	_n05	vocs_over_over_ricefields_debriefing_n05	omuk	hambo		TRAPPER	blushing		あ…えと…その…ど、どういたしまして。
+vocs_over_over_	_n06	vocs_over_over_ricefields_debriefing_n06	omuk	hambo		WARRIOR			では、参りましょう！他の反乱者が来ては困りますゆえ。
+vocs_over_over_	_n07	vocs_over_over_ricefields_debriefing_n07	omuk	hambo		HUSBAND	cautious		どこへ連れていってくださるのですか？
+vocs_over_over_	_n08	vocs_over_over_ricefields_debriefing_n08	omuk	hambo		WARRIOR		Mugen and farmers leave	我らは昇様の野営へと参る。お主たちはことが済むまで、避難所にいるのがよいだろう。
+vocs_over_over_	_n09	vocs_over_over_ricefields_debriefing_n09	omuk	hambo		ALCHEMIST	delighted		ほっほ、よくやったのぅ、雪ちゃん！
+vocs_over_over_	_n10	vocs_over_over_ricefields_debriefing_n10	omuk	hambo		TRAPPER	blushing		ありがとうございます、巧磨先生！
+									
+									
+									
+									
+									
+									
+									
+									
+									

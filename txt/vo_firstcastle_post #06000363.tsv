@@ -1,0 +1,95 @@
+4,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) 3 years after the battle. Mugen has an audience with the Shogun.
+2) They discuss Kage-sama, a dangerous criminal that plots against the Shogun.
+3) Mugen gets the mission from the Shogun to hunt Kage-sama.
+4) The Shogun's brother (=Kage-sama), son and nephew are also  setup here.
+5) Mugen recruits his old comrade Hayato.
+6) Hayato's first assignment is a convoy raid. The convoy is tied to Kage-sama."												
+																					
+INTRO2									Render Cutscene with narration												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN												
+vocs_over_over_	_n00	vocs_over_over_cinematic1_n00				NARRATOR			大阪城の戦が終わり、日本は新しい将軍のしたもとに統治された。												
+vocs_over_over_	_n01	vocs_over_over_cinematic1_n01				NARRATOR			翌年、将軍の新しい法が制定され、国家は安定した。何年にも及ぶ争いの傷も癒え、文化や経済は栄える事となった。												
+vocs_over_over_	_n02	vocs_over_over_cinematic1_n02				NARRATOR			しかし、束の間の平和もそう長くは続かず、将軍を倒すという陰謀の噂が広がった。												
+vocs_over_over_	_n03	vocs_over_over_cinematic1_n03				NARRATOR			この首謀者を特定できる者はいない。しかし、名前のみが独り歩きしていた。その名も…”カゲサマ”。												
+																					
+EDO									Edo Castle: Mugen trains with Ryūnosuke, the Shogun's son, and Masaru, the Shogun's nephew. They are interrupted when Mugen is summoned to the Shogun.												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN												
+						TITLECARD			江戸城、大阪城での戦いから三年後の事												
+vocs_over_over_	_n05	vocs_over_over_firstcastle_post_n05				WARRIOR	teaching	cares for his pupils	うむ、最後の一撃には魂を感じましたが、お二方とも守りがおろそかですぞ。侍には忍耐が必要です。さもなければ命を落とします。												
+vocs_over_over_	_n06	vocs_over_over_firstcastle_post_n06				SHOGUNSON	respectful	respects his teacher	わかりました、武源先生！												
+vocs_over_over_	_n07	vocs_over_over_firstcastle_post_n07				BROGUNSON	slightly disrespectful		一緒に戦っても、全く敵わぬ。先生は我らを倒すのを楽しんでいる！												
+vocs_over_over_	_n07a	vocs_over_over_firstcastle_post_n07a				BROGUNSON	disrespectful	ALTERNATIVE	こんなのってないよ！一緒に戦っても勝てないなんて！先生は我らを倒すのを楽しんでいるのか！												
+vocs_over_over_	_n08	vocs_over_over_firstcastle_post_n08				WARRIOR	teaching		お二方の成長を楽しんでいるのです、勝様。あなたと、龍之介様は上様たちの息子ですから。その才覚は内に眠っています。												
+vocs_over_over_	_n09	vocs_over_over_firstcastle_post_n09				SHOGUNSON	slightly depressed		しかし、先生は一刀で私たちを倒しました。												
+vocs_over_over_	_n10	vocs_over_over_firstcastle_post_n10				WARRIOR	good natured		忍耐です。いつかお二方とも、拙者に一太刀あびせられる日が来ます。												
+vocs_over_over_	_n11	vocs_over_over_firstcastle_post_n11				BROGUNSON	frustrated		楽しみにしております…。												
+vocs_over_over_	_n12	vocs_over_over_firstcastle_post_n12				CIVILIAN M	submissive	as servant	失礼します、武源様。将軍様が武源様をお呼びです。												
+vocs_over_over_	_n13	vocs_over_over_firstcastle_post_n13				WARRIOR	good natured	to servant, then to Ryūnosuke, bowing	すぐに参る。失礼致します。												
+vocs_over_over_	_n14	vocs_over_over_firstcastle_post_n14				SHOGUNSON	respectful		はい、父上へよろしく頼みます。												
+																					
+AUDIENCE CHAMBER									Audience chamber: We briefly see Noboru, the Shogun's brother, then the Shogun gives Mugen the task to hunt Kage-sama. No one knows that Noboru is Kage-sama.												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN												
+						TITLECARD			謁見の間にて												
+vocs_over_over_	_n15	vocs_over_over_firstcastle_post_n15				BROGUN	respectful disagreement		兄上。私に幕府軍の指揮を取らせてください。カゲサマであろうが、その名を騙る者であろうが、捕らえましょう。												
+vocs_over_over_	_n16	vocs_over_over_firstcastle_post_n16				SHOGUN	with authority		ああ、その必要性が現れればな。今は、己の将軍の知恵の前に頭下げておれ。また、明日にでも話そう。												
+vocs_over_over_	_n17	vocs_over_over_firstcastle_post_n17				BROGUN	respectful	bows and turns to leave	もちろんです、兄上。使いからの連絡をお待ち致します。												
+vocs_over_over_	_n18	vocs_over_over_firstcastle_post_n18				BROGUN	respectful greeting	meets Mugen on the way out	武源さん！												
+vocs_over_over_	_n19	vocs_over_over_firstcastle_post_n19				WARRIOR	very respectful greeting		昇様！												
+vocs_over_over_	_n20	vocs_over_over_firstcastle_post_n20				WARRIOR	absolute respect	kneels before Shogun	お呼びでございますか。上様												
+vocs_over_over_	_n21	vocs_over_over_firstcastle_post_n21				SHOGUN	with authority	this is important	武源よ。密偵が手紙をよこした。不穏な武器輸送があるとな。京都へ向かう馬車に鉄砲が乗せられている。												
+vocs_over_over_	_n22	vocs_over_over_firstcastle_post_n22				WARRIOR	"surprised
+then eager"		カゲサマでしょうか？姿を晒したのですか？												
+vocs_over_over_	_n23	vocs_over_over_firstcastle_post_n23				SHOGUN	with authority	has confidence in Mugen	そのようだ。輸送車を捕らえたい。どこから来たのか突き止めれば、敵の正体がわかるはずだ												
+vocs_over_over_	_n24	vocs_over_over_firstcastle_post_n24				WARRIOR	loyalty		ははぁ、仰せのままに。												
+vocs_over_over_	_n25	vocs_over_over_firstcastle_post_n25				SHOGUN	slight tone of warning		今回の問題は厄介だ。お前に全権限を預けよう。助けが必要なら、注意して選ぶがよい。												
+vocs_over_over_	_n26	vocs_over_over_firstcastle_post_n26				WARRIOR	confident	means Hayato	既に心に思うもの、一人おります。												
+vocs_over_over_	_n27	vocs_over_over_firstcastle_post_n27				SHOGUN	with authority		よかろう、行け、武源。カゲサマを連れて来るのだ。												
+vocs_over_over_	_n28	vocs_over_over_firstcastle_post_n28				WARRIOR	confident	bows and leaves	ははぁ、必ずや。												
+																					
+TAVERN									Tavern: Mugen hires Hayato												
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN												
+						–		TITLECARD	数日後												
+vocs_over_over_	_n29	vocs_over_over_firstcastle_post_n29				WARRIOR	greeting	enters the tavern, sits next to Hayato-san	お主を見つけるのは簡単ではなかったぞ、隼人殿。												
+vocs_over_over_	_n30	vocs_over_over_firstcastle_post_n30				NINJA	smug	takes a drink	それも仕事の内だ。だが、あんたからの手紙を受け取った。また助けが必要か？												
+vocs_over_over_	_n31	vocs_over_over_firstcastle_post_n31				WARRIOR	direct	takes a drink	難しい任務がある。信頼のできる者にしか話せない任務だ。												
+vocs_over_over_	_n32	vocs_over_over_firstcastle_post_n32				NINJA	skeptical		手紙…カゲサマとあったな。ただの噂だと思っていたが。												
+vocs_over_over_	_n33	vocs_over_over_firstcastle_post_n33				WARRIOR	undeterred		奴は実在する。平和を脅かす脅威だと上様も認識している。そいつが捕獲対象だ。												
+vocs_over_over_	_n34	vocs_over_over_firstcastle_post_n34				NINJA	smug	takes a drink	金が入るなら、その幻影を追ってもいいぜ。任務内容は？												
+vocs_over_over_	_n35	vocs_over_over_firstcastle_post_n35				WARRIOR	explaining	lays document on table	明日の夜明け、違法な武器が中山道で輸送される。手紙に書いた場所を通過するだろう。												
+vocs_over_over_	_n36	vocs_over_over_firstcastle_post_n36				WARRIOR	instructing	Hayato takes and reads the document	お主にはその馬車を止めて、見張りの士官を倒してほしい。知らせを受け次第、幕府の者とそこへ向かう。												
+vocs_over_over_	_n37	vocs_over_over_firstcastle_post_n37				NINJA	no problem		お安い御用だ。												
+vocs_over_over_	_n38	vocs_over_over_firstcastle_post_n38				NINJA	no problem	stands up, finishes his drink, pockets the letter 	よし、道中で会おう。												
+vocs_over_over_	_n39	vocs_over_over_firstcastle_post_n39				WARRIOR			隼人殿、それから…。												
+vocs_over_over_	_n40	vocs_over_over_firstcastle_post_n40				NINJA			ん？												
+vocs_over_over_	_n41	vocs_over_over_firstcastle_post_n41				WARRIOR	friendship		また会えて嬉しい。												
+vocs_over_over_	_n42	vocs_over_over_firstcastle_post_n42				NINJA	hints of friendship		ふっ…俺もだ。												
+																					
+																					
+																					
+																					
+																					
+																					
+																					

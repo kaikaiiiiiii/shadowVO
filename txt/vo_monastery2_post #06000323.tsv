@@ -1,0 +1,63 @@
+4,2,9		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Noboru convinces the Shogun that Mugen's team killed his heir.
+2) The team goes into hiding, struggling to plan their next move.
+3) The loss of their leader drives the group to the breaking point.
+4) It is Aiko who convinces everyone that only together can they stop Noboru
+5) She discovers the location of Masaru and plans to kidnap him."
+									
+CINEMATIC									Stylyzed render cutscene with narration.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_monastery2_post_n00				NARRATOR			四人は脱出できたものの、昇は巧みな言葉で武源と龍之介の殺人の濡れ衣を彼らに着せた。
+vocs_over_over_	_n01	vocs_over_over_monastery2_post_n01				NARRATOR			犯人を捕らえる為に将軍が部下を派遣する間、昇は密かに兄暗殺の計画を企てていた。
+vocs_over_over_	_n02	vocs_over_over_monastery2_post_n02				NARRATOR			一方、武源の仲間達は、将軍の激怒から逃れなければならなかった。
+vocs_over_over_	_n03	vocs_over_over_monastery2_post_n03				NARRATOR			そして同時に、武源の最後の願いを叶えるべく、必死の作戦を今まさに実行しようとしていた。
+									
+TAVERN									A hidden meeting place. Hayato, Yuki and Takuma wait for Aiko to return.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+						TITLECARD			二週間後
+vocs_over_over_	_n04	vocs_over_over_monastery2_post_n04				NINJA	tense		…ここで会うのが本当にいいんだろうな？
+vocs_over_over_	_n05	vocs_over_over_monastery2_post_n05				ALCHEMIST	weary	looking at shelf	この場所は少し前に乱取りがあったんじゃ。ひょっとしたら、また起きるかもしれん。が、怪しいわい。
+vocs_over_over_	_n06	vocs_over_over_monastery2_post_n06				TRAPPER	worried	takuma turns to Yuki 	…愛琥さんはどこなの？
+vocs_over_over_	_n07	vocs_over_over_monastery2_post_n07				ALCHEMIST	weary		わからん、雪ちゃん。今頃着いているはずじゃろうが。
+vocs_over_over_	_n08	vocs_over_over_monastery2_post_n08				NINJA	impatient	turns to leave	これじゃ遅すぎだ。俺はやめる…。
+vocs_over_over_	_n09	vocs_over_over_monastery2_post_n09				TRAPPER	desperate	steps to Hayato	駄目、行かないで。隼人先生！お願い…。
+vocs_over_over_	_n10	vocs_over_over_monastery2_post_n10				TRAPPER	huge relief	Hayato is at the door when Aiko enters the room	愛琥さんっ！戻ってきたわ。
+vocs_over_over_	_n11	vocs_over_over_monastery2_post_n11				NINJA	reserved		…帰ってこないと思ったがな。
+vocs_over_over_	_n12	vocs_over_over_monastery2_post_n12				GEISHA	a bit tired, serious		なのに、待っていてくれて感謝だわ。
+vocs_over_over_	_n13	vocs_over_over_monastery2_post_n13				ALCHEMIST	curious	Hayato leans against the wall away from the others	うーむ、なぜそんなに時間がかかったんじゃ？
+vocs_over_over_	_n14	vocs_over_over_monastery2_post_n14				GEISHA	determined		勝の居場所が分かったわ。彼はこの町に住んでいるわ。
+vocs_over_over_	_n15	vocs_over_over_monastery2_post_n15				NINJA	hard	still away from the others	よし、奴を仕留めよう。 
+vocs_over_over_	_n16	vocs_over_over_monastery2_post_n16				GEISHA	patient		気持ちはわかるわ、隼人さん。けど、最初は生かして捕らえるべきよ。尋問してその後上様の所へ届けるの。
+vocs_over_over_	_n17	vocs_over_over_monastery2_post_n17				NINJA	hard	still away from the others	ふん…それは俺の正義ではない。
+vocs_over_over_	_n18	vocs_over_over_monastery2_post_n18				GEISHA	determined		けど、武源様の犠牲に名誉を捧げるには間違ってないわ。巧磨様、尋問のため準備をしてくださる？
+vocs_over_over_	_n19	vocs_over_over_monastery2_post_n19				ALCHEMIST	submissive		うむ、大したことは無いじゃろ。薬がいるかの？材料がいるじゃろうが…金はないのう…。
+vocs_over_over_	_n20	vocs_over_over_monastery2_post_n20				TRAPPER	eager		行きましょう、巧磨先生！必要なことは先生が教えてくれた。今度は私が先生にしてあげたい！
+vocs_over_over_	_n21	vocs_over_over_monastery2_post_n21				ALCHEMIST	serious		よいじゃろう。ワシらはしばらくそれに専念するということかの。
+vocs_over_over_	_n22	vocs_over_over_monastery2_post_n22				GEISHA	serious		そのとおりよ。勝を捕らえるために隼人さんの助けが欲しいわ。
+vocs_over_over_	_n23	vocs_over_over_monastery2_post_n23				NINJA	barely supressed anger	leaves through the door	わかったよ。何かするって言うならな…。
+vocs_over_over_	_n24	vocs_over_over_monastery2_post_n24				GEISHA	determined		すぐに戻るわ。気をつけて、巧磨様、雪ちゃん。
+vocs_over_over_	_n25	vocs_over_over_monastery2_post_n25				ALCHEMIST	serious	Aiko leaves	心配しなさんな。なんとかするわい。
+									

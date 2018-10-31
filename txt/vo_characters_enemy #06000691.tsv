@@ -1,0 +1,376 @@
+2,3,9									
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN
+vo_eny_eny_	enemy_00_	alarm_area_00	vo_eny_eny_enemy_00_alarm_area_00	omuk	hambo	Enemy	high tension	sounds the alarm	警鐘を鳴らせ！
+vo_eny_eny_	enemy_00_	alarm_area_01	vo_eny_eny_enemy_00_alarm_area_01	omuk	hambo	Enemy	high tension	sounds the alarm	攻撃されてるぞ！
+vo_eny_eny_	enemy_00_	alarm_area_02	vo_eny_eny_enemy_00_alarm_area_02	omuk	hambo	Enemy	high tension	sounds the alarm	準備しろ！
+vo_eny_eny_	enemy_00_	alarm_area_03	vo_eny_eny_enemy_00_alarm_area_03	omuk	hambo	Enemy	high tension	sounds the alarm	援軍を呼べ！
+vo_eny_eny_	enemy_00_	alarm_area_04	vo_eny_eny_enemy_00_alarm_area_04	omuk	hambo	Enemy	high tension	sounds the alarm	他の者に知らせろ！
+vo_eny_eny_	enemy_00_	alarm_local_00	vo_eny_eny_enemy_00_alarm_local_00	omuk	hambo	Enemy	urgent, tense	calls for backup	こっちだ！
+vo_eny_eny_	enemy_00_	alarm_local_01	vo_eny_eny_enemy_00_alarm_local_01	omuk	hambo	Enemy	urgent, tense	calls for backup	こっちへ来い！
+vo_eny_eny_	enemy_00_	alarm_local_02	vo_eny_eny_enemy_00_alarm_local_02	omuk	hambo	Enemy	urgent, tense	calls for backup	応援が必要だ！
+vo_eny_eny_	enemy_00_	alarm_local_03	vo_eny_eny_enemy_00_alarm_local_03	omuk	hambo	Enemy	urgent, tense	calls for backup	助けてくれ！
+vo_eny_eny_	enemy_00_	alarm_local_04	vo_eny_eny_enemy_00_alarm_local_04	omuk	hambo	Enemy	urgent, tense	calls for backup	集まれ！
+vo_eny_eny_	enemy_00_	alarm_local_05	vo_eny_eny_enemy_00_alarm_local_05	omuk	hambo	Enemy	urgent, tense	calls for backup	集合だ！
+vo_eny_eny_	enemy_00_	alarm_local_06	vo_eny_eny_enemy_00_alarm_local_06	omuk	hambo	Enemy	urgent, tense	curses	何だと？！
+vo_eny_eny_	enemy_00_	alarm_stop_00	vo_eny_eny_enemy_00_alarm_stop_00	omuk	hambo	Enemy	commanding	end of alarm	逃げられたか…。警鐘を止めろ！
+vo_eny_eny_	enemy_00_	alarm_stop_01	vo_eny_eny_enemy_00_alarm_stop_01	omuk	hambo	Enemy	commanding	end of alarm	おしまいだ。持ち場に戻れ。
+vo_eny_eny_	enemy_00_	alarm_stop_02	vo_eny_eny_enemy_00_alarm_stop_02	omuk	hambo	Enemy	commanding	end of alarm	逃げたようだな…。鐘を止めろ！
+vo_eny_eny_	enemy_00_	alarm_stop_03	vo_eny_eny_enemy_00_alarm_stop_03	omuk	hambo	Enemy	commanding	end of alarm	危険は去った。休んでいいぞ。
+vo_eny_eny_	enemy_00_	alarm_stop_04	vo_eny_eny_enemy_00_alarm_stop_04	omuk	hambo	Enemy	commanding	end of alarm	奴らは去っていった。
+vo_eny_eny_	enemy_00_	alarm_stop_05	vo_eny_eny_enemy_00_alarm_stop_05	omuk	hambo	Enemy	commanding	end of alarm	もう大丈夫だ。
+vo_eny_eny_	enemy_00_	carry_object_00	vo_eny_eny_enemy_00_carry_object_00	omuk		Enemy		(sound) carries heavy object	
+vo_eny_eny_	enemy_00_	clear_throat_00	vo_eny_eny_enemy_00_clear_throat_00	omuk		Enemy		(sound) clears throat	
+vo_eny_eny_	enemy_00_	cough_00	vo_eny_eny_enemy_00_cough_00	omuk		Enemy		(sound) coughs	
+vo_eny_eny_	enemy_00_	danger_toohigh_00	vo_eny_eny_enemy_00_danger_toohigh_00	omuk	hambo	Enemy	angry	has seen a player far above him	奴らはあそこだ！
+vo_eny_eny_	enemy_00_	danger_toohigh_01	vo_eny_eny_enemy_00_danger_toohigh_01	omuk	hambo	Enemy	angry	has seen a player far above him	上だ！
+vo_eny_eny_	enemy_00_	danger_toohigh_02	vo_eny_eny_enemy_00_danger_toohigh_02	omuk	hambo	Enemy	angry	has seen a player far above him	上から攻撃してるぞ！
+vo_eny_eny_	enemy_00_	danger_unreachable_00	vo_eny_eny_enemy_00_danger_unreachable_00	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	卑怯者め！正々堂々と戦え！
+vo_eny_eny_	enemy_00_	danger_unreachable_01	vo_eny_eny_enemy_00_danger_unreachable_01	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	どうやって登ったんだ？
+vo_eny_eny_	enemy_00_	danger_unreachable_02	vo_eny_eny_enemy_00_danger_unreachable_02	omuk	hambo	Enemy	angry	has seen a player, but can't get to that spot	あそこまで届かねぇ。
+vo_eny_eny_	enemy_00_	death_scream_00	vo_eny_eny_enemy_00_death_scream_00	omuk	hambo	Enemy	shocked	(sound) short deathsound	
+vo_eny_eny_	enemy_00_	death_scream_01	vo_eny_eny_enemy_00_death_scream_01	omuk	hambo	Enemy	shocked	(sound) short deathsound	
+vo_eny_eny_	enemy_00_	death_scream_02	vo_eny_eny_enemy_00_death_scream_02	omuk	hambo	Enemy	shocked	(sound) short deathsound	
+vo_eny_eny_	enemy_00_	death_scream_03	vo_eny_eny_enemy_00_death_scream_03	omuk	hambo	Enemy	shocked	(sound) short deathsound	
+vo_eny_eny_	enemy_00_	death_scream_04	vo_eny_eny_enemy_00_death_scream_04	omuk	hambo	Enemy	shocked	(sound) short deathsound	
+vo_eny_eny_	enemy_00_	death_scream_muffled_00	vo_eny_eny_enemy_00_death_scream_muffled_00	omuk	hambo	Enemy	struggling	(sound) muffled deathsound	
+vo_eny_eny_	enemy_00_	death_scream_muffled_01	vo_eny_eny_enemy_00_death_scream_muffled_01	omuk	hambo	Enemy	struggling	(sound) muffled deathsound	
+vo_eny_eny_	enemy_00_	death_scream_muffled_02	vo_eny_eny_enemy_00_death_scream_muffled_02	omuk	hambo	Enemy	struggling	(sound) muffled deathsound	
+vo_eny_eny_	enemy_00_	death_scream_muffled_03	vo_eny_eny_enemy_00_death_scream_muffled_03	omuk	hambo	Enemy	struggling	(sound) muffled deathsound	
+vo_eny_eny_	enemy_00_	death_scream_muffled_04	vo_eny_eny_enemy_00_death_scream_muffled_04	omuk	hambo	Enemy	struggling	(sound) muffled deathsound	
+vo_eny_eny_	enemy_00_	detect_corpse_female_02	vo_eny_eny_enemy_00_detect_corpse_female_02	omuk		Enemy	shocked	sees a corpse	死んでるぞ！
+vo_eny_eny_	enemy_00_	detect_corpse_female_03	vo_eny_eny_enemy_00_detect_corpse_female_03	omuk		Enemy	shocked	sees a corpse	殺されてる…！
+vo_eny_eny_	enemy_00_	detect_corpse_male_00	vo_eny_eny_enemy_00_detect_corpse_male_00	omuk		Enemy	shocked	sees a corpse	死んでるぞ！
+vo_eny_eny_	enemy_00_	detect_corpse_male_01	vo_eny_eny_enemy_00_detect_corpse_male_01	omuk		Enemy	shocked	sees a corpse	殺されてる…！
+vo_eny_eny_	enemy_00_	detect_corpse_neutral_02	vo_eny_eny_enemy_00_detect_corpse_neutral_02	omuk	hambo	Enemy	shocked	sees a corpse	人殺しだ！
+vo_eny_eny_	enemy_00_	detect_corpse_neutral_03	vo_eny_eny_enemy_00_detect_corpse_neutral_03	omuk	hambo	Enemy	shocked	sees a corpse	暗殺者か！
+vo_eny_eny_	enemy_00_	detect_footsteps_00	vo_eny_eny_enemy_00_detect_footsteps_00	omuk	hambo	Enemy	suspicious	sees player footprints	うん？足跡か…。
+vo_eny_eny_	enemy_00_	detect_footsteps_01	vo_eny_eny_enemy_00_detect_footsteps_01	omuk	hambo	Enemy	suspicious	sees player footprints	誰のだろう？
+vo_eny_eny_	enemy_00_	detect_footsteps_02	vo_eny_eny_enemy_00_detect_footsteps_02	omuk	hambo	Enemy	suspicious	sees player footprints	誰の足跡だ？！
+vo_eny_eny_	enemy_00_	detect_footsteps_03	vo_eny_eny_enemy_00_detect_footsteps_03	omuk	hambo	Enemy	suspicious	sees player footprints	見ない足跡だな。
+vo_eny_eny_	enemy_00_	detect_footsteps_04	vo_eny_eny_enemy_00_detect_footsteps_04	omuk	hambo	Enemy	suspicious	sees player footprints	誰か隠れているのか？
+vo_eny_eny_	enemy_00_	detect_lightsource_00	vo_eny_eny_enemy_00_detect_lightsource_00	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	明かりが消えたぞ。
+vo_eny_eny_	enemy_00_	detect_lightsource_01	vo_eny_eny_enemy_00_detect_lightsource_01	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	風で明かりが消えたか。
+vo_eny_eny_	enemy_00_	detect_lightsource_02	vo_eny_eny_enemy_00_detect_lightsource_02	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	変だな、明かりがついてないなんて。
+vo_eny_eny_	enemy_00_	detect_lightsource_03	vo_eny_eny_enemy_00_detect_lightsource_03	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	誰か間違って消しちまったのか？
+vo_eny_eny_	enemy_00_	detect_lightsource_04	vo_eny_eny_enemy_00_detect_lightsource_04	omuk	hambo	Enemy	slightly irritated	sees extiguished lamp	火が消えてるな。
+vo_eny_eny_	enemy_00_	detect_player_00	vo_eny_eny_enemy_00_detect_player_00	omuk	hambo	Enemy	agressive	sees a player character	動くな！
+vo_eny_eny_	enemy_00_	detect_player_01	vo_eny_eny_enemy_00_detect_player_01	omuk	hambo	Enemy	agressive	sees a player character	待て！
+vo_eny_eny_	enemy_00_	detect_player_02	vo_eny_eny_enemy_00_detect_player_02	omuk	hambo	Enemy	agressive	sees a player character	止まれ！
+vo_eny_eny_	enemy_00_	detect_player_03	vo_eny_eny_enemy_00_detect_player_03	omuk	hambo	Enemy	agressive	sees a player character	お前！
+vo_eny_eny_	enemy_00_	detect_player_04	vo_eny_eny_enemy_00_detect_player_04	omuk	hambo	Enemy	agressive	sees a player character	そこのお前！
+vo_eny_eny_	enemy_00_	detect_player_05	vo_eny_eny_enemy_00_detect_player_05	omuk	hambo	Enemy	agressive	sees a player character	そこで止まれ！
+vo_eny_eny_	enemy_00_	detect_player_06	vo_eny_eny_enemy_00_detect_player_06	omuk	hambo	Enemy	agressive	sees a player character	侵入者だ！
+vo_eny_eny_	enemy_00_	detect_player_07	vo_eny_eny_enemy_00_detect_player_07	omuk	hambo	Enemy	agressive	sees a player character	この虫けらが！
+vo_eny_eny_	enemy_00_	detect_player_08	vo_eny_eny_enemy_00_detect_player_08	omuk	hambo	Enemy	agressive	sees a player character	見つけたぞ！
+vo_eny_eny_	enemy_00_	detect_player_09	vo_eny_eny_enemy_00_detect_player_09	omuk	hambo	Enemy	agressive	sees a player character	おい、お前！
+vo_eny_eny_	enemy_00_	detect_player_10	vo_eny_eny_enemy_00_detect_player_10	omuk	hambo	Enemy	agressive	sees a player character	やっちまえ！
+vo_eny_eny_	enemy_00_	detect_player_11	vo_eny_eny_enemy_00_detect_player_11	omuk	hambo	Enemy	agressive	sees a player character	かかれ！
+vo_eny_eny_	enemy_00_	detect_player_12	vo_eny_eny_enemy_00_detect_player_12	omuk	hambo	Enemy	agressive	sees a player character	幕府の奴らか！
+vo_eny_eny_	enemy_00_	detect_player_13	vo_eny_eny_enemy_00_detect_player_13	omuk	hambo	Enemy	agressive	sees a player character	奴らだ！
+vo_eny_eny_	enemy_00_	detect_player_14	vo_eny_eny_enemy_00_detect_player_14	omuk	hambo	Enemy	agressive	sees a player character	ここは立ち入り禁止だ！
+vo_eny_eny_	enemy_00_	detect_player_15	vo_eny_eny_enemy_00_detect_player_15	omuk	hambo	Enemy	agressive	sees a player character	俺の手でやっつけてやる！
+vo_eny_eny_	enemy_00_	detect_player_16	vo_eny_eny_enemy_00_detect_player_16	omuk	hambo	Enemy	agressive	sees a player character	逃げようとしても無駄だ！
+vo_eny_eny_	enemy_00_	detect_player_17	vo_eny_eny_enemy_00_detect_player_17	omuk	hambo	Enemy	agressive	sees a player character	逃げられないぞ！
+vo_eny_eny_	enemy_00_	detect_player_proximity_00	vo_eny_eny_enemy_00_detect_player_proximity_00	omuk	hambo	Enemy	suspicious	senses a nearby player character	何か変だな…。
+vo_eny_eny_	enemy_00_	detect_player_proximity_01	vo_eny_eny_enemy_00_detect_player_proximity_01	omuk	hambo	Enemy	suspicious	senses a nearby player character	妙だな。まるで…。
+vo_eny_eny_	enemy_00_	detect_player_proximity_02	vo_eny_eny_enemy_00_detect_player_proximity_02	omuk	hambo	Enemy	suspicious	senses a nearby player character	待てよ、誰かいるのか？
+vo_eny_eny_	enemy_00_	detect_player_proximity_03	vo_eny_eny_enemy_00_detect_player_proximity_03	omuk	hambo	Enemy	suspicious	senses a nearby player character	誰かいるのか？
+vo_eny_eny_	enemy_00_	detect_sake_00	vo_eny_eny_enemy_00_detect_sake_00	omuk	hambo	Enemy	I want that	wants to pick up the sake bottle	こんなとこに置きっぱなしじゃぁ、もったいないだろう。
+vo_eny_eny_	enemy_00_	detect_sake_01	vo_eny_eny_enemy_00_detect_sake_01	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	酒一杯ってのもいいな。
+vo_eny_eny_	enemy_00_	detect_sake_02	vo_eny_eny_enemy_00_detect_sake_02	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	酒かよ？いただくとするか。
+vo_eny_eny_	enemy_00_	detect_sake_03	vo_eny_eny_enemy_00_detect_sake_03	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	うわぁ、酒だ！
+vo_eny_eny_	enemy_00_	detect_sake_04	vo_eny_eny_enemy_00_detect_sake_04	omuk	hambo	Enemy	eager	wants to pick up the sake bottle	上等な酒だ。
+vo_eny_eny_	enemy_00_	detect_tanuki_00	vo_eny_eny_enemy_00_detect_tanuki_00	omuk	hambo	Enemy	surprised	sees the tanuki	あれ？たぬきだ！
+vo_eny_eny_	enemy_00_	detect_tanuki_01	vo_eny_eny_enemy_00_detect_tanuki_01	omuk	hambo	Enemy	Intrigued	sees the tanuki	好奇心旺盛だな。
+vo_eny_eny_	enemy_00_	detect_tanuki_02	vo_eny_eny_enemy_00_detect_tanuki_02	omuk	hambo	Enemy	amused	sees the tanuki	お前、何してんだ？
+vo_eny_eny_	enemy_00_	detect_tanuki_03	vo_eny_eny_enemy_00_detect_tanuki_03	omuk	hambo	Enemy	friendly	sees the tanuki	たぬきか。腹でも減ってるのか？
+vo_eny_eny_	enemy_00_	detect_tanuki_04	vo_eny_eny_enemy_00_detect_tanuki_04	omuk	hambo	Enemy	annoyed	sees the tanuki	おい！なんでそんなにうるさいんだ？
+vo_eny_eny_	enemy_00_	detect_tanuki_05	vo_eny_eny_enemy_00_detect_tanuki_05	omuk	hambo	Enemy	annoyed	sees the tanuki	なんだ、たぬきか。
+vo_eny_eny_	enemy_00_	detect_unconscious_female_01	vo_eny_eny_enemy_00_detect_unconscious_female_01	omuk		Enemy	concerned	sees unconcious person	気絶しているな。
+vo_eny_eny_	enemy_00_	detect_unconscious_female_02	vo_eny_eny_enemy_00_detect_unconscious_female_02	omuk		Enemy	concerned	sees unconcious person	殴られたんだ。
+vo_eny_eny_	enemy_00_	detect_unconscious_female_03	vo_eny_eny_enemy_00_detect_unconscious_female_03	omuk		Enemy	concerned	sees unconcious person	襲われたんだ。
+vo_eny_eny_	enemy_00_	detect_unconscious_male_00	vo_eny_eny_enemy_00_detect_unconscious_male_00	omuk		Enemy	concerned	sees unconcious person	気絶してるぞ。
+vo_eny_eny_	enemy_00_	detect_unconscious_male_01	vo_eny_eny_enemy_00_detect_unconscious_male_01	omuk		Enemy	concerned	sees unconcious person	殴られたんだ。
+vo_eny_eny_	enemy_00_	detect_unconscious_male_02	vo_eny_eny_enemy_00_detect_unconscious_male_02	omuk		Enemy	concerned	sees unconcious person	襲われたんだ。
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_01	vo_eny_eny_enemy_00_detect_unconscious_neutral_01	omuk	hambo	Enemy	concerned	sees unconcious person	どうしたんだ？
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_02	vo_eny_eny_enemy_00_detect_unconscious_neutral_02	omuk	hambo	Enemy	concerned	sees unconcious person	おい！どうした？
+vo_eny_eny_	enemy_00_	detect_unconscious_neutral_03	vo_eny_eny_enemy_00_detect_unconscious_neutral_03	omuk	hambo	Enemy	concerned	sees unconcious person	眠ってんのか？
+vo_eny_eny_	enemy_00_	drink_sake_00	vo_eny_eny_enemy_00_drink_sake_00	omuk		Enemy		(sound) drink sake	
+vo_eny_eny_	enemy_00_	drop_object_00	vo_eny_eny_enemy_00_drop_object_00	omuk		Enemy		(sound) lay down heavy object	
+vo_eny_eny_	enemy_00_	friend_missing_female_00	vo_eny_eny_enemy_00_friend_missing_female_00	omuk		Enemy	concerned	his partner is missing	持ち場を離れたんだ。
+vo_eny_eny_	enemy_00_	friend_missing_female_01	vo_eny_eny_enemy_00_friend_missing_female_01	omuk		Enemy	concerned	his partner is missing	どこに行ったんだ？
+vo_eny_eny_	enemy_00_	friend_missing_female_02	vo_eny_eny_enemy_00_friend_missing_female_02	omuk		Enemy	concerned	his partner is missing	何に時間がかかってるんだか…。
+vo_eny_eny_	enemy_00_	friend_missing_female_03	vo_eny_eny_enemy_00_friend_missing_female_03	omuk		Enemy	concerned	his partner is missing	おかしいぞ。
+vo_eny_eny_	enemy_00_	friend_missing_female_04	vo_eny_eny_enemy_00_friend_missing_female_04	omuk		Enemy	concerned	his partner is missing	行方不明だ！
+vo_eny_eny_	enemy_00_	friend_missing_male_00	vo_eny_eny_enemy_00_friend_missing_male_00	omuk	hambo	Enemy	concerned	his partner is missing	持ち場を離れたんだ。
+vo_eny_eny_	enemy_00_	friend_missing_male_01	vo_eny_eny_enemy_00_friend_missing_male_01	omuk	hambo	Enemy	concerned	his partner is missing	どこに行ったんだ？
+vo_eny_eny_	enemy_00_	friend_missing_male_02	vo_eny_eny_enemy_00_friend_missing_male_02	omuk	hambo	Enemy	concerned	his partner is missing	何に時間がかかってるんだか…。
+vo_eny_eny_	enemy_00_	friend_missing_male_03	vo_eny_eny_enemy_00_friend_missing_male_03	omuk	hambo	Enemy	concerned	his partner is missing	おかしいぞ。
+vo_eny_eny_	enemy_00_	friend_missing_male_04	vo_eny_eny_enemy_00_friend_missing_male_04	omuk	hambo	Enemy	concerned	his partner is missing	行方不明だ！
+vo_eny_eny_	enemy_00_	friend_wakeup_00	vo_eny_eny_enemy_00_friend_wakeup_00	omuk	hambo	Enemy	urgent	wakes unconcious person	おい！目を覚ませ！
+vo_eny_eny_	enemy_00_	friend_wakeup_01	vo_eny_eny_enemy_00_friend_wakeup_01	omuk	hambo	Enemy	urgent	wakes unconcious person	起きろよ！
+vo_eny_eny_	enemy_00_	friend_wakeup_02	vo_eny_eny_enemy_00_friend_wakeup_02	omuk	hambo	Enemy	urgent	wakes unconcious person	あんた、大丈夫か？
+vo_eny_eny_	enemy_00_	friend_wakeup_03	vo_eny_eny_enemy_00_friend_wakeup_03	omuk	hambo	Enemy	urgent	wakes unconcious person	何が起きたんだ？
+vo_eny_eny_	enemy_00_	friend_wakeup_04	vo_eny_eny_enemy_00_friend_wakeup_04	omuk	hambo	Enemy	urgent	wakes unconcious person	しっかりするんだ！
+vo_eny_eny_	enemy_00_	hard_work_00	vo_eny_eny_enemy_00_hard_work_00	omuk		Enemy		(sound) pushing a cart	
+vo_eny_eny_	enemy_00_	hear_noise_00	vo_eny_eny_enemy_00_hear_noise_00	omuk	hambo	Enemy	suspicious	hears strange noise	ハァ？
+vo_eny_eny_	enemy_00_	hear_noise_01	vo_eny_eny_enemy_00_hear_noise_01	omuk	hambo	Enemy	suspicious	hears strange noise	今のは何だ？
+vo_eny_eny_	enemy_00_	hear_noise_02	vo_eny_eny_enemy_00_hear_noise_02	omuk	hambo	Enemy	suspicious	hears strange noise	何か聞こえたぞ…。
+vo_eny_eny_	enemy_00_	hear_noise_03	vo_eny_eny_enemy_00_hear_noise_03	omuk	hambo	Enemy	suspicious	hears strange noise	妙な音だな…。
+vo_eny_eny_	enemy_00_	hear_noise_04	vo_eny_eny_enemy_00_hear_noise_04	omuk	hambo	Enemy	suspicious	hears strange noise	あの音は…。
+vo_eny_eny_	enemy_00_	hear_noise_directhit_00	vo_eny_eny_enemy_00_hear_noise_directhit_00	omuk		Enemy	very irritated	is hit by stone	イテッ！誰だ？！
+vo_eny_eny_	enemy_00_	hear_noise_directhit_01	vo_eny_eny_enemy_00_hear_noise_directhit_01	omuk		Enemy	very irritated	is hit by stone	うぐっ…ただではおかんぞ！
+vo_eny_eny_	enemy_00_	hear_noise_directhit_02	vo_eny_eny_enemy_00_hear_noise_directhit_02	omuk		Enemy	very irritated	is hit by stone	おのれ…！姿を見せるんだ！
+vo_eny_eny_	enemy_00_	hear_noise_directhit_03	vo_eny_eny_enemy_00_hear_noise_directhit_03	omuk		Enemy	very irritated	is hit by stone	イテッ！やめろよ！
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_00	vo_eny_eny_enemy_00_hear_noise_gunshot_00	omuk		Enemy	alarmed	hears player gunshot	銃声だと？
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_01	vo_eny_eny_enemy_00_hear_noise_gunshot_01	omuk		Enemy	alarmed	hears player gunshot	銃声だ！配置に付け！
+vo_eny_eny_	enemy_00_	hear_noise_gunshot_02	vo_eny_eny_enemy_00_hear_noise_gunshot_02	omuk		Enemy	alarmed	hears player gunshot	敵は銃を持ってるぞ！
+vo_eny_eny_	enemy_00_	hear_noise_human_00	vo_eny_eny_enemy_00_hear_noise_human_00	omuk	hambo	Enemy	tense	hears human noise	誰かいるのか？
+vo_eny_eny_	enemy_00_	hear_noise_human_01	vo_eny_eny_enemy_00_hear_noise_human_01	omuk	hambo	Enemy	tense	hears human noise	誰だ？
+vo_eny_eny_	enemy_00_	hear_noise_human_02	vo_eny_eny_enemy_00_hear_noise_human_02	omuk	hambo	Enemy	tense	hears human noise	今の聞こえたぞ！
+vo_eny_eny_	enemy_00_	hear_noise_human_03	vo_eny_eny_enemy_00_hear_noise_human_03	omuk	hambo	Enemy	tense	hears human noise	誰の仕業だ！
+vo_eny_eny_	enemy_00_	hear_noise_human_04	vo_eny_eny_enemy_00_hear_noise_human_04	omuk	hambo	Enemy	tense	hears human noise	暗闇に隠れているのは分かっている！
+vo_eny_eny_	enemy_00_	hear_noise_human_05	vo_eny_eny_enemy_00_hear_noise_human_05	omuk	hambo	Enemy	tense	hears human noise	何だ？
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_00	vo_eny_eny_enemy_00_hear_noise_toomuch_00	omuk	hambo	Enemy	irritated	hears continuous string of strange noises	いい加減にしろ！
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_01	vo_eny_eny_enemy_00_hear_noise_toomuch_01	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	何者の仕業だ？
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_02	vo_eny_eny_enemy_00_hear_noise_toomuch_02	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	出てこい！
+vo_eny_eny_	enemy_00_	hear_noise_toomuch_03	vo_eny_eny_enemy_00_hear_noise_toomuch_03	omuk	hambo	Enemy	irritated	irritated by a continuous string of strange noises	冗談だとしたら面白くないぞ！
+vo_eny_eny_	enemy_00_	hum_00	vo_eny_eny_enemy_00_hum_00	omuk		Enemy		(sound) humming tune	
+vo_eny_eny_	enemy_00_	investigate_accident_start_00	vo_eny_eny_enemy_00_investigate_accident_start_00	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	どうしたんだ？
+vo_eny_eny_	enemy_00_	investigate_accident_start_01	vo_eny_eny_enemy_00_investigate_accident_start_01	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	何が起きたんだ？
+vo_eny_eny_	enemy_00_	investigate_accident_start_02	vo_eny_eny_enemy_00_investigate_accident_start_02	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	そんな…！
+vo_eny_eny_	enemy_00_	investigate_accident_start_03	vo_eny_eny_enemy_00_investigate_accident_start_03	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	でも、どうやって？！
+vo_eny_eny_	enemy_00_	investigate_accident_start_04	vo_eny_eny_enemy_00_investigate_accident_start_04	omuk	hambo	Enemy	shocked	sees accident (like guard crushed by falling debris)	いや、あり得ない！
+vo_eny_eny_	enemy_00_	investigate_accident_stop_00	vo_eny_eny_enemy_00_investigate_accident_stop_00	omuk	hambo	Enemy	accepting	stops investigating accident	残念だな…。
+vo_eny_eny_	enemy_00_	investigate_accident_stop_01	vo_eny_eny_enemy_00_investigate_accident_stop_01	omuk	hambo	Enemy	accepting	stops investigating accident	因果応報…ってか。
+vo_eny_eny_	enemy_00_	investigate_accident_stop_02	vo_eny_eny_enemy_00_investigate_accident_stop_02	omuk	hambo	Enemy	accepting	stops investigating accident	ひどい事故だ…。
+vo_eny_eny_	enemy_00_	investigate_accident_stop_03	vo_eny_eny_enemy_00_investigate_accident_stop_03	omuk	hambo	Enemy	accepting	stops investigating accident	運が悪かったんだな。
+vo_eny_eny_	enemy_00_	investigate_accident_stop_04	vo_eny_eny_enemy_00_investigate_accident_stop_04	omuk	hambo	Enemy	accepting	stops investigating accident	俺たちにできることはない。
+vo_eny_eny_	enemy_00_	investigate_bush_00	vo_eny_eny_enemy_00_investigate_bush_00	omuk	hambo	Enemy	agressive	searches bushes for player characters	茂みに隠れてるのか？
+vo_eny_eny_	enemy_00_	investigate_bush_01	vo_eny_eny_enemy_00_investigate_bush_01	omuk	hambo	Enemy	agressive	searches bushes for player characters	隠れても無駄だ！
+vo_eny_eny_	enemy_00_	investigate_bush_02	vo_eny_eny_enemy_00_investigate_bush_02	omuk	hambo	Enemy	agressive	searches bushes for player characters	俺は騙されんぞ。
+vo_eny_eny_	enemy_00_	investigate_bush_03	vo_eny_eny_enemy_00_investigate_bush_03	omuk	hambo	Enemy	agressive	searches bushes for player characters	藪の中を這ってるのか？
+vo_eny_eny_	enemy_00_	investigate_bush_04	vo_eny_eny_enemy_00_investigate_bush_04	omuk	hambo	Enemy	agressive	searches bushes for player characters	茂みなんかカモフラージュにならないぞ！
+vo_eny_eny_	enemy_00_	investigate_door_00	vo_eny_eny_enemy_00_investigate_door_00	omuk	hambo	Enemy	agressive	follows player character inside buildings	そこに隠れてるんだろ？
+vo_eny_eny_	enemy_00_	investigate_door_01	vo_eny_eny_enemy_00_investigate_door_01	omuk	hambo	Enemy	agressive	follows player character inside buildings	そこにいるのは分かってるんだ！
+vo_eny_eny_	enemy_00_	investigate_door_02	vo_eny_eny_enemy_00_investigate_door_02	omuk	hambo	Enemy	agressive	follows player character inside buildings	そこなら安全だとでも思ってるのか？
+vo_eny_eny_	enemy_00_	investigate_end_00	vo_eny_eny_enemy_00_investigate_end_00	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	誰もいないな。
+vo_eny_eny_	enemy_00_	investigate_end_01	vo_eny_eny_enemy_00_investigate_end_01	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	いなくなったぞ。
+vo_eny_eny_	enemy_00_	investigate_end_02	vo_eny_eny_enemy_00_investigate_end_02	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	何もないな。
+vo_eny_eny_	enemy_00_	investigate_end_03	vo_eny_eny_enemy_00_investigate_end_03	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	逃げられたか。
+vo_eny_eny_	enemy_00_	investigate_end_04	vo_eny_eny_enemy_00_investigate_end_04	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	逃げたようだな…。
+vo_eny_eny_	enemy_00_	investigate_end_05	vo_eny_eny_enemy_00_investigate_end_05	omuk	hambo	Enemy	tension releases	"stops investigating area
+(same as squad solo)"	誰もいないな。
+vo_eny_eny_	enemy_00_	investigate_missing_00	vo_eny_eny_enemy_00_investigate_missing_00	omuk	hambo	Enemy	annoyed	searches the area for missing friend	お～い！
+vo_eny_eny_	enemy_00_	investigate_missing_01	vo_eny_eny_enemy_00_investigate_missing_01	omuk	hambo	Enemy	annoyed	searches the area for missing friend	どこかに隠れてるのか？
+vo_eny_eny_	enemy_00_	investigate_missing_02	vo_eny_eny_enemy_00_investigate_missing_02	omuk	hambo	Enemy	annoyed	searches the area for missing friend	そこにいるのか？
+vo_eny_eny_	enemy_00_	investigate_missing_03	vo_eny_eny_enemy_00_investigate_missing_03	omuk	hambo	Enemy	annoyed	searches the area for missing friend	冗談はほどほどにしろよ。
+vo_eny_eny_	enemy_00_	investigate_missing_04	vo_eny_eny_enemy_00_investigate_missing_04	omuk	hambo	Enemy	annoyed	searches the area for missing friend	どこにいるんだ？返事しろよ！
+vo_eny_eny_	enemy_00_	investigate_missing_05	vo_eny_eny_enemy_00_investigate_missing_05	omuk	hambo	Enemy	annoyed	searches the area for missing friend	聞こえるか？
+vo_eny_eny_	enemy_00_	investigate_start_00	vo_eny_eny_enemy_00_investigate_start_00	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	どこだ？
+vo_eny_eny_	enemy_00_	investigate_start_01	vo_eny_eny_enemy_00_investigate_start_01	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	誰かいるのか？
+vo_eny_eny_	enemy_00_	investigate_start_02	vo_eny_eny_enemy_00_investigate_start_02	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	ここにいるのは分かってるんだ！
+vo_eny_eny_	enemy_00_	investigate_start_03	vo_eny_eny_enemy_00_investigate_start_03	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	見つけてやるからな。
+vo_eny_eny_	enemy_00_	investigate_start_04	vo_eny_eny_enemy_00_investigate_start_04	omuk	hambo	Enemy	tense	"starts investigating area
+(same as squad solo)"	出てこい！
+vo_eny_eny_	enemy_00_	investigate_too_long_00	vo_eny_eny_enemy_00_investigate_too_long_00	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	わざわざ行くのも面倒だな。
+vo_eny_eny_	enemy_00_	investigate_too_long_01	vo_eny_eny_enemy_00_investigate_too_long_01	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	遠すぎるな。
+vo_eny_eny_	enemy_00_	investigate_too_long_02	vo_eny_eny_enemy_00_investigate_too_long_02	omuk	hambo	Enemy	suspicious, then lazy	hears noise, but getting there is too complicated	向こうの方だから、いいか。
+vo_eny_eny_	enemy_00_	investigate_unreachable_00	vo_eny_eny_enemy_00_investigate_unreachable_00	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	あそこまで行けないな。
+vo_eny_eny_	enemy_00_	investigate_unreachable_01	vo_eny_eny_enemy_00_investigate_unreachable_01	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	道がないぞ。
+vo_eny_eny_	enemy_00_	investigate_unreachable_02	vo_eny_eny_enemy_00_investigate_unreachable_02	omuk	hambo	Enemy	suspicious	wants to investigate spot, but can't get there	面倒だな。
+vo_eny_eny_	enemy_00_	knockout_scream_00	vo_eny_eny_enemy_00_knockout_scream_00	omuk	hambo	Enemy	stunned	(sound) gets knocked out	
+vo_eny_eny_	enemy_00_	knockout_scream_01	vo_eny_eny_enemy_00_knockout_scream_01	omuk	hambo	Enemy	stunned	(sound) gets knocked out	
+vo_eny_eny_	enemy_00_	knockout_scream_02	vo_eny_eny_enemy_00_knockout_scream_02	omuk	hambo	Enemy	stunned	(sound) gets knocked out	
+vo_eny_eny_	enemy_00_	knockout_scream_03	vo_eny_eny_enemy_00_knockout_scream_03	omuk	hambo	Enemy	stunned	(sound) gets knocked out	
+vo_eny_eny_	enemy_00_	knockout_scream_04	vo_eny_eny_enemy_00_knockout_scream_04	omuk	hambo	Enemy	stunned	(sound) gets knocked out	
+vo_eny_eny_	enemy_00_	laugh_evil_00	vo_eny_eny_enemy_00_laugh_evil_00	omuk		Enemy		(sound) dark laugh	
+vo_eny_eny_	enemy_00_	laugh_good_00	vo_eny_eny_enemy_00_laugh_good_00	omuk		Enemy		(sound) humorous laugh	
+vo_eny_eny_	enemy_00_	make_toast_00	vo_eny_eny_enemy_00_make_toast_00	omuk		Enemy		(sound) makes a toast	
+vo_eny_eny_	enemy_00_	officer_alert_00	vo_eny_eny_enemy_00_officer_alert_00	omuk		Enemy	tense	instructs other guards to stay alert	警戒を怠るな。暗殺者が現れたんだ。
+vo_eny_eny_	enemy_00_	officer_alert_01	vo_eny_eny_enemy_00_officer_alert_01	omuk		Enemy	tense	instructs other guards to stay alert	敵はまだ近くにいる。気を付けろよ。
+vo_eny_eny_	enemy_00_	officer_alert_02	vo_eny_eny_enemy_00_officer_alert_02	omuk		Enemy	tense	instructs other guards to stay alert	騙されるな。敵はまだいるぞ。
+vo_eny_eny_	enemy_00_	officer_alert_03	vo_eny_eny_enemy_00_officer_alert_03	omuk		Enemy	tense	instructs other guards to stay alert	暗闇に気を付けてチェックしろ。敵が潜んでいるかもしれん。
+vo_eny_eny_	enemy_00_	officer_alert_04	vo_eny_eny_enemy_00_officer_alert_04	omuk		Enemy	tense	instructs other guards to stay alert	まとまって行動しろ。バラバラになるなよ。
+vo_eny_eny_	enemy_00_	officer_alert_05	vo_eny_eny_enemy_00_officer_alert_05	omuk		Enemy	tense	instructs other guards to stay alert	敵は弱みに付け込んでくる。気を抜くなよ。
+vo_eny_eny_	enemy_00_	officer_alert_06	vo_eny_eny_enemy_00_officer_alert_06	omuk		Enemy	tense	instructs other guards to stay alert	見つけ次第攻撃だ。情けは無用だ。
+vo_eny_eny_	enemy_00_	officer_alert_07	vo_eny_eny_enemy_00_officer_alert_07	omuk		Enemy	tense	instructs other guards to stay alert	ひるむんじゃないぞ。
+vo_eny_eny_	enemy_00_	officer_alert_08	vo_eny_eny_enemy_00_officer_alert_08	omuk		Enemy	tense	instructs other guards to stay alert	奴らに恐怖を教えるんだ。隠れさせるんじゃないぞ。
+vo_eny_eny_	enemy_00_	pickup_object_00	vo_eny_eny_enemy_00_pickup_object_00	omuk		Enemy		(sound) pickup heavy object	
+vo_eny_eny_	enemy_00_	regain_consciousness_00	vo_eny_eny_enemy_00_regain_consciousness_00	omuk	hambo	Enemy	ashamed	knocked out, wakes up	わ…悪い。
+vo_eny_eny_	enemy_00_	regain_consciousness_01	vo_eny_eny_enemy_00_regain_consciousness_01	omuk	hambo	Enemy	headache	knocked out, wakes up	あぅ…頭が…。
+vo_eny_eny_	enemy_00_	regain_consciousness_02	vo_eny_eny_enemy_00_regain_consciousness_02	omuk	hambo	Enemy	ashamed	knocked out, wakes up	面目ない…。
+vo_eny_eny_	enemy_00_	regain_consciousness_03	vo_eny_eny_enemy_00_regain_consciousness_03	omuk	hambo	Enemy	headache	knocked out, wakes up	ぐぅ…痛いな…。
+vo_eny_eny_	enemy_00_	regain_consciousness_04	vo_eny_eny_enemy_00_regain_consciousness_04	omuk	hambo	Enemy	angry	knocked out, wakes up	いきなり襲われたんだ！
+vo_eny_eny_	enemy_00_	regain_consciousness_05	vo_eny_eny_enemy_00_regain_consciousness_05	omuk	hambo	Enemy	angry	knocked out, wakes up	一撃で伸びちまった。
+vo_eny_eny_	enemy_00_	regain_consciousness_06	vo_eny_eny_enemy_00_regain_consciousness_06	omuk	hambo	Enemy	angry	knocked out, wakes up	襲われたんだ！
+vo_eny_eny_	enemy_00_	see_flying_body_00	vo_eny_eny_enemy_00_see_flying_body_00	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	何だ…あぁぁぁ！
+vo_eny_eny_	enemy_00_	see_flying_body_01	vo_eny_eny_enemy_00_see_flying_body_01	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	うん？あぁぁぁ！
+vo_eny_eny_	enemy_00_	see_flying_body_02	vo_eny_eny_enemy_00_see_flying_body_02	omuk	hambo	Enemy	startled, then shocked	sees corpse that's thrown into his view by player	ふむ…あぁぁぁ！
+vo_eny_eny_	enemy_00_	see_flying_object_00	vo_eny_eny_enemy_00_see_flying_object_00	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	おい！
+vo_eny_eny_	enemy_00_	see_flying_object_01	vo_eny_eny_enemy_00_see_flying_object_01	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	何だ…？！
+vo_eny_eny_	enemy_00_	see_flying_object_02	vo_eny_eny_enemy_00_see_flying_object_02	omuk	hambo	Enemy	startled	sees object that's thrown into his view by player	ハァ？一体…。
+vo_eny_eny_	enemy_00_	see_something_00	vo_eny_eny_enemy_00_see_something_00	omuk	hambo	Enemy	suspicious	sees something strange	何だ？
+vo_eny_eny_	enemy_00_	see_something_01	vo_eny_eny_enemy_00_see_something_01	omuk	hambo	Enemy	suspicious	sees something strange	うん？
+vo_eny_eny_	enemy_00_	see_something_02	vo_eny_eny_enemy_00_see_something_02	omuk	hambo	Enemy	suspicious	sees something strange	あれは何だ？
+vo_eny_eny_	enemy_00_	see_something_03	vo_eny_eny_enemy_00_see_something_03	omuk	hambo	Enemy	suspicious	sees something strange	何だか…。
+vo_eny_eny_	enemy_00_	see_something_04	vo_eny_eny_enemy_00_see_something_04	omuk	hambo	Enemy	suspicious	sees something strange	ふ～む…。
+vo_eny_eny_	enemy_00_	skill_tanuki_done_00	vo_eny_eny_enemy_00_skill_tanuki_done_00	omuk	hambo	Enemy	tells tanuki to leave	stops watching tanuki	そうだな。戻らないと。
+vo_eny_eny_	enemy_00_	skill_tanuki_done_01	vo_eny_eny_enemy_00_skill_tanuki_done_01	omuk	hambo	Enemy	back to work	stops watching tanuki	仕事に戻らないと。
+vo_eny_eny_	enemy_00_	skill_tanuki_done_02	vo_eny_eny_enemy_00_skill_tanuki_done_02	omuk	hambo	Enemy	apologetic	stops watching tanuki	悪いが何も持ってないんだ。
+vo_eny_eny_	enemy_00_	skill_tanuki_done_03	vo_eny_eny_enemy_00_skill_tanuki_done_03	omuk	hambo	Enemy	back to work	stops watching tanuki	もうおしまいだ。戻らないと。
+vo_eny_eny_	enemy_00_	skill_tanuki_done_04	vo_eny_eny_enemy_00_skill_tanuki_done_04	omuk	hambo	Enemy	back to work	stops watching tanuki	さぁ、仕事仕事。じゃあな。
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_00	vo_eny_eny_enemy_00_skill_tanuki_runaway_00	omuk	hambo	Enemy	disappointed	tanuki runs away	チッ。行っちまった。
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_01	vo_eny_eny_enemy_00_skill_tanuki_runaway_01	omuk	hambo	Enemy	annoyed	tanuki runs away	そうだ、シッシッ。
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_02	vo_eny_eny_enemy_00_skill_tanuki_runaway_02	omuk	hambo	Enemy	back to work	tanuki runs away	行ったな。仕事に戻るか。
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_03	vo_eny_eny_enemy_00_skill_tanuki_runaway_03	omuk	hambo	Enemy	back to work	tanuki runs away	おかしな奴だ。
+vo_eny_eny_	enemy_00_	skill_tanuki_runaway_04	vo_eny_eny_enemy_00_skill_tanuki_runaway_04	omuk	hambo	Enemy	goodbye	tanuki runs away	さっさと行けよ。
+vo_eny_eny_	enemy_00_	snore_00	vo_eny_eny_enemy_00_snore_00	omuk		Enemy		(sound) snore	
+vo_eny_eny_	enemy_00_	squad_investigate_end_00	vo_eny_eny_enemy_00_squad_investigate_end_00	omuk	hambo	Enemy	tension releases	squad leader stops investigation	何もないな。持ち場に戻れ。
+vo_eny_eny_	enemy_00_	squad_investigate_end_01	vo_eny_eny_enemy_00_squad_investigate_end_01	omuk	hambo	Enemy	tension releases	squad leader stops investigation	もういないぞ。持ち場に戻れ。
+vo_eny_eny_	enemy_00_	squad_investigate_end_02	vo_eny_eny_enemy_00_squad_investigate_end_02	omuk	hambo	Enemy	tension releases	squad leader stops investigation	誰もいないな。持ち場に戻れ。
+vo_eny_eny_	enemy_00_	squad_investigate_end_03	vo_eny_eny_enemy_00_squad_investigate_end_03	omuk	hambo	Enemy	tension releases	squad leader stops investigation	捜索を打ち切って持ち場に戻れ。
+vo_eny_eny_	enemy_00_	squad_investigate_end_04	vo_eny_eny_enemy_00_squad_investigate_end_04	omuk	hambo	Enemy	tension releases	squad leader stops investigation	危険は去った。持ち場に戻れ。
+vo_eny_eny_	enemy_00_	squad_investigate_start_00	vo_eny_eny_enemy_00_squad_investigate_start_00	omuk	hambo	Enemy	tense	squad leader starts investigation	ここ一帯を探すんだ！
+vo_eny_eny_	enemy_00_	squad_investigate_start_01	vo_eny_eny_enemy_00_squad_investigate_start_01	omuk	hambo	Enemy	tense	squad leader starts investigation	いいか、見つけ次第攻撃だ。
+vo_eny_eny_	enemy_00_	squad_investigate_start_02	vo_eny_eny_enemy_00_squad_investigate_start_02	omuk	hambo	Enemy	tense	squad leader starts investigation	敵はまだいるかもしれん。気を付けるんだぞ。
+vo_eny_eny_	enemy_00_	squad_investigate_start_03	vo_eny_eny_enemy_00_squad_investigate_start_03	omuk	hambo	Enemy	tense	squad leader starts investigation	くまなく探せ！
+vo_eny_eny_	enemy_00_	squad_investigate_start_04	vo_eny_eny_enemy_00_squad_investigate_start_04	omuk	hambo	Enemy	tense	squad leader starts investigation	見つけたら、情けは無用だ。
+vo_eny_eny_	enemy_00_	squad_investigate_talk_00	vo_eny_eny_enemy_00_squad_investigate_talk_00	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	何もないぞ！
+vo_eny_eny_	enemy_00_	squad_investigate_talk_01	vo_eny_eny_enemy_00_squad_investigate_talk_01	omuk	hambo	Enemy	pondering	squad serches the area, commenting on things	どこに行ったんだ？
+vo_eny_eny_	enemy_00_	squad_investigate_talk_02	vo_eny_eny_enemy_00_squad_investigate_talk_02	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	気を抜くな！
+vo_eny_eny_	enemy_00_	squad_investigate_talk_03	vo_eny_eny_enemy_00_squad_investigate_talk_03	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	足跡か？！
+vo_eny_eny_	enemy_00_	squad_investigate_talk_04	vo_eny_eny_enemy_00_squad_investigate_talk_04	omuk	hambo	Enemy	frusttrated	squad serches the area, commenting on things	追跡は得意じゃないのに…。
+vo_eny_eny_	enemy_00_	squad_investigate_talk_05	vo_eny_eny_enemy_00_squad_investigate_talk_05	omuk	hambo	Enemy	tense	squad serches the area, commenting on things	奴らを見かけたか？
+vo_eny_eny_	enemy_00_	squad_investigate_talk_06	vo_eny_eny_enemy_00_squad_investigate_talk_06	omuk	hambo	Enemy	nervous	squad serches the area, commenting on things	消えちまった…。
+vo_eny_eny_	enemy_00_	squad_investigate_talk_07	vo_eny_eny_enemy_00_squad_investigate_talk_07	omuk	hambo	Enemy	nervous	squad serches the area, commenting on things	幽霊じゃないよな？
+vo_eny_eny_	enemy_00_	squad_investigate_talk_08	vo_eny_eny_enemy_00_squad_investigate_talk_08	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	俺たち、何探してんだ？
+vo_eny_eny_	enemy_00_	squad_investigate_talk_09	vo_eny_eny_enemy_00_squad_investigate_talk_09	omuk	hambo	Enemy	focussed	squad serches the area, commenting on things	奴ら、ほんとに敵を見たのかよ？
+vo_eny_eny_	enemy_00_	talk_geisha_00	vo_eny_eny_enemy_00_talk_geisha_00	omuk		Enemy	neutral	is approached by Geisha (Excuse me …)	何だ？
+vo_eny_eny_	enemy_00_	talk_geisha_01	vo_eny_eny_enemy_00_talk_geisha_01	omuk		Enemy	friendly	is approached by Geisha (Excuse me …)	うん？
+vo_eny_eny_	enemy_00_	talk_geisha_02	vo_eny_eny_enemy_00_talk_geisha_02	omuk		Enemy	shy	is approached by Geisha (Excuse me …)	あ…何でしょう？
+vo_eny_eny_	enemy_00_	talk_geisha_03	vo_eny_eny_enemy_00_talk_geisha_03	omuk		Enemy	friendly	is approached by Geisha (Excuse me …)	何か御用でも？
+vo_eny_eny_	enemy_00_	talk_geisha_04	vo_eny_eny_enemy_00_talk_geisha_04	omuk		Enemy	neutral	is approached by Geisha (Excuse me …)	ふむ？
+vo_eny_eny_	enemy_00_	talk_geisha_leave_00	vo_eny_eny_enemy_00_talk_geisha_leave_00	omuk		Enemy	charmed	"is left by Geisha
+(I thank you. Farewell ...)"	あ…じゃあな。
+vo_eny_eny_	enemy_00_	talk_geisha_leave_01	vo_eny_eny_enemy_00_talk_geisha_leave_01	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	こちらこそ。
+vo_eny_eny_	enemy_00_	talk_geisha_leave_02	vo_eny_eny_enemy_00_talk_geisha_leave_02	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	気にしないでください。
+vo_eny_eny_	enemy_00_	talk_geisha_leave_03	vo_eny_eny_enemy_00_talk_geisha_leave_03	omuk		Enemy	remembers his duties	"is left by Geisha
+(I thank you. Farewell ...)"	フム…仕事しないとな。
+vo_eny_eny_	enemy_00_	talk_geisha_leave_04	vo_eny_eny_enemy_00_talk_geisha_leave_04	omuk		Enemy	friendly	"is left by Geisha
+(I thank you. Farewell ...)"	では、失礼。
+vo_gothic_gothic_	enemy_00_	talk_idle_00	vo_gothic_gothic_enemy_00_talk_idle_00	omuk		Enemy	relaxed	(sound) humming tune	
+vo_gothic_gothic_	enemy_00_	talk_idle_01	vo_gothic_gothic_enemy_00_talk_idle_01	omuk		Enemy		(sound) sneeze	
+vo_gothic_gothic_	enemy_00_	talk_idle_02	vo_gothic_gothic_enemy_00_talk_idle_02	omuk		Enemy	surprised	makes noise on duty	えぇ！
+vo_gothic_gothic_	enemy_00_	talk_idle_03	vo_gothic_gothic_enemy_00_talk_idle_03	omuk		Enemy	surprised	makes noise on duty	あぁ！
+vo_gothic_gothic_	enemy_00_	talk_idle_04	vo_gothic_gothic_enemy_00_talk_idle_04	omuk		Enemy	in thought	makes noise on duty	ふ～む…。
+vo_gothic_gothic_	enemy_00_	talk_idle_05	vo_gothic_gothic_enemy_00_talk_idle_05	omuk		Enemy	in thought	makes noise on duty	そうだな…。
+vo_gothic_gothic_	enemy_00_	talk_idle_06	vo_gothic_gothic_enemy_00_talk_idle_06	omuk		Enemy	relaxed	"makes noise on duty
+(long exhale)"	ハァ…。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_calm_00	vo_gothic_gothic_enemy_00_talk_idle_battle_calm_00	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	俺たちが勝つんだ。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_calm_01	vo_gothic_gothic_enemy_00_talk_idle_battle_calm_01	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	ヘッ…将軍なんぞ…。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_calm_02	vo_gothic_gothic_enemy_00_talk_idle_battle_calm_02	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	狙いは外さないってか。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_calm_03	vo_gothic_gothic_enemy_00_talk_idle_battle_calm_03	omuk		Enemy	nervous	"makes noise on duty
+(mumbling)"	あ～あ。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_calm_04	vo_gothic_gothic_enemy_00_talk_idle_battle_calm_04	omuk		Enemy	tense	"makes noise on duty
+(mumbling)"	死にこそ栄誉が…。
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_05	vo_gothic_gothic_enemy_00_talk_idle_battle_05	omuk		Enemy	rush of battle	makes noise in battle	装填中！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_06	vo_gothic_gothic_enemy_00_talk_idle_battle_06	omuk		Enemy	rush of battle	makes noise in battle	こっちは装填中だ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_07	vo_gothic_gothic_enemy_00_talk_idle_battle_07	omuk		Enemy	rush of battle	makes noise in battle	援護してくれ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_08	vo_gothic_gothic_enemy_00_talk_idle_battle_08	omuk		Enemy	rush of battle	makes noise in battle	死ね、幕府の奴らめ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_09	vo_gothic_gothic_enemy_00_talk_idle_battle_09	omuk		Enemy	rush of battle	makes noise in battle	城を守るんだ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_10	vo_gothic_gothic_enemy_00_talk_idle_battle_10	omuk		Enemy	rush of battle	makes noise in battle	押せ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_11	vo_gothic_gothic_enemy_00_talk_idle_battle_11	omuk		Enemy	rush of battle	makes noise in battle	撤退だ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_12	vo_gothic_gothic_enemy_00_talk_idle_battle_12	omuk		Enemy	rush of battle	makes noise in battle	戻れ！
+vo_gothic_gothic_	enemy_00_	talk_idle_battle_13	vo_gothic_gothic_enemy_00_talk_idle_battle_13	omuk		Enemy	rush of battle	makes noise in battle	指揮官がやられた！
+vo_gothic_gothic_	enemy_00_	talk_idle_daimyo_00	vo_gothic_gothic_enemy_00_talk_idle_daimyo_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	藪様のために！
+vo_gothic_gothic_	enemy_00_	talk_idle_general_00	vo_gothic_gothic_enemy_00_talk_idle_general_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	乙事様のために！
+vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_00	vo_gothic_gothic_enemy_00_talk_idle_kagesama_00	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	カゲサマのために！
+vo_gothic_gothic_	enemy_00_	talk_idle_kagesama_01	vo_gothic_gothic_enemy_00_talk_idle_kagesama_01	omuk		Enemy	dutiful	"makes noise on duty
+(mumbling)"	昇様のために！
+vo_gothic_gothic_	enemy_00_	talk_idle_night_00	vo_gothic_gothic_enemy_00_talk_idle_night_00	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	おお、酒だ。
+vo_gothic_gothic_	enemy_00_	talk_idle_night_01	vo_gothic_gothic_enemy_00_talk_idle_night_01	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	一日中起きてたからよ。
+vo_gothic_gothic_	enemy_00_	talk_idle_night_02	vo_gothic_gothic_enemy_00_talk_idle_night_02	omuk		Enemy	tired	"makes noise on duty
+(mumbling)"	夜は真っ暗だな。
+vo_gothic_gothic_	enemy_00_	talk_idle_night_03	vo_gothic_gothic_enemy_00_talk_idle_night_03	omuk		Enemy	tired	(sound) short yawn	
+vo_gothic_gothic_	enemy_00_	talk_idle_night_04	vo_gothic_gothic_enemy_00_talk_idle_night_04	omuk		Enemy	tired	(sound) longer yawn	
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_00	vo_gothic_gothic_enemy_00_talk_idle_snow_00	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	雪か。
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_01	vo_gothic_gothic_enemy_00_talk_idle_snow_01	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	すげぇ寒いな。
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_02	vo_gothic_gothic_enemy_00_talk_idle_snow_02	omuk		Enemy	cold	"makes noise on duty
+(mumbling)"	うー、さぶ！
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_03	vo_gothic_gothic_enemy_00_talk_idle_snow_03	omuk		Enemy	cold	(sound) slight shiver	
+vo_gothic_gothic_	enemy_00_	talk_idle_snow_04	vo_gothic_gothic_enemy_00_talk_idle_snow_04	omuk		Enemy	cold	(sound) strong shiver	
+vo_gothic_gothic_	enemy_00_	talk_npc_00	vo_gothic_gothic_enemy_00_talk_npc_00	omuk		Enemy	dismissive	dialog without topic	俺には関係ないぜ。
+vo_gothic_gothic_	enemy_00_	talk_npc_01	vo_gothic_gothic_enemy_00_talk_npc_01	omuk		Enemy	aggree	dialog without topic	確かにそうだな。
+vo_gothic_gothic_	enemy_00_	talk_npc_02	vo_gothic_gothic_enemy_00_talk_npc_02	omuk		Enemy	dismissive	dialog without topic	何でもかんでも信じるのはよくないぞ。
+vo_gothic_gothic_	enemy_00_	talk_npc_03	vo_gothic_gothic_enemy_00_talk_npc_03	omuk		Enemy	disagree	dialog without topic	俺が聞いたのはその逆だぜ。
+vo_gothic_gothic_	enemy_00_	talk_npc_04	vo_gothic_gothic_enemy_00_talk_npc_04	omuk		Enemy	aggree	dialog without topic	ずっとそうだったな。
+vo_gothic_gothic_	enemy_00_	talk_npc_05	vo_gothic_gothic_enemy_00_talk_npc_05	omuk		Enemy	dismissive	dialog without topic	奴はバカだ。言うことなんか聞くなよ。
+vo_gothic_gothic_	enemy_00_	talk_npc_06	vo_gothic_gothic_enemy_00_talk_npc_06	omuk		Enemy	aggree	dialog without topic	俺もそう思うぜ。
+vo_gothic_gothic_	enemy_00_	talk_npc_07	vo_gothic_gothic_enemy_00_talk_npc_07	omuk		Enemy	warning	dialog without topic	口には気を付けろよ。
+vo_gothic_gothic_	enemy_00_	talk_npc_08	vo_gothic_gothic_enemy_00_talk_npc_08	omuk		Enemy	concerned	dialog without topic	そりゃまずいな。
+vo_gothic_gothic_	enemy_00_	talk_npc_09	vo_gothic_gothic_enemy_00_talk_npc_09	omuk		Enemy	unconcerned	dialog without topic	そのうち皆忘れるさ。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_00	vo_gothic_gothic_enemy_00_talk_npc_confirm_00	omuk		Enemy	dutiful	confirms orders during battle	分かりました。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_01	vo_gothic_gothic_enemy_00_talk_npc_confirm_01	omuk		Enemy	dutiful	confirms orders during battle	仰せの通りに。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_02	vo_gothic_gothic_enemy_00_talk_npc_confirm_02	omuk		Enemy	dutiful	confirms orders during battle	ただちに。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_00	omuk		Enemy	rush of battle	confirms orders during battle	仰せつかまつる。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_01	omuk		Enemy	rush of battle	confirms orders during battle	上様の仰せの通りに。
+vo_gothic_gothic_	enemy_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_enemy_00_talk_npc_confirm_battle_02	omuk		Enemy	rush of battle	confirms orders during battle	期待に応えてみせます！
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_00	vo_gothic_gothic_enemy_00_talk_npc_orders_00	omuk		Enemy	focussed	gives orders to guardpost	そのまま警戒だ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_01	vo_gothic_gothic_enemy_00_talk_npc_orders_01	omuk		Enemy	focussed	gives orders to guardpost	この調子だぞ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_02	vo_gothic_gothic_enemy_00_talk_npc_orders_02	omuk		Enemy	focussed	gives orders to guardpost	警戒を怠るな。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_03	vo_gothic_gothic_enemy_00_talk_npc_orders_03	omuk		Enemy	focussed	gives orders to guardpost	気を付けろよ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_04	vo_gothic_gothic_enemy_00_talk_npc_orders_04	omuk		Enemy	focussed	gives orders to guardpost during battle	頑張ってるな。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_05	vo_gothic_gothic_enemy_00_talk_npc_orders_05	omuk		Enemy	focussed	gives orders to guardpost during battle	諦めるなよ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_00	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_00	omuk		Enemy	rush of battle	asks guardpost for status during battle	そのまま警戒だ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_01	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	新しい命令だ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_02	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_02	omuk		Enemy	rush of battle	gives orders to guardpost during battle	そのまま警戒を続けろ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_03	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_03	omuk		Enemy	rush of battle	gives orders to guardpost during battle	自分の配置を死守しろ！
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_04	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_04	omuk		Enemy	rush of battle	gives orders to guardpost during battle	新しい命令だ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_05	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_05	omuk		Enemy	rush of battle	gives orders to guardpost during battle	このまま続けるんだ。
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_06	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_06	omuk		Enemy	rush of battle	gives orders to guardpost during battle	装填！
+vo_gothic_gothic_	enemy_00_	talk_npc_orders_battle_07	vo_gothic_gothic_enemy_00_talk_npc_orders_battle_07	omuk		Enemy	rush of battle	gives orders to guardpost during battle	撃て！
+vo_gothic_gothic_	enemy_00_	talk_npc_report_00	vo_gothic_gothic_enemy_00_talk_npc_report_00	omuk		Enemy	focussed	asks guardpost for status	報告しろ。
+vo_gothic_gothic_	enemy_00_	talk_npc_report_01	vo_gothic_gothic_enemy_00_talk_npc_report_01	omuk		Enemy	focussed	asks guardpost for status	報告は？
+vo_gothic_gothic_	enemy_00_	talk_npc_report_02	vo_gothic_gothic_enemy_00_talk_npc_report_02	omuk		Enemy	focussed	asks guardpost for status	調子はどうだ？
+vo_gothic_gothic_	enemy_00_	talk_npc_report_03	vo_gothic_gothic_enemy_00_talk_npc_report_03	omuk		Enemy	focussed	asks guardpost for status	何かあったか？
+vo_gothic_gothic_	enemy_00_	talk_npc_report_04	vo_gothic_gothic_enemy_00_talk_npc_report_04	omuk		Enemy	focussed	asks guardpost for status	変わりはないか？
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_00	vo_gothic_gothic_enemy_00_talk_npc_report_battle_00	omuk		Enemy	rush of battle	asks guardpost for status during battle	報告だ。
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_01	vo_gothic_gothic_enemy_00_talk_npc_report_battle_01	omuk		Enemy	rush of battle	asks guardpost for status during battle	報告せよ！
+vo_gothic_gothic_	enemy_00_	talk_npc_report_battle_02	vo_gothic_gothic_enemy_00_talk_npc_report_battle_02	omuk		Enemy	rush of battle	asks guardpost for status during battle	報告するんだ！
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_00	vo_gothic_gothic_enemy_00_talk_npc_tense_00	omuk		Enemy	dutiful	"dialog without topic
+(during open battle)"	新しい命令が下っている！
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_01	vo_gothic_gothic_enemy_00_talk_npc_tense_01	omuk		Enemy	anxious	"dialog without topic
+(during open battle)"	戦闘はこのまま続く。
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_02	vo_gothic_gothic_enemy_00_talk_npc_tense_02	omuk		Enemy	for honor!	"dialog without topic
+(during open battle)"	今日ここで名誉を授かることになる。
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_03	vo_gothic_gothic_enemy_00_talk_npc_tense_03	omuk		Enemy	for honor!	"dialog without topic
+(during open battle)"	こんな時だからこそ強くあらねばならん。
+vo_gothic_gothic_	enemy_00_	talk_npc_tense_04	vo_gothic_gothic_enemy_00_talk_npc_tense_04	omuk		Enemy	fierce	"dialog without topic
+(during open battle)"	敵が仕掛けてくるのを待つんだ。
+vo_eny_eny_	enemy_00_	urinate_00	vo_eny_eny_enemy_00_urinate_00	omuk		Enemy		(sound) relieves himself	
+vo_eny_eny_	enemy_00_	whistle_00	vo_eny_eny_enemy_00_whistle_00	omuk		Enemy		(sound) whistles a tune	
+vo_eny_eny_	enemy_00_	wounded_00	vo_eny_eny_enemy_00_wounded_00	omuk		Enemy		(sound) badly wounded, lying on stretcher, moaning	
+vo_eny_eny_	enemy_00_	yawn_00	vo_eny_eny_enemy_00_yawn_00	omuk		Enemy		(sound) yawn	
+									

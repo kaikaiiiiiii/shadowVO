@@ -1,0 +1,226 @@
+5,2,9		"CUTSCENE
+CONTEXT DIALOG"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) During this mission, Aiko is introduced as the final team member.
+2) Together with Mugen, she will infiltrate a monastery and rescue Takuma from captivity.
+3) We learn that Mugen and Aiko are very fond of each other. This starts the buildup for when he betrays the Shogun to save Aiko.
+4) We reunite with Takuma, and learn a bit about what happened to him after the war."																						
+																															
+BRIEFING									Mugen arrives at the monastery. A mysterious woman appears out of nowhere. It is Aiko, the fourth team member.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+						TITLECARD			鶴山																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_briefing_n00	omuk	hambo		WARRIOR	searching	worried because he doesn't see Aiko	うーむ…私が先に着いてしまったか？もしかして連絡が届いていないのだろうか？																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_briefing_n01	omuk	hambo		GEISHA	elegant	comes out of nowhere	ごきげんよう、武源様。																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_briefing_n02	omuk	hambo		WARRIOR	pleased		おぉ、愛琥殿！この人里離れた山の中、そなたのような美女にお目にかかれるとはなんたる幸福か！																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_briefing_n03	omuk	hambo		GEISHA	"amused
+slight teasing"	happy to see Mugen again	あら、武源様ったら！そんなこと言うためにここまでいらしたのかしら？																						
+vocs_over_over_	_n04	vocs_over_over_monastery1_briefing_n04	omuk	hambo		WARRIOR	changing subjects		そうだと良かったのですが。拙者より先に来ていたようですな。何か気づいたことは？																						
+vocs_over_over_	_n05	vocs_over_over_monastery1_briefing_n05	omuk	hambo		GEISHA	sly		おしゃべりな見張りがいるわ。滝の側に捕らえ人がいると。																						
+vocs_over_over_	_n06	vocs_over_over_monastery1_briefing_n06	omuk	hambo		WARRIOR	I'm listening		巧磨殿に違いない！いかがしましょうか？																						
+vocs_over_over_	_n07	vocs_over_over_monastery1_briefing_n07	omuk	hambo		GEISHA	this is what I do		寺に仕える女たちがいるわ。服を頂いてなりすましましょう。																						
+vocs_over_over_	_n08	vocs_over_over_monastery1_briefing_n08	omuk	hambo		GEISHA	I got this		そうすれば自由に動けて、鐘を鳴らせるわ。																						
+vocs_over_over_	_n09	vocs_over_over_monastery1_briefing_n09	omuk	hambo		WARRIOR	satisfied		…紛れ込む、と。なんと美しい計画。拙者が見初めたそなたの魅力のひとつだ。																						
+vocs_over_over_	_n10	vocs_over_over_monastery1_briefing_n10	omuk	hambo		WARRIOR	satisfied		いいでしょう。巧磨殿のところに着いたら…。																						
+vocs_over_over_	_n11	vocs_over_over_monastery1_briefing_n11	omuk	hambo		GEISHA	on edge	quickly moving into cover	隠れて、誰か来る！																						
+vocs_over_over_	_n12	vocs_over_over_monastery1_briefing_n12	omuk	hambo		DAIMYO			失態を埋め合わせてくれるかの。																						
+vocs_over_over_	_n13	vocs_over_over_monastery1_briefing_n13	omuk	hambo		SAMURAI			御意、藪様。僧の仕事を増やしております。巧磨も同様です。																						
+vocs_over_over_	_n14	vocs_over_over_monastery1_briefing_n14	omuk	hambo		DAIMYO			ことはすぐ終わる。老人はすぐ不要になる。山から逃げ出さぬようにしておけ。																						
+vocs_over_over_	_n15	vocs_over_over_monastery1_briefing_n15	omuk	hambo		SAMURAI			仰せのままに、藪様。																						
+vocs_over_over_	_n16	vocs_over_over_monastery1_briefing_n16	omuk	hambo		DAIMYO		turns and leaves after speaking	時間通り輸送を行え。これ以上の遅れは許さん。																						
+vocs_over_over_	_n17	vocs_over_over_monastery1_briefing_n17	omuk	hambo		WARRIOR	slightly relieved	Samurai bows, heads back to temple	危なかった…。今ぞ好機。厄介な事になる前に動きましょう。																						
+vocs_over_over_	_n17a	vocs_over_over_monastery1_briefing_n17a	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	藪大名、近い内にまた会うであろう。今は巧磨殿の解放が先だ。																						
+vocs_over_over_	_n17b	vocs_over_over_monastery1_briefing_n17b	omuk	hambo		WARRIOR	intrigued	ALTERNATIVE	藪大名は巧磨殿や僧に武器を作らせていたのか。巧磨殿を解放したらあやつの番だ。																						
+vocs_over_over_	_n18	vocs_over_over_monastery1_briefing_n18	omuk	hambo		GEISHA	elegant		そうね、始めましょう。																						
+																															
+TRANSPORT									An officer is annoyed by how slow the bridge is being repaired.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_transport_n00	omuk	hambo		OFFICER	angry		京都に着かねばならぬ、わかってるだろう？																						
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_transport_n01	omuk	hambo		OFFICER	angry		なら違う経路にしろ。																						
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_transport_n02	omuk	hambo		OFFICER	angry		木枠は命をもってお守りせねばならない。																						
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_transport_n03	omuk	hambo		OFFICER	angry		もしできなければ藪様がお前の首を取る。																						
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_transport_n04	omuk	hambo		OFFICER	angry		問答無用、遅れは許さん。																						
+																															
+OPTIONS									The team reaches the monastery walls.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_options_n00	omuk	hambo		WARRIOR	impressed		荷馬車…見覚えがある。確かに、ここが武器輸送の根源に違いない。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_options_n01	omuk	hambo		GEISHA	tactful		門は守りが堅い、けど他に道はあるはず。何かないか探しましょう。																						
+																															
+CLIMBING									Aiko climbs a vine to get inside the monastery																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_climbing_n00	omuk	hambo		GEISHA	teasing		潜入してきます。私がいない間、おとなしく待っていてくださるかしら？																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_climbing_n01	omuk	hambo		WARRIOR	teasing back		そなたの美しき後ろ姿に心囚われ、動くこともままならぬでしょう。																						
+																															
+SECRETS1									The team interacts with a crane statue. A secret passage opens. (This  dialog only triggers before Takuma has been freed)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets1_n00	omuk	hambo		GEISHA	curious	Aiko first	面白いわね。秘密の道が開くなんて。出る時は気をつけておきましょう。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets1_n01	omuk	hambo		WARRIOR	intrigued	Mugen first	なんだ、これは。秘密の道か。脱出の時のため、覚えておこう。																						
+																															
+ENTRANCE									Aiko infiltrates the entrance area																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_entrance_n00	omuk	hambo		GEISHA	observant		荷車、馬車、武器。なんて物騒な場所なの。																						
+																															
+PILGRIMS									Aiko infiltrates the pilgrims area																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_pilgrims_n00	omuk	hambo		GEISHA	observant		見張りの数が僧や巡礼者より多いわ。ここに神の加護なんて無いわね。																						
+																															
+SHY									A guard asks for guidance at a shrine. He then approaches a temple servant. She denies him, and he returns to the shrine. Repeat …																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_shy_n00	omuk	hambo		ENEMY	unsure	at shrine	どうしよう…。																						
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_shy_n01	omuk	hambo		ENEMY	unsure	tries to ask her out	えっと…あの、すみません…。																						
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_shy_n02	omuk	hambo		CIVILIAN F	polite rebuke		ごめんなさい。お手伝いできません。																						
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_shy_n03	omuk	hambo		ENEMY	sad	*sigh*																							
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_shy_n04	omuk	hambo		ENEMY	unsure	at shrine	まいったなぁ…。																						
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_shy_n05	omuk	hambo		ENEMY	unsure		あの…すみません…どうか…。																						
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_shy_n06	omuk	hambo		CIVILIAN F	polite rebuke		すみませんが、決まりなので。																						
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_shy_n07	omuk	hambo		ENEMY	sad	*sigh*																							
+																															
+SERVANT									Aiko sees a temple servant she can steal clothes from. All guards in the area frequently glance at the girl.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_servant_n00	omuk	hambo		GEISHA	amused		この女を思う人がいるようね。その服、私にちょうど良さそうね。																						
+																															
+LAUNDRY									Temple servants launder clothes																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_laundry_n00	omuk	hambo		CIVILIAN F	working	humming a washing tune																							
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_laundry_n01	omuk	hambo		CIVILIAN F	working	mumbling																							
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_laundry_n02	omuk	hambo		CIVILIAN F	working		うーん…。																						
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_laundry_n03	omuk	hambo		CIVILIAN F	working		もうおしまい。																						
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_laundry_n04	omuk	hambo		CIVILIAN F	working		これ…。																						
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_laundry_n05	omuk	hambo		CIVILIAN F	working		縫わないと。																						
+																															
+LAUNDRY									Aiko has reached the laundry, where a few temple servants are busy washing and peging out clothes.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_laundry_n00	omuk	hambo		GEISHA	elegant		洗濯場ね。衣服の手に入る場所だわ。																						
+																															
+DISGUISE1									Aiko has just received her temple servant disguise.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise1_n00	omuk	hambo		GEISHA	elegant		着替えてしまえば、見張りは私に気づかない。																						
+																															
+DISGUISE2									Aiko has put on her temple servant disguise.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_disguise2_n00	omuk	hambo		GEISHA	elegant		袴なんて久しぶりだわ。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_disguise2_n01	omuk	hambo		GEISHA	elegant		鐘を鳴らしに行かないと。僧が祈りに行ってしまえば、武源様が来られる。																						
+																															
+TEMPLE									Aiko passes by an impressive staircase that leads to the inner temple.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_temple_n00	omuk	hambo		GEISHA	elegant		何重もの壁、門の守り…ここはかつて戦場に使われたのね。武器を作っていても不思議ではないわ。																						
+																															
+GRAVEYARD									Aiko passes by a graveyard tended by temple servants.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_graveyard_n00	omuk	hambo		GEISHA	elegant		墓地ね、お寺の前の従者のだわ。こういう場所って落ち着くわね。																						
+																															
+TUNNELS									Aiko find tunnels that lead to different parts of the temple.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_tunnels_n00	omuk	hambo		GEISHA	elegant		抜け穴ね。これは寺の別の場所へと繋がるのかしら。面白そうね。																						
+																															
+BELL									Aiko approaches the bell that calls the monks in for prayer.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_bell_n00	omuk	hambo		GEISHA	playful		鐘だわ。いつもと違う時間なのに気づかなければいいけれど。																						
+																															
+CLEAR									Aiko has rung the bell and cleared the way for Mugen. (block if Mugen has already entered)																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_clear_n00	omuk	hambo		GEISHA	playful		道は開いたわ。入口に戻って武源様が入るお手伝いをしましょう。																						
+																															
+INSIDE									Mugen enters the monastery.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_inside_n00	omuk	hambo		WARRIOR	careful		寺に入ったぞ。状況はいかがです、愛琥殿。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_inside_n01	omuk	hambo		GEISHA	inrigued		色々隠されたものがあるわ。過去に色々ありそうね。																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_inside_n02	omuk	hambo		WARRIOR	direct		記録がないか探してみましょう。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_inside_n03	omuk	hambo		GEISHA	amused	always finds Mugen's honest support charming	武源様らしいこと。けれど、今は先にすべきことがあるわ。																						
+																															
+ROCKS									Mugen discovers large rocks that he can lift and throw on people.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_rocks_n00	omuk	hambo		WARRIOR	confident		この岩は役に立ちそうだ。警戒心の弱い敵に投げつけることもできましょう。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_rocks_n01	omuk	hambo		GEISHA	teasing		興味深い戦略ですこと。ぜひとも詳しくお聞きしたいわ。																						
+																															
+NINJA									On the way to Takuma, Mugen observes Aiko as she kills a man.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_ninja_n00	omuk	hambo		WARRIOR	impressed		隼人殿にも劣らぬ腕前だ。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_ninja_n01	omuk	hambo		GEISHA	neutral		仲間の忍のこと？お知り合いになれるのが楽しみだわ。																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_ninja_n02	omuk	hambo		WARRIOR	confident		ひょっとしたら彼と互いの技を伝授し合えるやもしれぬな。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_ninja_n03	omuk	hambo		GEISHA	cautious		伊賀の忍、信濃のくノ一。良いやり取りができそうね。																						
+vocs_over_over_	_n03a	vocs_over_over_monastery1_ninja_n03a	omuk	hambo		GEISHA	cautious	ALTERNATIVE	他のくノ一と共に働いたことはあるのかしら。聞く限り、孤独を好みそうだけど。																						
+																															
+HISTORY									When Mugen reaches the waterfall.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_history_n00	omuk	hambo		WARRIOR	open		滝だ。巧磨殿が近くにいるはずだ。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_history_n01	omuk	hambo		GEISHA	respectful		大阪城での勝利は彼なくして不可能だったとおっしゃってましたわね。																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_history_n02	omuk	hambo		WARRIOR	matter of fact		その通りである。かの方に礼を言える機会が訪れるとは。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_history_n03	omuk	hambo		GEISHA	elegant		助け出したら、2人でお礼をしましょう。																						
+																															
+SAMURAI									When Mugen reaches the waterfall.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_samurai_n00	omuk	hambo		WARRIOR	cautious	Mugen first	侍がこの辺りを見張っている。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_samurai_n01	omuk	hambo		GEISHA	cautious		侍…ならこの変装も通用しないわね。距離を取るわ。																						
+																															
+ARGUMENT									An officer is annoyed by how slow the bridge is being repaired.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vo_hint_hint_	_n00	vo_hint_hint_monastery1_argument_n00	omuk	hambo		SAMURAI	angry		言い訳はできぬぞ、老人。																						
+vo_hint_hint_	_n01	vo_hint_hint_monastery1_argument_n01	omuk	hambo		ALCHEMIST	dismissive		うーむ、できることをやっとるんじゃがな。																						
+vo_hint_hint_	_n02	vo_hint_hint_monastery1_argument_n02	omuk	hambo		SAMURAI	grumpy		藪様は結果をお求めになられる。																						
+vo_hint_hint_	_n03	vo_hint_hint_monastery1_argument_n03	omuk	hambo		ALCHEMIST	dismissive		うーむ、じゃろうな。																						
+vo_hint_hint_	_n04	vo_hint_hint_monastery1_argument_n04	omuk	hambo		SAMURAI	grumpy		次の出荷はいつだ？																						
+vo_hint_hint_	_n05	vo_hint_hint_monastery1_argument_n05	omuk	hambo		ALCHEMIST	cheeky		うーむ、準備が終わった時じゃろう、おそらくな。																						
+vo_hint_hint_	_n06	vo_hint_hint_monastery1_argument_n06	omuk	hambo		SAMURAI	grumpy		予定よりかかるのか？																						
+vo_hint_hint_	_n07	vo_hint_hint_monastery1_argument_n07	omuk	hambo		ALCHEMIST	cheeky		うーむ、良い質問じゃの。																						
+vo_hint_hint_	_n08	vo_hint_hint_monastery1_argument_n08	omuk	hambo		SAMURAI	grumpy		馬鹿にしているのか？																						
+vo_hint_hint_	_n09	vo_hint_hint_monastery1_argument_n09	omuk	hambo		ALCHEMIST	cheerful		へっへ、どうしてそう思うんじゃ？																						
+vo_hint_hint_	_n10	vo_hint_hint_monastery1_argument_n10	omuk	hambo		SAMURAI	grumpy		いい加減にしろ！																						
+vo_hint_hint_	_n11	vo_hint_hint_monastery1_argument_n11	omuk	hambo		ALCHEMIST	cheeky		ふむ、お主の助言に従うとしよう。																						
+																															
+RESCUE									Takuma is arguing with the samurai who guards him. Mugen sneaks up on them and cuts the samurai down.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_rescue_n00	omuk	hambo		ALCHEMIST	surprised	waits briefly after Mugen has killed the samurai	へっへ、よく来てくれたわい。そやつとの話は埒が明かんでのう。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_rescue_n01	omuk	hambo		WARRIOR	urgent		巧磨殿。大代武源にございます。覚えておいででしょうか？																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_rescue_n02	omuk	hambo		ALCHEMIST	amused		ふむ…忘れるわけもなかろう。若い忍と共におったのう、大阪の包囲戦の時にのぅ。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_rescue_n03	omuk	hambo		WARRIOR	very cautious	notices that Takuma has a wooden leg	あなたを助けに参った。藪大名がここであなたに武器を作らせていたのですね？																						
+vocs_over_over_	_n04	vocs_over_over_monastery1_rescue_n04	omuk	hambo		ALCHEMIST	explaining		ワシの知識にさぞかし興味があったようでな。捕らえられた多くの僧は武器作りのいろはを教えねばならんかった。																						
+vocs_over_over_	_n05	vocs_over_over_monastery1_rescue_n05	omuk	hambo		WARRIOR	angered		ふむ…藪大名にはこの報いを受けてもらおう。																						
+vocs_over_over_	_n06	vocs_over_over_monastery1_rescue_n06	omuk	hambo		GEISHA	urgent		話は後にしましょうか？僧が参拝を終えて戻ってくるわ。入口までは距離がある。																						
+vocs_over_over_	_n07	vocs_over_over_monastery1_rescue_n07	omuk	hambo		ALCHEMIST	cheerful		へっへ、そうじゃな。お連れの別嬪さんの言う通りじゃ。																						
+																															
+SECRETS2									Directly after Rescue Dialog																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_secrets2_n00	omuk	hambo		ALCHEMIST	mysterious		うーむ、ここに来るまでに鶴の像を見とらんか？																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_secrets2_n01	omuk	hambo		WARRIOR	curious	if secrets1 didn't happen	なぜそのようなことを？																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_secrets2_n02	omuk	hambo		ALCHEMIST	mysterious	if secrets1 didn't happen	古い場所じゃからな。古い秘密もある。地図に像の場所の印をつけておこう…調べればひょっとしたら何かあるかもしれん。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_secrets2_n03	omuk	hambo		GEISHA	confirmation	if secrets1 did happen	見つけましたわ、秘密の通路が開くようですわ。																						
+vocs_over_over_	_n04	vocs_over_over_monastery1_secrets2_n04	omuk	hambo		ALCHEMIST	ah, very good	if secrets1 did happen	やはりそうだったか。その内のどれかが山につながっておるはずじゃ。地図に印をつけておこう。																						
+																															
+SLOW									When Takuma passes the waterfall on the way out.																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_slow_n00	omuk	hambo		ALCHEMIST	a bit annoyed		はー…遅いのう。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_slow_n01	omuk	hambo		WARRIOR	sincere	catching up	巧磨殿、その足のことは残念です。																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_slow_n02	omuk	hambo		ALCHEMIST	cheerful		まぁ、そう言ってくれるな。あの日、死を免れたんじゃ。幸運が微笑んだ後のことに、とやかく言わぬのが賢者である。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_slow_n03	omuk	hambo		GEISHA	curious		それにしても見事な細工の義足ですわ。ご自分で作られたのですか？																						
+vocs_over_over_	_n04	vocs_over_over_monastery1_slow_n04	omuk	hambo		ALCHEMIST	cheerful		いかにも。よく働いてくれておる。時々調整はしておるがの。																						
+																															
+DEBRIEFING									Near the exit																						
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN																						
+vocs_over_over_	_n00	vocs_over_over_monastery1_debriefing_n00	omuk	hambo		ALCHEMIST	satisfied		おお、もうこの場所とは永遠におさらばじゃ。																						
+vocs_over_over_	_n01	vocs_over_over_monastery1_debriefing_n01	omuk	hambo		GEISHA	curious		お聞きしてもよろしいでしょうか？自由の身となった今、どちらに向かわれるのですか？																						
+vocs_over_over_	_n02	vocs_over_over_monastery1_debriefing_n02	omuk	hambo		ALCHEMIST	determined		ふぅむ。藪大名の野望に肩入れするつもりなんぞこれっぽっちも無かった。一方でお主たちの手助けなら喜んでしようぞ。																						
+vocs_over_over_	_n03	vocs_over_over_monastery1_debriefing_n03	omuk	hambo		WARRIOR	satisfied		ご無理をさせるつもりはありませぬ。																						
+vocs_over_over_	_n04	vocs_over_over_monastery1_debriefing_n04	omuk	hambo		ALCHEMIST	determined		へっへ、武源。心配せずとも適切な道具さえあれば、ワシのような老いぼれでも戦場で十分役に立てるわい。																						
+vocs_over_over_	_n05	vocs_over_over_monastery1_debriefing_n05	omuk	hambo		GEISHA	impressed		巧磨様は多才なお方ですのね。																						
+vocs_over_over_	_n06	vocs_over_over_monastery1_debriefing_n06	omuk	hambo		ALCHEMIST	mysterious		多才すぎて厄介ごとばかり抱え込んでしまうほどじゃ。へっへっへ。																						
+vocs_over_over_	_n07	vocs_over_over_monastery1_debriefing_n07	omuk	hambo		WARRIOR	satisfied		それではひとまず陣営に戻り、藪大名討伐について作戦を練りましょうぞ。																						

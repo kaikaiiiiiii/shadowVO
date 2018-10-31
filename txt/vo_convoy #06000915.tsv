@@ -1,0 +1,260 @@
+5,2,9		"CUTSCENE
+CONTEXT DIALOG
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) When Hayato finds the convoy, it has already been stopped by a broken bridge.
+2) Hayato discovers a young thief (Yuki) as she kills a convoy guard.
+3) Both team up and proceed to eliminate the officers in charge of the convoy
+4) Once they are finished. They give the signal for Mugen to move in.
+5) This mission introduces Yuki, so she must make a strong first impression."
+									
+BRIEFING									Hayato has snuck close to the weapons transport that he is supposed to attack. He get's a lay of the land, talking to himself in a practical manner.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+								TITLECARD	翌朝、中山道にて
+vocs_over_over_	_n00	vocs_over_over_convoy_briefing_n00	omuk		Mo	NINJA	focussed		よし。あれが輸送車か。何故止まっているんだ。
+vocs_over_over_	_n01	vocs_over_over_convoy_briefing_n01	omuk		Mo	NINJA	smug		ふむ…どうやら橋が壊れてしまったようだ。丁度良い…。
+vocs_over_over_	_n02	vocs_over_over_convoy_briefing_n02	omuk		Mo	NINJA	smug		旗付きのが士官か。念のため四人は仕留めておくか。
+vocs_over_over_	_n03	vocs_over_over_convoy_briefing_n03	omuk		Mo	NINJA	planning		終わったら武源に合図を送るとしよう。あの像の辺りが丁度いい。
+vocs_over_over_	_n04	vocs_over_over_convoy_briefing_n04	omuk		Mo	NINJA	alert		ふむ…奴らは何かを探しているようだ。誰かを、かもしれないな。目立たぬように行動せねば。
+									
+SEARCH									A guard orders another to search the underbrush for Yuki.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_search_n00	omuk		Mo	ENEMY	tense		この辺りに隠れたはずだ！
+vo_hint_hint_	_n01	vo_hint_hint_convoy_search_n01	omuk		Mo	ENEMY	tense		探せ！
+vo_hint_hint_	_n02	vo_hint_hint_convoy_search_n02	omuk		Mo	ENEMY	tense		そこにいるのは分かっている！
+									
+TRAPPER									Yuki is hidden in a bush and lures a guard to his death. Hayato notices the scene and moves in to investigate.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_trapper_n00	omuk		Mo	NINJA	surprised	hears Yuki whistle	ん…?
+vocs_over_over_	_n01	vocs_over_over_convoy_trapper_n01	omuk		Mo	NINJA	interested	sees guard die moves in to investigate	ふーむ、罠か。面白い…。
+vocs_over_over_	_n02	vocs_over_over_convoy_trapper_n02	omuk		Mo	TRAPPER	sneaky	threatens him with knife	動かないで…あんた何者？一匹狼か？
+vocs_over_over_	_n03	vocs_over_over_convoy_trapper_n03	omuk		Mo	NINJA	slightly intrigued	whirls around and puts his sword at her throat	…ガキか。奴らが探していたのはお前か？
+vocs_over_over_	_n04	vocs_over_over_convoy_trapper_n04	omuk		Mo	TRAPPER	lying		いや、あたしじゃない！あたしは猫みたいに静かなんだ！
+vocs_over_over_	_n05	vocs_over_over_convoy_trapper_n05	omuk		Mo	NINJA	slightly amused		こんな所で何をしているんだ？
+vocs_over_over_	_n06	vocs_over_over_convoy_trapper_n06	omuk		Mo	TRAPPER	devious		この荷馬車の積荷を見かけて、こんな所じゃ可哀想だから、あたしが持って帰ってあげようと思ったんだ。
+vocs_over_over_	_n07	vocs_over_over_convoy_trapper_n07	omuk		Mo	NINJA	serious now		そろそろ逃げた方が良い。ここはお子様のいる場所じゃない。他で遊びな。
+vocs_over_over_	_n08	vocs_over_over_convoy_trapper_n08	omuk		Mo	TRAPPER	cunning		ねぇ、あたしの罠を見たでしょう？連れてったら役に立つよ。追っ払ったって着いてくけどね！
+vocs_over_over_	_n09	vocs_over_over_convoy_trapper_n09	omuk		Mo	NINJA	tense, then giving in	briefly hesitates, then and puts away his sword	…お前の相手をしている暇はないんだが。まぁ、いいだろう。着いてこい。ただし言うことを聞くんだぞ？
+vocs_over_over_	_n10	vocs_over_over_convoy_trapper_n10	omuk		Mo	TRAPPER	playful		はい、先生！
+vocs_over_over_	_n11	vocs_over_over_convoy_trapper_n11	omuk		Mo	NINJA	annoyed		…先生はやめろ。
+									
+CARRY TRA									Yuki tries to move a corpse, which is a slow and tedious affair
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_carrytra_n00	omuk		Mo	TRAPPER	exhausted	groan	うーん…
+vocs_over_over_	_n01	vocs_over_over_convoy_carrytra_n01	omuk		Mo	NINJA	amused		…手を貸そうか？
+vocs_over_over_	_n02	vocs_over_over_convoy_carrytra_n02	omuk		Mo	TRAPPER	stubborn		大丈夫だよ、ありがとう。
+									
+CARRY NIN									Hayato has just stashed a corpse inside a bush. Carrying corpses is much easier vor him, so Hayato is a little jealous.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_carrynin_n00	omuk		Mo	NINJA	business as usual		よし行くぞ。
+vocs_over_over_	_n01	vocs_over_over_convoy_carrynin_n01	omuk		Mo	TRAPPER	a little jealous		手際いいんだね。
+vocs_over_over_	_n02	vocs_over_over_convoy_carrynin_n02	omuk		Mo	NINJA	smug		ま、大人だからな。
+									
+USE TRAP									There's a group of guards around the corner. The situation is more suited to Yuki's abilities than Hayato's
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_usetrap_n00	omuk		Mo	NINJA	tense	Hayato first	参ったな。こりゃ厄介だ。
+vocs_over_over_	_n01	vocs_over_over_convoy_usetrap_n01	omuk		Mo	TRAPPER	cautious		待って、あたしが鳥の声真似をするよ。うまくいくよ！
+									
+TRAP KILL									A guard has just been killed by a trap that Yuki has set up beforehand.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_trapkill_n00	omuk		Mo	TRAPPER	happy		ほらね？うまくいったでしょ！
+vocs_over_over_	_n01	vocs_over_over_convoy_trapkill_n01	omuk		Mo	NINJA	genuinly impressed		悪くない。その罠は誰が作ったんだ？
+vocs_over_over_	_n02	vocs_over_over_convoy_trapkill_n02	omuk		Mo	TRAPPER	proud		あたしが自分で作ったんだよ！
+vocs_over_over_	_n03	vocs_over_over_convoy_trapkill_n03	omuk		Mo	NINJA	yeah right		ほぅ、そうか。
+									
+SHURIKEN									Hayato has just killed someone with a well aimed shuriken.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_shuriken_n00	omuk		Mo	TRAPPER	excited		おお、手裏剣だ！あたしにもひとつちょうだい！
+vocs_over_over_	_n01	vocs_over_over_convoy_shuriken_n01	omuk		Mo	NINJA	amused		絶対に駄目だ。
+vocs_over_over_	_n02	vocs_over_over_convoy_shuriken_n02	omuk		Mo	TRAPPER	disappointed		どうして？
+vocs_over_over_	_n03	vocs_over_over_convoy_shuriken_n03	omuk		Mo	NINJA	amused		ふっ…。
+vocs_over_over_	_n03a	vocs_over_over_convoy_shuriken_n03a	omuk		Mo	NINJA	amused	ALTERNATIVE1	予備がない。
+vocs_over_over_	_n03b	vocs_over_over_convoy_shuriken_n03b	omuk		Mo	NINJA	amused	ALTERNATIVE2	駄目なものは駄目だ。
+									
+KNIFED									Yuki is killing someone with her knife.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_knifed_n00	omuk		Mo	NINJA	surprised		見事な太刀筋だ。
+vocs_over_over_	_n01	vocs_over_over_convoy_knifed_n01	omuk		Mo	TRAPPER	happy		ありがとう、先生！
+vocs_over_over_	_n02	vocs_over_over_convoy_knifed_n02	omuk		Mo	NINJA	slightly annoyed		その呼び方はやめろと言っただろう？
+									
+JUMPS									As they get to higher ground, the team notices that they can move through the convoy by jumping from wagon to wagon.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_jumps_n00	omuk		Mo	NINJA	practical	Hayato first	こっちにはもっと荷馬車が…。
+vocs_over_over_	_n01	vocs_over_over_convoy_jumps_n01	omuk		Mo	TRAPPER	focussed		怠けた荷馬車だね。上には誰も注意を払っちゃいない。飛び乗ってやろうよ。
+vocs_over_over_	_n02	vocs_over_over_convoy_jumps_n02	omuk		Mo	NINJA	agrees		悪い策ではない。
+									
+VERTICAL									As he is making some daring jumping, Hayato is surpised that Yuki can easily keep up with him.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_vertical_n00	omuk		Mo	TRAPPER	joyful	jumping noise	よっと。
+vocs_over_over_	_n01	vocs_over_over_convoy_vertical_n01	omuk		Mo	NINJA	slightly surprised		筋がいい。誰に教わった？
+vocs_over_over_	_n02	vocs_over_over_convoy_vertical_n02	omuk		Mo	TRAPPER	cocky		野良猫さ。
+vocs_over_over_	_n03	vocs_over_over_convoy_vertical_n03	omuk		Mo	NINJA	amused		ふん…野良猫か！
+									
+ROCK									The team discovers a lose outcrop of rock that can be dropped on an enemy.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_rock_n00	omuk		Mo	NINJA	curious		崖の上の大きな岩が見えるか？どんな石に見える？
+vocs_over_over_	_n01	vocs_over_over_convoy_rock_n01	omuk		Mo	TRAPPER	focussed		うーん。美しい石だね。崖から身を乗り出すのが好きな石。誰かが下を通りかかるのを待っているのかもね。
+vocs_over_over_	_n02	vocs_over_over_convoy_rock_n02	omuk		Mo	NINJA	agrees		まったく同感だ。
+vocs_over_over_	_n02a	vocs_over_over_convoy_rock_n02a	omuk		Mo	NINJA	agrees	has to process her crazy talk	あー…俺が使うような言葉ではないが、まあ原理は同じだ。
+									
+WAGON									The team discovers a wagon standing on a slope. It can be let loose so it crushes an enemy.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_wagon_n00	omuk		Mo	NINJA	curious	Hayato first	あそこの荷馬車が見えるか？大砲が乗ってるやつだ。
+vocs_over_over_	_n01	vocs_over_over_convoy_wagon_n01	omuk		Mo	TRAPPER	focussed		お、車輪が止められてるね！自由になりたがってるよ！
+vocs_over_over_	_n02	vocs_over_over_convoy_wagon_n02	omuk		Mo	NINJA	agrees		ならば止め具を破壊するべきだ。
+vocs_over_over_	_n02a	vocs_over_over_convoy_wagon_n02a	omuk		Mo	NINJA	agrees	has to process her crazy talk	ああ…頃合よく「自由に」すれば、うまく使えるかもしれぬ。
+									
+OXEN									Hayato notices an officer standing close to a drinking ox. If he throws a stone at the ox, it will run wild and kill the officer.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_oxen_n00	omuk		Mo	NINJA	smug		牡牛…怒らせると危険だ。それをうまく利用したらどうだ…。
+vocs_over_over_	_n01	vocs_over_over_convoy_oxen_n01	omuk		Mo	TRAPPER	doesn't get it		傷つけないで！
+vocs_over_over_	_n02	vocs_over_over_convoy_oxen_n02	omuk		Mo	NINJA	smug		牡牛を？いや、ちょいと突くだけで十分だ。
+									
+MONK									The team notices a monk being with the convoy.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_monk_n00	omuk		Mo	TRAPPER	fascinated	Yuki first	鮮やかな服の怪しい男…。
+vocs_over_over_	_n01	vocs_over_over_convoy_monk_n01	omuk		Mo	NINJA	wondering		ふーん…黄色の着物…なにゆえ奴らは僧侶と行動を？
+vocs_over_over_	_n02	vocs_over_over_convoy_monk_n02	omuk		Mo	TRAPPER	doesn't get it		旅の安全祈願でもしてるのかしら？
+vocs_over_over_	_n03	vocs_over_over_convoy_monk_n03	omuk		Mo	NINJA	smug		ならば祈りは効かなかったという事だろう。
+									
+WORK									The team hears a pair of civilians talk.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_work_n00	omuk		Mo	CIVILIAN M	meek		男たちは一生懸命働いている。早く動けるとよいな。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_work_n01	omuk		Mo	CIVILIAN F	tired	different voice	この旅はつらかった。休めばいい事あるさ。
+									
+DRUNK1									The team encounters a drunken guard and a servant.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_drunk1_n00	omuk			ENEMY	grumpy	spectacularly drunk	…酒をもっと…。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_drunk1_n01	omuk			CIVILIAN F	pleading		お願いだからやめてください。なんと恥ずかしい人なのか。
+vo_hint_hint_	_n02	vo_hint_hint_convoy_drunk1_n02	omuk			ENEMY	very grumpy		…酒はどこだ！
+									
+DRUNK2									Drunken guards are sleeping.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_drunk2_n00	omuk			ENEMY	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n01	vo_hint_hint_convoy_drunk2_n01	omuk			STATIC	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n02	vo_hint_hint_convoy_drunk2_n02	omuk			ENEMY	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n03	vo_hint_hint_convoy_drunk2_n03	omuk			STATIC	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n04	vo_hint_hint_convoy_drunk2_n04	omuk			ENEMY	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n05	vo_hint_hint_convoy_drunk2_n05	omuk			STATIC	drunken sleep	(sound) snoring	
+vo_hint_hint_	_n06	vo_hint_hint_convoy_drunk2_n06	omuk			ENEMY	drunken sleep		
+vo_hint_hint_	_n07	vo_hint_hint_convoy_drunk2_n07	omuk			STATIC	drunken sleep		
+									
+NERVOUS									The team hears a pair of guards talk.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_nervous_n00	omuk		Mo	ENEMY	worried		あとどのくらいかかるんだ？この場所はおっかねえよ。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_nervous_n01	omuk		Mo	STATIC	relaxed		落ち着け。カゲサマが地元の盗賊団に金を握らせたんだ。誰も襲っちゃこないさ。
+									
+OFFICER1									An officer is annoyed by how slow the bridge is being repaired.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer1_n00	omuk		Mo	OFFICER	grumpy		遅すぎる。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer1_n01	omuk		Mo	OFFICER	grumpy		時間がもったいないぞ。
+vo_hint_hint_	_n02	vo_hint_hint_convoy_officer1_n02	omuk		Mo	OFFICER	grumpy		怠けた百姓め。
+vo_hint_hint_	_n03	vo_hint_hint_convoy_officer1_n03	omuk		Mo	OFFICER	grumpy		ついてないぜ。
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer1_n04	omuk		Mo	OFFICER	grumpy	stands next to an ox	どんどん飲めよ、阿呆の牛め。
+vo_hint_hint_	_n05	vo_hint_hint_convoy_officer1_n05	omuk		Mo	OFFICER	grumpy		君主様はお気に召さないぞ。
+									
+OFFICER1									The team has killed 1 of 4 officers (mission objective).
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_officer1_n00	omuk		Mo	NINJA	focussed	Hayato first	一人目完了。
+vocs_over_over_	_n01	vocs_over_over_convoy_officer1_n01	omuk		Mo	TRAPPER	focussed	Yuki first	一旗目完了。
+									
+OFFICER2									An officer is making rounds, talking to the convoy guards. (use for both officers in this area?)
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer2_n00	omuk		Mo	OFFICER	dutyful		崖を見張れ。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer2_n01	omuk		Mo	OFFICER	dutyful		油断するな。
+vo_hint_hint_	_n02	vo_hint_hint_convoy_officer2_n02	omuk		Mo	OFFICER	dutyful		集中しろよ。
+vo_hint_hint_	_n03	vo_hint_hint_convoy_officer2_n03	omuk		Mo	OFFICER	dutyful		誰もこの荷馬車に触れさせちゃならねぇ。
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer2_n04	omuk		Mo	OFFICER	dutyful	stands next to an ox	百姓どもを見張ってろよ。
+									
+OFFICER2									The team has killed 2 of 4 officers (mission objective).
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_officer2_n00	omuk		Mo	NINJA	focussed	Hayato first	二人目完了。
+vocs_over_over_	_n01	vocs_over_over_convoy_officer2_n01	omuk		Mo	TRAPPER	focussed	Yuki first	二旗目完了。
+									
+OFFICER3									A guard informs an officer on the progress with the bridge repair.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer3_n00	omuk		Mo	OFFICER	annoyed		まだ終わらんのか？
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer3_n01	omuk		Mo	OFFICER	annoyed		進捗は？
+vo_hint_hint_	_n02	vo_hint_hint_convoy_officer3_n02	omuk		Mo	OFFICER	annoyed		なぜこんなに時間がかかるのだ？
+vo_hint_hint_	_n03	vo_hint_hint_convoy_officer3_n03	omuk		Mo	OFFICER	annoyed		今ならどうだ？
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer3_n04	omuk		Mo	OFFICER	annoyed		荷馬車はまだつっかえてるのか？
+vo_hint_hint_	_n05	vo_hint_hint_convoy_officer3_n05	omuk		Mo	OFFICER	annoyed		教えろよ。
+									
+OFFICER3									The team has killed 3 of 4 officers (mission objective).
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_officer3_n00	omuk		Mo	TRAPPER	focussed		三人目完了、はは。
+vocs_over_over_	_n01	vocs_over_over_convoy_officer3_n01	omuk		Mo	NINJA	suspicious		ちょいと上手すぎるんじゃないのか？
+vocs_over_over_	_n02	vocs_over_over_convoy_officer3_n02	omuk		Mo	TRAPPER	unsure		どういう意味だい？
+vocs_over_over_	_n03	vocs_over_over_convoy_officer3_n03	omuk		Mo	NINJA	dismissive		何でもない。あと一人。
+									
+OFFICER4									An officer orders sake from a servant.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer4_n00	omuk		Mo	OFFICER	direct		酒
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer4_n01	omuk		Mo	CIVILIAN F	subservient		はい！
+vo_hint_hint_	_n02	vo_hint_hint_convoy_officer4_n02	omuk		Mo	OFFICER	relaxing	drinks sake	うーん
+									
+OFFICER4									The team has killed 4 of 4 officers (mission objective).
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_officer4_n00	omuk		Mo	NINJA	focussed	Hayato first	四人目完了。
+vocs_over_over_	_n01	vocs_over_over_convoy_officer4_n01	omuk		Mo	TRAPPER	yearning	Yuki first	旗四つ。次は？
+vocs_over_over_	_n02	vocs_over_over_convoy_officer4_n02	omuk		Mo	NINJA	focussed		像の場所で武源に合図を送らねばならん。
+vocs_over_over_	_n03	vocs_over_over_convoy_officer4_n03	omuk		Mo	TRAPPER	slightly alarmed		武源って誰？
+vocs_over_over_	_n04	vocs_over_over_convoy_officer4_n04	omuk		Mo	NINJA	smug		すぐに分かる。
+									
+OFFICER5									An officer mocks a wayshrine at the road.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vo_hint_hint_	_n00	vo_hint_hint_convoy_officer5_n00	omuk		Mo	OFFICER	smug		てへへ。
+vo_hint_hint_	_n01	vo_hint_hint_convoy_officer5_n01	omuk		Mo	OFFICER	smug		何を見ている？
+vo_hint_hint_	_n02	vo_hint_hint_convoy_officer5_n02	omuk		Mo	OFFICER	smug	mock salute	注目！
+vo_hint_hint_	_n03	vo_hint_hint_convoy_officer5_n03	omuk		Mo	OFFICER	smug		醜い奴だ。
+vo_hint_hint_	_n04	vo_hint_hint_convoy_officer5_n04	omuk		Mo	OFFICER	smug		安全祈願、ね。
+									
+DEBRIEFING									Hayato gives the signal for Mugen's men to attack. Mugen arrives with some men. Once the convoy is confiscated, Mugen meets up with the other two.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_convoy_debriefing_n00	omuk		Mo	NINJA	tense	gives the signal (fireworks)	頭を下げていろ。
+vocs_over_over_	_n01	vocs_over_over_convoy_debriefing_n01	omuk		Mo	TRAPPER	nervous		は、はい、先生！
+vocs_over_over_	_n02	vocs_over_over_convoy_debriefing_n02	omuk		Mo	WARRIOR	for duty	Mugen's men arrive shooting	全体進め！上様のために！
+			omuk		Mo	–		Fade to show passage of time	–
+vocs_over_over_	_n03	vocs_over_over_convoy_debriefing_n03	omuk		Mo	WARRIOR	satisfied	Oversees how convoy goods are carried off.	抵抗もほとんどなく荷馬車を抑えた。相変わらず切れる腕前だな。
+vocs_over_over_	_n04	vocs_over_over_convoy_debriefing_n04	omuk		Mo	NINJA	full disclosure		正直に申すと、ちょいと手助けがあったのでな。
+vocs_over_over_	_n05	vocs_over_over_convoy_debriefing_n05	omuk		Mo	WARRIOR	intrigued		ああ、連れを見た。彼女はどうだ？
+vocs_over_over_	_n09	vocs_over_over_convoy_debriefing_n09	omuk		Mo	NINJA	all business		ちょいと手荒だが、才能は確かだ。
+vocs_over_over_	_n10	vocs_over_over_convoy_debriefing_n10	omuk		Mo	NINJA	mumbles	talking to himself	それか俺が不注意になっているのか…どうやって俺に忍び寄ったのか…。
+vocs_over_over_	_n11	vocs_over_over_convoy_debriefing_n11	omuk		Mo	WARRIOR	amused		何だって、隼人殿？
+vocs_over_over_	_n12	vocs_over_over_convoy_debriefing_n12	omuk		Mo	NINJA	oops	leaves	何でもない。隠れ家で落ち合うんだったな？
+vocs_over_over_	_n06	vocs_over_over_convoy_debriefing_n06	omuk		Mo	WARRIOR	inquisitive	walks to Yuki	名は何と申す、少女よ？
+vocs_over_over_	_n07	vocs_over_over_convoy_debriefing_n07	omuk		Mo	TRAPPER	nervous		雪です。お侍様。
+vocs_over_over_	_n08	vocs_over_over_convoy_debriefing_n08	omuk		Mo	WARRIOR	respectful		いい名だ。私は大代武源。恐れることはない。
+vocs_over_over_	_n15	vocs_over_over_convoy_debriefing_n15	omuk		Mo	TRAPPER	cautious		隼人先生のお友達ですか？
+vocs_over_over_	_n16	vocs_over_over_convoy_debriefing_n16	omuk		Mo	WARRIOR	honest		そうだと思いたい。奴はそうは思っておらんかも知れぬがな。
+vocs_over_over_	_n17	vocs_over_over_convoy_debriefing_n17	omuk		Mo	TRAPPER	a little shy	gets too close	お侍様？お二人と一緒にいていいですか？ちょっとだけ？
+vocs_over_over_	_n18	vocs_over_over_convoy_debriefing_n18	omuk		Mo	WARRIOR	pondering	Yuki realizes that she's too close and backs away	どうするか考えておったところだ。隼人殿は実に感心しておるようだが。しかし、幼子をこんな危険な目に…。
+vocs_over_over_	_n19	vocs_over_over_convoy_debriefing_n19	omuk		Mo	TRAPPER	honest		お願いです…あたしはあの方の弟子になりたい！あの方の技を覚えたいんです！
+vocs_over_over_	_n20	vocs_over_over_convoy_debriefing_n20	omuk		Mo	WARRIOR	considers it		うーむ…考えておこう。
+									
+									
+									
+									
+									
+									
+									

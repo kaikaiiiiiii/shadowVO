@@ -1,5 +1,6 @@
 <template>
     <div class="section">
+      <div id="player" @click="test"></div>
       <div id="mode-line">
         <div v-for="item in mode" :key="item" class="mode"
         @click="boardRolling(item)">{{item}}</div>
@@ -8,20 +9,22 @@
 </template>
 
 <script>
+import {modes, languages, voices} from '@/components/data.js'
+
 export default {
   data () {
     return {
-      mode: [
-        "story",
-        "charactor",
-        "music",
-        "video"
-      ]
+      mode: modes,
+      player: new Audio(),
+      textLang: languages,
+      voLang: voices
     }
   },
   methods:{
     boardRolling(e){
       this.$router.push(e);
+    },
+    test(){
     }
   }
 }
@@ -29,6 +32,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="less">
+#player{
+  display: block;
+  height: 100px;
+  background-color: #000;
+}
 
 #mode-line{
   display: flex;

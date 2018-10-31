@@ -1,0 +1,73 @@
+2,3,9									
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN
+vo_eny_eny_	brogunson_	death_scream_00	vo_eny_eny_brogunson_death_scream_00	omuk	hambo	Brogunson	shocked	(sound) short deathsound	
+vo_eny_eny_	brogunson_	death_scream_01	vo_eny_eny_brogunson_death_scream_01	omuk	hambo	Brogunson	shocked	(sound) short deathsound	
+vo_eny_eny_	brogunson_	death_scream_02	vo_eny_eny_brogunson_death_scream_02	omuk	hambo	Brogunson	shocked	(sound) short deathsound	
+vo_eny_eny_	brogunson_	death_scream_03	vo_eny_eny_brogunson_death_scream_03	omuk	hambo	Brogunson	shocked	(sound) short deathsound	
+vo_eny_eny_	brogunson_	death_scream_04	vo_eny_eny_brogunson_death_scream_04	omuk	hambo	Brogunson	shocked	(sound) short deathsound	
+vo_eny_eny_	brogunson_	death_scream_muffled_00	vo_eny_eny_brogunson_death_scream_muffled_00	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound	
+vo_eny_eny_	brogunson_	death_scream_muffled_01	vo_eny_eny_brogunson_death_scream_muffled_01	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound	
+vo_eny_eny_	brogunson_	death_scream_muffled_02	vo_eny_eny_brogunson_death_scream_muffled_02	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound	
+vo_eny_eny_	brogunson_	death_scream_muffled_03	vo_eny_eny_brogunson_death_scream_muffled_03	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound	
+vo_eny_eny_	brogunson_	death_scream_muffled_04	vo_eny_eny_brogunson_death_scream_muffled_04	omuk	hambo	Brogunson	struggling	(sound) muffled deathsound	
+vo_eny_eny_	brogunson_	detect_corpse_female_02	vo_eny_eny_brogunson_detect_corpse_female_02	omuk		Brogunson	shocked	sees a corpse	死んでるぞ！
+vo_eny_eny_	brogunson_	detect_corpse_female_03	vo_eny_eny_brogunson_detect_corpse_female_03	omuk		Brogunson	shocked	sees a corpse	奴らに殺されたか！
+vo_eny_eny_	brogunson_	detect_corpse_male_00	vo_eny_eny_brogunson_detect_corpse_male_00	omuk		Brogunson	shocked	sees a corpse	お陀仏だな。
+vo_eny_eny_	brogunson_	detect_corpse_male_01	vo_eny_eny_brogunson_detect_corpse_male_01	omuk		Brogunson	shocked	sees a corpse	奴らの仕業か！
+vo_eny_eny_	brogunson_	detect_corpse_neutral_00	vo_eny_eny_brogunson_detect_corpse_neutral_00	omuk	hambo	Brogunson	shocked	sees a corpse	誰か！殺人だ！
+vo_eny_eny_	brogunson_	detect_corpse_neutral_01	vo_eny_eny_brogunson_detect_corpse_neutral_01	omuk	hambo	Brogunson	shocked	sees a corpse	人殺しがいるぞ！
+vo_eny_eny_	brogunson_	detect_lightsource_00	vo_eny_eny_brogunson_detect_lightsource_00	omuk	hambo	Brogunson	solemn	sees extiguished lamp	誰かその灯篭を直しとけ！
+vo_eny_eny_	brogunson_	detect_lightsource_01	vo_eny_eny_brogunson_detect_lightsource_01	omuk	hambo	Brogunson	solemn	sees extiguished lamp	灯篭の手入れもできんのか！
+vo_eny_eny_	brogunson_	detect_lightsource_02	vo_eny_eny_brogunson_detect_lightsource_02	omuk	hambo	Brogunson	annoyed	sees extiguished lamp	明かりが消えてるぞ！
+vo_eny_eny_	brogunson_	detect_player_00	vo_eny_eny_brogunson_detect_player_00	omuk	hambo	Brogunson	frightened	sees a player character	奴らだ！
+vo_eny_eny_	brogunson_	detect_player_01	vo_eny_eny_brogunson_detect_player_01	omuk	hambo	Brogunson	frightened	sees a player character	お前…！
+vo_eny_eny_	brogunson_	detect_player_02	vo_eny_eny_brogunson_detect_player_02	omuk	hambo	Brogunson	frightened	sees a player character	見たことのある顔だな！
+vo_eny_eny_	brogunson_	detect_player_proximity_00	vo_eny_eny_brogunson_detect_player_proximity_00	omuk	hambo	Brogunson	tense	senses a nearby player character	この感覚…。
+vo_eny_eny_	brogunson_	detect_player_proximity_01	vo_eny_eny_brogunson_detect_player_proximity_01	omuk	hambo	Brogunson	tense	senses a nearby player character	今、何か見えたような…。
+vo_eny_eny_	brogunson_	detect_player_proximity_02	vo_eny_eny_brogunson_detect_player_proximity_02	omuk	hambo	Brogunson	tense	senses a nearby player character	近くに誰かいるぞ…。
+vo_eny_eny_	brogunson_	detect_unconscious_female_01	vo_eny_eny_brogunson_detect_unconscious_female_01	omuk		Brogunson	shocked	sees unconcious person	ひどくやられてるな。
+vo_eny_eny_	brogunson_	detect_unconscious_female_02	vo_eny_eny_brogunson_detect_unconscious_female_02	omuk		Brogunson	shocked	sees unconcious person	気を失っているようだ。
+vo_eny_eny_	brogunson_	detect_unconscious_female_03	vo_eny_eny_brogunson_detect_unconscious_female_03	omuk		Brogunson	shocked	sees unconcious person	襲われたようだな。
+vo_eny_eny_	brogunson_	detect_unconscious_male_00	vo_eny_eny_brogunson_detect_unconscious_male_00	omuk		Brogunson	shocked	sees unconcious person	ひどくやられてるな。
+vo_eny_eny_	brogunson_	detect_unconscious_male_01	vo_eny_eny_brogunson_detect_unconscious_male_01	omuk		Brogunson	shocked	sees unconcious person	気を失っているぞ。
+vo_eny_eny_	brogunson_	detect_unconscious_male_02	vo_eny_eny_brogunson_detect_unconscious_male_02	omuk		Brogunson	shocked	sees unconcious person	襲われたのか…。
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_01	vo_eny_eny_brogunson_detect_unconscious_neutral_01	omuk	hambo	Brogunson	nervous	sees unconcious person	お前、ここで何してるんだ？
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_02	vo_eny_eny_brogunson_detect_unconscious_neutral_02	omuk	hambo	Brogunson	worried	sees unconcious person	何が起こったんだ？話すんだ！
+vo_eny_eny_	brogunson_	detect_unconscious_neutral_03	vo_eny_eny_brogunson_detect_unconscious_neutral_03	omuk	hambo	Brogunson	nervous	sees unconcious person	おい、お前。なんで倒れてるんだ？
+vo_eny_eny_	brogunson_	flee_00	vo_eny_eny_brogunson_flee_00	omuk	hambo	Brogunson	panic	player character has been spotted nearby	近づくな！助けてくれ！
+vo_eny_eny_	brogunson_	flee_01	vo_eny_eny_brogunson_flee_01	omuk	hambo	Brogunson	panic	player character has been spotted nearby	奴らに捕まりたくない！
+vo_eny_eny_	brogunson_	flee_02	vo_eny_eny_brogunson_flee_02	omuk	hambo	Brogunson	panic	player character has been spotted nearby	誰か！殺される！助けてくれ！
+vo_eny_eny_	brogunson_	friend_missing_female_00	vo_eny_eny_brogunson_friend_missing_female_00	omuk		Brogunson	annoyed	his partner is missing	どこに行ったんだ？
+vo_eny_eny_	brogunson_	friend_missing_female_01	vo_eny_eny_brogunson_friend_missing_female_01	omuk		Brogunson	annoyed	his partner is missing	ここにいるはずだが。
+vo_eny_eny_	brogunson_	friend_missing_male_00	vo_eny_eny_brogunson_friend_missing_male_00	omuk		Brogunson	annoyed	his partner is missing	どこに行ったんだ？
+vo_eny_eny_	brogunson_	friend_missing_male_01	vo_eny_eny_brogunson_friend_missing_male_01	omuk		Brogunson	annoyed	his partner is missing	ここにいるはずだが。
+vo_eny_eny_	brogunson_	friend_missing_neutral_01	vo_eny_eny_brogunson_friend_missing_neutral_01	omuk	hambo	Brogunson	annoyed	his partner is missing	ずいぶん長くかかってるな…。
+vo_eny_eny_	brogunson_	friend_missing_neutral_02	vo_eny_eny_brogunson_friend_missing_neutral_02	omuk	hambo	Brogunson	annoyed	his partner is missing	もうこんな時間だ…。
+vo_eny_eny_	brogunson_	friend_wakeup_00	vo_eny_eny_brogunson_friend_wakeup_00	omuk	hambo	Brogunson	annoyed	wakes unconcious person	目を覚ませ！
+vo_eny_eny_	brogunson_	friend_wakeup_01	vo_eny_eny_brogunson_friend_wakeup_01	omuk	hambo	Brogunson	annoyed	wakes unconcious person	寝てる暇などないぞ！
+vo_eny_eny_	brogunson_	friend_wakeup_02	vo_eny_eny_brogunson_friend_wakeup_02	omuk	hambo	Brogunson	annoyed	wakes unconcious person	さっさと仕事に戻れ！
+vo_eny_eny_	brogunson_	hear_noise_00	vo_eny_eny_brogunson_hear_noise_00	omuk	hambo	Brogunson	startled	hears strange noise	何だ？
+vo_eny_eny_	brogunson_	hear_noise_01	vo_eny_eny_brogunson_hear_noise_01	omuk	hambo	Brogunson	startled	hears strange noise	今のは何だ？
+vo_eny_eny_	brogunson_	hear_noise_02	vo_eny_eny_brogunson_hear_noise_02	omuk	hambo	Brogunson	puzzled	hears strange noise	妙な音だな…。
+vo_eny_eny_	brogunson_	hear_noise_directhit_00	vo_eny_eny_brogunson_hear_noise_directhit_00	omuk		Brogunson	puzzled	is hit by stone	うぐっ…。今のは何だ？！
+vo_eny_eny_	brogunson_	hear_noise_directhit_01	vo_eny_eny_brogunson_hear_noise_directhit_01	omuk		Brogunson	angry	is hit by stone	あぁ！やめてくれ！
+vo_eny_eny_	brogunson_	hear_noise_directhit_02	vo_eny_eny_brogunson_hear_noise_directhit_02	omuk		Brogunson	angry	is hit by stone	うわぁ！
+vo_eny_eny_	brogunson_	hear_noise_gunshot_00	vo_eny_eny_brogunson_hear_noise_gunshot_00	omuk		Brogunson	shocked	hears player gunshot	小競り合いだ！助けてくれ！
+vo_eny_eny_	brogunson_	hear_noise_gunshot_01	vo_eny_eny_brogunson_hear_noise_gunshot_01	omuk		Brogunson	shocked	hears player gunshot	俺を守るんだ！
+vo_eny_eny_	brogunson_	hear_noise_human_00	vo_eny_eny_brogunson_hear_noise_human_00	omuk	hambo	Brogunson	tense	hears human noise	誰かいるのか？
+vo_eny_eny_	brogunson_	hear_noise_human_01	vo_eny_eny_brogunson_hear_noise_human_01	omuk	hambo	Brogunson	afraid	hears human noise	出てこい！
+vo_eny_eny_	brogunson_	hear_noise_human_02	vo_eny_eny_brogunson_hear_noise_human_02	omuk	hambo	Brogunson	afraid	hears human noise	隠れても無駄だ！
+vo_eny_eny_	brogunson_	hear_noise_too_much_00	vo_eny_eny_brogunson_hear_noise_too_much_00	omuk	hambo	Brogunson	annoyed	irritated by a continuous string of strange noises	うるさいぞ！
+vo_eny_eny_	brogunson_	hear_noise_too_much_01	vo_eny_eny_brogunson_hear_noise_too_much_01	omuk	hambo	Brogunson	anxious	irritated by a continuous string of strange noises	俺の父親が誰か分かってるのか？
+vo_eny_eny_	brogunson_	hear_noise_too_much_02	vo_eny_eny_brogunson_hear_noise_too_much_02	omuk	hambo	Brogunson	annoyed	irritated by a continuous string of strange noises	俺の用心棒にかかれば、お前なんかイチコロだ！
+vo_eny_eny_	brogunson_	knockout_scream_00	vo_eny_eny_brogunson_knockout_scream_00	omuk	hambo	Brogunson	pain	(sound) gets knocked out	
+vo_eny_eny_	brogunson_	knockout_scream_01	vo_eny_eny_brogunson_knockout_scream_01	omuk	hambo	Brogunson	pain	(sound) gets knocked out	
+vo_eny_eny_	brogunson_	knockout_scream_02	vo_eny_eny_brogunson_knockout_scream_02	omuk	hambo	Brogunson	pain	(sound) gets knocked out	
+vo_eny_eny_	brogunson_	regain_consciousness_00	vo_eny_eny_brogunson_regain_consciousness_00	omuk	hambo	Brogunson	headache	knocked out, wakes up	あぅ…頭が…。
+vo_eny_eny_	brogunson_	regain_consciousness_01	vo_eny_eny_brogunson_regain_consciousness_01	omuk	hambo	Brogunson	headache	knocked out, wakes up	イタッ…。
+vo_eny_eny_	brogunson_	regain_consciousness_02	vo_eny_eny_brogunson_regain_consciousness_02	omuk	hambo	Brogunson	afraid	knocked out, wakes up	何だったんだ？！
+vo_eny_eny_	brogunson_	see_something_00	vo_eny_eny_brogunson_see_something_00	omuk	hambo	Brogunson	curious	sees something strange	何だ？
+vo_eny_eny_	brogunson_	see_something_01	vo_eny_eny_brogunson_see_something_01	omuk	hambo	Brogunson	curious	sees something strange	フム？
+vo_eny_eny_	brogunson_	see_something_02	vo_eny_eny_brogunson_see_something_02	omuk	hambo	Brogunson	curious	sees something strange	何かあるぞ…。
+									
+									

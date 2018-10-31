@@ -1,0 +1,382 @@
+2,3,9									
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN
+vo_eny_eny_	samurai_00_	alarm_area_00	vo_eny_eny_samurai_00_alarm_area_00	omuk	hambo	Samurai	high tension	sounds the alarm	警鐘だ！警鐘を鳴らせ！
+vo_eny_eny_	samurai_00_	alarm_area_01	vo_eny_eny_samurai_00_alarm_area_01	omuk	hambo	Samurai	high tension	sounds the alarm	攻撃を受けてるぞ！
+vo_eny_eny_	samurai_00_	alarm_area_02	vo_eny_eny_samurai_00_alarm_area_02	omuk	hambo	Samurai	high tension	sounds the alarm	戦闘準備だ！
+vo_eny_eny_	samurai_00_	alarm_area_03	vo_eny_eny_samurai_00_alarm_area_03	omuk	hambo	Samurai	high tension	sounds the alarm	援軍を呼べ！
+vo_eny_eny_	samurai_00_	alarm_area_04	vo_eny_eny_samurai_00_alarm_area_04	omuk	hambo	Samurai	high tension	sounds the alarm	他の者に知らせろ！
+vo_eny_eny_	samurai_00_	alarm_local_00	vo_eny_eny_samurai_00_alarm_local_00	omuk	hambo	Samurai	urgent, tense	calls for backup	こっちだ！
+vo_eny_eny_	samurai_00_	alarm_local_01	vo_eny_eny_samurai_00_alarm_local_01	omuk	hambo	Samurai	urgent, tense	calls for backup	拙者の下へ！
+vo_eny_eny_	samurai_00_	alarm_local_02	vo_eny_eny_samurai_00_alarm_local_02	omuk	hambo	Samurai	urgent, tense	calls for backup	応援を呼べ！
+vo_eny_eny_	samurai_00_	alarm_local_03	vo_eny_eny_samurai_00_alarm_local_03	omuk	hambo	Samurai	urgent, tense	calls for backup	手助けを！
+vo_eny_eny_	samurai_00_	alarm_local_04	vo_eny_eny_samurai_00_alarm_local_04	omuk	hambo	Samurai	urgent, tense	calls for backup	集まれ！
+vo_eny_eny_	samurai_00_	alarm_local_05	vo_eny_eny_samurai_00_alarm_local_05	omuk	hambo	Samurai	urgent, tense	calls for backup	集合だ！
+vo_eny_eny_	samurai_00_	alarm_local_06	vo_eny_eny_samurai_00_alarm_local_06	omuk	hambo	Samurai	urgent, tense	calls for backup	クソッ！
+vo_eny_eny_	samurai_00_	alarm_stop_00	vo_eny_eny_samurai_00_alarm_stop_00	omuk	hambo	Samurai	commanding	end of alarm	奴らはもうおらん。捜索中止だ！
+vo_eny_eny_	samurai_00_	alarm_stop_01	vo_eny_eny_samurai_00_alarm_stop_01	omuk	hambo	Samurai	commanding	end of alarm	もうよい！持ち場に戻れ！
+vo_eny_eny_	samurai_00_	alarm_stop_02	vo_eny_eny_samurai_00_alarm_stop_02	omuk	hambo	Samurai	commanding	end of alarm	逃げたに違いない！鐘を止めろ！
+vo_eny_eny_	samurai_00_	alarm_stop_03	vo_eny_eny_samurai_00_alarm_stop_03	omuk	hambo	Samurai	commanding	end of alarm	危険は去った。休め！
+vo_eny_eny_	samurai_00_	alarm_stop_04	vo_eny_eny_samurai_00_alarm_stop_04	omuk	hambo	Samurai	commanding	end of alarm	奴らは蹴散らした！
+vo_eny_eny_	samurai_00_	alarm_stop_05	vo_eny_eny_samurai_00_alarm_stop_05	omuk	hambo	Samurai	commanding	end of alarm	警鐘解除！
+vo_eny_eny_	samurai_00_	carry_object_00	vo_eny_eny_samurai_00_carry_object_00	omuk		Samurai		(sound) carries heavy object	
+vo_eny_eny_	samurai_00_	clear_throat_00	vo_eny_eny_samurai_00_clear_throat_00	omuk		Samurai		(sound) clears throat	
+vo_eny_eny_	samurai_00_	cough_00	vo_eny_eny_samurai_00_cough_00	omuk		Samurai		(sound) coughs	
+vo_eny_eny_	samurai_00_	danger_toohigh_00	vo_eny_eny_samurai_00_danger_toohigh_00	omuk	hambo	Samurai	angry	has seen a player far above him	上を狙え！上にいるぞ！
+vo_eny_eny_	samurai_00_	danger_toohigh_01	vo_eny_eny_samurai_00_danger_toohigh_01	omuk	hambo	Samurai	angry	has seen a player far above him	上だ！
+vo_eny_eny_	samurai_00_	danger_toohigh_02	vo_eny_eny_samurai_00_danger_toohigh_02	omuk	hambo	Samurai	angry	has seen a player far above him	上から攻撃してるぞ！
+vo_eny_eny_	samurai_00_	danger_unreachable_00	vo_eny_eny_samurai_00_danger_unreachable_00	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	腑抜けめ！正々堂々と戦わんか！
+vo_eny_eny_	samurai_00_	danger_unreachable_01	vo_eny_eny_samurai_00_danger_unreachable_01	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	どうやって登ったんだ？
+vo_eny_eny_	samurai_00_	danger_unreachable_02	vo_eny_eny_samurai_00_danger_unreachable_02	omuk	hambo	Samurai	angry	has seen a player, but can't get to that spot	届かないな。
+vo_eny_eny_	samurai_00_	death_scream_00	vo_eny_eny_samurai_00_death_scream_00	omuk	hambo	Samurai	shocked	(sound) short deathsound	
+vo_eny_eny_	samurai_00_	death_scream_01	vo_eny_eny_samurai_00_death_scream_01	omuk	hambo	Samurai	shocked	(sound) short deathsound	
+vo_eny_eny_	samurai_00_	death_scream_02	vo_eny_eny_samurai_00_death_scream_02	omuk	hambo	Samurai	shocked	(sound) short deathsound	
+vo_eny_eny_	samurai_00_	death_scream_03	vo_eny_eny_samurai_00_death_scream_03	omuk	hambo	Samurai	shocked	(sound) short deathsound	
+vo_eny_eny_	samurai_00_	death_scream_muffled_00	vo_eny_eny_samurai_00_death_scream_muffled_00	omuk	hambo	Samurai	struggling	(sound) muffled deathsound	
+vo_eny_eny_	samurai_00_	death_scream_muffled_01	vo_eny_eny_samurai_00_death_scream_muffled_01	omuk	hambo	Samurai	struggling	(sound) muffled deathsound	
+vo_eny_eny_	samurai_00_	death_scream_muffled_02	vo_eny_eny_samurai_00_death_scream_muffled_02	omuk	hambo	Samurai	struggling	(sound) muffled deathsound	
+vo_eny_eny_	samurai_00_	death_scream_muffled_03	vo_eny_eny_samurai_00_death_scream_muffled_03	omuk	hambo	Samurai	struggling	(sound) muffled deathsound	
+vo_eny_eny_	samurai_00_	death_scream_muffled_04	vo_eny_eny_samurai_00_death_scream_muffled_04	omuk	hambo	Samurai	struggling	(sound) muffled deathsound	
+vo_eny_eny_	samurai_00_	detect_corpse_female_00	vo_eny_eny_samurai_00_detect_corpse_female_00	omuk		Samurai	furious	sees a corpse	事切れておる…！
+vo_eny_eny_	samurai_00_	detect_corpse_female_01	vo_eny_eny_samurai_00_detect_corpse_female_01	omuk		Samurai	furious	sees a corpse	殺されたのだな。
+vo_eny_eny_	samurai_00_	detect_corpse_male_00	vo_eny_eny_samurai_00_detect_corpse_male_00	omuk		Samurai	furious	sees a corpse	事切れておる…！
+vo_eny_eny_	samurai_00_	detect_corpse_male_01	vo_eny_eny_samurai_00_detect_corpse_male_01	omuk		Samurai	furious	sees a corpse	殺されたのだな。
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_00	vo_eny_eny_samurai_00_detect_corpse_neutral_00	omuk	hambo	Samurai	furious	sees a corpse	人殺しめ！
+vo_eny_eny_	samurai_00_	detect_corpse_neutral_01	vo_eny_eny_samurai_00_detect_corpse_neutral_01	omuk	hambo	Samurai	furious	sees a corpse	暗殺者だ！
+vo_eny_eny_	samurai_00_	detect_footsteps_00	vo_eny_eny_samurai_00_detect_footsteps_00	omuk	hambo	Samurai	suspicious	sees player footprints	お？足跡だな…。
+vo_eny_eny_	samurai_00_	detect_footsteps_01	vo_eny_eny_samurai_00_detect_footsteps_01	omuk	hambo	Samurai	suspicious	sees player footprints	誰の足跡だ？
+vo_eny_eny_	samurai_00_	detect_footsteps_02	vo_eny_eny_samurai_00_detect_footsteps_02	omuk	hambo	Samurai	suspicious	sees player footprints	誰の足跡だ？！
+vo_eny_eny_	samurai_00_	detect_footsteps_03	vo_eny_eny_samurai_00_detect_footsteps_03	omuk	hambo	Samurai	suspicious	sees player footprints	なぜこのような場所に足跡が…。
+vo_eny_eny_	samurai_00_	detect_footsteps_04	vo_eny_eny_samurai_00_detect_footsteps_04	omuk	hambo	Samurai	suspicious	sees player footprints	コソ泥でもいるのか…。
+vo_eny_eny_	samurai_00_	detect_lightsource_00	vo_eny_eny_samurai_00_detect_lightsource_00	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	明かりが消えたぞ…。
+vo_eny_eny_	samurai_00_	detect_lightsource_01	vo_eny_eny_samurai_00_detect_lightsource_01	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	風で明かりが消えたのか？
+vo_eny_eny_	samurai_00_	detect_lightsource_02	vo_eny_eny_samurai_00_detect_lightsource_02	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	明かりが灯っているはずだが？
+vo_eny_eny_	samurai_00_	detect_lightsource_03	vo_eny_eny_samurai_00_detect_lightsource_03	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	どこかの阿呆が消したに違いない。
+vo_eny_eny_	samurai_00_	detect_lightsource_04	vo_eny_eny_samurai_00_detect_lightsource_04	omuk	hambo	Samurai	slightly irritated	sees extiguished lamp	火が消えてるぞ。
+vo_eny_eny_	samurai_00_	detect_player_00	vo_eny_eny_samurai_00_detect_player_00	omuk	hambo	Samurai	agressive	sees a player character	止まれ！
+vo_eny_eny_	samurai_00_	detect_player_01	vo_eny_eny_samurai_00_detect_player_01	omuk	hambo	Samurai	agressive	sees a player character	そこで止まれ！
+vo_eny_eny_	samurai_00_	detect_player_02	vo_eny_eny_samurai_00_detect_player_02	omuk	hambo	Samurai	agressive	sees a player character	動くな！
+vo_eny_eny_	samurai_00_	detect_player_03	vo_eny_eny_samurai_00_detect_player_03	omuk	hambo	Samurai	agressive	sees a player character	貴様！
+vo_eny_eny_	samurai_00_	detect_player_04	vo_eny_eny_samurai_00_detect_player_04	omuk	hambo	Samurai	agressive	sees a player character	そこの貴様！
+vo_eny_eny_	samurai_00_	detect_player_05	vo_eny_eny_samurai_00_detect_player_05	omuk	hambo	Samurai	agressive	sees a player character	そこで止まれ！
+vo_eny_eny_	samurai_00_	detect_player_06	vo_eny_eny_samurai_00_detect_player_06	omuk	hambo	Samurai	agressive	sees a player character	侵入者だ！
+vo_eny_eny_	samurai_00_	detect_player_07	vo_eny_eny_samurai_00_detect_player_07	omuk	hambo	Samurai	agressive	sees a player character	この虫けらが！
+vo_eny_eny_	samurai_00_	detect_player_08	vo_eny_eny_samurai_00_detect_player_08	omuk	hambo	Samurai	agressive	sees a player character	見つけたぞ！
+vo_eny_eny_	samurai_00_	detect_player_09	vo_eny_eny_samurai_00_detect_player_09	omuk	hambo	Samurai	agressive	sees a player character	おい！
+vo_eny_eny_	samurai_00_	detect_player_10	vo_eny_eny_samurai_00_detect_player_10	omuk	hambo	Samurai	agressive	sees a player character	ここが貴様の墓場だ！
+vo_eny_eny_	samurai_00_	detect_player_11	vo_eny_eny_samurai_00_detect_player_11	omuk	hambo	Samurai	agressive	sees a player character	お命頂戴する！
+vo_eny_eny_	samurai_00_	detect_player_12	vo_eny_eny_samurai_00_detect_player_12	omuk	hambo	Samurai	agressive	sees a player character	幕府の奴らがいるぞ！
+vo_eny_eny_	samurai_00_	detect_player_13	vo_eny_eny_samurai_00_detect_player_13	omuk	hambo	Samurai	agressive	sees a player character	奴らだ！
+vo_eny_eny_	samurai_00_	detect_player_14	vo_eny_eny_samurai_00_detect_player_14	omuk	hambo	Samurai	agressive	sees a player character	ここは立ち入り禁止だ！
+vo_eny_eny_	samurai_00_	detect_player_15	vo_eny_eny_samurai_00_detect_player_15	omuk	hambo	Samurai	agressive	sees a player character	拙者の手で成敗してくれる！
+vo_eny_eny_	samurai_00_	detect_player_16	vo_eny_eny_samurai_00_detect_player_16	omuk	hambo	Samurai	agressive	sees a player character	逃げようとしても無駄だ！
+vo_eny_eny_	samurai_00_	detect_player_17	vo_eny_eny_samurai_00_detect_player_17	omuk	hambo	Samurai	agressive	sees a player character	できるものなら逃げてみろ！
+vo_eny_eny_	samurai_00_	detect_player_geisha_00	vo_eny_eny_samurai_00_detect_player_geisha_00	omuk		Samurai	aha!	senses a nearby player character	変装した暗殺者だ！
+vo_eny_eny_	samurai_00_	detect_player_geisha_01	vo_eny_eny_samurai_00_detect_player_geisha_01	omuk		Samurai	aha!	senses a nearby player character	あの女は暗殺者だ！
+vo_eny_eny_	samurai_00_	detect_player_geisha_02	vo_eny_eny_samurai_00_detect_player_geisha_02	omuk		Samurai	aha!	senses a nearby player character	拙者を騙せるとでも思っているのか！
+vo_eny_eny_	samurai_00_	detect_player_geisha_03	vo_eny_eny_samurai_00_detect_player_geisha_03	omuk		Samurai	aha!	senses a nearby player character	変装など見破れるわ！
+vo_eny_eny_	samurai_00_	detect_player_kill_00	vo_eny_eny_samurai_00_detect_player_kill_00	omuk		Samurai	aha!	senses a player behind him and decapitates him	は！愚か者が。
+vo_eny_eny_	samurai_00_	detect_player_kill_01	vo_eny_eny_samurai_00_detect_player_kill_01	omuk		Samurai	aha!	senses a player behind him and decapitates him	は！腰抜けが
+vo_eny_eny_	samurai_00_	detect_player_kill_02	vo_eny_eny_samurai_00_detect_player_kill_02	omuk		Samurai	aha!	senses a player behind him and decapitates him	は！腑抜けが。
+vo_eny_eny_	samurai_00_	detect_player_kill_03	vo_eny_eny_samurai_00_detect_player_kill_03	omuk		Samurai	aha!	senses a player behind him and decapitates him	は！貴様は侍ではない。
+vo_eny_eny_	samurai_00_	detect_player_kill_04	vo_eny_eny_samurai_00_detect_player_kill_04	omuk		Samurai	aha!	senses a player behind him and decapitates him	は！拙者の足元にも及ばん。
+vo_eny_eny_	samurai_00_	detect_player_proximity_00	vo_eny_eny_samurai_00_detect_player_proximity_00	omuk	hambo	Samurai	suspicious	senses a nearby player character	何か妙だ。
+vo_eny_eny_	samurai_00_	detect_player_proximity_01	vo_eny_eny_samurai_00_detect_player_proximity_01	omuk	hambo	Samurai	suspicious	senses a nearby player character	おかしいな。まるで…。
+vo_eny_eny_	samurai_00_	detect_player_proximity_02	vo_eny_eny_samurai_00_detect_player_proximity_02	omuk	hambo	Samurai	suspicious	senses a nearby player character	待てよ、誰かいるのか？
+vo_eny_eny_	samurai_00_	detect_player_proximity_03	vo_eny_eny_samurai_00_detect_player_proximity_03	omuk	hambo	Samurai	suspicious	senses a nearby player character	そこに何者かおるのか？
+vo_eny_eny_	samurai_00_	detect_sake_00	vo_eny_eny_samurai_00_detect_sake_00	omuk	hambo	Samurai	dismissive	spots the sake bottle	酒か…？…自分のがあるぞ。
+vo_eny_eny_	samurai_00_	detect_sake_01	vo_eny_eny_samurai_00_detect_sake_01	omuk	hambo	Samurai	dismissive	spots the sake bottle	酒か…？なんて安い酒だ。
+vo_eny_eny_	samurai_00_	detect_sake_02	vo_eny_eny_samurai_00_detect_sake_02	omuk	hambo	Samurai	dismissive	spots the sake bottle	酒につられるのは農民ぐらいだ。
+vo_eny_eny_	samurai_00_	detect_tanuki_00	vo_eny_eny_samurai_00_detect_tanuki_00	omuk	hambo	Samurai	dismissive	sees the tanuki	汚らしい動物よ。
+vo_eny_eny_	samurai_00_	detect_tanuki_01	vo_eny_eny_samurai_00_detect_tanuki_01	omuk	hambo	Samurai	dismissive	sees the tanuki	邪魔な虫けらだ。
+vo_eny_eny_	samurai_00_	detect_tanuki_02	vo_eny_eny_samurai_00_detect_tanuki_02	omuk	hambo	Samurai	dismissive	sees the tanuki	潰してしまう前に逃げるんだな！
+vo_eny_eny_	samurai_00_	detect_tanuki_03	vo_eny_eny_samurai_00_detect_tanuki_03	omuk	hambo	Samurai	dismissive	sees the tanuki	ただの動物だ。
+vo_eny_eny_	samurai_00_	detect_trap_00	vo_eny_eny_samurai_00_detect_trap_00	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	うん？なんとこしゃくな…。
+vo_eny_eny_	samurai_00_	detect_trap_01	vo_eny_eny_samurai_00_detect_trap_01	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	フッ、こんなのオモチャに過ぎんわ。
+vo_eny_eny_	samurai_00_	detect_trap_02	vo_eny_eny_samurai_00_detect_trap_02	omuk	hambo	Samurai	with contempt	spots the trap on the floor and breaks it	こんなのを置いたのは誰だ？ゴミめ。
+vo_eny_eny_	samurai_00_	detect_unconscious_female_01	vo_eny_eny_samurai_00_detect_unconscious_female_01	omuk		Samurai	displeased	sees unconcious person	気絶しておるな。
+vo_eny_eny_	samurai_00_	detect_unconscious_female_02	vo_eny_eny_samurai_00_detect_unconscious_female_02	omuk		Samurai	displeased	sees unconcious person	殴られたのか。
+vo_eny_eny_	samurai_00_	detect_unconscious_female_03	vo_eny_eny_samurai_00_detect_unconscious_female_03	omuk		Samurai	displeased	sees unconcious person	襲われたのだな。
+vo_eny_eny_	samurai_00_	detect_unconscious_male_00	vo_eny_eny_samurai_00_detect_unconscious_male_00	omuk		Samurai	displeased	sees unconcious person	気を失っているぞ。
+vo_eny_eny_	samurai_00_	detect_unconscious_male_01	vo_eny_eny_samurai_00_detect_unconscious_male_01	omuk		Samurai	displeased	sees unconcious person	殴られたのか。
+vo_eny_eny_	samurai_00_	detect_unconscious_male_02	vo_eny_eny_samurai_00_detect_unconscious_male_02	omuk		Samurai	displeased	sees unconcious person	襲われたのだな。
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_01	vo_eny_eny_samurai_00_detect_unconscious_neutral_01	omuk	hambo	Samurai	displeased	sees unconcious person	何があった？
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_02	vo_eny_eny_samurai_00_detect_unconscious_neutral_02	omuk	hambo	Samurai	displeased	sees unconcious person	おい！誰にやられた？
+vo_eny_eny_	samurai_00_	detect_unconscious_neutral_03	vo_eny_eny_samurai_00_detect_unconscious_neutral_03	omuk	hambo	Samurai	displeased	sees unconcious person	眠っているのか？
+vo_eny_eny_	samurai_00_	drink_sake_00	vo_eny_eny_samurai_00_drink_sake_00	omuk		Samurai		(sound) drink sake	
+vo_eny_eny_	samurai_00_	drop_object_00	vo_eny_eny_samurai_00_drop_object_00	omuk		Samurai		(sound) lay down heavy object	
+vo_eny_eny_	samurai_00_	friend_missing_female_00	vo_eny_eny_samurai_00_friend_missing_female_00	omuk		Samurai	displeased	his partner is missing	持ち場を離れた…？
+vo_eny_eny_	samurai_00_	friend_missing_female_01	vo_eny_eny_samurai_00_friend_missing_female_01	omuk		Samurai	displeased	his partner is missing	どこへ行ったんだ？
+vo_eny_eny_	samurai_00_	friend_missing_female_02	vo_eny_eny_samurai_00_friend_missing_female_02	omuk		Samurai	displeased	his partner is missing	道草でもくってるのか？
+vo_eny_eny_	samurai_00_	friend_missing_female_03	vo_eny_eny_samurai_00_friend_missing_female_03	omuk		Samurai	displeased	his partner is missing	おかしいぞ。
+vo_eny_eny_	samurai_00_	friend_missing_female_04	vo_eny_eny_samurai_00_friend_missing_female_04	omuk		Samurai	displeased	his partner is missing	姿を消したのか？！
+vo_eny_eny_	samurai_00_	friend_missing_female_05	vo_eny_eny_samurai_00_friend_missing_female_05	omuk		Samurai	displeased	his partner is missing	この拙者を待たせるなど…！
+vo_eny_eny_	samurai_00_	friend_missing_male_00	vo_eny_eny_samurai_00_friend_missing_male_00	omuk	placeholder	Samurai	displeased	his partner is missing	持ち場を離れたのか。
+vo_eny_eny_	samurai_00_	friend_missing_male_01	vo_eny_eny_samurai_00_friend_missing_male_01	omuk	placeholder	Samurai	displeased	his partner is missing	どこに行ったんだ？
+vo_eny_eny_	samurai_00_	friend_missing_male_02	vo_eny_eny_samurai_00_friend_missing_male_02	omuk	placeholder	Samurai	displeased	his partner is missing	道草でもくってるのか？
+vo_eny_eny_	samurai_00_	friend_missing_male_03	vo_eny_eny_samurai_00_friend_missing_male_03	omuk	placeholder	Samurai	displeased	his partner is missing	おかしいぞ。
+vo_eny_eny_	samurai_00_	friend_missing_male_04	vo_eny_eny_samurai_00_friend_missing_male_04	omuk	placeholder	Samurai	displeased	his partner is missing	見つからん！
+vo_eny_eny_	samurai_00_	friend_missing_male_05	vo_eny_eny_samurai_00_friend_missing_male_05	omuk	placeholder	Samurai	displeased	his partner is missing	この拙者を待たせるなど…！
+vo_eny_eny_	samurai_00_	friend_wakeup_00	vo_eny_eny_samurai_00_friend_wakeup_00	omuk	hambo	Samurai	urgent	wakes unconcious person	おい！目を覚ませ！
+vo_eny_eny_	samurai_00_	friend_wakeup_01	vo_eny_eny_samurai_00_friend_wakeup_01	omuk	hambo	Samurai	urgent	wakes unconcious person	起きろ！
+vo_eny_eny_	samurai_00_	friend_wakeup_02	vo_eny_eny_samurai_00_friend_wakeup_02	omuk	hambo	Samurai	urgent	wakes unconcious person	おぬし、大丈夫か？
+vo_eny_eny_	samurai_00_	friend_wakeup_03	vo_eny_eny_samurai_00_friend_wakeup_03	omuk	hambo	Samurai	urgent	wakes unconcious person	何が起きたんだ？
+vo_eny_eny_	samurai_00_	friend_wakeup_04	vo_eny_eny_samurai_00_friend_wakeup_04	omuk	hambo	Samurai	urgent	wakes unconcious person	しっかり立て！
+vo_eny_eny_	samurai_00_	hard_work_00	vo_eny_eny_samurai_00_hard_work_00	omuk		Samurai		(sound) pushing a cart	
+vo_eny_eny_	samurai_00_	hear_noise_00	vo_eny_eny_samurai_00_hear_noise_00	omuk		Samurai	suspicious	hears strange noise	うん？
+vo_eny_eny_	samurai_00_	hear_noise_01	vo_eny_eny_samurai_00_hear_noise_01	omuk		Samurai	suspicious	hears strange noise	今の音は何だ？
+vo_eny_eny_	samurai_00_	hear_noise_02	vo_eny_eny_samurai_00_hear_noise_02	omuk		Samurai	suspicious	hears strange noise	何か聞こえたぞ…。
+vo_eny_eny_	samurai_00_	hear_noise_03	vo_eny_eny_samurai_00_hear_noise_03	omuk		Samurai	suspicious	hears strange noise	妙な音…。
+vo_eny_eny_	samurai_00_	hear_noise_04	vo_eny_eny_samurai_00_hear_noise_04	omuk		Samurai	suspicious	hears strange noise	あの音は…。
+vo_eny_eny_	samurai_00_	hear_noise_directhit_00	vo_eny_eny_samurai_00_hear_noise_directhit_00	omuk		Samurai	anger	is hit by stone	フン！よくも、この腑抜けが！
+vo_eny_eny_	samurai_00_	hear_noise_directhit_01	vo_eny_eny_samurai_00_hear_noise_directhit_01	omuk		Samurai	contempt	is hit by stone	フン！ただではおかん！どこだ！
+vo_eny_eny_	samurai_00_	hear_noise_directhit_02	vo_eny_eny_samurai_00_hear_noise_directhit_02	omuk		Samurai	anger	is hit by stone	フン！出てこい、卑怯者！
+vo_eny_eny_	samurai_00_	hear_noise_directhit_03	vo_eny_eny_samurai_00_hear_noise_directhit_03	omuk		Samurai	contempt	is hit by stone	フン！痛くもかゆくもないぞ！
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_00	vo_eny_eny_samurai_00_hear_noise_gunshot_00	omuk		Samurai	alarmed	hears player gunshot	銃声…？
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_01	vo_eny_eny_samurai_00_hear_noise_gunshot_01	omuk		Samurai	alarmed	hears player gunshot	攻撃だ！警鐘だ！
+vo_eny_eny_	samurai_00_	hear_noise_gunshot_02	vo_eny_eny_samurai_00_hear_noise_gunshot_02	omuk		Samurai	alarmed	hears player gunshot	敵は銃を持っておる！
+vo_eny_eny_	samurai_00_	hear_noise_human_00	vo_eny_eny_samurai_00_hear_noise_human_00	omuk		Samurai	fierce	hears human noise	誰かいるのか？
+vo_eny_eny_	samurai_00_	hear_noise_human_01	vo_eny_eny_samurai_00_hear_noise_human_01	omuk		Samurai	fierce	hears human noise	誰だ？
+vo_eny_eny_	samurai_00_	hear_noise_human_02	vo_eny_eny_samurai_00_hear_noise_human_02	omuk		Samurai	fierce	hears human noise	聞こえたぞ！
+vo_eny_eny_	samurai_00_	hear_noise_human_03	vo_eny_eny_samurai_00_hear_noise_human_03	omuk		Samurai	fierce	hears human noise	誰の仕業だ！
+vo_eny_eny_	samurai_00_	hear_noise_human_04	vo_eny_eny_samurai_00_hear_noise_human_04	omuk		Samurai	fierce	hears human noise	暗闇に潜んでいる？！
+vo_eny_eny_	samurai_00_	hear_noise_human_05	vo_eny_eny_samurai_00_hear_noise_human_05	omuk		Samurai	fierce	hears human noise	何だ？
+vo_eny_eny_	samurai_00_	hear_noise_too_much_00	vo_eny_eny_samurai_00_hear_noise_too_much_00	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	うるさいぞ！
+vo_eny_eny_	samurai_00_	hear_noise_too_much_01	vo_eny_eny_samurai_00_hear_noise_too_much_01	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	目にモノをみせてやる！！
+vo_eny_eny_	samurai_00_	hear_noise_too_much_02	vo_eny_eny_samurai_00_hear_noise_too_much_02	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	姿を見せろ、この腑抜けが！
+vo_eny_eny_	samurai_00_	hear_noise_too_much_03	vo_eny_eny_samurai_00_hear_noise_too_much_03	omuk	hambo	Samurai	irritated	irritated by a continuous string of strange noises	首がついてるうちに遊んでおけ。
+vo_eny_eny_	samurai_00_	hum_00	vo_eny_eny_samurai_00_hum_00	omuk		Samurai		(sound) humming tune	
+vo_eny_eny_	samurai_00_	ignore_distraction_00	vo_eny_eny_samurai_00_ignore_distraction_00	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	何でもないな。
+vo_eny_eny_	samurai_00_	ignore_distraction_01	vo_eny_eny_samurai_00_ignore_distraction_01	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	風だろう。
+vo_eny_eny_	samurai_00_	ignore_distraction_02	vo_eny_eny_samurai_00_ignore_distraction_02	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	紛らわしい風だ。
+vo_eny_eny_	samurai_00_	ignore_distraction_03	vo_eny_eny_samurai_00_ignore_distraction_03	omuk	hambo	Samurai	dutiful	ignores player distraction (whistle, stone noise)	何てことはない。
+vo_eny_eny_	samurai_00_	ignore_disturbance_00	vo_eny_eny_samurai_00_ignore_disturbance_00	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	任務が一番だ。
+vo_eny_eny_	samurai_00_	ignore_disturbance_01	vo_eny_eny_samurai_00_ignore_disturbance_01	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	小道具か？
+vo_eny_eny_	samurai_00_	ignore_disturbance_02	vo_eny_eny_samurai_00_ignore_disturbance_02	omuk		Samurai	dutiful	ignores disturbance (footprints, snuffed torch)	拙者は騙されんぞ。
+vo_eny_eny_	samurai_00_	ignore_peasant_00	vo_eny_eny_samurai_00_ignore_peasant_00	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	邪魔だ！
+vo_eny_eny_	samurai_00_	ignore_peasant_01	vo_eny_eny_samurai_00_ignore_peasant_01	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	貴様ごときが拙者に話しをかけるとは！失せろ！
+vo_eny_eny_	samurai_00_	ignore_peasant_02	vo_eny_eny_samurai_00_ignore_peasant_02	omuk		Samurai	dismissive	shoos off a civilian who tries to warn him	貴様の問題など拙者に関係ないわ！
+vo_eny_eny_	samurai_00_	investigate_accident_start_00	vo_eny_eny_samurai_00_investigate_accident_start_00	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	何があった？
+vo_eny_eny_	samurai_00_	investigate_accident_start_01	vo_eny_eny_samurai_00_investigate_accident_start_01	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	一体どうしたのだ？
+vo_eny_eny_	samurai_00_	investigate_accident_start_02	vo_eny_eny_samurai_00_investigate_accident_start_02	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	誰に非があるのだ？
+vo_eny_eny_	samurai_00_	investigate_accident_start_03	vo_eny_eny_samurai_00_investigate_accident_start_03	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	誰のせいだ？
+vo_eny_eny_	samurai_00_	investigate_accident_start_04	vo_eny_eny_samurai_00_investigate_accident_start_04	omuk	hambo	Samurai	displeased	sees accident (like guard crushed by falling debris)	なんとひどい…！
+vo_eny_eny_	samurai_00_	investigate_accident_stop_00	vo_eny_eny_samurai_00_investigate_accident_stop_00	omuk	hambo	Samurai	dismissive	stops investigating accident	後で調査を再開する。
+vo_eny_eny_	samurai_00_	investigate_accident_stop_01	vo_eny_eny_samurai_00_investigate_accident_stop_01	omuk	hambo	Samurai	dismissive	stops investigating accident	ふん、因果応報か。
+vo_eny_eny_	samurai_00_	investigate_accident_stop_02	vo_eny_eny_samurai_00_investigate_accident_stop_02	omuk	hambo	Samurai	dismissive	stops investigating accident	犯人は見つけてやる。
+vo_eny_eny_	samurai_00_	investigate_accident_stop_03	vo_eny_eny_samurai_00_investigate_accident_stop_03	omuk	hambo	Samurai	dismissive	stops investigating accident	運が悪かったのか。
+vo_eny_eny_	samurai_00_	investigate_accident_stop_04	vo_eny_eny_samurai_00_investigate_accident_stop_04	omuk	hambo	Samurai	dismissive	stops investigating accident	今更結果は変わらん。
+vo_eny_eny_	samurai_00_	investigate_bush_00	vo_eny_eny_samurai_00_investigate_bush_00	omuk	hambo	Samurai	agressive	searches bushes for player characters	茂みに隠れてるのか？
+vo_eny_eny_	samurai_00_	investigate_bush_01	vo_eny_eny_samurai_00_investigate_bush_01	omuk	hambo	Samurai	agressive	searches bushes for player characters	拙者からは逃げられんぞ。
+vo_eny_eny_	samurai_00_	investigate_bush_02	vo_eny_eny_samurai_00_investigate_bush_02	omuk	hambo	Samurai	agressive	searches bushes for player characters	拙者は騙されんぞ。
+vo_eny_eny_	samurai_00_	investigate_bush_03	vo_eny_eny_samurai_00_investigate_bush_03	omuk	hambo	Samurai	agressive	searches bushes for player characters	ふん、藪の中を這ってると？
+vo_eny_eny_	samurai_00_	investigate_bush_04	vo_eny_eny_samurai_00_investigate_bush_04	omuk	hambo	Samurai	agressive	searches bushes for player characters	茂みなどで拙者の目は騙せん。
+vo_eny_eny_	samurai_00_	investigate_door_00	vo_eny_eny_samurai_00_investigate_door_00	omuk	hambo	Samurai	agressive	follows player character inside buildings	そこから引きずり出してみせよう。
+vo_eny_eny_	samurai_00_	investigate_door_01	vo_eny_eny_samurai_00_investigate_door_01	omuk	hambo	Samurai	agressive	follows player character inside buildings	中にいるのは分かっている！
+vo_eny_eny_	samurai_00_	investigate_door_02	vo_eny_eny_samurai_00_investigate_door_02	omuk	hambo	Samurai	agressive	follows player character inside buildings	中に逃げても無駄というものよ！
+vo_eny_eny_	samurai_00_	investigate_door_03	vo_eny_eny_samurai_00_investigate_door_03	omuk	hambo	Samurai	agressive	follows player character inside buildings	いいだろう。そこが貴様の墓場だ。
+vo_eny_eny_	samurai_00_	investigate_end_00	vo_eny_eny_samurai_00_investigate_end_00	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	誰もいないな。
+vo_eny_eny_	samurai_00_	investigate_end_01	vo_eny_eny_samurai_00_investigate_end_01	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	いないようだ。
+vo_eny_eny_	samurai_00_	investigate_end_02	vo_eny_eny_samurai_00_investigate_end_02	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	何もない。
+vo_eny_eny_	samurai_00_	investigate_end_03	vo_eny_eny_samurai_00_investigate_end_03	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	逃げたに違いない。
+vo_eny_eny_	samurai_00_	investigate_end_04	vo_eny_eny_samurai_00_investigate_end_04	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	蹴散らしたか。
+vo_eny_eny_	samurai_00_	investigate_end_05	vo_eny_eny_samurai_00_investigate_end_05	omuk	hambo	Samurai	a bit disappointed	"stops investigating area
+(same as squad solo)"	誰もおらん。
+vo_eny_eny_	samurai_00_	investigate_missing_00	vo_eny_eny_samurai_00_investigate_missing_00	omuk		Samurai	annoyed	searches the area for missing friend	どこだ？
+vo_eny_eny_	samurai_00_	investigate_missing_01	vo_eny_eny_samurai_00_investigate_missing_01	omuk		Samurai	annoyed	searches the area for missing friend	どこかに隠れてるのか？
+vo_eny_eny_	samurai_00_	investigate_missing_02	vo_eny_eny_samurai_00_investigate_missing_02	omuk		Samurai	annoyed	searches the area for missing friend	そこにいるのか？
+vo_eny_eny_	samurai_00_	investigate_missing_03	vo_eny_eny_samurai_00_investigate_missing_03	omuk		Samurai	annoyed	searches the area for missing friend	冗談はほどほどにするのだ！
+vo_eny_eny_	samurai_00_	investigate_missing_04	vo_eny_eny_samurai_00_investigate_missing_04	omuk		Samurai	annoyed	searches the area for missing friend	どこにおる？返事をするのだ！
+vo_eny_eny_	samurai_00_	investigate_missing_05	vo_eny_eny_samurai_00_investigate_missing_05	omuk		Samurai	annoyed	searches the area for missing friend	聞こえるか？
+vo_eny_eny_	samurai_00_	investigate_start_00	vo_eny_eny_samurai_00_investigate_start_00	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	どこにおる？
+vo_eny_eny_	samurai_00_	investigate_start_01	vo_eny_eny_samurai_00_investigate_start_01	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	そこにいるのは分かっておる！
+vo_eny_eny_	samurai_00_	investigate_start_02	vo_eny_eny_samurai_00_investigate_start_02	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	見つけてやるからな！
+vo_eny_eny_	samurai_00_	investigate_start_03	vo_eny_eny_samurai_00_investigate_start_03	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	出てこんか！
+vo_eny_eny_	samurai_00_	investigate_start_04	vo_eny_eny_samurai_00_investigate_start_04	omuk	hambo	Samurai	tense	"starts investigating area
+(same as squad solo)"	姿を見せろ！
+vo_eny_eny_	samurai_00_	investigate_too_long_00	vo_eny_eny_samurai_00_investigate_too_long_00	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	歩いていくほどのことではないわい。
+vo_eny_eny_	samurai_00_	investigate_too_long_01	vo_eny_eny_samurai_00_investigate_too_long_01	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	遠すぎるな。
+vo_eny_eny_	samurai_00_	investigate_too_long_02	vo_eny_eny_samurai_00_investigate_too_long_02	omuk	hambo	Samurai	dismissive	hears noise, but getting there is too complicated	時間の無駄だ。
+vo_eny_eny_	samurai_00_	investigate_unreachable_00	vo_eny_eny_samurai_00_investigate_unreachable_00	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	ふん、届かんぞ。
+vo_eny_eny_	samurai_00_	investigate_unreachable_01	vo_eny_eny_samurai_00_investigate_unreachable_01	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	道がないようだな。
+vo_eny_eny_	samurai_00_	investigate_unreachable_02	vo_eny_eny_samurai_00_investigate_unreachable_02	omuk	hambo	Samurai	suspicious	wants to investigate spot, but can't get there	面倒だ。
+vo_eny_eny_	samurai_00_	knockout_scream_00	vo_eny_eny_samurai_00_knockout_scream_00	omuk	hambo	Samurai	stunned	(sound) gets knocked out	
+vo_eny_eny_	samurai_00_	knockout_scream_01	vo_eny_eny_samurai_00_knockout_scream_01	omuk	hambo	Samurai	stunned	(sound) gets knocked out	
+vo_eny_eny_	samurai_00_	knockout_scream_02	vo_eny_eny_samurai_00_knockout_scream_02	omuk	hambo	Samurai	stunned	(sound) gets knocked out	
+vo_eny_eny_	samurai_00_	knockout_scream_03	vo_eny_eny_samurai_00_knockout_scream_03	omuk	hambo	Samurai	stunned	(sound) gets knocked out	
+vo_eny_eny_	samurai_00_	knockout_scream_04	vo_eny_eny_samurai_00_knockout_scream_04	omuk	hambo	Samurai	stunned	(sound) gets knocked out	
+vo_eny_eny_	samurai_00_	laugh_evil_00	vo_eny_eny_samurai_00_laugh_evil_00	omuk		Samurai		(sound) dark laugh	
+vo_eny_eny_	samurai_00_	laugh_good_00	vo_eny_eny_samurai_00_laugh_good_00	omuk		Samurai		(sound) humorous laugh	
+vo_eny_eny_	samurai_00_	make_toast_00	vo_eny_eny_samurai_00_make_toast_00	omuk		Samurai		(sound) makes a toast	
+vo_eny_eny_	samurai_00_	officer_alert_00	vo_eny_eny_samurai_00_officer_alert_00	omuk		Samurai	commanding	instructs other guards to stay alert	警戒を怠るな。暗殺者がのさばっておる。
+vo_eny_eny_	samurai_00_	officer_alert_01	vo_eny_eny_samurai_00_officer_alert_01	omuk		Samurai	commanding	instructs other guards to stay alert	敵はまだ近くにいるぞ。気を付けろ。
+vo_eny_eny_	samurai_00_	officer_alert_02	vo_eny_eny_samurai_00_officer_alert_02	omuk		Samurai	commanding	instructs other guards to stay alert	騙されるな。敵はまだいるぞ。
+vo_eny_eny_	samurai_00_	officer_alert_03	vo_eny_eny_samurai_00_officer_alert_03	omuk		Samurai	commanding	instructs other guards to stay alert	闇に気を付けろ。敵が潜んでいるかもしれん。
+vo_eny_eny_	samurai_00_	officer_alert_04	vo_eny_eny_samurai_00_officer_alert_04	omuk		Samurai	commanding	instructs other guards to stay alert	組で行動だ。バラバラになるな。
+vo_eny_eny_	samurai_00_	officer_alert_05	vo_eny_eny_samurai_00_officer_alert_05	omuk		Samurai	commanding	instructs other guards to stay alert	敵は弱みに付け込んでくる。死を見せてやれ。
+vo_eny_eny_	samurai_00_	officer_alert_06	vo_eny_eny_samurai_00_officer_alert_06	omuk		Samurai	commanding	instructs other guards to stay alert	見つけ次第攻撃だ。情けは無用。
+vo_eny_eny_	samurai_00_	officer_alert_07	vo_eny_eny_samurai_00_officer_alert_07	omuk		Samurai	commanding	instructs other guards to stay alert	ひるむんじゃないぞ。
+vo_eny_eny_	samurai_00_	officer_alert_08	vo_eny_eny_samurai_00_officer_alert_08	omuk		Samurai	commanding	instructs other guards to stay alert	恐怖を教えてやれ。草の根を分けても探し出せ。
+vo_eny_eny_	samurai_00_	pickup_object_00	vo_eny_eny_samurai_00_pickup_object_00	omuk		Samurai		(sound) pickup heavy object	
+vo_eny_eny_	samurai_00_	regain_consciousness_00	vo_eny_eny_samurai_00_regain_consciousness_00	omuk	hambo	Samurai	angry	knocked out, wakes up	チクショウ…。
+vo_eny_eny_	samurai_00_	regain_consciousness_01	vo_eny_eny_samurai_00_regain_consciousness_01	omuk	hambo	Samurai	headache	knocked out, wakes up	ふん、何とも…ないわい…。
+vo_eny_eny_	samurai_00_	regain_consciousness_02	vo_eny_eny_samurai_00_regain_consciousness_02	omuk	hambo	Samurai	angry	knocked out, wakes up	恥をかかされた…
+vo_eny_eny_	samurai_00_	regain_consciousness_03	vo_eny_eny_samurai_00_regain_consciousness_03	omuk	hambo	Samurai	headache	knocked out, wakes up	卑怯者…め…
+vo_eny_eny_	samurai_00_	regain_consciousness_04	vo_eny_eny_samurai_00_regain_consciousness_04	omuk	hambo	Samurai	angry	knocked out, wakes up	やられ…た…。
+vo_eny_eny_	samurai_00_	regain_consciousness_05	vo_eny_eny_samurai_00_regain_consciousness_05	omuk	hambo	Samurai	angry	knocked out, wakes up	して…やられ…た…。
+vo_eny_eny_	samurai_00_	regain_consciousness_06	vo_eny_eny_samurai_00_regain_consciousness_06	omuk	hambo	Samurai	angry	knocked out, wakes up	ただでは…おかん…。
+vo_eny_eny_	samurai_00_	see_flying_body_00	vo_eny_eny_samurai_00_see_flying_body_00	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	なんと？！
+vo_eny_eny_	samurai_00_	see_flying_body_01	vo_eny_eny_samurai_00_see_flying_body_01	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	鬼めが！
+vo_eny_eny_	samurai_00_	see_flying_body_02	vo_eny_eny_samurai_00_see_flying_body_02	omuk	hambo	Samurai	startled	sees corpse that's thrown into his view by player	仁義のない人殺しよ！
+vo_eny_eny_	samurai_00_	see_flying_object_00	vo_eny_eny_samurai_00_see_flying_object_00	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	何だ？
+vo_eny_eny_	samurai_00_	see_flying_object_01	vo_eny_eny_samurai_00_see_flying_object_01	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	誰の仕業だ？
+vo_eny_eny_	samurai_00_	see_flying_object_02	vo_eny_eny_samurai_00_see_flying_object_02	omuk	hambo	Samurai	annoyed	sees object that's thrown into his view by player	なんと！そんな馬鹿な！
+vo_eny_eny_	samurai_00_	see_something_00	vo_eny_eny_samurai_00_see_something_00	omuk	hambo	Samurai	suspicious	sees something strange	何だ？
+vo_eny_eny_	samurai_00_	see_something_01	vo_eny_eny_samurai_00_see_something_01	omuk	hambo	Samurai	suspicious	sees something strange	うん？
+vo_eny_eny_	samurai_00_	see_something_02	vo_eny_eny_samurai_00_see_something_02	omuk	hambo	Samurai	suspicious	sees something strange	あれは何だ？
+vo_eny_eny_	samurai_00_	see_something_03	vo_eny_eny_samurai_00_see_something_03	omuk	hambo	Samurai	suspicious	sees something strange	何か見えるぞ。
+vo_eny_eny_	samurai_00_	see_something_04	vo_eny_eny_samurai_00_see_something_04	omuk	hambo	Samurai	suspicious	sees something strange	ふ～む…。
+vo_eny_eny_	samurai_00_	snore_00	vo_eny_eny_samurai_00_snore_00	omuk		Samurai		(sound) snore	
+vo_eny_eny_	samurai_00_	squad_investigate_end_00	vo_eny_eny_samurai_00_squad_investigate_end_00	omuk	hambo	Samurai	commanding	squad leader stops investigation	何も見つからん。任務に戻れ。
+vo_eny_eny_	samurai_00_	squad_investigate_end_01	vo_eny_eny_samurai_00_squad_investigate_end_01	omuk	hambo	Samurai	commanding	squad leader stops investigation	敵は去った。任務に戻れ。
+vo_eny_eny_	samurai_00_	squad_investigate_end_02	vo_eny_eny_samurai_00_squad_investigate_end_02	omuk	hambo	Samurai	commanding	squad leader stops investigation	ここには誰もおらぬ。任務に戻れ。
+vo_eny_eny_	samurai_00_	squad_investigate_end_03	vo_eny_eny_samurai_00_squad_investigate_end_03	omuk	hambo	Samurai	commanding	squad leader stops investigation	捜索中止。持ち場に戻れ。
+vo_eny_eny_	samurai_00_	squad_investigate_end_04	vo_eny_eny_samurai_00_squad_investigate_end_04	omuk	hambo	Samurai	commanding	squad leader stops investigation	危険は去った。持ち場に戻れ。
+vo_eny_eny_	samurai_00_	squad_investigate_start_00	vo_eny_eny_samurai_00_squad_investigate_start_00	omuk	hambo	Samurai	commanding	squad leader starts investigation	ここ一帯を捜索しろ！
+vo_eny_eny_	samurai_00_	squad_investigate_start_01	vo_eny_eny_samurai_00_squad_investigate_start_01	omuk	hambo	Samurai	commanding	squad leader starts investigation	見つけ次第攻撃しろ。
+vo_eny_eny_	samurai_00_	squad_investigate_start_02	vo_eny_eny_samurai_00_squad_investigate_start_02	omuk	hambo	Samurai	commanding	squad leader starts investigation	敵はまだいるかもしれん！
+vo_eny_eny_	samurai_00_	squad_investigate_start_03	vo_eny_eny_samurai_00_squad_investigate_start_03	omuk	hambo	Samurai	commanding	squad leader starts investigation	くまなく探せ！
+vo_eny_eny_	samurai_00_	squad_investigate_start_04	vo_eny_eny_samurai_00_squad_investigate_start_04	omuk	hambo	Samurai	commanding	squad leader starts investigation	情けは無用だ。
+vo_eny_eny_	samurai_00_	squad_investigate_talk_00	vo_eny_eny_samurai_00_squad_investigate_talk_00	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	ここには何もないぞ！
+vo_eny_eny_	samurai_00_	squad_investigate_talk_01	vo_eny_eny_samurai_00_squad_investigate_talk_01	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	どこに行ったんだ？
+vo_eny_eny_	samurai_00_	squad_investigate_talk_02	vo_eny_eny_samurai_00_squad_investigate_talk_02	omuk	hambo	Samurai	commanding	squad serches the area, commenting on things	油断するな。
+vo_eny_eny_	samurai_00_	squad_investigate_talk_03	vo_eny_eny_samurai_00_squad_investigate_talk_03	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	足跡か？
+vo_eny_eny_	samurai_00_	squad_investigate_talk_04	vo_eny_eny_samurai_00_squad_investigate_talk_04	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	これは足跡か…？違うな。
+vo_eny_eny_	samurai_00_	squad_investigate_talk_05	vo_eny_eny_samurai_00_squad_investigate_talk_05	omuk	hambo	Samurai	tense	squad serches the area, commenting on things	奴らを見かけたか？
+vo_eny_eny_	samurai_00_	squad_investigate_talk_06	vo_eny_eny_samurai_00_squad_investigate_talk_06	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	消えてしまったわけではあるまい。
+vo_eny_eny_	samurai_00_	squad_investigate_talk_07	vo_eny_eny_samurai_00_squad_investigate_talk_07	omuk	hambo	Samurai	annoyed	squad serches the area, commenting on things	幽霊ではないのだぞ！
+vo_eny_eny_	samurai_00_	squad_investigate_talk_08	vo_eny_eny_samurai_00_squad_investigate_talk_08	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	ふむ、何を探せばいいのだ？
+vo_eny_eny_	samurai_00_	squad_investigate_talk_09	vo_eny_eny_samurai_00_squad_investigate_talk_09	omuk	hambo	Samurai	focussed	squad serches the area, commenting on things	本当に何者かを見たのか？
+vo_eny_eny_	samurai_00_	stun_end_00	vo_eny_eny_samurai_00_stun_end_00	omuk		Samurai	enraged	stands up after stun	敵は銃を持っておる！卑怯者め！
+vo_eny_eny_	samurai_00_	stun_end_01	vo_eny_eny_samurai_00_stun_end_01	omuk		Samurai	enraged	stands up after stun	闇討ちだ！
+vo_eny_eny_	samurai_00_	stun_end_02	vo_eny_eny_samurai_00_stun_end_02	omuk		Samurai	enraged	stands up after stun	拙者を撃つなど…その首掻っ切らせてもらう！
+vo_eny_eny_	samurai_00_	stun_end_03	vo_eny_eny_samurai_00_stun_end_03	omuk		Samurai	enraged	stands up after stun	そんなもので拙者を仕留められると思ったか！
+vo_eny_eny_	samurai_00_	stun_end_04	vo_eny_eny_samurai_00_stun_end_04	omuk		Samurai	enraged	stands up after stun	暗殺者…！
+vo_eny_eny_	samurai_00_	stun_scream_00	vo_eny_eny_samurai_00_stun_scream_00	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees	
+vo_eny_eny_	samurai_00_	stun_scream_01	vo_eny_eny_samurai_00_stun_scream_01	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees	
+vo_eny_eny_	samurai_00_	stun_scream_02	vo_eny_eny_samurai_00_stun_scream_02	omuk		Samurai	surprised	(sound) receives a stunning blow, grunts and drops to his knees	
+vo_eny_eny_	samurai_00_	stun_scream_03	vo_eny_eny_samurai_00_stun_scream_03	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	き、貴様…。
+vo_eny_eny_	samurai_00_	stun_scream_04	vo_eny_eny_samurai_00_stun_scream_04	omuk		Samurai	surprised	receives a stunning blow, grunts and drops to his knees	卑怯者…め…。
+vo_gothic_gothic_	samurai_00_	talk_idle_00	vo_gothic_gothic_samurai_00_talk_idle_00	omuk		Samurai	relaxed	(sound) humming tune	
+vo_gothic_gothic_	samurai_00_	talk_idle_01	vo_gothic_gothic_samurai_00_talk_idle_01	omuk		Samurai		(sound) sneeze	
+vo_gothic_gothic_	samurai_00_	talk_idle_02	vo_gothic_gothic_samurai_00_talk_idle_02	omuk		Samurai	surprised	makes noise on duty	フム！
+vo_gothic_gothic_	samurai_00_	talk_idle_03	vo_gothic_gothic_samurai_00_talk_idle_03	omuk		Samurai	surprised	makes noise on duty	あぁ！
+vo_gothic_gothic_	samurai_00_	talk_idle_04	vo_gothic_gothic_samurai_00_talk_idle_04	omuk		Samurai	in thought	makes noise on duty	ふ～む…。
+vo_gothic_gothic_	samurai_00_	talk_idle_05	vo_gothic_gothic_samurai_00_talk_idle_05	omuk		Samurai	in thought	makes noise on duty	そうだな。
+vo_gothic_gothic_	samurai_00_	talk_idle_06	vo_gothic_gothic_samurai_00_talk_idle_06	omuk		Samurai	focussed	makes noise on duty	集中だ。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_00	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_00	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	勝利は確実だ。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_01	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_01	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	フッ…将軍なんぞ…。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_02	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_02	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	一発で…。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_03	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_03	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	ここが拙者の居場所…。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_calm_04	vo_gothic_gothic_samurai_00_talk_idle_battle_calm_04	omuk		Samurai	tense	"makes noise on duty
+(mumbling)"	栄誉の死を…。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_05	vo_gothic_gothic_samurai_00_talk_idle_battle_05	omuk		Samurai	rush of battle	makes noise in battle	装填中。
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_06	vo_gothic_gothic_samurai_00_talk_idle_battle_06	omuk		Samurai	rush of battle	makes noise in battle	拙者は装填中だ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_07	vo_gothic_gothic_samurai_00_talk_idle_battle_07	omuk		Samurai	rush of battle	makes noise in battle	援護を頼む！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_08	vo_gothic_gothic_samurai_00_talk_idle_battle_08	omuk		Samurai	rush of battle	makes noise in battle	死ね、幕府の虫けらめ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_09	vo_gothic_gothic_samurai_00_talk_idle_battle_09	omuk		Samurai	rush of battle	makes noise in battle	城を守るんだ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_10	vo_gothic_gothic_samurai_00_talk_idle_battle_10	omuk		Samurai	rush of battle	makes noise in battle	押せ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_11	vo_gothic_gothic_samurai_00_talk_idle_battle_11	omuk		Samurai	rush of battle	makes noise in battle	撤退しろ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_12	vo_gothic_gothic_samurai_00_talk_idle_battle_12	omuk		Samurai	rush of battle	makes noise in battle	下がれ！
+vo_gothic_gothic_	samurai_00_	talk_idle_battle_13	vo_gothic_gothic_samurai_00_talk_idle_battle_13	omuk		Samurai	rush of battle	makes noise in battle	指揮官がやられた！
+vo_gothic_gothic_	samurai_00_	talk_idle_daimyo_00	vo_gothic_gothic_samurai_00_talk_idle_daimyo_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	藪様のため！
+vo_gothic_gothic_	samurai_00_	talk_idle_general_00	vo_gothic_gothic_samurai_00_talk_idle_general_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	乙事様のため！
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_00	vo_gothic_gothic_samurai_00_talk_idle_kagesama_00	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	カゲサマのため！
+vo_gothic_gothic_	samurai_00_	talk_idle_kagesama_01	vo_gothic_gothic_samurai_00_talk_idle_kagesama_01	omuk		Samurai	dutiful	"makes noise on duty
+(mumbling)"	昇様のため！
+vo_gothic_gothic_	samurai_00_	talk_idle_night_00	vo_gothic_gothic_samurai_00_talk_idle_night_00	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	おお、酒か。
+vo_gothic_gothic_	samurai_00_	talk_idle_night_01	vo_gothic_gothic_samurai_00_talk_idle_night_01	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	今日も長い一日だった。
+vo_gothic_gothic_	samurai_00_	talk_idle_night_02	vo_gothic_gothic_samurai_00_talk_idle_night_02	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	今夜は暗いな。
+vo_gothic_gothic_	samurai_00_	talk_idle_night_03	vo_gothic_gothic_samurai_00_talk_idle_night_03	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	フム…。
+vo_gothic_gothic_	samurai_00_	talk_idle_night_04	vo_gothic_gothic_samurai_00_talk_idle_night_04	omuk		Samurai	tired	"makes noise on duty
+(mumbling)"	フム…集中せねば。
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_00	vo_gothic_gothic_samurai_00_talk_idle_snow_00	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	忌々しい雪め。
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_01	vo_gothic_gothic_samurai_00_talk_idle_snow_01	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	風が冷たいな。
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_02	vo_gothic_gothic_samurai_00_talk_idle_snow_02	omuk		Samurai	cold	"makes noise on duty
+(mumbling)"	寒いな。
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_03	vo_gothic_gothic_samurai_00_talk_idle_snow_03	omuk		Samurai	cold	(sound) slight shiver	
+vo_gothic_gothic_	samurai_00_	talk_idle_snow_04	vo_gothic_gothic_samurai_00_talk_idle_snow_04	omuk		Samurai	cold	(sound) strong shiver	
+vo_gothic_gothic_	samurai_00_	talk_npc_00	vo_gothic_gothic_samurai_00_talk_npc_00	omuk		Samurai	dismissive	dialog without topic	拙者には関係あるまい。
+vo_gothic_gothic_	samurai_00_	talk_npc_01	vo_gothic_gothic_samurai_00_talk_npc_01	omuk		Samurai	aggree	dialog without topic	それだけははっきりしておる。
+vo_gothic_gothic_	samurai_00_	talk_npc_02	vo_gothic_gothic_samurai_00_talk_npc_02	omuk		Samurai	dismissive	dialog without topic	証拠のない噂を信じるでない。
+vo_gothic_gothic_	samurai_00_	talk_npc_03	vo_gothic_gothic_samurai_00_talk_npc_03	omuk		Samurai	disagree	dialog without topic	拙者はその逆の話を聞いたが。
+vo_gothic_gothic_	samurai_00_	talk_npc_04	vo_gothic_gothic_samurai_00_talk_npc_04	omuk		Samurai	aggree	dialog without topic	今までもそうだったからな。
+vo_gothic_gothic_	samurai_00_	talk_npc_05	vo_gothic_gothic_samurai_00_talk_npc_05	omuk		Samurai	dismissive	dialog without topic	奴は腰抜けだ。耳を貸すな。
+vo_gothic_gothic_	samurai_00_	talk_npc_06	vo_gothic_gothic_samurai_00_talk_npc_06	omuk		Samurai	aggree	dialog without topic	拙者もそう思うぞ。
+vo_gothic_gothic_	samurai_00_	talk_npc_07	vo_gothic_gothic_samurai_00_talk_npc_07	omuk		Samurai	warning	dialog without topic	心に留めておけ。口には気を付けるのだ。
+vo_gothic_gothic_	samurai_00_	talk_npc_08	vo_gothic_gothic_samurai_00_talk_npc_08	omuk		Samurai	displeased	dialog without topic	奴は問題ばかり起こしておる。
+vo_gothic_gothic_	samurai_00_	talk_npc_09	vo_gothic_gothic_samurai_00_talk_npc_09	omuk		Samurai	unconcerned	dialog without topic	それでは何も変わらん。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_00	omuk		Samurai	dutiful	confirms orders during battle	御意。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_01	omuk		Samurai	dutiful	confirms orders during battle	上様。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_02	omuk		Samurai	dutiful	confirms orders during battle	ただちに。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_00	omuk		Samurai	rush of battle	confirms orders during battle	仰せつかまつる。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_01	omuk		Samurai	rush of battle	confirms orders during battle	ご期待通りに。
+vo_gothic_gothic_	samurai_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_samurai_00_talk_npc_confirm_battle_02	omuk		Samurai	rush of battle	confirms orders during battle	栄誉のため！
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_00	vo_gothic_gothic_samurai_00_talk_npc_orders_00	omuk		Samurai	focussed	gives orders to guardpost	そのまま警戒しろ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_01	vo_gothic_gothic_samurai_00_talk_npc_orders_01	omuk		Samurai	focussed	gives orders to guardpost	この調子だ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_02	vo_gothic_gothic_samurai_00_talk_npc_orders_02	omuk		Samurai	focussed	gives orders to guardpost	警戒を怠るな。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_03	vo_gothic_gothic_samurai_00_talk_npc_orders_03	omuk		Samurai	focussed	gives orders to guardpost	気を付けろ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_04	vo_gothic_gothic_samurai_00_talk_npc_orders_04	omuk		Samurai	focussed	gives orders to guardpost during battle	頑張ってるな。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_05	vo_gothic_gothic_samurai_00_talk_npc_orders_05	omuk		Samurai	focussed	gives orders to guardpost during battle	怠けるでない。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_00	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	そのまま警戒だ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_01	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	新しい命（めい）がある。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_02	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_02	omuk		Samurai	rush of battle	gives orders to guardpost during battle	そのまま警戒を続けろ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_03	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_03	omuk		Samurai	rush of battle	gives orders to guardpost during battle	自分の配置を死守しろ！
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_04	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_04	omuk		Samurai	rush of battle	gives orders to guardpost during battle	新しい命令だ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_05	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_05	omuk		Samurai	rush of battle	gives orders to guardpost during battle	任務を続けろ。
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_06	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_06	omuk		Samurai	rush of battle	gives orders to guardpost during battle	装填！
+vo_gothic_gothic_	samurai_00_	talk_npc_orders_battle_07	vo_gothic_gothic_samurai_00_talk_npc_orders_battle_07	omuk		Samurai	rush of battle	gives orders to guardpost during battle	撃て！
+vo_gothic_gothic_	samurai_00_	talk_npc_report_00	vo_gothic_gothic_samurai_00_talk_npc_report_00	omuk		Samurai	focussed	asks guardpost for status	報告しろ。
+vo_gothic_gothic_	samurai_00_	talk_npc_report_01	vo_gothic_gothic_samurai_00_talk_npc_report_01	omuk		Samurai	focussed	asks guardpost for status	報告は？
+vo_gothic_gothic_	samurai_00_	talk_npc_report_02	vo_gothic_gothic_samurai_00_talk_npc_report_02	omuk		Samurai	focussed	asks guardpost for status	どうだ？
+vo_gothic_gothic_	samurai_00_	talk_npc_report_03	vo_gothic_gothic_samurai_00_talk_npc_report_03	omuk		Samurai	focussed	asks guardpost for status	何かあったか？
+vo_gothic_gothic_	samurai_00_	talk_npc_report_04	vo_gothic_gothic_samurai_00_talk_npc_report_04	omuk		Samurai	focussed	asks guardpost for status	変わりはないか？
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_00	vo_gothic_gothic_samurai_00_talk_npc_report_battle_00	omuk		Samurai	rush of battle	asks guardpost for status during battle	報告だ。
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_01	vo_gothic_gothic_samurai_00_talk_npc_report_battle_01	omuk		Samurai	rush of battle	asks guardpost for status during battle	報告せよ！
+vo_gothic_gothic_	samurai_00_	talk_npc_report_battle_02	vo_gothic_gothic_samurai_00_talk_npc_report_battle_02	omuk		Samurai	rush of battle	asks guardpost for status during battle	報告するんだ！
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_00	vo_gothic_gothic_samurai_00_talk_npc_tense_00	omuk		Samurai	dutiful	"dialog without topic
+(during open battle)"	新しい命令が下っている！
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_01	vo_gothic_gothic_samurai_00_talk_npc_tense_01	omuk		Samurai	confident	"dialog without topic
+(during open battle)"	そのまま戦え！
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_02	vo_gothic_gothic_samurai_00_talk_npc_tense_02	omuk		Samurai	for honor!	"dialog without topic
+(during open battle)"	今日ここで名誉を授かるのだぞ。
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_03	vo_gothic_gothic_samurai_00_talk_npc_tense_03	omuk		Samurai	for honor!	"dialog without topic
+(during open battle)"	強くあらねばならん。
+vo_gothic_gothic_	samurai_00_	talk_npc_tense_04	vo_gothic_gothic_samurai_00_talk_npc_tense_04	omuk		Samurai	fierce	"dialog without topic
+(during open battle)"	敵が仕掛けてくるのを待つのだ。
+vo_eny_eny_	samurai_00_	urinate_00	vo_eny_eny_samurai_00_urinate_00	omuk		Samurai		(sound) relieves himself	
+vo_eny_eny_	samurai_00_	whistle_00	vo_eny_eny_samurai_00_whistle_00	omuk		Samurai		(sound) whistles a tune	
+vo_eny_eny_	samurai_00_	wounded_00	vo_eny_eny_samurai_00_wounded_00	omuk		Samurai		(sound) badly wounded, lying on stretcher, moaning	
+vo_eny_eny_	samurai_00_	yawn_00	vo_eny_eny_samurai_00_yawn_00	omuk		Samurai		(sound) yawn	
+									

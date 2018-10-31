@@ -1,0 +1,168 @@
+2,3,11												
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE
+vo_eny_eny_	civilian_01_	carry_object_00	vo_eny_eny_civilian_01_carry_object_00	omuk		Civilian F		(sound) carries heavy object		0		0
+vo_eny_eny_	civilian_01_	clear_throat_00	vo_eny_eny_civilian_01_clear_throat_00	omuk		Civilian F		(sound) clears throat		0		0
+vo_eny_eny_	civilian_01_	cough_00	vo_eny_eny_civilian_01_cough_00	omuk		Civilian F		(sound) coughs		0		0
+vo_eny_eny_	civilian_01_	death_scream_00	vo_eny_eny_civilian_01_death_scream_00	omuk	hambo	Civilian F	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_01	vo_eny_eny_civilian_01_death_scream_01	omuk	hambo	Civilian F	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_02	vo_eny_eny_civilian_01_death_scream_02	omuk	hambo	Civilian F	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_03	vo_eny_eny_civilian_01_death_scream_03	omuk	hambo	Civilian F	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_04	vo_eny_eny_civilian_01_death_scream_04	omuk	hambo	Civilian F	shocked	(sound) short deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_00	vo_eny_eny_civilian_01_death_scream_muffled_00	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_01	vo_eny_eny_civilian_01_death_scream_muffled_01	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_02	vo_eny_eny_civilian_01_death_scream_muffled_02	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_03	vo_eny_eny_civilian_01_death_scream_muffled_03	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	civilian_01_	death_scream_muffled_04	vo_eny_eny_civilian_01_death_scream_muffled_04	omuk	hambo	Civilian F	struggling	(sound) muffled deathsound		0		0
+vo_eny_eny_	civilian_01_	detect_corpse_female_02	vo_eny_eny_civilian_01_detect_corpse_female_02	omuk		Civilian F	in denial	sees a corpse	She's dead! No …	4	她死了！不……	1
+vo_eny_eny_	civilian_01_	detect_corpse_female_03	vo_eny_eny_civilian_01_detect_corpse_female_03	omuk		Civilian F	horrified	sees a corpse	They killed her!	3	她被人杀了！	1
+vo_eny_eny_	civilian_01_	detect_corpse_male_00	vo_eny_eny_civilian_01_detect_corpse_male_00	omuk		Civilian F	horrified	sees a corpse	He's dead! No …	4	他死了！不……	1
+vo_eny_eny_	civilian_01_	detect_corpse_male_01	vo_eny_eny_civilian_01_detect_corpse_male_01	omuk		Civilian F	horrified	sees a corpse	They killed him!	3	他被人杀了！	1
+vo_eny_eny_	civilian_01_	detect_corpse_neutral_00	vo_eny_eny_civilian_01_detect_corpse_neutral_00	omuk	hambo	Civilian F	horrified	sees a corpse	Please, stand up.	3	站起来，别吓我	1
+vo_eny_eny_	civilian_01_	detect_corpse_neutral_01	vo_eny_eny_civilian_01_detect_corpse_neutral_01	omuk	hambo	Civilian F	horrified	sees a corpse	How horrible!	2	好可怕！	1
+vo_eny_eny_	civilian_01_	detect_footsteps_00	vo_eny_eny_civilian_01_detect_footsteps_00	omuk	hambo	Civilian F	puzzled	sees player footprints	Curious.	1	这是什么？	1
+vo_eny_eny_	civilian_01_	detect_footsteps_01	vo_eny_eny_civilian_01_detect_footsteps_01	omuk	hambo	Civilian F	puzzled	sees player footprints	Who came this way?	4	谁留下的脚印？	1
+vo_eny_eny_	civilian_01_	detect_footsteps_02	vo_eny_eny_civilian_01_detect_footsteps_02	omuk	hambo	Civilian F	puzzled	sees player footprints	Were these here before?	4	这脚印刚才有吗?	1
+vo_eny_eny_	civilian_01_	detect_lightsource_00	vo_eny_eny_civilian_01_detect_lightsource_00	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	No one took care of the flame.	7	火灭了也没人管	1
+vo_eny_eny_	civilian_01_	detect_lightsource_01	vo_eny_eny_civilian_01_detect_lightsource_01	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	Who let the flame go out?	6	火怎么灭了	1
+vo_eny_eny_	civilian_01_	detect_lightsource_02	vo_eny_eny_civilian_01_detect_lightsource_02	omuk	hambo	Civilian F	worried	sees extiguished lamp, but…	I must relight the flame.	5	我得把火点着	1
+vo_eny_eny_	civilian_01_	detect_player_00	vo_eny_eny_civilian_01_detect_player_00	omuk	hambo	Civilian F	frightened	sees a player character	No! Leave me be!	4	不要！不关我的事！	1
+vo_eny_eny_	civilian_01_	detect_player_01	vo_eny_eny_civilian_01_detect_player_01	omuk	hambo	Civilian F	frightened	sees a player character	Don't hurt me!	3	饶命！	1
+vo_eny_eny_	civilian_01_	detect_player_02	vo_eny_eny_civilian_01_detect_player_02	omuk	hambo	Civilian F	frightened	sees a player character	Someone help!	2	来人救命啊！	1
+vo_eny_eny_	civilian_01_	detect_player_proximity_00	vo_eny_eny_civilian_01_detect_player_proximity_00	omuk	hambo	Civilian F	anxious	senses a nearby player character	Is someone behind me?	4	有人在我后面吗?	1
+vo_eny_eny_	civilian_01_	detect_player_proximity_01	vo_eny_eny_civilian_01_detect_player_proximity_01	omuk	hambo	Civilian F	anxious	senses a nearby player character	Am I being watched?	4	有人在监视我？	1
+vo_eny_eny_	civilian_01_	detect_player_proximity_02	vo_eny_eny_civilian_01_detect_player_proximity_02	omuk	hambo	Civilian F	anxious	senses a nearby player character	I feel evil eyes on me.	6	感觉有人在盯着我	1
+vo_eny_eny_	civilian_01_	detect_sake_00	vo_eny_eny_civilian_01_detect_sake_00	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	A perfect gift for my husband …	7	拿来送我丈夫再好不过了	1
+vo_eny_eny_	civilian_01_	detect_sake_01	vo_eny_eny_civilian_01_detect_sake_01	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	This will sweeten our evening.	5	有美酒，今晚可以…嘻嘻	1
+vo_eny_eny_	civilian_01_	detect_sake_02	vo_eny_eny_civilian_01_detect_sake_02	omuk	hambo	Civilian F	happy	wants to pick up the sake bottle	The men will like this.	5	男人都喜欢这个	1
+vo_eny_eny_	civilian_01_	detect_tanuki_00	vo_eny_eny_civilian_01_detect_tanuki_00	omuk	hambo	Civilian F	giggling	sees the tanuki	How sweet!	2	好可爱!	1
+vo_eny_eny_	civilian_01_	detect_tanuki_01	vo_eny_eny_civilian_01_detect_tanuki_01	omuk	hambo	Civilian F	happy	sees the tanuki	Oh, you are funny.	4	真有意思	1
+vo_eny_eny_	civilian_01_	detect_tanuki_02	vo_eny_eny_civilian_01_detect_tanuki_02	omuk	hambo	Civilian F	kind	sees the tanuki	What's on your mind, little one?	6	怎么了，小不点?	1
+vo_eny_eny_	civilian_01_	detect_unconscious_female_01	vo_eny_eny_civilian_01_detect_unconscious_female_01	omuk		Civilian F	shocked	sees unconcious person	She was hit badly.	4	她受了重击	1
+vo_eny_eny_	civilian_01_	detect_unconscious_female_02	vo_eny_eny_civilian_01_detect_unconscious_female_02	omuk		Civilian F	shocked	sees unconcious person	She is unconscious.	3	她晕过去了	1
+vo_eny_eny_	civilian_01_	detect_unconscious_female_03	vo_eny_eny_civilian_01_detect_unconscious_female_03	omuk		Civilian F	shocked	sees unconcious person	She was attacked.	3	她被袭击了	1
+vo_eny_eny_	civilian_01_	detect_unconscious_male_00	vo_eny_eny_civilian_01_detect_unconscious_male_00	omuk		Civilian F	shocked	sees unconcious person	He was hit badly.	4	他受了重击	1
+vo_eny_eny_	civilian_01_	detect_unconscious_male_01	vo_eny_eny_civilian_01_detect_unconscious_male_01	omuk		Civilian F	shocked	sees unconcious person	He is unconscious.	3	他晕过去了	1
+vo_eny_eny_	civilian_01_	detect_unconscious_male_02	vo_eny_eny_civilian_01_detect_unconscious_male_02	omuk		Civilian F	shocked	sees unconcious person	He was attacked.	3	他被袭击了	1
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_01	vo_eny_eny_civilian_01_detect_unconscious_neutral_01	omuk	hambo	Civilian F	afraid	sees unconcious person	Wake up, please!	3	醒醒啊！	1
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_02	vo_eny_eny_civilian_01_detect_unconscious_neutral_02	omuk	hambo	Civilian F	anxious	sees unconcious person	Who did this to you?	5	谁会干这种事?	1
+vo_eny_eny_	civilian_01_	detect_unconscious_neutral_03	vo_eny_eny_civilian_01_detect_unconscious_neutral_03	omuk	hambo	Civilian F	perplexed	sees unconcious person	Did you fall asleep?	4	你是睡着了么?	1
+vo_eny_eny_	civilian_01_	drink_weeping_00	vo_eny_eny_civilian_01_drink_weeping_00	omuk		Civilian F		(sound) weeping		0		0
+vo_eny_eny_	civilian_01_	drop_object_00	vo_eny_eny_civilian_01_drop_object_00	omuk		Civilian F		(sound) lays down heavy object		0		0
+vo_eny_eny_	civilian_01_	fetch_guard_00	vo_eny_eny_civilian_01_fetch_guard_00	omuk	hambo	Civilian F	begging	points guard to where she saw a player character	Please! You must help!	4	求你了！一定要救我啊！	1
+vo_eny_eny_	civilian_01_	fetch_guard_01	vo_eny_eny_civilian_01_fetch_guard_01	omuk	hambo	Civilian F	urgent	points guard to where she saw a player character	There's danger! Please help!	4	在那边!救命！	1
+vo_eny_eny_	civilian_01_	fetch_guard_02	vo_eny_eny_civilian_01_fetch_guard_02	omuk	hambo	Civilian F	excited	points guard to where she saw a player character	I saw the attacker!	4	我看到凶手了!	1
+vo_eny_eny_	civilian_01_	friend_missing_female_00	vo_eny_eny_civilian_01_friend_missing_female_00	omuk		Civilian F	worried	her partner is missing	Where is she?	3	她去哪儿了?	1
+vo_eny_eny_	civilian_01_	friend_missing_female_01	vo_eny_eny_civilian_01_friend_missing_female_01	omuk		Civilian F	worried	her partner is missing	She should be here.	4	她应该在这儿啊	1
+vo_eny_eny_	civilian_01_	friend_missing_male_00	vo_eny_eny_civilian_01_friend_missing_male_00	omuk		Civilian F	worried	her partner is missing	Where is he?	3	他去哪儿了?	1
+vo_eny_eny_	civilian_01_	friend_missing_male_01	vo_eny_eny_civilian_01_friend_missing_male_01	omuk		Civilian F	worried	her partner is missing	He should be here.	4	他应该在这儿啊	1
+vo_eny_eny_	civilian_01_	friend_missing_neutral_01	vo_eny_eny_civilian_01_friend_missing_neutral_01	omuk	hambo	Civilian F	tired	her partner is missing	I am kept waiting again.	5	居然又让我等	1
+vo_eny_eny_	civilian_01_	friend_missing_neutral_02	vo_eny_eny_civilian_01_friend_missing_neutral_02	omuk	hambo	Civilian F	rationalizing	her partner is missing	There must have been a delay.	6	肯定是被什么事耽搁了	1
+vo_eny_eny_	civilian_01_	friend_wakeup_00	vo_eny_eny_civilian_01_friend_wakeup_00	omuk	hambo	Civilian F	afraid	wakes unconcious person	Please, wake up!	3	快醒醒啊！	1
+vo_eny_eny_	civilian_01_	friend_wakeup_01	vo_eny_eny_civilian_01_friend_wakeup_01	omuk	hambo	Civilian F	nervous	wakes unconcious person	Why are you sleeping?	4	你怎么睡着了？	1
+vo_eny_eny_	civilian_01_	friend_wakeup_02	vo_eny_eny_civilian_01_friend_wakeup_02	omuk	hambo	Civilian F	afraid	wakes unconcious person	Are you hurt?	3	你受伤了吗?	1
+vo_eny_eny_	civilian_01_	hard_work_00	vo_eny_eny_civilian_01_hard_work_00	omuk		Civilian F		(sound) pushing cart, plowing field		0		0
+vo_eny_eny_	civilian_01_	hear_noise_00	vo_eny_eny_civilian_01_hear_noise_00	omuk	hambo	Civilian F	puzzled	hears strange noise	What a strange sound.	4	好奇怪的声音	1
+vo_eny_eny_	civilian_01_	hear_noise_01	vo_eny_eny_civilian_01_hear_noise_01	omuk	hambo	Civilian F	puzzled	hears strange noise	Curious noise.	2	奇怪的声音	1
+vo_eny_eny_	civilian_01_	hear_noise_02	vo_eny_eny_civilian_01_hear_noise_02	omuk	hambo	Civilian F	puzzled	hears strange noise	What did I hear?	4	我好像听到什么?	1
+vo_eny_eny_	civilian_01_	hear_noise_directhit_00	vo_eny_eny_civilian_01_hear_noise_directhit_00	omuk		Civilian F	afraid	is hit by stone	Ah! I beg you, stop.	5	啊！请住手	1
+vo_eny_eny_	civilian_01_	hear_noise_directhit_01	vo_eny_eny_civilian_01_hear_noise_directhit_01	omuk		Civilian F	afraid	is hit by stone	Agh! Why are you tormenting me?	6	啊！为什么要这样对我?	1
+vo_eny_eny_	civilian_01_	hear_noise_directhit_02	vo_eny_eny_civilian_01_hear_noise_directhit_02	omuk		Civilian F	afraid	is hit by stone	Agh! … I don't understand.	5	啊！为什么要这样	1
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_00	vo_eny_eny_civilian_01_hear_noise_gunshot_00	omuk		Civilian F	in panic	hears player gunshot	Oh no!	2	不好！	1
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_01	vo_eny_eny_civilian_01_hear_noise_gunshot_01	omuk		Civilian F	in panic	hears player gunshot	Firearms!	1	枪声！	1
+vo_eny_eny_	civilian_01_	hear_noise_gunshot_02	vo_eny_eny_civilian_01_hear_noise_gunshot_02	omuk		Civilian F	in panic	hears player gunshot	A fight! Run!	3	出事了！得快跑！	1
+vo_eny_eny_	civilian_01_	hear_noise_human_00	vo_eny_eny_civilian_01_hear_noise_human_00	omuk	hambo	Civilian F	nervous	hears human noise	Who is there?	3	谁在那儿？	1
+vo_eny_eny_	civilian_01_	hear_noise_human_01	vo_eny_eny_civilian_01_hear_noise_human_01	omuk	hambo	Civilian F	nervous	hears human noise	Please, show yourself!	3	请现身！	1
+vo_eny_eny_	civilian_01_	hear_noise_human_02	vo_eny_eny_civilian_01_hear_noise_human_02	omuk	hambo	Civilian F	nervous	hears human noise	I warn you, I will call for help!	8	我会大喊救命的！	1
+vo_eny_eny_	civilian_01_	hear_noise_too_much_00	vo_eny_eny_civilian_01_hear_noise_too_much_00	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	I beg you, stop.	4	请住手！	1
+vo_eny_eny_	civilian_01_	hear_noise_too_much_01	vo_eny_eny_civilian_01_hear_noise_too_much_01	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	Why are you tormenting me?	5	为什么要这样对我?	1
+vo_eny_eny_	civilian_01_	hear_noise_too_much_02	vo_eny_eny_civilian_01_hear_noise_too_much_02	omuk	hambo	Civilian F	fearful	unnerved by a continuous string of strange noises	Evil spirits ... I feel them.	6	一定是有鬼怪……我能感觉到	1
+vo_eny_eny_	civilian_01_	hum_00	vo_eny_eny_civilian_01_hum_00	omuk		Civilian F		(sound) humming tune		0		0
+vo_eny_eny_	civilian_01_	investigate_end_00	vo_eny_eny_civilian_01_investigate_end_00	omuk	hambo	Civilian F	reassuring	(not like in squad)	I must have imagined it.	5	肯定是我的幻觉	1
+vo_eny_eny_	civilian_01_	investigate_end_01	vo_eny_eny_civilian_01_investigate_end_01	omuk	hambo	Civilian F	reassuring	(not like in squad)	My mind is playing tricks on me.	7	应该是错觉	1
+vo_eny_eny_	civilian_01_	investigate_end_02	vo_eny_eny_civilian_01_investigate_end_02	omuk	hambo	Civilian F	reassuring	(not like in squad)	I shouldn't linger.	3	不能再在这儿晃悠了	1
+vo_eny_eny_	civilian_01_	knockout_scream_00	vo_eny_eny_civilian_01_knockout_scream_00	omuk	hambo	Civilian F	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	civilian_01_	knockout_scream_01	vo_eny_eny_civilian_01_knockout_scream_01	omuk	hambo	Civilian F	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	civilian_01_	knockout_scream_02	vo_eny_eny_civilian_01_knockout_scream_02	omuk	hambo	Civilian F	stunned	(sound) gets knocked out		0		0
+vo_eny_eny_	civilian_01_	oxwagondrive_00	vo_eny_eny_civilian_01_oxwagondrive_00	omuk		Civilian F		unused, don't record		0		0
+vo_eny_eny_	civilian_01_	oxwagonhalt_00	vo_eny_eny_civilian_01_oxwagonhalt_00	omuk		Civilian F		unused, don't record		0		0
+vo_eny_eny_	civilian_01_	pickup_object_00	vo_eny_eny_civilian_01_pickup_object_00	omuk		Civilian F		(sound) picks up heavy object		0		0
+vo_eny_eny_	civilian_01_	regain_consciousness_00	vo_eny_eny_civilian_01_regain_consciousness_00	omuk	hambo	Civilian F	in pain	knocked out, wakes up	Ugh, it hurts.	3	啊，好疼	1
+vo_eny_eny_	civilian_01_	regain_consciousness_01	vo_eny_eny_civilian_01_regain_consciousness_01	omuk	hambo	Civilian F	in pain	knocked out, wakes up	My head.	2	我的头	1
+vo_eny_eny_	civilian_01_	regain_consciousness_02	vo_eny_eny_civilian_01_regain_consciousness_02	omuk	hambo	Civilian F	in pain	knocked out, wakes up	Was it an animal?	4	我是被动物攻击了吗?	1
+vo_eny_eny_	civilian_01_	see_something_00	vo_eny_eny_civilian_01_see_something_00	omuk	hambo	Civilian F	skeptical	sees something strange	That's strange.	2	奇怪…	1
+vo_eny_eny_	civilian_01_	see_something_01	vo_eny_eny_civilian_01_see_something_01	omuk	hambo	Civilian F	puzzled	sees something strange	How curious.	2	真奇怪	1
+vo_eny_eny_	civilian_01_	see_something_02	vo_eny_eny_civilian_01_see_something_02	omuk	hambo	Civilian F	disturbed	sees something strange	What is that?	3	那是什么？	1
+vo_eny_eny_	civilian_01_	skill_tanuki_done_00	vo_eny_eny_civilian_01_skill_tanuki_done_00	omuk	hambo	Civilian F	back to work	stops watching tanuki (racoon)	I must go, little one.	5	差不多该走了	1
+vo_eny_eny_	civilian_01_	skill_tanuki_done_01	vo_eny_eny_civilian_01_skill_tanuki_done_01	omuk	hambo	Civilian F	goodbye	stops watching tanuki (racoon)	Farewell. Be safe.	3	再见，要乖乖的哦	1
+vo_eny_eny_	civilian_01_	skill_tanuki_done_02	vo_eny_eny_civilian_01_skill_tanuki_done_02	omuk	hambo	Civilian F	apologetic	stops watching tanuki (racoon)	Forgive me, I have no food for you.	8	不好意思，没有带吃的	1
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_00	vo_eny_eny_civilian_01_skill_tanuki_runaway_00	omuk	hambo	Civilian F	goodbye	tanuki runs away	Alright, off you go.	4	快走吧	1
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_01	vo_eny_eny_civilian_01_skill_tanuki_runaway_01	omuk	hambo	Civilian F	annoyed	tanuki runs away	That's right, away with you.	5	这就对了，快走	1
+vo_eny_eny_	civilian_01_	skill_tanuki_runaway_02	vo_eny_eny_civilian_01_skill_tanuki_runaway_02	omuk	hambo	Civilian F	back to work	tanuki runs away	There he goes. Back to work.	6	走了呢，该回去干活了	1
+vo_eny_eny_	civilian_01_	talk_geisha_00	vo_eny_eny_civilian_01_talk_geisha_00	omuk		Civilian F	polite	"is approached by Geisha
+(Excuse me …)"	Hmm?	1	嗯？	1
+vo_eny_eny_	civilian_01_	talk_geisha_01	vo_eny_eny_civilian_01_talk_geisha_01	omuk		Civilian F	polite	"is approached by Geisha
+(Excuse me …)"	Yes?	1	怎么了？	1
+vo_eny_eny_	civilian_01_	talk_geisha_02	vo_eny_eny_civilian_01_talk_geisha_02	omuk		Civilian F	polite	"is approached by Geisha
+(Excuse me …)"	A pleasure.	2	当然没问题	1
+vo_eny_eny_	civilian_01_	talk_geisha_03	vo_eny_eny_civilian_01_talk_geisha_03	omuk		Civilian F	polite	"is approached by Geisha
+(Excuse me …)"	How can I help?	4	我能帮什么忙吗?	1
+vo_eny_eny_	civilian_01_	talk_geisha_04	vo_eny_eny_civilian_01_talk_geisha_04	omuk		Civilian F	polite	"is approached by Geisha
+(Excuse me …)"	Good day.	2	你好	1
+vo_eny_eny_	civilian_01_	talk_geisha_leave_00	vo_eny_eny_civilian_01_talk_geisha_leave_00	omuk		Civilian F	polite	"is left by Geisha
+(I thank you. Farewell ...)"	Goodbye.	1	再见	1
+vo_eny_eny_	civilian_01_	talk_geisha_leave_01	vo_eny_eny_civilian_01_talk_geisha_leave_01	omuk		Civilian F	polite	"is left by Geisha
+(I thank you. Farewell ...)"	I hope I could help.	5	希望能帮上忙	1
+vo_eny_eny_	civilian_01_	talk_geisha_leave_02	vo_eny_eny_civilian_01_talk_geisha_leave_02	omuk		Civilian F	polite	"is left by Geisha
+(I thank you. Farewell ...)"	It was nothing.	3	无需挂齿	1
+vo_eny_eny_	civilian_01_	talk_geisha_leave_03	vo_eny_eny_civilian_01_talk_geisha_leave_03	omuk		Civilian F	polite	"is left by Geisha
+(I thank you. Farewell ...)"	Farewell!	1	再见!	1
+vo_eny_eny_	civilian_01_	talk_geisha_leave_04	vo_eny_eny_civilian_01_talk_geisha_leave_04	omuk		Civilian F	polite	"is left by Geisha
+(I thank you. Farewell ...)"	Farewell.	1	告辞	1
+vo_gothic_gothic_	civilian_01_	talk_idle_00	vo_gothic_gothic_civilian_01_talk_idle_00	omuk		Civilian F	relaxed	(sound) humming tune		0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_01	vo_gothic_gothic_civilian_01_talk_idle_01	omuk		Civilian F		(sound) sneeze		0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_02	vo_gothic_gothic_civilian_01_talk_idle_02	omuk		Civilian F	surprised	to herself, slight mumbling	Hmm!	1	嗯！	1
+vo_gothic_gothic_	civilian_01_	talk_idle_03	vo_gothic_gothic_civilian_01_talk_idle_03	omuk		Civilian F	surprised	to herself, slight mumbling	Ah!	1	啊！	1
+vo_gothic_gothic_	civilian_01_	talk_idle_04	vo_gothic_gothic_civilian_01_talk_idle_04	omuk		Civilian F	in thought	to herself, slight mumbling	Hmm …	2	嗯……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_05	vo_gothic_gothic_civilian_01_talk_idle_05	omuk		Civilian F	in thought	to herself, slight mumbling	Hm, yes.	2	嗯，是的	1
+vo_gothic_gothic_	civilian_01_	talk_idle_06	vo_gothic_gothic_civilian_01_talk_idle_06	omuk		Civilian F	relaxed	long exhale	Hah …	2	哈……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_00	vo_gothic_gothic_civilian_01_talk_idle_afraid_00	omuk		Civilian F	afraid	weak, helpless	… n-no.	2	……不	1
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_01	vo_gothic_gothic_civilian_01_talk_idle_afraid_01	omuk		Civilian F	afraid	weak, helpless	… why ...	3	为什么……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_02	vo_gothic_gothic_civilian_01_talk_idle_afraid_02	omuk		Civilian F	afraid	weak, helpless	… please …	3	求你了……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_03	vo_gothic_gothic_civilian_01_talk_idle_afraid_03	omuk		Civilian F	afraid	weak, helpless	… help ...	3	救命……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_afraid_04	vo_gothic_gothic_civilian_01_talk_idle_afraid_04	omuk		Civilian F	afraid	weak, helpless	… anyone ...	3	有人吗……	1
+vo_gothic_gothic_	civilian_01_	talk_idle_night_00	vo_gothic_gothic_civilian_01_talk_idle_night_00	omuk		Civilian F	tired	mumbling	Hmm … sake.	3	清酒…呵呵	1
+vo_gothic_gothic_	civilian_01_	talk_idle_night_01	vo_gothic_gothic_civilian_01_talk_idle_night_01	omuk		Civilian F	tired	mumbling	I've been up all day.	5	已经一天忙到晚了	1
+vo_gothic_gothic_	civilian_01_	talk_idle_night_02	vo_gothic_gothic_civilian_01_talk_idle_night_02	omuk		Civilian F	tired	mumbling	The stars look beautiful tonight.	5	今夜的星空真漂亮	1
+vo_gothic_gothic_	civilian_01_	talk_idle_night_03	vo_gothic_gothic_civilian_01_talk_idle_night_03	omuk		Civilian F	tired	(sound) short yawn		0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_night_04	vo_gothic_gothic_civilian_01_talk_idle_night_04	omuk		Civilian F	tired	(sound) longer yawn		0		0
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_00	vo_gothic_gothic_civilian_01_talk_idle_snow_00	omuk		Civilian F	cold	mumbling	Huh, snowflakes.	2	雪花…？	1
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_01	vo_gothic_gothic_civilian_01_talk_idle_snow_01	omuk		Civilian F	cold	mumbling	It's freezing.	2	真冷啊	1
+vo_gothic_gothic_	civilian_01_	talk_idle_snow_02	vo_gothic_gothic_civilian_01_talk_idle_snow_02	omuk		Civilian F	cold	mumbling	So cold.	2	好冷	1
+vo_gothic_gothic_	civilian_01_	talk_npc_00	vo_gothic_gothic_civilian_01_talk_npc_00	omuk		Civilian F	dismissive	dialog without topic	That doesn't concern me.	4	与我无关咯	1
+vo_gothic_gothic_	civilian_01_	talk_npc_01	vo_gothic_gothic_civilian_01_talk_npc_01	omuk		Civilian F	aggree	dialog without topic	That much is known.	4	对啊是这样的	1
+vo_gothic_gothic_	civilian_01_	talk_npc_02	vo_gothic_gothic_civilian_01_talk_npc_02	omuk		Civilian F	dismissive	dialog without topic	You shouldn't believe everything you hear.	6	不要听到什么都相信啊	1
+vo_gothic_gothic_	civilian_01_	talk_npc_03	vo_gothic_gothic_civilian_01_talk_npc_03	omuk		Civilian F	disagree	dialog without topic	I have heard otherwise.	4	我听到的恰恰相反	1
+vo_gothic_gothic_	civilian_01_	talk_npc_04	vo_gothic_gothic_civilian_01_talk_npc_04	omuk		Civilian F	aggree	dialog without topic	That's how it's always been.	5	一向如此嘛	1
+vo_gothic_gothic_	civilian_01_	talk_npc_05	vo_gothic_gothic_civilian_01_talk_npc_05	omuk		Civilian F	dismissive	dialog without topic	She's mad. Don't listen to her.	6	她是傻子，别听她的	1
+vo_gothic_gothic_	civilian_01_	talk_npc_06	vo_gothic_gothic_civilian_01_talk_npc_06	omuk		Civilian F	aggree	dialog without topic	We can agree on that.	5	我也是这么想的	1
+vo_gothic_gothic_	civilian_01_	talk_npc_07	vo_gothic_gothic_civilian_01_talk_npc_07	omuk		Civilian F	anxious	dialog without topic	Be careful what you say.	5	你说话要小心	1
+vo_gothic_gothic_	civilian_01_	talk_npc_08	vo_gothic_gothic_civilian_01_talk_npc_08	omuk		Civilian F	concerned	dialog without topic	This is grave news.	4	这事儿很严重的	1
+vo_gothic_gothic_	civilian_01_	talk_npc_09	vo_gothic_gothic_civilian_01_talk_npc_09	omuk		Civilian F	unconcerned	dialog without topic	It will pass.	3	很快就会过去的	1
+vo_gothic_gothic_	civilian_01_	talk_npc_afraid_00	vo_gothic_gothic_civilian_01_talk_npc_afraid_00	omuk		Civilian F	afraid	dialog without topic	That's what I heard at least.	6	至少我听说是这样	1
+vo_gothic_gothic_	civilian_01_	talk_npc_afraid_01	vo_gothic_gothic_civilian_01_talk_npc_afraid_01	omuk		Civilian F	afraid	dialog without topic	Hush … don't speak too loud.	6	嘘……不要说这么大声	1
+vo_gothic_gothic_	civilian_01_	talk_npc_afraid_02	vo_gothic_gothic_civilian_01_talk_npc_afraid_02	omuk		Civilian F	afraid	dialog without topic	Don't say anything, you hear!	5	可别告诉别人啊!	1
+vo_gothic_gothic_	civilian_01_	talk_npc_afraid_03	vo_gothic_gothic_civilian_01_talk_npc_afraid_03	omuk		Civilian F	afraid	dialog without topic	Why did they do that?	5	他们为什么要做那种事?	1
+vo_gothic_gothic_	civilian_01_	talk_npc_afraid_04	vo_gothic_gothic_civilian_01_talk_npc_afraid_04	omuk		Civilian F	afraid	dialog without topic	What happened then?	3	然后呢，发生了什么？	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_00	vo_gothic_gothic_civilian_01_talk_npc_confirm_00	omuk		Civilian F	submissive	receives orders	Yes, my lord	3	遵命	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_01	vo_gothic_gothic_civilian_01_talk_npc_confirm_01	omuk		Civilian F	submissive	receives orders	I understand.	2	明白了	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_02	vo_gothic_gothic_civilian_01_talk_npc_confirm_02	omuk		Civilian F	submissive	receives orders	Yes, of course.	3	是，当然。	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_03	vo_gothic_gothic_civilian_01_talk_npc_confirm_03	omuk		Civilian F	submissive	receives orders	Understood.	1	明白	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_04	vo_gothic_gothic_civilian_01_talk_npc_confirm_04	omuk		Civilian F	submissive	receives orders	As you wish.	3	谨遵卿命	1
+vo_gothic_gothic_	civilian_01_	talk_npc_confirm_05	vo_gothic_gothic_civilian_01_talk_npc_confirm_05	omuk		Civilian F	submissive	receives orders	As you command.	3	谨遵指示	1
+vo_eny_eny_	civilian_01_	urinate_00	vo_eny_eny_civilian_01_urinate_00	omuk		Civilian F		unused, don't record		0		0
+vo_eny_eny_	civilian_01_	whimper_00	vo_eny_eny_civilian_01_whimper_00	omuk		Civilian F		(sound) fearful whimper		0		0
+vo_eny_eny_	civilian_01_	whistle_00	vo_eny_eny_civilian_01_whistle_00	omuk		Civilian F		(sound) whistles a tune		0		0
+vo_eny_eny_	civilian_01_	wipesweat_00	vo_eny_eny_civilian_01_wipesweat_00	omuk		Civilian F		(sound) wipe swat from brow during hard work		0		0
+vo_eny_eny_	civilian_01_	yawn_00	vo_eny_eny_civilian_01_yawn_00	omuk		Civilian F		(sound) yawn		0		0
+												
+									WORDCOUNT EN:	448		122

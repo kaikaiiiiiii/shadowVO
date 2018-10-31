@@ -1,0 +1,36 @@
+4,2,9		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+Ōshiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ryūnosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Killing Noboru has saved the country.
+2) The Shogun gets a new heir.
+3)  The team members go seperate ways."
+									
+OUTRO									Stylyzed render cutscene with narration.
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN
+vocs_over_over_	_n00	vocs_over_over_finalcastle_outro_n00				NARRATOR			昇の死により、カゲサマの陰謀はようやく終わりを迎えた。
+vocs_over_over_	_n01	vocs_over_over_finalcastle_outro_n01				NARRATOR			歴史は真実とは限らない。歴史は昇が実の兄によって軟禁され、そして自決したとされている。
+vocs_over_over_	_n02	vocs_over_over_finalcastle_outro_n02				NARRATOR			武源の復讐を果たしたのち、解散した一行のその後を知る者はいない。が、しかし。その偉業は多くの伝説を生み出した。
+vocs_over_over_	_n03	vocs_over_over_finalcastle_outro_n03				NARRATOR			陰謀や反乱に終わりはない。しかし、彼の幕府はその後三百年もの間、平和を維持したのである。
+vocs_over_over_	_n05	vocs_over_over_finalcastle_outro_n05				NARRATOR			将軍のためにどれだけの人が戦い、命を落としたのか。名前も功績も世に出ることがなく、その物語は永遠に闇の中に沈んでいるのだ。
+									

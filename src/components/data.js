@@ -1,3 +1,16 @@
+export const modes=["Story","Charactors","Music","Video"]
+
+export const languages=[
+    {code:"cn",text:"中文"},
+    {code:"en",text:"English"},
+    {code:"jp",text:"日本語"}
+]
+
+export const voices = [
+    { code: "en", text: "English" },
+    { code: "jp", text: "日本語" }
+]
+
 export const levels=[
     {order:1,name:{CN:"大阪城",EN:"Ōsaka Castle",JP:"大阪城"},mission:{CN:"大阪攻城战",EN:"The Siege of Ōsaka",JP:"大阪攻城戦"},cover:"mission_preview_firstcastle.png",isChapter:true,origin:"firstcastle"},
     {order:3,name:{CN:"中山道",EN:"Nakasendō Road",JP:"中山道"},mission:{CN:"中山道之劫",EN:"Trouble on the Nakasendō",JP:"中山道での苦難"},cover:"mission_preview_convoy.png",isChapter:true,origin:"convoy"},
@@ -24,4 +37,15 @@ export const levels=[
     {order:21,name:"",mission:{CN:"",EN:"",JP:""},cover:"",isChapter:false,origin:"bathhouse_post"},
     {order:23,name:"",mission:{CN:"",EN:"",JP:""},cover:"",isChapter:false,origin:"shoguncamp_post"},
     {order:25,name:"",mission:{CN:"",EN:"",JP:""},cover:"",isChapter:false,origin:"finalcastle_post"},
+]
+
+export const speakers = [
+    {id:"NARRATOR",name:{CN:"旁白"},icon:"icon1"},
+    {id:"NINJA",name:{CN:"隼人"},icon:"icon1"},
+    {id:"GUARD1",name:{CN:"敌人"},icon:"icon1"},
+    {id: "GUARD2", name:{CN:"敌人"},icon:"icon1"},
+    {id:"OFFICER",name:{CN:"军官"},icon:"icon1"},
+    {id:"WARRIOR",name:{CN:"无限"},icon:"icon1"},
+    {id:"ALCHEMIST",name:{CN:"琢磨"},icon:"icon1"},
+    {id:"SAMURAI",name:{CN:"武士"},icon:"icon1"},
 ]

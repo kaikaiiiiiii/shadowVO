@@ -1,0 +1,326 @@
+PREFIX	CHAR	ACTION	SUFFIX	NAME	Variation	Loop	Gameplay	REC.	IMPL.	used for	SPEAKER	MOOD	COMMENT	EN	CEN	DE	CDE	EN - Proofread	Changed?	Simplified Chinese	
+vo_ply_ply_	war_	char_select_	normal_00	vo_ply_ply_war_char_select_normal_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	stealthy		My life for the Shogun.	5		0	My life for the Shogun.		为将军效命	
+vo_ply_ply_	war_	char_select_	normal_01	vo_ply_ply_war_char_select_normal_01				omuk	philipp	sel character	Warrior	stealthy		I will be patient.	4		0	I will be patient.		必须学会忍耐	
+vo_ply_ply_	war_	char_select_	normal_02	vo_ply_ply_war_char_select_normal_02				omuk	philipp	sel character	Warrior	stealthy		I am prepared.	3		0	I am prepared.		准备就绪	
+vo_ply_ply_	war_	char_select_	normal_03	vo_ply_ply_war_char_select_normal_03				omuk	philipp	sel character	Warrior	stealthy		The time has come.	4		0	The time has come.		时机已到	
+vo_ply_ply_	war_	char_select_	normal_04	vo_ply_ply_war_char_select_normal_04				omuk	philipp	sel character	Warrior	stealthy		Yes, this is good.	4		0	Yes, this is good.		啊，很好	
+vo_ply_ply_	war_	char_select_	normal_05	vo_ply_ply_war_char_select_normal_05				omuk	philipp	sel character	Warrior	stealthy		Together we are strong.	4		0	Together we are strong.		团结力量大	
+vo_ply_ply_	war_	char_select_	normal_06	vo_ply_ply_war_char_select_normal_06				omuk	philipp	sel character	Warrior	stealthy		I must be vigilant.	4		0	I must be vigilant.		必须保持警惕	
+vo_ply_ply_	war_	char_select_	normal_07	vo_ply_ply_war_char_select_normal_07				omuk	philipp	sel character	Warrior	stealthy		A fine day to face death.	6		0	A fine day to face death.		今天死而无憾	
+vo_ply_ply_	war_	char_select_	normal_08	vo_ply_ply_war_char_select_normal_08				omuk	philipp	sel character	Warrior	stealthy		Glory awaits.	2		0	Glory awaits.		荣耀在等待我	
+vo_ply_ply_	war_	char_select_	normal_09	vo_ply_ply_war_char_select_normal_09				omuk	philipp	sel character	Warrior	stealthy		My task is clear.	4		0	My task is clear.		任务已经明确	
+vo_ply_ply_	war_	char_select_	normal_10	vo_ply_ply_war_char_select_normal_10				omuk	philipp	sel character	Warrior	stealthy		Patience is the greatest weapon.	5		0	Patience is the greatest weapon.		忍耐才是最强的武器	
+vo_ply_ply_	war_	char_select_	tense_00	vo_ply_ply_war_char_select_tense_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	tense		Time is of the essence!	5		0	Time is of the essence!		时间是关键！	
+vo_ply_ply_	war_	char_select_	tense_01	vo_ply_ply_war_char_select_tense_01				omuk	philipp	sel character	Warrior	tense		We must be vigilant!	4		0	We must be vigilant!		必须保持警惕！	
+vo_ply_ply_	war_	char_select_	tense_02	vo_ply_ply_war_char_select_tense_02				omuk	philipp	sel character	Warrior	tense		We will see tomorrow!	4		0	We will see tomorrow!		我们还有未来	
+vo_ply_ply_	war_	char_select_	tense_03	vo_ply_ply_war_char_select_tense_03				omuk	philipp	sel character	Warrior	tense		Trouble waits ahead!	3		0	Trouble waits ahead!		前方困难重重	
+vo_ply_ply_	war_	char_select_	tense_04	vo_ply_ply_war_char_select_tense_04				omuk	philipp	sel character	Warrior	tense		We must be quick!	4		0	We must be quick!		必须迅速行动！	
+vo_ply_ply_	war_	char_select_	tense_05	vo_ply_ply_war_char_select_tense_05				omuk	philipp	sel character	Warrior	tense		We will succeed!	3		0	We will succeed!		我们会成功的！	
+vo_ply_ply_	war_	char_select_	tense_06	vo_ply_ply_war_char_select_tense_06				omuk	philipp	sel character	Warrior	tense		My life for the Shogun!	5		0	My life for the Shogun!		为将军效命！	
+vo_ply_ply_	war_	char_select_	tense_07	vo_ply_ply_war_char_select_tense_07				omuk	philipp	sel character	Warrior	tense		Glory awaits us!	3		0	Glory awaits us!		荣耀在等待我们！	
+vo_ply_ply_	war_	char_select_	tense_08	vo_ply_ply_war_char_select_tense_08				omuk	philipp	sel character	Warrior	tense		We will not falter!	4		0	We will not falter!		我们不会动摇！	
+vo_ply_ply_	war_	char_select_	tense_09	vo_ply_ply_war_char_select_tense_09				omuk	philipp	sel character	Warrior	tense		We are masters of our fate!	6		0	We are masters of our fate!		我们的命运由自己决定！	
+vo_ply_ply_	war_	char_select_	tense_10	vo_ply_ply_war_char_select_tense_10				omuk	philipp	sel character	Warrior	tense		Death is watching!	3		0	Death is watching!		死亡在等待！	
+vo_ply_ply_	war_	char_select_	cold_00	vo_ply_ply_war_char_select_cold_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	cold	feels a bit cold	A samurai does not feel cold.	6		0	A samurai does not feel cold.		武士感觉不到寒冷	
+vo_ply_ply_	war_	char_select_	cold_01	vo_ply_ply_war_char_select_cold_01				omuk	philipp	sel character	Warrior	cold	supressed sneeze	... Forgive me.	3		0	…forgive me.	YES	…不好意思	
+vo_ply_ply_	war_	char_select_	cold_02	vo_ply_ply_war_char_select_cold_02				omuk	philipp	sel character	Warrior	cold		Snow creates its own beauty.	5		0	Snow creates its own beauty.		雪也别有风情	
+vo_ply_ply_	war_	char_select_	cold_03	vo_ply_ply_war_char_select_cold_03				omuk	philipp	sel character	Warrior	cold		The winds bite today.	4		0	The winds bite today.		今天的风真是刺骨	
+vo_ply_ply_	war_	char_select_	cold_04	vo_ply_ply_war_char_select_cold_04				omuk	philipp	sel character	Warrior	cold		Urgh … snow in the armour.	6		0	Urgh…snow in the armor.	YES	唔…雪进盔甲里面了	
+vo_ply_ply_	war_	char_select_	cold_05	vo_ply_ply_war_char_select_cold_05				omuk	philipp	sel character	Warrior	cold		A cold place …	4		0	A cold place…	YES	这儿还真冷…	
+vo_ply_ply_	war_	char_select_	cold_06	vo_ply_ply_war_char_select_cold_06				omuk	philipp	sel character	Warrior	cold		Hrm, my beard is frozen …	6		0	Mmm…my beard is frozen…	YES	嗯…我的胡须都冻上了	
+vo_ply_ply_	war_	char_select_	war_00	vo_ply_ply_war_char_select_war_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	alive	a bit louder than usual	I am Ōshiro Mugen!	4		0	I am Ōshiro Mugen!		我叫尾城无限！	
+vo_ply_ply_	war_	char_select_	war_01	vo_ply_ply_war_char_select_war_01				omuk	philipp	sel character	Warrior	alive	a bit louder than usual	Remember my name!	3		0	Remember my name!		记住我的名字！	
+vo_ply_ply_	war_	char_select_	war_02	vo_ply_ply_war_char_select_war_02				omuk	philipp	sel character	Warrior	alive	a bit louder than usual	A glorious battle!	3		0	A glorious battle!		荣耀之战！	
+vo_ply_ply_	war_	char_select_	war_03	vo_ply_ply_war_char_select_war_03				omuk	philipp	sel character	Warrior	alive	a bit louder than usual	This fight is not over!	5		0	This fight is not over!		战斗还没结束！	
+vo_ply_ply_	war_	char_select_	war_04	vo_ply_ply_war_char_select_war_04				omuk	philipp	sel character	Warrior	alive	a bit louder than usual	Let us end this war!	5		0	Let us end this war!		让我们终结此战！	
+vo_ply_ply_	war_	char_select_	war_05	vo_ply_ply_war_char_select_war_05				omuk	philipp	sel character	Warrior	approving		Death, honour. A fair trade.	5		0	Death, honor. A fair trade.	YES	死亡换名誉，公平的交易	
+vo_ply_ply_	war_	char_select_	team_00	vo_ply_ply_war_char_select_team_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	content		The enemy fears us.	4		0	The enemy fears us.		敌人害怕我们	
+vo_ply_ply_	war_	char_select_	team_01	vo_ply_ply_war_char_select_team_01				omuk	philipp	sel character	Warrior	content		We will end this together.	5		0	We will end this together.		一起来终结此战	
+vo_ply_ply_	war_	char_select_	team_02	vo_ply_ply_war_char_select_team_02				omuk	philipp	sel character	Warrior	content		Each of you has my trust.	6		0	Each of you has my trust.		我信任你们每一个人	
+vo_ply_ply_	war_	char_select_	team_03	vo_ply_ply_war_char_select_team_03				omuk	philipp	sel character	Warrior	content		I have faith in you all.	6		0	I have faith in you all.		我信赖大家	
+vo_ply_ply_	war_	char_select_	team_04	vo_ply_ply_war_char_select_team_04				omuk	philipp	sel character	Warrior	content		Your loyalty honours me.	4		0	Your loyalty honors me.	YES	你们的忠诚是我的光荣	
+vo_ply_ply_	war_	char_select_	team_05	vo_ply_ply_war_char_select_team_05				omuk	philipp	sel character	Warrior	content		We come for you, Kage-sama.	5		0	We come for you, Kage-sama.		我们来找你了，影大人	
+vo_ply_ply_	war_	char_select_	rain_00	vo_ply_ply_war_char_select_rain_00	Iconic	No	Yes	omuk	philipp	sel character	Warrior	displeased		Unfortunate weather.	2		0	Unfortunate weather.		这天气，真不走运	
+vo_ply_ply_	war_	char_select_	rain_01	vo_ply_ply_war_char_select_rain_01				omuk	philipp	sel character	Warrior	displeased		The clouds bear a grudge.	5		0	The clouds bear a grudge.		这些乌云好像和我们有仇	
+vo_ply_ply_	war_	char_select_	rain_02	vo_ply_ply_war_char_select_rain_02				omuk	philipp	sel character	Warrior	displeased		Curse this rain!	3		0	Curse this rain!		可恶的雨！	
+vo_ply_ply_	war_	char_select_	rain_03	vo_ply_ply_war_char_select_rain_03				omuk	philipp	sel character	Warrior	displeased		A miserable place.	3		0	A miserable place.		这地方真让人不愉快	
+vo_ply_ply_	war_	char_select_	rain_04	vo_ply_ply_war_char_select_rain_04				omuk	philipp	sel character	Warrior	displeased		Rain has its beauty but not today.	7		0	Rain has its beauty, but not today.	YES	雨也别有风情，但今天不是时候	
+vo_ply_ply_	war_	char_select_	rain_05	vo_ply_ply_war_char_select_rain_05				omuk	philipp	sel character	Warrior	displeased		So much rain, so much blood.	6		0	So much rain, so much blood.		血流如注，就如这倾盆大雨	
+vo_ply_ply_	war_	confirm_	normal_00	vo_ply_ply_war_confirm_normal_00				omuk	philipp	com valid	Warrior	stealthy		For the Shogun.	3		0	For the Shogun.		为了将军	
+vo_ply_ply_	war_	confirm_	normal_01	vo_ply_ply_war_confirm_normal_01				omuk	philipp	com valid	Warrior	stealthy		I will be subtle.	4		0	I will be subtle.		我会小心行事	
+vo_ply_ply_	war_	confirm_	normal_02	vo_ply_ply_war_confirm_normal_02				omuk	philipp	com valid	Warrior	stealthy		I will be silent.	4		0	I will be silent.		我会轻声行动	
+vo_ply_ply_	war_	confirm_	normal_03	vo_ply_ply_war_confirm_normal_03				omuk	philipp	com valid	Warrior	stealthy		Patience.	1		0	Patience.		忍耐	
+vo_ply_ply_	war_	confirm_	normal_04	vo_ply_ply_war_confirm_normal_04				omuk	philipp	com valid	Warrior	stealthy		On my way.	3		0	On my way.		这就过去	
+vo_ply_ply_	war_	confirm_	normal_05	vo_ply_ply_war_confirm_normal_05				omuk	philipp	com valid	Warrior	stealthy		I will not fail.	4		0	I will not fail.		我不会失败的	
+vo_ply_ply_	war_	confirm_	normal_06	vo_ply_ply_war_confirm_normal_06				omuk	philipp	com valid	Warrior	stealthy		I will remain hidden.	4		0	I will remain hidden.		我会保持隐蔽	
+vo_ply_ply_	war_	confirm_	normal_07	vo_ply_ply_war_confirm_normal_07				omuk	philipp	com valid	Warrior	stealthy		I will be there.	4		0	I will be there.		马上前往	
+vo_ply_ply_	war_	confirm_	normal_08	vo_ply_ply_war_confirm_normal_08				omuk	philipp	com valid	Warrior	stealthy		For duty.	2		0	For duty.		为了责任	
+vo_ply_ply_	war_	confirm_	tense_00	vo_ply_ply_war_confirm_tense_00				omuk	philipp	com valid	Warrior	tense		For the Shogun!	3		0	For the Shogun!		为了将军！	
+vo_ply_ply_	war_	confirm_	tense_01	vo_ply_ply_war_confirm_tense_01				omuk	philipp	com valid	Warrior	tense		Let us make haste.	4		0	Let us make haste!	YES	迅速行动！	
+vo_ply_ply_	war_	confirm_	tense_02	vo_ply_ply_war_confirm_tense_02				omuk	philipp	com valid	Warrior	tense		Let us be quick!	4		0	Let us be quick!		加快速度！	
+vo_ply_ply_	war_	confirm_	tense_03	vo_ply_ply_war_confirm_tense_03				omuk	philipp	com valid	Warrior	tense		A fine strategy.	3		0	A fine strategy.		很好的计划	
+vo_ply_ply_	war_	confirm_	tense_04	vo_ply_ply_war_confirm_tense_04				omuk	philipp	com valid	Warrior	tense		On my way!	3		0	On my way!		这就过去！	
+vo_ply_ply_	war_	confirm_	tense_05	vo_ply_ply_war_confirm_tense_05				omuk	philipp	com valid	Warrior	tense		We shall not fail.	4		0	We shall not fail.		我们不能失败！	
+vo_ply_ply_	war_	confirm_	tense_06	vo_ply_ply_war_confirm_tense_06				omuk	philipp	com valid	Warrior	tense		At once!	2		0	At once!		立即行动！	
+vo_ply_ply_	war_	confirm_	tense_07	vo_ply_ply_war_confirm_tense_07				omuk	philipp	com valid	Warrior	tense		I will be there at once.	6		0	I will be there at once.		马上过去	
+vo_ply_ply_	war_	confirm_	tense_08	vo_ply_ply_war_confirm_tense_08				omuk	philipp	com valid	Warrior	tense		For honour!	2		0	For honor!	YES	为了荣耀	
+vo_ply_ply_	war_	confirm_	cold_00	vo_ply_ply_war_confirm_cold_00				omuk	philipp	com valid	Warrior	cold		We should keep moving.	4		0	We should keep moving.		应该继续行动	
+vo_ply_ply_	war_	confirm_	cold_01	vo_ply_ply_war_confirm_cold_01				omuk	philipp	com valid	Warrior	cold		We should mind our tracks.	5		0	We should mind our tracks.		小心足迹	
+vo_ply_ply_	war_	confirm_	cold_02	vo_ply_ply_war_confirm_cold_02				omuk	philipp	com valid	Warrior	cold		The cold will not stop us.	6		0	The cold will not stop us.		寒冷挡不住我们	
+vo_ply_ply_	war_	confirm_	cold_03	vo_ply_ply_war_confirm_cold_03				omuk	philipp	com valid	Warrior	cold		Onward through the snow.	4		0	Onward through the snow.		踏雪而行	
+vo_ply_ply_	war_	confirm_	cold_04	vo_ply_ply_war_confirm_cold_04				omuk	philipp	com valid	Warrior	cold		Careful. The ground is slippery.	5		0	Careful. The ground is slippery.		小心，地面很滑	
+vo_ply_ply_	war_	confirm_	cold_05	vo_ply_ply_war_confirm_cold_05				omuk	philipp	com valid	Warrior	cold		Our footprints will be noticed.	5		0	Our footprints will be noticed.		他们会看到我们的脚印	
+vo_ply_ply_	war_	confirm_	war_00	vo_ply_ply_war_confirm_war_00				omuk	philipp	com valid	Warrior	alive		Into battle!	2		0	Into battle!		开战！	
+vo_ply_ply_	war_	confirm_	war_01	vo_ply_ply_war_confirm_war_01				omuk	philipp	com valid	Warrior	alive		To glory!	2		0	To glory!		为了荣耀！	
+vo_ply_ply_	war_	confirm_	war_02	vo_ply_ply_war_confirm_war_02				omuk	philipp	com valid	Warrior	alive		Face death!	2		0	Face death!		直面死亡！	
+vo_ply_ply_	war_	confirm_	war_03	vo_ply_ply_war_confirm_war_03				omuk	philipp	com valid	Warrior	alive		We will be victorious.	4		0	We will be victorious.		我们会收获胜利	
+vo_ply_ply_	war_	confirm_	war_04	vo_ply_ply_war_confirm_war_04				omuk	philipp	com valid	Warrior	alive		The day is ours!	4		0	The day is ours.	YES	胜利属于我们	
+vo_ply_ply_	war_	confirm_	war_05	vo_ply_ply_war_confirm_war_05				omuk	philipp	com valid	Warrior	alive		This is our moment!	4		0	This is our moment.	YES	这一刻属于我们	
+vo_ply_ply_	war_	confirm_	team_00	vo_ply_ply_war_confirm_team_00				omuk	philipp	com valid	Warrior	content		We will act as one.	5		0	We will act as one.		让我们统一行动	
+vo_ply_ply_	war_	confirm_	team_01	vo_ply_ply_war_confirm_team_01				omuk	philipp	com valid	Warrior	content		I approve.	2		0	I approve.		我同意	
+vo_ply_ply_	war_	confirm_	team_02	vo_ply_ply_war_confirm_team_02				omuk	philipp	com valid	Warrior	content		Together, Hayato-san.	2		0	Together, Hayato-san.		一起行动吧，隼人兄	
+vo_ply_ply_	war_	confirm_	team_03	vo_ply_ply_war_confirm_team_03				omuk	philipp	com valid	Warrior	content		For you, Aiko-san.	3		0	For you, Aiko-san.		为你而战，爱子小姐	
+vo_ply_ply_	war_	confirm_	team_04	vo_ply_ply_war_confirm_team_04				omuk	philipp	com valid	Warrior	content		Watch over us, Takuma-san.	4		0	Watch over us, Takuma-san.		掩护我们，琢磨大师	
+vo_ply_ply_	war_	confirm_	team_05	vo_ply_ply_war_confirm_team_05				omuk	philipp	com valid	Warrior	content		I am with you, Yuki-chan.	5		0	I'm with you, Yuki-chan.	YES	放心有我在，友希小妹	
+vo_ply_ply_	war_	confirm_	rain_00	vo_ply_ply_war_confirm_rain_00				omuk	philipp	com valid	Warrior	displeased		Onward, through the mud.	4		0	Onward, through the mud.		穿过泥地，前进	
+vo_ply_ply_	war_	confirm_	rain_01	vo_ply_ply_war_confirm_rain_01				omuk	philipp	com valid	Warrior	displeased		Rain will not stop us.	5		0	Rain will not stop us.		下雨也阻止不了我们	
+vo_ply_ply_	war_	confirm_	rain_02	vo_ply_ply_war_confirm_rain_02				omuk	philipp	com valid	Warrior	displeased		We are needed.	3		0	We are needed.		我们有任务在身	
+vo_ply_ply_	war_	confirm_	rain_03	vo_ply_ply_war_confirm_rain_03				omuk	philipp	com valid	Warrior	displeased		We can dry later.	4		0	We can dry later.		等会儿再烤干身上	
+vo_ply_ply_	war_	confirm_	rain_04	vo_ply_ply_war_confirm_rain_04				omuk	philipp	com valid	Warrior	displeased	can't get any more wet	Hrm, I am already wet.	5		0	Hmph. I am already wet.	YES	嗯，我已经湿透了	
+vo_ply_ply_	war_	confirm_	rain_05	vo_ply_ply_war_confirm_rain_05				omuk	philipp	com valid	Warrior	displeased		Mind the puddles.	3		0	Mind the puddles.		小心水坑	
+vo_ply_ply_	war_	refuse_	normal_00	vo_ply_ply_war_refuse_normal_00				omuk	philipp	com invalid	Warrior	stealthy		Impossible.	1		0	Impossible.		不可能	
+vo_ply_ply_	war_	refuse_	normal_01	vo_ply_ply_war_refuse_normal_01				omuk	philipp	com invalid	Warrior	stealthy		Apologies.	1		0	Apologies.		很抱歉	
+vo_ply_ply_	war_	refuse_	normal_02	vo_ply_ply_war_refuse_normal_02				omuk	philipp	com invalid	Warrior	stealthy		It is not in my power.	6		0	It is not in my power.		在下力不能及	
+vo_ply_ply_	war_	refuse_	normal_03	vo_ply_ply_war_refuse_normal_03				omuk	philipp	com invalid	Warrior	stealthy		I cannot, no.	3		0	I cannot, no.		在下做不到	
+vo_ply_ply_	war_	refuse_	normal_04	vo_ply_ply_war_refuse_normal_04				omuk	philipp	com invalid	Warrior	stealthy		This leads nowhere.	3		0	This leads nowhere.		这样不行的	
+vo_ply_ply_	war_	refuse_	tense_00	vo_ply_ply_war_refuse_tense_00				omuk	philipp	com invalid	Warrior	tense		Preposterous!	1		0	Preposterous!		真是荒唐！	
+vo_ply_ply_	war_	refuse_	tense_01	vo_ply_ply_war_refuse_tense_01				omuk	philipp	com invalid	Warrior	tense		Impossible!	1		0	Impossible!		不可能！	
+vo_ply_ply_	war_	refuse_	tense_02	vo_ply_ply_war_refuse_tense_02				omuk	philipp	com invalid	Warrior	tense		I cannot!	2		0	I cannot!		在下做不到！	
+vo_ply_ply_	war_	refuse_	tense_03	vo_ply_ply_war_refuse_tense_03				omuk	philipp	com invalid	Warrior	tense		This accomplishes nothing.	3		0	This accomplishes nothing.		这样没用的	
+vo_ply_ply_	war_	refuse_	tense_04	vo_ply_ply_war_refuse_tense_04				omuk	philipp	com invalid	Warrior	tense		I disagree.	2		0	I disagree.		在下反对	
+vo_ply_ply_	war_	refuse_path_	normal_00	vo_ply_ply_war_refuse_path_normal_00				omuk	philipp	com move unreachable	Warrior	stealthy		This is too steep.	4		0	This is too steep.		那边太难走了	
+vo_ply_ply_	war_	refuse_path_	normal_01	vo_ply_ply_war_refuse_path_normal_01				omuk	philipp	com move unreachable	Warrior	stealthy		Ha! I am not that agile.	6		0	Ha! I am not that agile.		哈！在下身手没那么好	
+vo_ply_ply_	war_	refuse_path_	normal_02	vo_ply_ply_war_refuse_path_normal_02				omuk	philipp	com move unreachable	Warrior	stealthy		That is beyond my reach.	5		0	That is beyond my reach.		在下够不到那里	
+vo_ply_ply_	war_	refuse_path_	tense_00	vo_ply_ply_war_refuse_path_tense_00				omuk	philipp	com move unreachable	Warrior	tense		Too steep!	2		0	Too steep.	YES	太难走了	
+vo_ply_ply_	war_	refuse_path_	tense_01	vo_ply_ply_war_refuse_path_tense_01				omuk	philipp	com move unreachable	Warrior	tense		I am not that agile!	5		0	I am not that agile!		在下身手没那么好！	
+vo_ply_ply_	war_	refuse_path_	tense_02	vo_ply_ply_war_refuse_path_tense_02				omuk	philipp	com move unreachable	Warrior	tense		It is beyond my reach!	5		0	It is beyond my reach.	YES	在下够不到那儿	
+vo_ply_ply_	war_	refuse_door_enemy_	normal_00	vo_ply_ply_war_refuse_door_enemy_normal_00				omuk	philipp	com door with enemy	Warrior	stealthy		No. Occupied.	2		0	No. Occupied.		不行，里面有人了	
+vo_ply_ply_	war_	refuse_door_enemy_	normal_01	vo_ply_ply_war_refuse_door_enemy_normal_01				omuk	philipp	com door with enemy	Warrior	stealthy		Unwise. There is someone inside.	5		0	Unwise. There is someone inside.		那就太傻了，里面已经有人了	
+vo_ply_ply_	war_	refuse_door_enemy_	normal_02	vo_ply_ply_war_refuse_door_enemy_normal_02				omuk	philipp	com door with enemy	Warrior	stealthy		No, the enemy is inside.	5		0	No, the enemy is inside.		不行，敌人在里面	
+vo_ply_ply_	war_	refuse_door_enemy_	tense_00	vo_ply_ply_war_refuse_door_enemy_tense_00				omuk	philipp	com door with enemy	Warrior	tense		It is occupied!	3		0	It is occupied!		里面有人了！	
+vo_ply_ply_	war_	refuse_door_enemy_	tense_01	vo_ply_ply_war_refuse_door_enemy_tense_01				omuk	philipp	com door with enemy	Warrior	tense		There is someone inside!	4		0	There is someone inside!		里面有其他人了！	
+vo_ply_ply_	war_	refuse_door_enemy_	tense_02	vo_ply_ply_war_refuse_door_enemy_tense_02				omuk	philipp	com door with enemy	Warrior	tense		Enemies inside!	2		0	Enemies inside!		敌人在里面！	
+vo_ply_ply_	war_	refuse_path_usable_	normal_00	vo_ply_ply_war_refuse_path_usable_normal_00				omuk	philipp	com move unreachable without usables	Warrior	stealthy		Hm, I must find a shortcut.	6		0	I must find a shortcut.	YES	必须找条捷径	
+vo_ply_ply_	war_	refuse_path_usable_	normal_01	vo_ply_ply_war_refuse_path_usable_normal_01				omuk	philipp	com move unreachable without usables	Warrior	stealthy		Is there a ladder somewhere?	5		0	Is there a ladder somewhere?		附近有没有梯子？	
+vo_ply_ply_	war_	refuse_path_usable_	normal_02	vo_ply_ply_war_refuse_path_usable_normal_02				omuk	philipp	com move unreachable without usables	Warrior	stealthy		There must be better way.	5		0	There must be a better way.	YES	肯定有更好的方法	
+vo_ply_ply_	war_	refuse_path_usable_	tense_00	vo_ply_ply_war_refuse_path_usable_tense_00				omuk	philipp	com move unreachable without usables	Warrior	tense		I must find a shortcut!	5		0	I must find a shortcut!		必须找条捷径！	
+vo_ply_ply_	war_	refuse_path_usable_	tense_01	vo_ply_ply_war_refuse_path_usable_tense_01				omuk	philipp	com move unreachable without usables	Warrior	tense		I need a ladder!	4		0	I need a ladder!		需要一个梯子！	
+vo_ply_ply_	war_	refuse_path_usable_	tense_02	vo_ply_ply_war_refuse_path_usable_tense_02				omuk	philipp	com move unreachable without usables	Warrior	tense		There's a better way!	4		0	There is a better way!	YES	肯定有更好的方法！	
+vo_ply_ply_	war_	refuse_cooldown_	normal_00	vo_ply_ply_war_refuse_cooldown_normal_00				omuk	philipp	com skill on cooldown	Warrior	stealthy		Not yet. Patience.	3		0	Not yet. Patience.		还没好，要忍耐	
+vo_ply_ply_	war_	refuse_cooldown_	normal_01	vo_ply_ply_war_refuse_cooldown_normal_01				omuk	philipp	com skill on cooldown	Warrior	stealthy		I must wait.	3		0	I must wait.		必须再等等	
+vo_ply_ply_	war_	refuse_cooldown_	normal_02	vo_ply_ply_war_refuse_cooldown_normal_02				omuk	philipp	com skill on cooldown	Warrior	stealthy		This requires more time.	4		0	This requires more time.		还需要时间	
+vo_ply_ply_	war_	refuse_cooldown_	tense_00	vo_ply_ply_war_refuse_cooldown_tense_00				omuk	philipp	com skill on cooldown	Warrior	tense		Not yet!	2		0	Not yet!		还没好！	
+vo_ply_ply_	war_	refuse_cooldown_	tense_01	vo_ply_ply_war_refuse_cooldown_tense_01				omuk	philipp	com skill on cooldown	Warrior	tense		Patience!	1		0	Patience!		忍耐！	
+vo_ply_ply_	war_	refuse_cooldown_	tense_02	vo_ply_ply_war_refuse_cooldown_tense_02				omuk	philipp	com skill on cooldown	Warrior	tense		Still waiting!	2		0	Still waiting!		再等一下！	
+vo_ply_ply_	war_	refuse_noammo_	normal_00	vo_ply_ply_war_refuse_noammo_normal_00				omuk	philipp	com skill no ammo	Warrior	stealthy		I am lacking.	3		0	I am lacking.		没有补给了	
+vo_ply_ply_	war_	refuse_noammo_	normal_01	vo_ply_ply_war_refuse_noammo_normal_01				omuk	philipp	com skill no ammo	Warrior	stealthy		I have nothing.	3		0	I have nothing.		身上没有补给	
+vo_ply_ply_	war_	refuse_noammo_	normal_02	vo_ply_ply_war_refuse_noammo_normal_02				omuk	philipp	com skill no ammo	Warrior	stealthy		No, I have run out.	5		0	No, I have run out.		补给用光了	
+vo_ply_ply_	war_	refuse_noammo_	tense_00	vo_ply_ply_war_refuse_noammo_tense_00				omuk	philipp	com skill no ammo	Warrior	tense		I am lacking!	3		0	I am lacking!		没有补给！	
+vo_ply_ply_	war_	refuse_noammo_	tense_01	vo_ply_ply_war_refuse_noammo_tense_01				omuk	philipp	com skill no ammo	Warrior	tense		I have nothing!	3		0	I have nothing!		身上没有补给！	
+vo_ply_ply_	war_	refuse_noammo_	tense_02	vo_ply_ply_war_refuse_noammo_tense_02				omuk	philipp	com skill no ammo	Warrior	tense	of bullets, bandages …	I have run out!	4		0	I have run out!		补给用光了！	
+vo_ply_ply_	war_	take_damage_	normal_00	vo_ply_ply_war_take_damage_normal_00				omuk	philipp	char take damage	Warrior	fighting	gets hurt	Ha! A worthy opponent!	4		0	Ha! A worthy opponent!		哈！遇到对手了！	
+vo_ply_ply_	war_	take_damage_	normal_01	vo_ply_ply_war_take_damage_normal_01				omuk	philipp	char take damage	Warrior	fighting	gets hurt	Just a flesh wound.	4		0	Urgh! …just a flesh wound.	YES	不就是点皮肉伤	
+vo_ply_ply_	war_	take_damage_	normal_02	vo_ply_ply_war_take_damage_normal_02				omuk	philipp	char take damage	Warrior	fighting	(sound) gets hurt		0		0				
+vo_ply_ply_	war_	take_damage_	normal_03	vo_ply_ply_war_take_damage_normal_03				omuk	philipp	char take damage	Warrior	fighting	(sound) gets hurt		0		0				
+vo_ply_ply_	war_	take_damage_	normal_04	vo_ply_ply_war_take_damage_normal_04				omuk	philipp	char take damage	Warrior	fighting	(sound) gets hurt		0		0				
+vo_ply_ply_	war_	take_damage_	normal_05	vo_ply_ply_war_take_damage_normal_05				omuk	philipp	char take damage	Warrior	fighting	(sound) gets hurt		0		0				
+vo_ply_ply_	war_	death_	normal_00	vo_ply_ply_war_death_normal_00				omuk	philipp	char death	Warrior	dying	dies in the end	My Shogun … forgive me …	6		0	My Shogun…forgive me…	YES	将军大人…请恕我…	
+vo_ply_ply_	war_	death_	normal_01	vo_ply_ply_war_death_normal_01				omuk	philipp	char death	Warrior	dying	dies in the end	My love … forgive me …	6		0	My love…forgive…	YES	我的爱人…原谅我…	
+vo_ply_ply_	war_	corpse_pickup_execute_	normal_00	vo_ply_ply_war_corpse_pickup_execute_normal_00				omuk	philipp	"pickup corpse
+pickup object"	Warrior		(sound) pick up dead body		0		0				
+vo_ply_ply_	war_	corpse_pickup_execute_	normal_01	vo_ply_ply_war_corpse_pickup_execute_normal_01				omuk	philipp	"pickup corpse
+pickup object"	Warrior		(sound) pick up dead body		0		0				
+vo_ply_ply_	war_	corpse_pickup_execute_	normal_02	vo_ply_ply_war_corpse_pickup_execute_normal_02				omuk	philipp	"pickup corpse
+pickup object"	Warrior		(sound) pick up dead body		0		0				
+vo_ply_ply_	war_	corpse_drop_execute_	normal_00	vo_ply_ply_war_corpse_drop_execute_normal_00				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Warrior		(sound) lay down dead body		0		0				
+vo_ply_ply_	war_	corpse_drop_execute_	normal_01	vo_ply_ply_war_corpse_drop_execute_normal_01				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Warrior		(sound) lay down dead body		0		0				
+vo_ply_ply_	war_	corpse_drop_execute_	normal_02	vo_ply_ply_war_corpse_drop_execute_normal_02				omuk	philipp	"drop corpse
+drop corpse in door
+throw corpse off cliffs
+drop object"	Warrior		(sound) lay down dead body		0		0				
+vo_ply_ply_	war_	corpse_throw_execute_	normal_00	vo_ply_ply_war_corpse_throw_execute_normal_00				omuk	philipp	"throw corpse
+throw object"	Warrior		(sound) throws something heavy		0		0				
+vo_ply_ply_	war_	corpse_throw_execute_	normal_01	vo_ply_ply_war_corpse_throw_execute_normal_01				omuk	philipp	"throw corpse
+throw object"	Warrior		(sound) throws something heavy		0		0				
+vo_ply_ply_	war_	corpse_throw_execute_	normal_02	vo_ply_ply_war_corpse_throw_execute_normal_02				omuk	philipp	"throw corpse
+throw object"	Warrior		(sound) throws something heavy		0		0				
+vo_ply_ply_	war_	use_vertical_execute_	normal_00	vo_ply_ply_war_use_vertical_execute_normal_00				omuk	philipp	use vertical	Warrior		(sound) climbing		0		0				
+vo_ply_ply_	war_	use_vertical_execute_	normal_01	vo_ply_ply_war_use_vertical_execute_normal_01				omuk	philipp	use vertical	Warrior		(sound) climbing		0		0				
+vo_ply_ply_	war_	use_vertical_execute_	normal_02	vo_ply_ply_war_use_vertical_execute_normal_02				omuk	philipp	use vertical	Warrior		(sound) climbing		0		0				
+vo_ply_ply_	war_	use_vertical_comment_	normal_00	vo_ply_ply_war_use_vertical_comment_normal_00				omuk		after use vertical	Warrior	stealthy		There we are.	3		0	Ah, there we are.	YES	我们到了	
+vo_ply_ply_	war_	use_vertical_comment_	tense_00	vo_ply_ply_war_use_vertical_comment_tense_00				omuk		after use vertical	Warrior	tense		Here.	1		0	…here.	YES	…到了	
+vo_ply_ply_	war_	melee_select_	normal_00	vo_ply_ply_war_melee_select_normal_00				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	stealthy		I will use my katana …	6		0	I will use my katana…	YES	在下要用刀了...	
+vo_ply_ply_	war_	melee_select_	normal_01	vo_ply_ply_war_melee_select_normal_01				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	stealthy		My blade for the Shogun.	5		0	My blade for the Shogun.		我的刀，为将军而战	
+vo_ply_ply_	war_	melee_select_	normal_02	vo_ply_ply_war_melee_select_normal_02				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	stealthy		One strike …	3		0	One strike…	YES	一击必杀…	
+vo_ply_ply_	war_	melee_select_	tense_00	vo_ply_ply_war_melee_select_tense_00				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	tense		I must use my katana!	5		0	I must use my katana!		在下必须用刀了！	
+vo_ply_ply_	war_	melee_select_	tense_01	vo_ply_ply_war_melee_select_tense_01				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	tense		My blade for the Shogun!	5		0	My blade for the Shogun!		我的刀，为将军而战！	
+vo_ply_ply_	war_	melee_select_	tense_02	vo_ply_ply_war_melee_select_tense_02				omuk	philipp	"sel skill melee
+switch from knockout"	Warrior	tense		One strike!	2		0	One strike!		一击必杀！	
+vo_ply_ply_	war_	melee_execute_	normal_00	vo_ply_ply_war_melee_execute_normal_00				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty katana strike		0		0				
+vo_ply_ply_	war_	melee_execute_	normal_01	vo_ply_ply_war_melee_execute_normal_01				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty katana strike		0		0				
+vo_ply_ply_	war_	melee_execute_	normal_02	vo_ply_ply_war_melee_execute_normal_02				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty katana strike		0		0				
+vo_ply_ply_	war_	melee_comment_	normal_00	vo_ply_ply_war_melee_comment_normal_00				omuk		after skill melee	Warrior	stealthy	rare	The end was swift.	4		0	The end was swift.		死得也算干脆	
+vo_ply_ply_	war_	melee_comment_	normal_01	vo_ply_ply_war_melee_comment_normal_01				omuk		after skill melee	Warrior	stealthy	rare	Duty demanded your death.	4		0	Duty demanded your death.		杀人是为了任务	
+vo_ply_ply_	war_	melee_comment_	tense_00	vo_ply_ply_war_melee_comment_tense_00				omuk		after skill melee	Warrior	tense	rare	It is done.	3		0	It is done.		结束了	
+vo_ply_ply_	war_	melee_comment_	tense_01	vo_ply_ply_war_melee_comment_tense_01				omuk		after skill melee	Warrior	tense	rare	Death has come.	3		0	Death has come.		死亡降临	
+vo_ply_ply_	war_	melee_comment_samurai_	normal_00	vo_ply_ply_war_melee_comment_samurai_normal_00				omuk		after samurai kill	Warrior	stealthy	rare	A worthy opponent.	3		0	A worthy opponent.		值得尊敬的对手	
+vo_ply_ply_	war_	melee_comment_samurai_	normal_01	vo_ply_ply_war_melee_comment_samurai_normal_01				omuk		after samurai kill	Warrior	stealthy	rare	You died with honour.	4		0	You died with honor.	YES	你也算是光荣战死了	
+vo_ply_ply_	war_	melee_comment_samurai_	tense_00	vo_ply_ply_war_melee_comment_samurai_tense_00				omuk		after samurai kill	Warrior	tense	rare	A worthy opponent!	3		0	A worthy opponent.	YES	值得尊敬的对手	
+vo_ply_ply_	war_	melee_comment_samurai_	tense_01	vo_ply_ply_war_melee_comment_samurai_tense_01				omuk		after samurai kill	Warrior	tense	rare	Die with honour!	3		0	Die with honor!	YES	光荣战死吧	
+vo_ply_ply_	war_	knockout_select_	normal_00	vo_ply_ply_war_knockout_select_normal_00				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	stealthy		No need for blood today.	5		0	No need for blood today.		今天不需要流血	
+vo_ply_ply_	war_	knockout_select_	normal_01	vo_ply_ply_war_knockout_select_normal_01				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	stealthy		My blade can rest.	4		0	My blade can rest.		让我的刀休息一下	
+vo_ply_ply_	war_	knockout_select_	normal_02	vo_ply_ply_war_knockout_select_normal_02				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	stealthy		I might spare a life today.	6		0	I might spare a life today.		今天可以饶人一命	
+vo_ply_ply_	war_	knockout_select_	tense_00	vo_ply_ply_war_knockout_select_tense_00				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	tense		No need for blood!	4		0	No need for blood!		不需要流血！	
+vo_ply_ply_	war_	knockout_select_	tense_01	vo_ply_ply_war_knockout_select_tense_01				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	tense		My blade rests!	3		0	My blade rests!		让刀休息一下！	
+vo_ply_ply_	war_	knockout_select_	tense_02	vo_ply_ply_war_knockout_select_tense_02				omuk	philipp	"sel skill knockout
+switch from melee"	Warrior	tense		A single blow!	3		0	A single blow!		一击必倒！	
+vo_ply_ply_	war_	knockout_execute_	normal_00	vo_ply_ply_war_knockout_execute_normal_00				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty punch Bud Spencer style		0		0				
+vo_ply_ply_	war_	knockout_execute_	normal_01	vo_ply_ply_war_knockout_execute_normal_01				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty punch Bud Spencer style		0		0				
+vo_ply_ply_	war_	knockout_execute_	normal_02	vo_ply_ply_war_knockout_execute_normal_02				omuk	philipp	use skill melee	Warrior	quickly	(sound) kills a person with one mighty punch Bud Spencer style		0		0				
+vo_ply_ply_	war_	knockout_comment_	normal_00	vo_ply_ply_war_knockout_comment_normal_00				omuk		after skill knockout	Warrior	stealthy		Yes, that will do.	4		0	Yes, that will do.		这样就足够了	
+vo_ply_ply_	war_	knockout_comment_	normal_01	vo_ply_ply_war_knockout_comment_normal_01				omuk		after skill knockout	Warrior	stealthy		You can rest now.	4		0	You can rest now.		稍微休息一下吧	
+vo_ply_ply_	war_	knockout_comment_	normal_02	vo_ply_ply_war_knockout_comment_normal_02				omuk		after skill knockout	Warrior	stealthy		Best stay down.	3		0	Best…stay down.	YES	你最好还是躺下吧	
+vo_ply_ply_	war_	knockout_comment_	tense_00	vo_ply_ply_war_knockout_comment_tense_00				omuk		after skill knockout	Warrior	tense		That will do!	3		0	That will do!		这样就够了！	
+vo_ply_ply_	war_	knockout_comment_	tense_01	vo_ply_ply_war_knockout_comment_tense_01				omuk		after skill knockout	Warrior	tense		Rest now!	2		0	Rest now!		休息吧！	
+vo_ply_ply_	war_	knockout_comment_	tense_02	vo_ply_ply_war_knockout_comment_tense_02				omuk		after skill knockout	Warrior	tense		Stay down!	2		0	Stay down!		躺下吧！	
+vo_ply_ply_	war_	knockout_comment_samurai_	normal_00	vo_ply_ply_war_knockout_comment_samurai_normal_00				omuk		after samurai knockout	Warrior	stealthy		Step lightly around this one.	5		0	Step lightly around this one.		在他周围走要小心	
+vo_ply_ply_	war_	knockout_comment_samurai_	normal_01	vo_ply_ply_war_knockout_comment_samurai_normal_01				omuk		after samurai knockout	Warrior	stealthy		He will wake up soon.	5		0	He will wake up soon.		他很快就会醒过来	
+vo_ply_ply_	war_	knockout_comment_samurai_	tense_00	vo_ply_ply_war_knockout_comment_samurai_tense_00				omuk		after samurai knockout	Warrior	tense		Step lightly around him!	4		0	Step lightly around him.	YES	在他周围走要小心	
+vo_ply_ply_	war_	knockout_comment_samurai_	tense_01	vo_ply_ply_war_knockout_comment_samurai_tense_01				omuk		after samurai knockout	Warrior	tense		He will wake up soon!	5		0	He will wake up soon!		他很快就会醒！	
+vo_ply_ply_	war_	sake_select_	normal_00	vo_ply_ply_war_sake_select_normal_00				omuk	philipp	sel skill sake	Warrior	stealthy		A fine brew.	3		0	A fine brew.		这可是好酒	
+vo_ply_ply_	war_	sake_select_	normal_01	vo_ply_ply_war_sake_select_normal_01				omuk	philipp	sel skill sake	Warrior	stealthy		A lure.	2		0	A lure.		好诱饵	
+vo_ply_ply_	war_	sake_select_	normal_02	vo_ply_ply_war_sake_select_normal_02				omuk	philipp	sel skill sake	Warrior	stealthy		Ah, sake.	2		0	Ah, sake!	YES	啊，好酒	
+vo_ply_ply_	war_	sake_select_	normal_03	vo_ply_ply_war_sake_select_normal_03				omuk	philipp	sel skill sake	Warrior	stealthy	Tokkuri (徳利) = Sake Bottle	Ah, my Tokkuri.	3		0	Ah, my Tokkuri.		啊，在下的酒瓶	
+vo_ply_ply_	war_	sake_select_	tense_00	vo_ply_ply_war_sake_select_tense_00				omuk	philipp	sel skill sake	Warrior	tense		Good memories!	2		0	Good memories.	YES	充满回忆！	
+vo_ply_ply_	war_	sake_select_	tense_01	vo_ply_ply_war_sake_select_tense_01				omuk	philipp	sel skill sake	Warrior	tense		We need a lure!	4		0	A lure!	YES	好诱饵！	
+vo_ply_ply_	war_	sake_select_	tense_02	vo_ply_ply_war_sake_select_tense_02				omuk	philipp	sel skill sake	Warrior	tense		Heh, sake!	2		0	Haha! Sake!	YES	嘿，好酒！	
+vo_ply_ply_	war_	knockout_execute_	normal_00	vo_ply_ply_war_knockout_execute_normal_00				omuk	philipp	use skill melee	Warrior	quietly	(sound) gently drops a sake bottle on the ground		0		0				
+vo_ply_ply_	war_	knockout_execute_	normal_01	vo_ply_ply_war_knockout_execute_normal_01				omuk	philipp	use skill melee	Warrior	quietly	(sound) gently drops a sake bottle on the ground		0		0				
+vo_ply_ply_	war_	knockout_execute_	normal_02	vo_ply_ply_war_knockout_execute_normal_02				omuk	philipp	use skill melee	Warrior	quietly	(sound) gently drops a sake bottle on the ground		0		0				
+vo_ply_ply_	war_	sake_comment_	normal_00	vo_ply_ply_war_sake_comment_normal_00				omuk		after skill sake	Warrior	stealthy		The bait is placed.	4		0	The bait is placed.		诱饵已放出	
+vo_ply_ply_	war_	sake_comment_	normal_01	vo_ply_ply_war_sake_comment_normal_01				omuk		after skill sake	Warrior	stealthy		Shame to give this away.	5		0	Shame to give this away.		拿来当诱饵真是可惜了	
+vo_ply_ply_	war_	sake_comment_	tense_00	vo_ply_ply_war_sake_comment_tense_00				omuk		after skill sake	Warrior	tense		The lure is set!	4		0	The lure is set!		诱饵已放！	
+vo_ply_ply_	war_	sake_comment_	tense_01	vo_ply_ply_war_sake_comment_tense_01				omuk		after skill sake	Warrior	tense		I'm fond of this!	4		0	I'm fond of this!		这可是在下的宝贝！	
+vo_ply_ply_	war_	sake_comment_spot_	normal_00	vo_ply_ply_war_sake_comment_spot_normal_00				omuk		after sake is spotted	Warrior	stealthy		Have a drink, friend.	4		0	Have a drink, friend.		来喝一杯，朋友	
+vo_ply_ply_	war_	sake_comment_spot_	normal_01	vo_ply_ply_war_sake_comment_spot_normal_01				omuk		after sake is spotted	Warrior	stealthy		None can resist this offer.	5		0	None can resist this offer.		没人能抵挡这种诱惑	
+vo_ply_ply_	war_	sake_comment_spot_	tense_00	vo_ply_ply_war_sake_comment_spot_tense_00				omuk		after sake is spotted	Warrior	tense		Have a drink!	3		0	Have a drink!		来喝一杯！	
+vo_ply_ply_	war_	sake_comment_spot_	tense_01	vo_ply_ply_war_sake_comment_spot_tense_01				omuk		after sake is spotted	Warrior	tense		Irresistible!	1		0	Irresistible!		诱惑难挡！	
+vo_ply_ply_	war_	sake_comment_pickup_	normal_00	vo_ply_ply_war_sake_comment_pickup_normal_00				omuk		after sake is taken	Warrior	stealthy		Ah, he has the flask.	5		0	Aha! He has the flask.	YES	啊，他把瓶子捡走了	
+vo_ply_ply_	war_	sake_comment_pickup_	normal_01	vo_ply_ply_war_sake_comment_pickup_normal_01				omuk		after sake is taken	Warrior	stealthy		I will reclaim it later.	5		0	I will reclaim it later.		稍后再取回来	
+vo_ply_ply_	war_	sake_comment_pickup_	tense_00	vo_ply_ply_war_sake_comment_pickup_tense_00				omuk		after sake is taken	Warrior	tense		Hrm, he has the flask!	5		0	Hmm. He has the flask.	YES	嗯，他把瓶子捡走了	
+vo_ply_ply_	war_	sake_comment_pickup_	tense_01	vo_ply_ply_war_sake_comment_pickup_tense_01				omuk		after sake is taken	Warrior	tense		I must take it back!	5		0	I must take it back!		一定要取回来！	
+vo_ply_ply_	war_	sake_no_ammo_	normal_00	vo_ply_ply_war_sake_no_ammo_normal_00				omuk	philipp	use skill sake no ammo	Warrior	stealthy	special no ammo for sake	I am lacking a flask.	5		0	I am lacking a flask.		酒瓶没有了	
+vo_ply_ply_	war_	sake_no_ammo_	normal_01	vo_ply_ply_war_sake_no_ammo_normal_01				omuk	philipp	use skill sake no ammo	Warrior	stealthy	special no ammo for sake	Who has my sake?	4		0	Who has my sake?		在下的酒在哪？	
+vo_ply_ply_	war_	sake_no_ammo_	normal_02	vo_ply_ply_war_sake_no_ammo_normal_02				omuk	philipp	use skill sake no ammo	Warrior	stealthy	special no ammo for sake	I must find my sake.	5		0	I must find my sake!	YES	在下必须找到酒！	
+vo_ply_ply_	war_	sake_no_ammo_	tense_00	vo_ply_ply_war_sake_no_ammo_tense_00				omuk	philipp	use skill sake no ammo	Warrior	tense	special no ammo for sake	I lack my flask.	4		0	I lack my flask.		酒瓶不在	
+vo_ply_ply_	war_	sake_no_ammo_	tense_01	vo_ply_ply_war_sake_no_ammo_tense_01				omuk	philipp	use skill sake no ammo	Warrior	tense	special no ammo for sake	Who has my sake?!	4		0	Who has my sake?!		在下的酒在哪？！	
+vo_ply_ply_	war_	sake_no_ammo_	tense_02	vo_ply_ply_war_sake_no_ammo_tense_02				omuk	philipp	use skill sake no ammo	Warrior	tense	special no ammo for sake	I lost my flask.	4		0	I lost my flask.		找不到酒瓶了	
+vo_ply_ply_	war_	ammo_pickup_execute_	normal_00	vo_ply_ply_war_ammo_pickup_execute_normal_00				omuk	philipp	pickup ammo	Warrior	stealthy		Ah, supplies.	2		0	Ah, supplies.		啊，补给品	
+vo_ply_ply_	war_	ammo_pickup_execute_	normal_01	vo_ply_ply_war_ammo_pickup_execute_normal_01				omuk	philipp	pickup ammo	Warrior	stealthy		How fortunate.	2		0	How fortunate!	YES	真是幸运！	
+vo_ply_ply_	war_	ammo_pickup_execute_	normal_02	vo_ply_ply_war_ammo_pickup_execute_normal_02				omuk	philipp	pickup ammo	Warrior	stealthy		A lucky find	3		0	A lucky find.	YES	撞大运了	
+vo_ply_ply_	war_	ammo_pickup_execute_	tense_00	vo_ply_ply_war_ammo_pickup_execute_tense_00				omuk	philipp	pickup ammo	Warrior	tense		Very well.	2		0	Very well.		很好很好	
+vo_ply_ply_	war_	ammo_pickup_execute_	tense_01	vo_ply_ply_war_ammo_pickup_execute_tense_01				omuk	philipp	pickup ammo	Warrior	tense		I must take this!	4		0	I must take this!		必须拿走！	
+vo_ply_ply_	war_	ammo_pickup_execute_	tense_02	vo_ply_ply_war_ammo_pickup_execute_tense_02				omuk	philipp	pickup ammo	Warrior	tense		This will aid us.	4		0	This will aid us.		这些很有用	
+vo_ply_ply_	war_	multikill_select_	normal_00	vo_ply_ply_war_multikill_select_normal_00				omuk	philipp	sel skill multikill	Warrior	stealthy	Daishō = 1 long sword and 1 short sword	Daishō …	2		0	Daishō…	YES	双刀…	
+vo_ply_ply_	war_	multikill_select_	normal_01	vo_ply_ply_war_multikill_select_normal_01				omuk	philipp	sel skill multikill	Warrior	stealthy	"Daishō lit. ""big-little"""	Big and small.	3		0	Big and small.		一长一短	
+vo_ply_ply_	war_	multikill_select_	normal_02	vo_ply_ply_war_multikill_select_normal_02				omuk	philipp	sel skill multikill	Warrior	high concentration		Sword Wind.	2		0	Sword Wind.		剑风	
+vo_ply_ply_	war_	multikill_select_	normal_03	vo_ply_ply_war_multikill_select_normal_03				omuk	philipp	sel skill multikill	Warrior	high concentration	"Kazekiri (風斬り)
+= Sword Wind"	Kazekiri.	1		0	Kazekiri.		剑风	
+vo_ply_ply_	war_	multikill_select_	tense_00	vo_ply_ply_war_multikill_select_tense_00				omuk	philipp	sel skill multikill	Warrior	tense		Daishō!	1		0	Daishō!		双刀！	
+vo_ply_ply_	war_	multikill_select_	tense_01	vo_ply_ply_war_multikill_select_tense_01				omuk	philipp	sel skill multikill	Warrior	"intense
+concentration"		Sword Wind!	2		0	Sword Wind!		剑风！	
+vo_ply_ply_	war_	multikill_select_	tense_02	vo_ply_ply_war_multikill_select_tense_02				omuk	philipp	sel skill multikill	Warrior	"intense
+concentration"	"Kazekiri (風斬り)
+= Sword Wind"	Kazekiri!	1		0	Kazekiri!		剑风！	
+vo_ply_ply_	war_	multikill_execute_	normal_00	vo_ply_ply_war_multikill_execute_normal_00				omuk	philipp	use skill multikill	Warrior	fiercely	(sound) dashes forward, does 3 strikes in 3 directions		0		0				
+vo_ply_ply_	war_	multikill_execute_	normal_01	vo_ply_ply_war_multikill_execute_normal_01				omuk	philipp	use skill multikill	Warrior	fiercely	(sound) dashes forward, does 3 strikes in 3 directions		0		0				
+vo_ply_ply_	war_	multikill_execute_	normal_02	vo_ply_ply_war_multikill_execute_normal_02				omuk	philipp	use skill multikill	Warrior	fiercely	(sound) dashes forward, does 3 strikes in 3 directions		0		0				
+vo_ply_ply_	war_	multikill_comment_	normal_00	vo_ply_ply_war_multikill_comment_normal_00				omuk		after skill multikill	Warrior	stealthy		None shall remain standing.	4		0	None shall remain standing.		此招一出，绝无活口	
+vo_ply_ply_	war_	multikill_comment_	normal_01	vo_ply_ply_war_multikill_comment_normal_01				omuk		after skill multikill	Warrior	stealthy		My most deadly technique.	4		0	My most deadly technique.		这是在下最致命的一招	
+vo_ply_ply_	war_	multikill_comment_	tense_00	vo_ply_ply_war_multikill_comment_tense_00				omuk		after skill multikill	Warrior	tense		Many cuts, one death.	4		0	Many cuts. One death.	YES	多斩，一杀	
+vo_ply_ply_	war_	multikill_comment_	tense_01	vo_ply_ply_war_multikill_comment_tense_01				omuk		after skill multikill	Warrior	tense		It is done.	3		0	It is done.		结束了	
+vo_ply_ply_	war_	gun_select_	normal_00	vo_ply_ply_war_gun_select_normal_00				omuk	philipp	sel skill gun	Warrior	stealthy		Hand cannon ready.	3		0	Hand cannon ready.		手炮就绪	
+vo_ply_ply_	war_	gun_select_	normal_01	vo_ply_ply_war_gun_select_normal_01				omuk	philipp	sel skill gun	Warrior	stealthy		A frightening weapon.	3		0	A frightening weapon.		可怕的武器	
+vo_ply_ply_	war_	gun_select_	normal_02	vo_ply_ply_war_gun_select_normal_02				omuk	philipp	sel skill gun	Warrior	stealthy		This can pierce armour.	4		0	This can pierce armor.	YES	手炮可以穿透铠甲	
+vo_ply_ply_	war_	gun_select_	tense_00	vo_ply_ply_war_gun_select_tense_00				omuk	philipp	sel skill gun	Warrior	tense		Hand cannon!	2		0	Hand cannon!		手炮！	
+vo_ply_ply_	war_	gun_select_	tense_01	vo_ply_ply_war_gun_select_tense_01				omuk	philipp	sel skill gun	Warrior	tense		A deadly weapon!	3		0	A deadly weapon!		可怕的武器！	
+vo_ply_ply_	war_	gun_select_	tense_02	vo_ply_ply_war_gun_select_tense_02				omuk	philipp	sel skill gun	Warrior	tense		This will pierce armour!	4		0	This will pierce armor!	YES	手炮可以穿透铠甲！	
+vo_ply_ply_	war_	gun_comment_	normal_00	vo_ply_ply_war_gun_comment_normal_00				omuk		after skill gun	Warrior	stealthy	"rare after shot
+not after last shot"	I am reloading.	3		0	I am reloading.		正在重新装弹	
+vo_ply_ply_	war_	gun_comment_	normal_01	vo_ply_ply_war_gun_comment_normal_01				omuk		after skill gun	Warrior	stealthy	after loading last shot	My final shot.	3		0	My final shot.		最后一发	
+vo_ply_ply_	war_	gun_comment_	tense_00	vo_ply_ply_war_gun_comment_tense_00				omuk		after skill gun	Warrior	tense	"rare after shot
+not after last shot"	Reloading!	1		0	Reloading!		重新装弹中！	
+vo_ply_ply_	war_	gun_comment_	tense_01	vo_ply_ply_war_gun_comment_tense_01				omuk		after skill gun	Warrior	tense	after loading last shot	Final shot!	2		0	Final shot!		最后一发！	
+vo_ply_ply_	war_	heal_select_	normal_00	vo_ply_ply_war_heal_select_normal_00				omuk	philipp	sel skill heal	Warrior	stealthy		Bring  me the wounded.	5		0	Bring me the wounded.	YES	把伤者带过来	
+vo_ply_ply_	war_	heal_select_	normal_01	vo_ply_ply_war_heal_select_normal_01				omuk	philipp	sel skill heal	Warrior	stealthy		I have bandages ready.	4		0	I have bandages ready.		绷带已经准备好	
+vo_ply_ply_	war_	heal_select_	normal_02	vo_ply_ply_war_heal_select_normal_02				omuk	philipp	sel skill heal	Warrior	stealthy		Are there wounded?	3		0	Are there wounded in our midst?	YES	我们有人受伤吗？	
+vo_ply_ply_	war_	heal_select_	tense_00	vo_ply_ply_war_heal_select_tense_00				omuk	philipp	sel skill heal	Warrior	tense		Bring  me the wounded!	5		0	Bring me the wounded!	YES	把伤者带过来！	
+vo_ply_ply_	war_	heal_select_	tense_01	vo_ply_ply_war_heal_select_tense_01				omuk	philipp	sel skill heal	Warrior	tense		I have bandages!	3		0	I have bandages!		我有绷带！	
+vo_ply_ply_	war_	heal_select_	tense_02	vo_ply_ply_war_heal_select_tense_02				omuk	philipp	sel skill heal	Warrior	tense		Any wounded?	2		0	Any wounded?		有人受伤吗？	
+vo_ply_ply_	war_	heal_execute_	normal_00	vo_ply_ply_war_heal_execute_normal_00				omuk	philipp	use skill heal	Warrior	quietly	(sound) treats wound		0		0				
+vo_ply_ply_	war_	heal_execute_	normal_01	vo_ply_ply_war_heal_execute_normal_01				omuk	philipp	use skill heal	Warrior	quietly	(sound) treats wound		0		0				
+vo_ply_ply_	war_	heal_execute_	normal_02	vo_ply_ply_war_heal_execute_normal_02				omuk	philipp	use skill heal	Warrior	quietly	(sound) treats wound		0		0				
+vo_ply_ply_	war_	heal_comment_	normal_00	vo_ply_ply_war_heal_comment_normal_00				omuk		com skill heal	Warrior	stealthy		Death will claim no one today.	6		0	Death will claim no one today.		今天谁都不会死的	
+vo_ply_ply_	war_	heal_comment_	normal_01	vo_ply_ply_war_heal_comment_normal_01				omuk		com skill heal	Warrior	stealthy		This scar is well earned.	5		0	This scar is well earned.		这是光荣的伤疤	
+vo_ply_ply_	war_	heal_comment_	tense_00	vo_ply_ply_war_heal_comment_tense_00				omuk		com skill heal	Warrior	tense		It will heal!	3		0	It will heal!		很快会好的！	
+vo_ply_ply_	war_	heal_comment_	tense_01	vo_ply_ply_war_heal_comment_tense_01				omuk		com skill heal	Warrior	tense		I stopped the bleeding!	4		0	I stopped the bleeding!		我已经把血止住了！	
+vo_ply_ply_	war_	key_door_	normal_00	vo_ply_ply_war_key_door_normal_00				omuk	philipp	can't open locked gate	Warrior	quietly		Locked. We need a key.	5		0	Locked. We need a key.		上锁了，需要钥匙	
+vo_ply_ply_	war_	key_door_	normal_01	vo_ply_ply_war_key_door_normal_01				omuk	philipp	can't open locked gate	Warrior	quietly		There must be a key to this.	7		0	There must be a key to this.		肯定有配套的钥匙	
+vo_ply_ply_	war_	key_door_	normal_02	vo_ply_ply_war_key_door_normal_02				omuk	philipp	can't open locked gate	Warrior	quietly		Hrm, I cannot cut through this. Where's the key?	9		0	Hrm, I cannot cut through this. Where's the key?		嗯…这玩意儿也切不开，钥匙在哪儿？	
+vo_ply_ply_	war_	key_pickup_	normal_00	vo_ply_ply_war_key_pickup_normal_00				omuk	philipp	pickup key	Warrior	quietly		I have the key.	4		0	I have the key.		我有钥匙	
+vo_ply_ply_	war_	key_pickup_	normal_01	vo_ply_ply_war_key_pickup_normal_01				omuk	philipp	pickup key	Warrior	quietly		I claim this key.	4		0	I claim this key.		这把钥匙我就收下了	
+vo_ply_ply_	war_	key_pickup_	normal_02	vo_ply_ply_war_key_pickup_normal_02				omuk	philipp	pickup key	Warrior	quietly		The key is mine.	4		0	The key is mine.		这把钥匙归在下了	
+vo_ply_ply_	war_	key_unlock_	normal_00	vo_ply_ply_war_key_unlock_normal_00				omuk	philipp	unlock gate with key	Warrior	quietly		I shall open this gate.	5		0	I shall open this gate.		让在下来开门吧	
+vo_ply_ply_	war_	key_unlock_	normal_01	vo_ply_ply_war_key_unlock_normal_01				omuk	philipp	unlock gate with key	Warrior	quietly		We can pass through now.	5		0	We can pass through now.		现在可以通过了	
+vo_ply_ply_	war_	key_unlock_	normal_02	vo_ply_ply_war_key_unlock_normal_02				omuk	philipp	unlock gate with key	Warrior	quietly		I have unlocked the gate.	5		0	I have unlocked the gate.		门已经打开了	
+vo_ply_ply_	war_	joke_wait	normal_00	vo_ply_ply_war_joke_waitnormal_00						waiting too long	Warrior			I hate to wait.	4		0	I hate to wait.		我不喜欢干等	
+vo_ply_ply_	war_	joke_running	normal_00	vo_ply_ply_war_joke_runningnormal_00						running too much	Warrior		out of breath	Hah, hah …	3		0	Agh…oof… Phew!	YES	呼…呼….	
+vo_ply_ply_	war_	joke_multikill_	normal_00	vo_ply_ply_war_joke_multikill_normal_00						multikill 0.001% chance	Warrior		quote from Hero	Death at ten paces.	4		0	Death at ten paces!	YES	十步一杀	
+vo_ply_ply_	war_	joke_char_select_	normal_00	vo_ply_ply_war_joke_char_select_normal_00						char select too often	Warrior			My life for Aiur.	4		0	My life for Aiur.		为艾尔而战	
+vo_ply_ply_	war_	joke_char_select_	normal_01	vo_ply_ply_war_joke_char_select_normal_01						char select too often	Warrior			My life for Nehr'zul.	4		0	My life for Nehr'zul.		为耐奥祖而战	
+vo_ply_ply_	war_	joke_char_select_	normal_02	vo_ply_ply_war_joke_char_select_normal_02						char select too often	Warrior			My life for good sake.	5		0	My life for good sake.		为美酒而战	
+vo_ply_ply_	war_	joke_char_select_	normal_03	vo_ply_ply_war_joke_char_select_normal_03						char select too often	Warrior			My life for her life.	5		0	My life for her life.		为爱人而战	
+vo_ply_ply_	war_	joke_char_select_	normal_04	vo_ply_ply_war_joke_char_select_normal_04						char select too often	Warrior			This life for the next life.	6		0	This life for the next life.		此生换来生	
+vo_ply_ply_	war_	joke_char_select_	normal_05	vo_ply_ply_war_joke_char_select_normal_05						char select too often	Warrior			Forty-seven lives for one.	4		0	Forty-seven lives for one.		47条命换1条	
+vo_ply_ply_	war_	joke_char_select_	normal_06	vo_ply_ply_war_joke_char_select_normal_06						char select too often	Warrior			My kingdom for a horse.	5		0	My kingdom for a horse.		用我的王国换一匹马	
+vo_ply_ply_	war_	joke_char_select_	normal_07	vo_ply_ply_war_joke_char_select_normal_07						char select too often	Warrior		talks to the player	Pick someone else	3		0	Pick on someone your own size!	YES	去选个和你块头差不多的人烦吧	
+vo_ply_ply_	war_	joke_char_select_	normal_08	vo_ply_ply_war_joke_char_select_normal_08						char select too often	Warrior		talks to the player	Can't you see I'm busy.	5		0	Can't you see I'm busy.		没看到我正忙么	
+vo_ply_ply_	war_	joke_char_select_	normal_09	vo_ply_ply_war_joke_char_select_normal_09						char select too often	Warrior		talks to the player	Seriously.	1		0	This is getting old.	YES	再这么搞可就没意思了	
+vo_ply_ply_	war_	joke_char_select_	normal_10	vo_ply_ply_war_joke_char_select_normal_10						char select too often	Warrior		quote from Conan the Barbarian	Crush your enemies. See them driven before you. Hear the lamentations of their women.	14		0	Crush your enemies. See them driven before you. Hear the lamentations of their women.		彻底打败你的对手，亲眼看着他们被淘汰出局，亲耳倾听支持他们的女性所唱的哀歌	
+vo_ply_ply_	war_	joke_char_select_	normal_11	vo_ply_ply_war_joke_char_select_normal_11						char select too often	Warrior		quote from Conan the Barbarian	The riddle ... of steel.	5		0	The riddle…of steel.	YES	钢之奥秘	
+vo_ply_ply_	war_	joke_char_select_	normal_12	vo_ply_ply_war_joke_char_select_normal_12						char select too often	Warrior		quote from Conan the Barbarian	For us, there is no spring. Just the wind that smells fresh before the storm.	15		0	For us, there is no spring. Just the wind that smells fresh before the storm.		我们这种人是没有春天的，我们只能感受到暴风雨前那股清新的微风	
+vo_ply_ply_	war_	joke_char_select_	normal_13	vo_ply_ply_war_joke_char_select_normal_13						char select too often	Warrior		quote from Dark Souls 3 (Siegward)	Hmm, hmmm … Oh.	4		0	Mmm…mmm… Oh-hoh!	YES	嗯…嗯…嗯…喔！	
+vo_ply_ply_	war_	joke_char_select_	normal_14	vo_ply_ply_war_joke_char_select_normal_14						char select too often	Warrior		quote from Dark Souls 3 (Siegward)	Pardon me, I was absorbed in thought.	7		0	Pardon me. I was absorbed in thought.	YES	抱歉，我想得太入神了	洋葱骑士视频
+vo_ply_ply_	war_	joke_char_select_	normal_15	vo_ply_ply_war_joke_char_select_normal_15						char select too often	Warrior		quote from Dark Souls 3 (Siegward)	To be honest, I'm in a bit of a pickle …	11		0	To be honest, I'm in a bit of a pickle…	YES	老实说，我正有点困扰	
+vo_ply_ply_	war_	joke_char_select_	normal_16	vo_ply_ply_war_joke_char_select_normal_16						char select too often	Warrior		quote from Dark Souls 3 (Siegward)	I've got to use my head and think …	9		0	I've got to use my head and think…	YES	该怎么办好呢…真伤脑筋…	
+																					
+														WORDCOUNT EN:	1003	WORDCOUNT DE:	0				
+																					
+		I know my place in life																			
+		hold together team!																			

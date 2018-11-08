@@ -1,0 +1,133 @@
+lvl,sec,voen,vojp,s,en,cn,jp
+11,131,vocs_over_over_lakevillage_briefing_n00,vocs_lakevillage_briefing_n00_jp,NINJA,This must be Hida village. I say we stick to the shadows. Avoid the lights.,这里就是飞騨村了。注意避开火光，暗中行动。,ここが飛騨村か。暗がりのみを行こう。光は避けるんだ。
+11,131,vocs_over_over_lakevillage_briefing_n01,vocs_lakevillage_briefing_n01_jp,GEISHA,"I approve of your words, Hayato-san, but it will require more to learn the rebels' plans.",隼人兄所言极是。不过，要查清叛军的计划，还得先收集点情报。,そうですね、隼人さん。けど反乱の計画についてもっと知る必要があるわ。
+11,131,vocs_over_over_lakevillage_briefing_n02,vocs_lakevillage_briefing_n02_jp,GEISHA,"The villagers are being treated poorly. I do not think they would expose us, even if we show ourselves to them.",村民都受尽了虐待。所以就算被他们看到，应该也不会给叛军通风报信的吧。,村人はひどい扱いを受けているわ。私たちのことをばらしたりはしないはずよ。もし自分たちの姿を見せたとしても。
+11,131,vocs_over_over_lakevillage_briefing_n03,vocs_lakevillage_briefing_n03_jp,GEISHA,The tavern will be full of conversation. No doubt we will gain insight there.,酒馆那儿聊得正酣。打探一番必有收获。,酒場では色々な話が飛び交っているわ。必ず何か得られるはずよ。
+11,131,vocs_over_over_lakevillage_briefing_n04,vocs_lakevillage_briefing_n04_jp,NINJA,"Too crowded for my taste. Why not go for the stables? Less people, more cover.",那边人多眼杂。还是去牛棚吧？人又少，还便于藏身。,混み過ぎだな、馬小屋ははどうだ？人は少なく、隠れられる所は多い。
+11,131,vocs_over_over_lakevillage_briefing_n05,vocs_lakevillage_briefing_n05_jp,GEISHA,The tavern is the safer option. All we need is a suitable disguise.,还是酒馆更安全。只要有件合适的伪装即可。,酒場の方が安全だわ。それと、お互い変装の服が必要よ。
+11,131,vocs_over_over_lakevillage_briefing_n06,vocs_lakevillage_briefing_n06_jp,NINJA,"Heh, admit it, you just want a new set of clothes.",…嗯，你就是想穿新衣服而已吧。,むぅ、新しい服が着たいだけだろ？
+11,131,vocs_over_over_lakevillage_briefing_n07,vocs_lakevillage_briefing_n07_jp,TRAPPER,Uhm … can we just decide on the way? ,嗯……要不等会儿再决定吧？ ,うーむ…どっちに行くのか決められないのかな。
+11,132,vocs_over_over_lakevillage_night_n00,vocs_lakevillage_night_n00_jp,NINJA,"Ah, always a pleasure working at night.",哼，还是夜里行动最好。,っふ…夜に働くのは最高だ。
+11,132,vocs_over_over_lakevillage_night_n01,vocs_lakevillage_night_n01_jp,GEISHA,It has it's advantages.,确实有好处。,それにはそれの良さがあるわね。
+11,132,vocs_over_over_lakevillage_night_n02,vocs_lakevillage_night_n02_jp,NINJA,"Keep your head down, avoid the lights, and no one will be able to spot us.",蹲下走，远离光源，这样就没人能发现我们。,隠れてろよ、光は避けて、誰にも見つからないようにするんだ。
+11,133,vocs_over_over_lakevillage_lamp_n00,vocs_lakevillage_lamp_n00_jp,NINJA,Fire's dead. Someone's bound to notice.,肯定会有人注意到火灭了。,灯りが消えた、誰か気付くはずだ。
+11,133,vocs_over_over_lakevillage_lamp_n01,vocs_lakevillage_lamp_n01_jp,TRAPPER,Lights out! Leave before the guard sees it!,火灭了！在守卫发现前赶紧离开！,灯りが消えた。見張りが見る前に出ないと。
+11,133,vocs_over_over_lakevillage_lamp_n02,vocs_lakevillage_lamp_n02_jp,GEISHA,These new shadows will not go unnoticed.,巡逻的敌人肯定会发现这边变暗了。,新しい闇、気づかれるわけにはいかないわね。
+11,134,vo_hint_hint_lakevillage_burn_n00,vo_lakevillage_burn_n00_jp,ENEMY,Bring more!,再添把柴！,もってこい！
+11,134,vo_hint_hint_lakevillage_burn_n01,vo_lakevillage_burn_n01_jp,ENEMY,We'll burn everything!,全都给我烧了！,燃やしてやる！
+11,134,vo_hint_hint_lakevillage_burn_n02,vo_lakevillage_burn_n02_jp,ENEMY,We can't let the fire go out.,火不能灭。,火を消すわけにはいかぬ。
+11,134,vo_hint_hint_lakevillage_burn_n03,vo_lakevillage_burn_n03_jp,ENEMY,Hurry. It's getting cold.,快点。火都快熄了。,急げ！消えてしまうぞ。
+11,134,vo_hint_hint_lakevillage_burn_n04,vo_lakevillage_burn_n04_jp,ENEMY,"Faster, you dirty peasant.",麻利点，这帮贱民。,急げ、小汚い百姓め。
+11,134,vo_hint_hint_lakevillage_burn_n05,vo_lakevillage_burn_n05_jp,ENEMY,"That can't be all, can it?",怎么可能就这么点儿？,まだ全部じゃないだろ、ええ？
+11,135,vocs_over_over_lakevillage_fear1_n00,vocs_lakevillage_fear1_n00_jp,TRAPPER,Why do the rebels hate the villagers so?,为什么叛军这么恨村民？,どうして、反逆者は村を嫌っているの？
+11,135,vocs_over_over_lakevillage_fear1_n01,vocs_lakevillage_fear1_n01_jp,NINJA,I don't think they hate them.,我看他们并不是恨村民。,嫌っているとは思えないな。
+11,135,vocs_over_over_lakevillage_fear1_n02,vocs_lakevillage_fear1_n02_jp,TRAPPER,So they just like hurting them.,那他们只是很喜欢欺负人吗？,じゃあいじめるのが好きなの？
+11,135,vocs_over_over_lakevillage_fear1_n03,vocs_lakevillage_fear1_n03_jp,GEISHA,"They do this to spread fear, child. The villagers take this abuse, for if they resist, they will no doubt be executed.",他们这么做只是为了制造恐慌，村民们也只能默默承受。因为一旦反抗，会被当场处决。,恐怖を蔓延させるためにやっているのよ。村人は黙ったままで、もし抵抗したら、処刑されるのよ。
+11,135,vocs_over_over_lakevillage_fear1_n04,vocs_lakevillage_fear1_n04_jp,TRAPPER,Oh …,哦……,そんな…。
+11,136,vocs_over_over_lakevillage_lake_n00,vocs_lakevillage_lake_n00_jp,GEISHA,Swimming across will get us close to the tavern.,从这里游过去就是酒馆了。,泳いでいけば、酒場には着けるわね。
+11,136,vocs_over_over_lakevillage_lake_n01,vocs_lakevillage_lake_n01_jp,NINJA,Don't think we should go that way.,我还是觉得走这边不好。,そのやり方で行くのはあまり賢いとは言えんな。
+11,136,vocs_over_over_lakevillage_lake_n02,vocs_lakevillage_lake_n02_jp,GEISHA,Hayato-san! Don't tell me you can't swim!,隼人兄！该不是你不会游泳吧？,…隼人さん、もしかして泳げないとか？
+11,136,vocs_over_over_lakevillage_lake_n03,vocs_lakevillage_lake_n03_jp,NINJA,You can't be serious …,开什么玩笑……,馬鹿を言うな…。
+11,137,vocs_over_over_lakevillage_road_n00,vocs_lakevillage_road_n00_jp,NINJA,"Let's follow the road, it'll take us to the stables.",沿着这条路，就能走到牛棚。  ,この道を通ろう、馬車へ行ける。
+11,137,vocs_over_over_lakevillage_road_n01,vocs_lakevillage_road_n01_jp,GEISHA,I am against taking this route.,我反对走这边。,その道は反対だわ。
+11,137,vocs_over_over_lakevillage_road_n02,vocs_lakevillage_road_n02_jp,NINJA,What? Afraid you'll ruin your feet?,为什么？路太远你走不动？,なんだと？足が持たないとでも？
+11,137,vocs_over_over_lakevillage_road_n03,vocs_lakevillage_road_n03_jp,GEISHA,"Yes, that would be awful. You would have to carry me.",是啊，我脚吃不消。只能靠你背我了。,ええそうよ、そういうこと。私を運んでいくことになるわよ。
+11,137,vocs_over_over_lakevillage_road_n04,vocs_lakevillage_road_n04_jp,NINJA,I … what?,呃…饶了我吧！,っく…、勘弁してくれ。
+11,138,vocs_over_over_lakevillage_disguise1_n00,vocs_lakevillage_disguise1_n00_jp,GEISHA,I see clothing lines. This looks promising.,我看见晾衣绳了。似乎有不错的衣服。,服が見えるわね。期待できそうだわ。
+11,138,vocs_over_over_lakevillage_disguise1_n01,vocs_lakevillage_disguise1_n01_jp,NINJA,Took you long enough to get there. I hope you're satisfied.,费这么大劲陪你找到这里。这下你满意了？,ここまで長かったな、満足したか。
+11,138,vocs_over_over_lakevillage_disguise1_n02,vocs_lakevillage_disguise1_n02_jp,GEISHA,Immensely. Your disapproval makes it even more delightful.,非常满意。而且看你这么不爽我就更开心了。,ええとっても。あなたの態度でもっと楽しくなるわ。
+11,138,vocs_over_over_lakevillage_disguise1_n03,vocs_lakevillage_disguise1_n03_jp,NINJA,Hrm …,呃……,ぬぅ…。
+11,139,vocs_over_over_lakevillage_disguise2_n00,vocs_lakevillage_disguise2_n00_jp,GEISHA,"Now, this is much better.",这下像点样子了。,これで、もっと良くなるわね。
+11,139,vocs_over_over_lakevillage_disguise2_n01,vocs_lakevillage_disguise2_n01_jp,NINJA,Want me to fetch you a bath too?,要不我再帮您扛个澡盆过来？,風呂でも持って来てほしいか？
+11,139,vocs_over_over_lakevillage_disguise2_n02,vocs_lakevillage_disguise2_n02_jp,GEISHA,"Thank you, that would be wonderful.",那可就再好不过了。,それは素敵ね。
+11,139,vocs_over_over_lakevillage_disguise2_n03,vocs_lakevillage_disguise2_n03_jp,NINJA,"You never yield, do you?",你还真是嘴上不饶人啊？,決して譲りはしないんだな。
+11,140,vo_hint_hint_lakevillage_abuse_n00,vo_lakevillage_abuse_n00_jp,ENEMY,Almost time.,差不多到时间了。,そろそろ時間だ。
+11,140,vo_hint_hint_lakevillage_abuse_n01,vo_lakevillage_abuse_n01_jp,CIVILIAN F,Please. Let us go!,求求你，放我们走吧！,お願い。自由にしてください！
+11,140,vo_hint_hint_lakevillage_abuse_n02,vo_lakevillage_abuse_n02_jp,STATIC,Quiet now.,闭嘴。,黙れ。
+11,140,vo_hint_hint_lakevillage_abuse_n03,vo_lakevillage_abuse_n03_jp,CIVILIAN F,,,
+11,141,vo_hint_hint_lakevillage_rescue_n00,vo_lakevillage_rescue_n00_jp,CIVILIAN F,T-thank you. Thank you so much!,谢-谢谢你们。感激不尽！,あ、ありがとうございます！
+11,142,vocs_over_over_lakevillage_fear2_n00,vocs_lakevillage_fear2_n00_jp,TRAPPER,Those men … they were going to …,那些人…他们居然想…,あの男たち…あんなことしようとしてたなんて…。
+11,142,vocs_over_over_lakevillage_fear2_n01,vocs_lakevillage_fear2_n01_jp,GEISHA,"I know, child. I know …",我明白你的感受……,わかる、わかるわ…。
+11,142,vocs_over_over_lakevillage_fear2_n02,vocs_lakevillage_fear2_n02_jp,TRAPPER,I hate them!,我恨他们！,あいつら嫌いだ！
+11,142,vocs_over_over_lakevillage_fear2_n03,vocs_lakevillage_fear2_n03_jp,NINJA,We did what we could. Let's move on.,我们已经尽力了，继续任务吧。,できることをしよう。行くぞ。
+11,143,vocs_over_over_lakevillage_officersa_n00,vocs_lakevillage_officersa_n00_jp,GEISHA,"So, we are at the stables.",好吧，还是到牛棚来了。,で、馬車に着いたわね。
+11,143,vocs_over_over_lakevillage_officersa_n01,vocs_lakevillage_officersa_n01_jp,NINJA,See the two samurai? I bet they have something interesting to say.,看到那两个武士没？他们肯定在聊些有用的情报。,２人の侍がいるだろ？何か面白いことを言うに違いない。
+11,143,vocs_over_over_lakevillage_officersa_n02,vocs_lakevillage_officersa_n02_jp,GEISHA,And now must dash after them like fools.,所以我们要像白痴一样，踉踉跄跄地跟在他们后面偷听么。,馬鹿みたいに突撃しましょうか。
+11,143,vocs_over_over_lakevillage_officersa_n03,vocs_lakevillage_officersa_n03_jp,GEISHA,I will do my best to avoid them. A problem not present at the tavern. ,我会尽量避开他们的视线。要是去酒馆那边，根本就用不着这么麻烦。 ,それを避けるために努力するわ。酒場ならする必要のなかった努力をね 。
+11,144,vo_hint_hint_lakevillage_tavern1_n00,vo_lakevillage_tavern1_n00_jp,STATIC,Hey! What's taking so long? More sake!,喂！在磨蹭什么？赶紧添酒！,おい！何をしている？もっと、酒だ！
+11,144,vo_hint_hint_lakevillage_tavern1_n01,vo_lakevillage_tavern1_n01_jp,CIVILIAN F,Forgive me. We had to fetch another barrel.,请大人息怒。酒喝光了，正去拿新的。,すみません別の樽をご用意しておりますので。
+11,144,vo_hint_hint_lakevillage_tavern1_n01a,vo_lakevillage_tavern1_n01a_jp,CIVILIAN M,Forgive me. We had to fetch another barrel.,请大人息怒。酒喝光了，正去拿新的。,すみません別の樽をご用意しておりますので。
+11,144,vo_hint_hint_lakevillage_tavern1_n02,vo_lakevillage_tavern1_n02_jp,STATIC,"Do I look like I care? When we call, you come running, understand?!",少废话！让你上酒，就赶紧过来，明白了吗？,そんなの気にすると思うか？呼んだらすぐ走ってこい、わかるか？
+11,144,vo_hint_hint_lakevillage_tavern1_n03,vo_lakevillage_tavern1_n03_jp,CIVILIAN F,Yes. Of course.,遵，遵命。,はいもちろんでございます。
+11,144,vo_hint_hint_lakevillage_tavern1_n03a,vo_lakevillage_tavern1_n03a_jp,CIVILIAN M,"Yes. Of course, my lord.",遵，遵命，大人。,はいもちろんでございます。
+11,145,vo_hint_hint_lakevillage_tavern2_n00,vo_lakevillage_tavern2_n00_jp,STATIC,More sake!,添酒！,もっと、酒だ！
+11,145,vo_hint_hint_lakevillage_tavern2_n01,vo_lakevillage_tavern2_n01_jp,STATIC,"Mmmm, haha!",唔嗯，哈哈！,うーーむ、はは！
+11,145,vo_hint_hint_lakevillage_tavern2_n02,vo_lakevillage_tavern2_n02_jp,ENEMY,To General Okkoto!,敬乙事大将！,乙事大将へ。
+11,145,vo_hint_hint_lakevillage_tavern2_n03,vo_lakevillage_tavern2_n03_jp,ENEMY,Ahh.,啊啊。,ああ。
+11,145,vo_hint_hint_lakevillage_tavern2_n04,vo_lakevillage_tavern2_n04_jp,ENEMY,,,
+11,145,vo_hint_hint_lakevillage_tavern2_n05,vo_lakevillage_tavern2_n05_jp,ENEMY,"Faster, peasant!",动作快点，贱民！,早くしろ、百姓！
+11,145,vo_hint_hint_lakevillage_tavern2_n06,vo_lakevillage_tavern2_n06_jp,CIVILIAN F,Forgive me.,万分抱歉。,すみません。
+11,145,vo_hint_hint_lakevillage_tavern2_n07,vo_lakevillage_tavern2_n07_jp,CIVILIAN F,Yes. Of course.,是，遵命。,はいもちろんです。
+11,145,vo_hint_hint_lakevillage_tavern2_n08,vo_lakevillage_tavern2_n08_jp,CIVILIAN M,At once.,马上就来。,ただいま。
+11,145,vo_hint_hint_lakevillage_tavern2_n09,vo_lakevillage_tavern2_n09_jp,CIVILIAN M,"Anything for you. Of course, my lord.",是，任您吩咐，大人。,なんでも致します。もちろんでございます。
+11,146,vocs_over_over_lakevillage_fear3_n00,vocs_lakevillage_fear3_n00_jp,TRAPPER,Will they leave the women alone?,他们会放过那些女人吗？,女の人たちは置いていくの？
+11,146,vocs_over_over_lakevillage_fear3_n01,vocs_lakevillage_fear3_n01_jp,NINJA,I wish I could say yes. But I don't think the sake will help with that.,我很想说“会”。但那些人都喝醉了，所以……,そうだと言えたらよかったがな。けど、酒が助けてくれるはずだ。
+11,146,vocs_over_over_lakevillage_fear3_n02,vocs_lakevillage_fear3_n02_jp,TRAPPER,I don't like these people.,我讨厌这些人。,あいつら嫌い！
+11,146,vocs_over_over_lakevillage_fear3_n03,vocs_lakevillage_fear3_n03_jp,GEISHA,A sentiment that we all share.,此刻大家心情都一样。,皆同じ気持ちよ。
+11,147,vocs_over_over_lakevillage_officersb_n00,vocs_lakevillage_officersb_n00_jp,NINJA,Don't think there's enough cover here. Let's head for the stables.,这里能藏身的地方太少。还是去牛棚吧。,隠れる場所があるとは思えんな。馬小屋へ向かおう。
+11,147,vocs_over_over_lakevillage_officersb_n01,vocs_lakevillage_officersb_n01_jp,GEISHA,The two officers seem talkative. They would not notice if I'd followed them in disguise.,那两个军官好像聊得正欢。如果我乔装后靠近偷听，应该不会被发现。,二人の役人がおしゃべりしてるようね。変装して着いていけば気づかれることはないでしょうね。
+11,147,vocs_over_over_lakevillage_officersb_n02,vocs_lakevillage_officersb_n02_jp,NINJA,Fact is: we don't have one. And we wouldn't need one if we were at the stables.,你这不是没去找衣服就直接过来了么。如果去牛棚，根本就不需要什么伪装。,しかし、着る服が無いだろう。馬小屋ならそもそも必要なかったんだ。
+11,147,vocs_over_over_lakevillage_officersb_n03,vocs_lakevillage_officersb_n03_jp,NINJA,Fine. You already have your new clothes. Might as well use them.,好吧。既然都已经拿到新装了，不妨穿上试试。,うむ、新しい服がある。それを使うといい。
+11,148,vocs_over_over_lakevillage_peace1_n00,vocs_lakevillage_peace1_n00_jp,TRAPPER,Uhm … why are you fighting?,呃……你们为什么吵架啊？,うーん…なんで喧嘩してるの？
+11,148,vocs_over_over_lakevillage_peace1_n01,vocs_lakevillage_peace1_n01_jp,NINJA,"Not now, Yuki …",不是问这种问题的时候，友希…,今聞くな、雪…。
+11,149,vocs_over_over_lakevillage_peace2_n00,vocs_lakevillage_peace2_n00_jp,TRAPPER,Hayato-sensei … why can't you agree with Aiko-san?,隼人师父……你为什么总是和爱子姐闹别扭？,隼人先生…どうして愛琥さんに賛成しないの？
+11,149,vocs_over_over_lakevillage_peace2_n01,vocs_lakevillage_peace2_n01_jp,NINJA,Maybe it's because I'm a bad sensei. Why don't you go find a new one?,因为我本来就不是什么好师父。你赶紧另寻高明吧？,俺が悪い先生だからだろう。別の先生を探したらどうだ？
+11,149,vocs_over_over_lakevillage_peace2_n02,vocs_lakevillage_peace2_n02_jp,TRAPPER,Hayato-san …,隼人师父……,隼人先生…。
+11,149,vocs_over_over_lakevillage_peace2_n03,vocs_lakevillage_peace2_n03_jp,NINJA,"Sorry. Things are too tense here. Let's talk later, alright?",抱歉。是我话说重了。我们稍后再聊，好吗？,すまんな、言いすぎた。あとで話そう、いいな？
+11,150,vocs_over_over_lakevillage_regroup_n00,vocs_lakevillage_regroup_n00_jp,NINJA,Interesting.,有意思。,面白い。
+11,150,vocs_over_over_lakevillage_regroup_n01,vocs_lakevillage_regroup_n01_jp,TRAPPER,Did you hear that?!,你听到了吗？！,聞こえた？
+11,150,vocs_over_over_lakevillage_regroup_n02,vocs_lakevillage_regroup_n02_jp,GEISHA,This information is vital! Let us find a safe spot and discuss what we've learned.,这个情报很关键！找个安全的地方整理一下吧。,この情報は重大ね！安全な所へ移動してわかったことを話しましょう。
+11,151,vocs_over_over_lakevillage_infoab_n00,vocs_lakevillage_infoab_n00_jp,GEISHA,Are we all here?,全员都到了吧？,皆いる？
+11,151,vocs_over_over_lakevillage_infoab_n01,vocs_lakevillage_infoab_n01_jp,TRAPPER,Here!,到了！,ここです。
+11,151,vocs_over_over_lakevillage_infoab_n02,vocs_lakevillage_infoab_n02_jp,NINJA,"Easy, Yuki.",别激动，友希。,簡潔にな、雪。
+11,151,vocs_over_over_lakevillage_infoab_n03,vocs_lakevillage_infoab_n03_jp,GEISHA,It appears general Okkoto is here himself. He is having a word with the village elder.,看来乙事大将本人也在村里。正在和村长谈话。,乙事大将自身がここにいるみたいね。村の長老と話をしているわ。
+11,151,vocs_over_over_lakevillage_infoab_n04,vocs_lakevillage_infoab_n04_jp,TRAPPER,Let's listen in. He'll tell us his plans!,我们去偷听吧。说不定会听到他的计划呢！,盗み聞きしましょう、何か計画のこと話すかも。
+11,151,vocs_over_over_lakevillage_infoab_n05,vocs_lakevillage_infoab_n05_jp,GEISHA,"I agree. Let us seize this opportunity. If we can get close, and with a disguise …",同意。要抓住这次机会。如果我能乔装接近的话……,同感よ。好機を伺いましょう。もし近づけたら、変装して…。
+11,151,vocs_over_over_lakevillage_infoab_n06,vocs_lakevillage_infoab_n06_jp,NINJA,"How's this: you use your disguise, I stick to the shadows. Let's see who gets the mark.",要不这样吧，你用伪装，我用潜行。看谁先得手。,こういうのはどうだ？あんたは変装して、俺は影から。誰がより上手くやれるか…。
+11,151,vocs_over_over_lakevillage_infoab_n07,vocs_lakevillage_infoab_n07_jp,GEISHA,"Let us focus on the task at hand, Hayato-san. We can play your childish games when our mission is done.",请以眼前任务为主，隼人兄。任务完成后，我再陪你玩过家家。,やるべきことに集中して、隼人さん。子どもじみた遊びは終わった後にしましょう。
+11,152,vocs_over_over_lakevillage_general_n00,vocs_lakevillage_general_n00_jp,TRAPPER,The general … he's a bad man.,那就是大将……坏人。,大将…悪い奴ね。
+11,152,vocs_over_over_lakevillage_general_n01,vocs_lakevillage_general_n01_jp,GEISHA,General Okkoto. A vicious man.,乙事大将，此人心狠手辣。,乙事大将、悪人ね。
+11,152,vocs_over_over_lakevillage_general_n02,vocs_lakevillage_general_n02_jp,NINJA,"Okkoto, huh … imagine if we killed him. That'd end the rebellion pretty quickly.",乙事，哈……你说要是我们把他杀了，叛乱不就能很快结束了么。,乙事、っふ…俺達が奴を始末すればすぐにこの反乱も終わるな。
+11,152,vocs_over_over_lakevillage_general_n03,vocs_lakevillage_general_n03_jp,GEISHA,You would only end yourself! Do not attack him!,去了就是送死！千万不要对他出手！,私たちが終わるわよ！余計なことしないで！
+11,152,vocs_over_over_lakevillage_general_n04,vocs_lakevillage_general_n04_jp,NINJA,"You don't really think I'm that stupid, do you?",你当真觉得我有那么蠢么？,冗談に決まっているだろう…変な目で見るな！
+11,153,vo_hint_hint_lakevillage_orders_n00,vo_lakevillage_orders_n00_jp,GENERAL,We will march at the break of dawn.,天一亮就进军。,夜明けには進軍する。
+11,153,vo_hint_hint_lakevillage_orders_n01,vo_lakevillage_orders_n01_jp,GENERAL,The men have another hour to enjoy themselves.,就让他们再快活半个时辰吧。,部下は残りの時を楽しんでいる。
+11,153,vo_hint_hint_lakevillage_orders_n02,vo_lakevillage_orders_n02_jp,GENERAL,I do not care for these filthy peasants.,这帮贱民会怎么样不关我的事。,百姓どもはどうでもいい。
+11,153,vo_hint_hint_lakevillage_orders_n03,vo_lakevillage_orders_n03_jp,GENERAL,Make sure the carts are loaded and secured.,货物要全部装上马车，派人看好。,馬車の荷物と安全の確認をしろ。
+11,153,vo_hint_hint_lakevillage_orders_n04,vo_lakevillage_orders_n04_jp,GENERAL,We will win glory and honour for Kage-sama.,要为影大人的荣耀而战。,カゲサマのため、栄光と名誉を勝ち取る。
+11,153,vo_hint_hint_lakevillage_orders_n05,vo_lakevillage_orders_n05_jp,GENERAL,We have long waited for a good battle.,这一战酝酿已久。,待ち望んだ戦だ。
+11,153,vo_hint_hint_lakevillage_orders_n06,vo_lakevillage_orders_n06_jp,GENERAL,Any peasant who fails to obey will be executed.,如有贱民胆敢不从，格杀勿论。,従わぬ百姓は処刑だ。
+11,154,vocs_over_over_lakevillage_infomain_n00,vocs_lakevillage_infomain_n00_jp,GENERAL,"We will take all the rice from your granaries, and also your oxen. See that it is done.",把你们粮仓里的米都搬出来，还有牛也交出来。快去办。,穀倉から米、さらに牛をもらうぞ。確認しろ。
+11,154,vocs_over_over_lakevillage_infomain_n01,vocs_lakevillage_infomain_n01_jp,OFFICER,… these peasants … they will not survive the year.,……那这些农民……都活不下去了。,…あの百姓ども…は生きてはおりませぬ。
+11,154,vocs_over_over_lakevillage_infomain_n02,vocs_lakevillage_infomain_n02_jp,GENERAL,If they wanted to eat they should have joined our cause. The mighty Kage-sama has ordered that we take the city of Kanazawa tomorrow. I want the men well fed.,要想活命，就早该投靠我们。影大人下令，明天就要攻打金泽市。所以要让士兵们先吃饱才行。,もし食いたければ、我々に加担するべきであったな。偉大なるカゲサマの指令で金沢の町を明日制圧する。部下にはよく食べてもらわぬとな。
+11,154,vocs_over_over_lakevillage_infomain_n03,vocs_lakevillage_infomain_n03_jp,OFFICER,I will instruct the officers to give out extra rations.,我一会去通知各个军官，多发些口粮。,士官にはさらに食料をよこすように指導致します。
+11,154,vocs_over_over_lakevillage_infomain_n04,vocs_lakevillage_infomain_n04_jp,GENERAL,"Kanazawa castle will be our bulwark against the wrath of the Shogun. Once it is ours, we will hold it until Kage-sama arrives with his army.",金泽城将是我们抵御将军进攻的坚实堡垒。一定要拿下它，然后坚守等影大人带援军过来。,金沢城は将軍の憤怒に対する我らが砦。我らの物になれば、カゲサマから軍を率いて到着するまで持ちこたえる。
+11,155,vocs_over_over_lakevillage_done_n00,vocs_lakevillage_done_n00_jp,GEISHA,Now we know Okkoto's and Kage-sama's plans.,这下乙事和影大人的计划就都知道了。,乙事とカゲサマの計画がわかったわね。
+11,155,vocs_over_over_lakevillage_done_n01,vocs_lakevillage_done_n01_jp,TRAPPER,… huh … Kanazawa city … ,……啊……金泽… ,…えっ…金沢… 。
+11,155,vocs_over_over_lakevillage_done_n02,vocs_lakevillage_done_n02_jp,GEISHA,"This must reach Noboru-sama as soon as possible. Let us steal a raft, head downriver and make for Noboru's camp.",这个情报一定要尽快告知昇大人。就去偷个木筏，沿河而下回昇大人的营地吧。,昇様にすぐ伝えましょう。イカダを盗んで川下へ向かいましょう。昇様の野営に。
+11,155,vocs_over_over_lakevillage_done_n03,vocs_lakevillage_done_n03_jp,NINJA,For once I agree. Let's head to the piers.,这次我同意。快去码头吧。,同感だ、安全な川へと向かおう。
+11,155,vocs_over_over_lakevillage_done_n04,vocs_lakevillage_done_n04_jp,TRAPPER,Finally!,你们终于不吵架啦！,二人ともようやくね！
+11,156,vocs_over_over_lakevillage_debriefing_n00,vocs_lakevillage_debriefing_n00_jp,GEISHA,Wait!,等一下！,待って。
+11,156,vocs_over_over_lakevillage_debriefing_n01,vocs_lakevillage_debriefing_n01_jp,NINJA,What now?,哎，又怎么了？,む、どうした？
+11,156,vocs_over_over_lakevillage_debriefing_n02,vocs_lakevillage_debriefing_n02_jp,GEISHA,It would be wise to follow the general and learn more about his plans. I will hide among his entourage as a concubine.,我应该尾随大将，打探更多情报才对。我可以假扮成小妾混到他的随从中。,乙事を追って計画についてもっと知るべきだわ。内妻として側近に紛れるわ。
+11,156,vocs_over_over_lakevillage_debriefing_n03,vocs_lakevillage_debriefing_n03_jp,NINJA,"Good idea, but your plan's too risky. Take the raft, I'll follow them at a distance.",主意虽好，但太冒险了。你还是坐木筏走吧，让我去远远跟着他们就行。,いい作戦だが、あまりに危険だ。イカダに乗れ、遠くから追うぞ。
+11,156,vocs_over_over_lakevillage_debriefing_n04,vocs_lakevillage_debriefing_n04_jp,GEISHA,Will you hide atop the nearest mountain and read their lips from there?,然后呢，你要藏在最近的山顶上，用千里眼读他们的唇语不成？,近い山の頂上に隠れて、そこから唇を読むつもりなのかしら？
+11,156,vocs_over_over_lakevillage_debriefing_n05,vocs_lakevillage_debriefing_n05_jp,TRAPPER,Why not both of you? Two's better than one.,为什么不两个人一起去呢？两个总比一个好。,どうして二人とも？一人より二人でいた方がいいわ。
+11,156,vocs_over_over_lakevillage_debriefing_n06,vocs_lakevillage_debriefing_n06_jp,GEISHA,"No, Yuki-chan. One of us must inform Lord Noboru.",不行，友希妹妹。我俩总得有个人回去禀报昇大人。,いいえ、雪ちゃん。どちらかが昇様に知らせに行く必要があるわ。
+11,156,vocs_over_over_lakevillage_debriefing_n07,vocs_lakevillage_debriefing_n07_jp,TRAPPER,"Aiko-san, I can do it!",爱子姐，这事交给我吧！,愛琥さん、あたしがするよ。
+11,156,vocs_over_over_lakevillage_debriefing_n08,vocs_lakevillage_debriefing_n08_jp,GEISHA,"This is an urgent matter, too important to leave it in the hands of a child.",此事至关重要，怎么能交给一个孩子来办。,これは急を要するし、子どもの手に委ねるにはあまりにも重すぎるわ。
+11,156,vocs_over_over_lakevillage_debriefing_n09,vocs_lakevillage_debriefing_n09_jp,TRAPPER,I am not a child! I'll get there in time!,我不是小孩子了！我会按时赶到的！,子どもじゃないよ。時間にたどり着くから！
+11,156,vocs_over_over_lakevillage_debriefing_n10,vocs_lakevillage_debriefing_n10_jp,NINJA,She's right. Let her go.,她能行的。让她去吧。,…そうだな、この子に行かせよう。
+11,156,vocs_over_over_lakevillage_debriefing_n11,vocs_lakevillage_debriefing_n11_jp,GEISHA,"… very well. But I must stress how important this message is. Do not fail me in this, child.",……好吧。但这份情报真的非常重要，绝不能失败。,…やむを得ないわ。でもこの連絡は本当に重要だから、失敗は許されないわ。
+11,156,vocs_over_over_lakevillage_debriefing_n12,vocs_lakevillage_debriefing_n12_jp,TRAPPER,"Hai, Aiko-san!",明白，爱子姐！,はい、愛琥さん！
+11,156,vocs_over_over_lakevillage_debriefing_n13,vocs_lakevillage_debriefing_n13_jp,GEISHA,"Alright, let us begin.",那就开始行动吧。,では、行きましょう。

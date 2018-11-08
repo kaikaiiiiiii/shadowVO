@@ -1,0 +1,128 @@
+lvl,sec,voen,vojp,s,en,cn,jp
+5,334,vocs_over_over_snowcity_briefing1_n00,vocs_snowcity_briefing1_n00_jp,TRAPPER," … Master samurai? Master samurai? … no, no, you ran too fast, stupid …", ……武士大人？武士大人？……不，不，我跑得太快了，笨蛋……,…お侍さん。お侍さん。…駄目駄目、走るの速すぎだよ。
+5,334,vocs_over_over_snowcity_briefing1_n01,vocs_snowcity_briefing1_n01_jp,TRAPPER,"Find him, before he gets angry. Now, stupid!",在他生气之前赶紧找到他。我真是笨啊！,怒られる前に見つけないと。すぐによ、ばかっ。
+5,335,vocs_over_over_snowcity_briefing1a_n00,vocs_snowcity_briefing1a_n00_jp,TRAPPER, … Master samurai?, ……武士大人？, …お侍さん。
+5,335,vocs_over_over_snowcity_briefing1a_n01,vocs_snowcity_briefing1a_n01_jp,TRAPPER,"Not here! Wrong place, stupid!",不是这里！找错地了，笨蛋！,いないわ！ここじゃないわ、ばか。
+5,335,vocs_over_over_snowcity_briefing1a_n02,vocs_snowcity_briefing1a_n02_jp,TRAPPER,"Find him, before he gets angry.",在他生气之前赶紧找到他。,怒られる前に見つけないと。
+5,335,vocs_over_over_snowcity_briefing1a_n03,vocs_snowcity_briefing1a_n03_jp,TRAPPER,"Now! Hurry, stupid!",现在！赶快，笨蛋！,すぐによ！急がないと、ばか！
+5,336,vocs_over_over_snowcity_separated_n00,vocs_snowcity_separated_n00_jp,TRAPPER,"You lost him, stupid, stupid, stupid!",我跟丢他了，笨、笨、笨啊！,見失うなんて、ばか、ばか、ばか！
+5,336,vocs_over_over_snowcity_separated_n00a,vocs_snowcity_separated_n00a_jp,TRAPPER,"You messed up, stupid, stupid!",哦，我搞砸了，笨蛋、笨蛋！,やっちゃったわ、ばか、ばか！
+5,337,vocs_over_over_snowcity_footprints_n00,vocs_snowcity_footprints_n00_jp,TRAPPER,"Footprints. Little traitors. Like arrows, pointing at you.",脚印会暴露行踪的。,足跡。反逆者たち。矢のようにあなたを狙う。
+5,338,vocs_over_over_snowcity_crossover_n00,vocs_snowcity_crossover_n00_jp,TRAPPER,Maybe this way? Please let him be this way …,也许是这条路？拜托他也走了这条路……,多分こっちかな？お願いだからこの道にいて…。
+5,339,vo_hint_hint_snowcity_sake1_n00,vo_snowcity_sake1_n00_jp,STATIC,Head for the market when the wagon's fully loaded.,马车装满酒后就前往集市。,馬車に荷物が乗ったら市場へ向かってくれ。
+5,339,vo_hint_hint_snowcity_sake1_n01,vo_snowcity_sake1_n01_jp,CIVILIAN M,"Yes, my lord.",是，大人！,はい、わかりました。
+5,339,vo_hint_hint_snowcity_sake1_n02,vo_snowcity_sake1_n02_jp,STATIC,"Make haste, all of you! The sake won't deliver itself.",所有人抓紧时间！清酒可不会自己送过去。,いそげ、皆よ！酒が届けられぬぞ。
+5,340,vocs_over_over_snowcity_briefing2_n00,vocs_snowcity_briefing2_n00_jp,TRAPPER,Master samurai!,哦，武士主人！,お侍さん！
+5,340,vocs_over_over_snowcity_briefing2_n01,vocs_snowcity_briefing2_n01_jp,WARRIOR,"There you are! You had me worried there, young woman.",你来了！小姑娘，你真让我担心。,ここにいたか！心配したぞ、若い娘よ。
+5,340,vocs_over_over_snowcity_briefing2_n02,vocs_snowcity_briefing2_n02_jp,TRAPPER,Sorry … am I in trouble?,抱歉……是不是我有麻烦了？,ごめん…厄介ごとを持ってきちゃった？
+5,340,vocs_over_over_snowcity_briefing2_n03,vocs_snowcity_briefing2_n03_jp,WARRIOR,"We will see. For now, let us proceed with the mission.",暂时没有，现在我们继续进行任务。,さて、どうだろうな。とにかく今は任務を進めよう。
+5,340,vocs_over_over_snowcity_briefing2_n04,vocs_snowcity_briefing2_n04_jp,WARRIOR,That man is a high ranking official. He has the documents we need.,那个人是名高级官员。我们要拿的文件就在他身上。,その男は位の高い役人だ。我らの欲しい書類を持っておる。
+5,340,vocs_over_over_snowcity_briefing2_n05,vocs_snowcity_briefing2_n05_jp,TRAPPER,"Uhm, he has lots of samurai with him …",嗯，他身边全是武士……,うーん、まわりに侍がたくさん…。
+5,340,vocs_over_over_snowcity_briefing2_n06,vocs_snowcity_briefing2_n06_jp,WARRIOR,"We will worry about that later. First, we need to get inside the compound.",那个问题稍后再说。首先，我们得进入大院。,それは後で考えよう。まず、屋敷の中に入る必要がある。
+5,340,vocs_over_over_snowcity_briefing2_n07,vocs_snowcity_briefing2_n07_jp,WARRIOR,There are two side entrances. One at the north wall … ,大院有两个侧门。一个在北墙…… ,入り口は二つある。一つは北の門…。
+5,340,vocs_over_over_snowcity_briefing2_n08,vocs_snowcity_briefing2_n08_jp,WARRIOR,… and one at the south wall. Both of them locked.,……另一个在南墙。不过门都锁着。,…もう一つは南だ。両方共施錠されておる。
+5,340,vocs_over_over_snowcity_briefing2_n09,vocs_snowcity_briefing2_n09_jp,WARRIOR,That samurai has the key. You need to climb inside and steal it from him.,那个武士有门钥匙。你需要爬进去然后从他身上偷到钥匙。,あの侍が鍵を持っている。中へ登って入り、奴から鍵を奪うのだ。
+5,340,vocs_over_over_snowcity_briefing2_n10,vocs_snowcity_briefing2_n10_jp,TRAPPER,Yes! I can do that!,是！没问题！,はい！やります！
+5,340,vocs_over_over_snowcity_briefing2_n11,vocs_snowcity_briefing2_n11_jp,WARRIOR,"Once you have it, open the gate for me. We will regroup inside and discuss further plans.",拿到钥匙后，帮我打开门。我们在院里会合，然后商量下一步计划。,それが済んだら、門を開けて欲しい。中で落ち合い、次の計画を話そう。
+5,340,vocs_over_over_snowcity_briefing2_n12,vocs_snowcity_briefing2_n12_jp,TRAPPER,"Hai, master samurai!",是，武士大人！,はい、お侍さん！
+5,341,vocs_over_over_snowcity_briefing2a_n00,vocs_snowcity_briefing2a_n00_jp,TRAPPER,Master samurai!,武士大人！,お侍さん！
+5,341,vocs_over_over_snowcity_briefing2a_n01,vocs_snowcity_briefing2a_n01_jp,WARRIOR,"There you are! You had me worried there, young woman.",你来了！小姑娘，你真让我担心。,ここにいたか！心配したぞ、若い娘よ。
+5,341,vocs_over_over_snowcity_briefing2a_n02,vocs_snowcity_briefing2a_n02_jp,TRAPPER,Sorry … am I in trouble?,抱歉……是不是我有麻烦了？,ごめん…厄介ごとを持ってきちゃった？
+5,341,vocs_over_over_snowcity_briefing2a_n03,vocs_snowcity_briefing2a_n03_jp,WARRIOR,"Hmm, we will see. Tell me, what did you find out?",嗯，暂时没有。把你打探到的情况告诉我。,さて、どうだろうな。それで、何を見つけたんだ？
+5,341,vocs_over_over_snowcity_briefing2a_n04,vocs_snowcity_briefing2a_n04_jp,TRAPPER,"That man with the papers. He is at that big house, like you said.",拿文件的那个人。正如你所说，就在那座大房子里。,あの男が書類をもってる。言ってた通り大きな家にいる。
+5,341,vocs_over_over_snowcity_briefing2a_n05,vocs_snowcity_briefing2a_n05_jp,TRAPPER,"He has lots of big, mean samurai with him …",他身边全是那些坏武士……,大きくて卑しい侍をたくさんつれてる…。
+5,341,vocs_over_over_snowcity_briefing2a_n06,vocs_snowcity_briefing2a_n06_jp,WARRIOR,"We will worry about them later. First, we need to get inside the compound.",我们稍后再处理他们。首先，我们要进到大院里。,後でどうにかしよう。まず、屋敷の中に入る必要がある。
+5,341,vocs_over_over_snowcity_briefing2a_n07,vocs_snowcity_briefing2a_n07_jp,TRAPPER,Hai! I found two ways inside. One at the north wall … ,是！我发现两条路能进去。一个在北墙…… ,はい！入るのに二箇所みつけた。一つは北の門…。
+5,341,vocs_over_over_snowcity_briefing2a_n08,vocs_snowcity_briefing2a_n08_jp,TRAPPER,… and one at the south wall. But they are both locked.,……另一个在南墙。但大门都锁着。,…もう一つは南ね。けどどちらも鍵がかけられてる。
+5,341,vocs_over_over_snowcity_briefing2a_n09,vocs_snowcity_briefing2a_n09_jp,WARRIOR,For every lock there is a key. Can you think of anyone who could have it?,每把锁都有一把钥匙。想想谁会有钥匙？,その鍵があるはず。誰が鍵をもっているかわかりそうか？
+5,341,vocs_over_over_snowcity_briefing2a_n10,vocs_snowcity_briefing2a_n10_jp,TRAPPER,Uhm … yes! There was another mean samurai! He has a key that wants to be stolen. ,嗯……对了！还有一个坏武士！他身上装着大门钥匙。 ,うーん…はい！そこの卑しい侍よ！あの人の鍵が盗んで欲しがってる。
+5,341,vocs_over_over_snowcity_briefing2a_n11,vocs_snowcity_briefing2a_n11_jp,WARRIOR,"You must climb inside, steal that key and let me in. After that, we will regroup and discuss further plans.",你必须爬到里面，偷上钥匙，帮我打开门。然后我们会合，讨论下一步计划。,中へ登って入り、奴から鍵を奪ったら、中に入れてくれ。そしたら中で再会してさらなる計画を話そう。
+5,341,vocs_over_over_snowcity_briefing2a_n12,vocs_snowcity_briefing2a_n12_jp,TRAPPER,"Hai, master samurai!",是，武士大人！,はい、お侍さん！
+5,342,vocs_over_over_snowcity_samurai_n01,vocs_snowcity_samurai_n01_jp,WARRIOR,"Samurai. I can defeat one in a duel, but two will overpower me. Keep your distance, Yuki-chan. Do not attack them at close range.",武士，一个不是问题，但我无法同时对付两个。友希妹妹离他们远点。千万别和他们近战。,決闘で一人は倒せるが、二人では拙者を上回る。距離をとるのだ、雪殿。接近して攻撃してはならぬ。
+5,342,vocs_over_over_snowcity_samurai_n02,vocs_snowcity_samurai_n02_jp,TRAPPER,Hai!,是！,はい。
+5,343,vocs_over_over_snowcity_shadows_n01,vocs_snowcity_shadows_n01_jp,WARRIOR,To think that all these men serve Kage-sama.,这些人应该都是影大人的手下。,カゲサマに仕える者どもと考えるか。
+5,343,vocs_over_over_snowcity_shadows_n02,vocs_snowcity_shadows_n02_jp,TRAPPER,Uhm … who is Kage-sama? Is he a shadow?,嗯……影大人是谁？他是影子吗？,うーん…カゲサマって誰？影なの？
+5,343,vocs_over_over_snowcity_shadows_n03,vocs_snowcity_shadows_n03_jp,WARRIOR,"It is a name, Yuki-chan, meant to scare people and destroy their faith in the Shogun. Stay vigilant now, and we might face him soon enough.",名字而已，友希妹妹，为了制造恐慌，击垮人们对将军的信念。现在要保持警惕，没准很快就会与他见面。,それが名前だ。人々を戦慄させ、上様への誠意を破壊せんとするものだ。用心してくれ、すぐに戦うことになるやもしれぬ。
+5,343,vocs_over_over_snowcity_shadows_n04,vocs_snowcity_shadows_n04_jp,TRAPPER,"Yes, master samurai.",是，武士大人。,はい、お侍さん。
+5,344,vocs_over_over_snowcity_infiltration_n00,vocs_snowcity_infiltration_n00_jp,TRAPPER,We can slip through here.,我们可以从这溜过去。,ここから滑り込める。
+5,344,vocs_over_over_snowcity_infiltration_n01,vocs_snowcity_infiltration_n01_jp,WARRIOR,"This business comes naturally to you, Yuki-chan. Have you always been a thief?",这次任务你做得很顺手，友希妹妹。你过去一直当小偷吗？,この仕事を自然にこなせるのだな。いつも盗みをしていたのか？
+5,344,vocs_over_over_snowcity_infiltration_n02,vocs_snowcity_infiltration_n02_jp,TRAPPER,"I was alone … for a time. Others came … they taught me how to see things, you know? Things that want to be taken?",有段时间我孤身一人……后来有帮人收留了我……他们教我如何找东西，你明白吗？就是找那种很容易被偷的东西。,一人だったの…ずっとね。それで誰かが来て…物の見方を教えてくれたの。物が盗んでって言ってるんだよ。
+5,344,vocs_over_over_snowcity_infiltration_n03,vocs_snowcity_infiltration_n03_jp,TRAPPER, … is that a problem?, ……你是不是讨厌小偷?,…駄目かな？
+5,344,vocs_over_over_snowcity_infiltration_n04,vocs_snowcity_infiltration_n04_jp,WARRIOR,Your origins don't bother me. What matters is how you use the talents that have been given to you.,你的出身不是问题。问题是你如何发挥自己的天赋。,どのようにそうなったかは気にはせぬ。大切なのは、その才能をどう使うかであろう。
+5,345,vocs_over_over_snowcity_wagon_n00,vocs_snowcity_wagon_n00_jp,TRAPPER,"A wagon, a wagon … ",马车，马车！ ,馬車、馬車…。
+5,345,vocs_over_over_snowcity_wagon_n01,vocs_snowcity_wagon_n01_jp,WARRIOR,This wagon delivers sake to the northern market.,这辆马车把清酒运往北面的集市。,馬車が酒を北の市場へと運ぶ。
+5,345,vocs_over_over_snowcity_wagon_n02,vocs_snowcity_wagon_n02_jp,TRAPPER,He wants to go where we're going. Maybe jump inside?,他去的地方和我们一样。要不跳到马车里?   ,私たちの向かう場所へ行きたがってるわ。中に入ってみる？
+5,345,vocs_over_over_snowcity_wagon_n03,vocs_snowcity_wagon_n03_jp,WARRIOR,"Hmm, good thinking.",嗯，好主意。,うーむ、いいかもしれぬな。
+5,346,vo_hint_hint_snowcity_sake2_n00,vo_snowcity_sake2_n00_jp,ENEMY,You can come through.,你可以过去了。,通ってくれ。
+5,347,vocs_over_over_snowcity_locked_n00,vocs_snowcity_locked_n00_jp,TRAPPER,There. One of the gates!,那边！是大门。,あそこ門の場所！
+5,347,vocs_over_over_snowcity_locked_n01,vocs_snowcity_locked_n01_jp,WARRIOR,"The gate is locked, as expected. Are you ready, Yuki-chan?",不出所料，大门已锁。准备好了吗，友希妹妹？,思った通り施錠されておる。準備はよいか、雪殿？
+5,347,vocs_over_over_snowcity_locked_n02,vocs_snowcity_locked_n02_jp,TRAPPER,Yes. Locks have keys. Keys like being stolen.,准备好了，开门要用钥匙，钥匙就在武士身上。,はい。閉まってるってことは鍵がある。鍵は盗まれたがってる。
+5,348,vocs_over_over_snowcity_icicle_n00,vocs_snowcity_icicle_n00_jp,TRAPPER,"Look! Big, shiny icicles! Oh, they want to fall on the samurai's head.",看！闪闪发光的大冰柱！他们肯定想掉到武士的脑袋上。,みて！大きな、輝くつらら。侍の頭の上に落ちたがってるみたい。
+5,349,vocs_over_over_snowcity_key_n00,vocs_snowcity_key_n00_jp,TRAPPER,"Quick! Open the gate, before master samurai gets worried.",快！赶紧开门，要不武士大人会着急的。,急いで！お侍さんが心配する前に門を開けなきゃ。
+5,350,vocs_over_over_snowcity_unlocked_n00,vocs_snowcity_unlocked_n00_jp,TRAPPER,There. All done!,搞定！,よし、やったわ。
+5,350,vocs_over_over_snowcity_unlocked_n01,vocs_snowcity_unlocked_n01_jp,WARRIOR,Impressive. I see why Hayato-san saw potential in you.,真是让我大开眼界。现在我明白为何隼人先生说你有潜力了。,見事だ。隼人殿がお主に可能性を見出したわけもわかる。
+5,350,vocs_over_over_snowcity_unlocked_n02,vocs_snowcity_unlocked_n02_jp,TRAPPER,Thank you!,谢谢！,ありがとう！
+5,350,vocs_over_over_snowcity_unlocked_n03,vocs_snowcity_unlocked_n03_jp,WARRIOR,"Let us regroup, and discuss our next approach.",到里面会合，然后讨论下一步计划。,では共に次の手について話し合おう。
+5,351,vocs_over_over_snowcity_briefing3_n00,vocs_snowcity_briefing3_n00_jp,WARRIOR,Very well …,很好……,よし…。
+5,351,vocs_over_over_snowcity_briefing3_n01,vocs_snowcity_briefing3_n01_jp,WARRIOR,"Remember, the official is well protected.",切记，官员周围有重兵把守。,役人は守られていることを忘れるな。
+5,351,vocs_over_over_snowcity_briefing3_n02,vocs_snowcity_briefing3_n02_jp,WARRIOR,"We are no match for this many bodyguards, so we must find a way to distract them.",正面迎战这么多保镖必败无疑，所以我们必须想办法把他们分散开。,これほどの護衛とは戦えぬ。気を引く方法を探すべきであるな。
+5,351,vocs_over_over_snowcity_briefing3_n03,vocs_snowcity_briefing3_n03_jp,WARRIOR,I saw two fire lookout towers on the way here.,来的路上我看到两座消防瞭望塔。,火の見やぐらがここからの道に二つある。
+5,351,vocs_over_over_snowcity_briefing3_n04,vocs_snowcity_briefing3_n04_jp,WARRIOR,"If I cut one down, the official will send his men to investigate the disturbance.",如果我砍断一座，官员就会派他的保镖前来调查。,一つを倒せば、役人が騒いで部下を送ってくるだろう。
+5,351,vocs_over_over_snowcity_briefing3_n05,vocs_snowcity_briefing3_n05_jp,TRAPPER,You can cut through a tower?!,塔你都能砍断？！,塔を倒すの？
+5,351,vocs_over_over_snowcity_briefing3_n06,vocs_snowcity_briefing3_n06_jp,WARRIOR,When it happens you will have plenty of time to steal the documents from our target.,等保镖过来调查时，你就有充足的时间从目标身上偷走文件。,そうなったら、書類を標的から盗むのに十分な時間があるだろう。
+5,351,vocs_over_over_snowcity_briefing3_n07,vocs_snowcity_briefing3_n07_jp,WARRIOR,Once we are finished we will use this wagon for our escape.,一旦拿到文件，我们就利用这辆马车逃走。,終わったらこの馬車を脱出に使おう。
+5,351,vocs_over_over_snowcity_briefing3_n08,vocs_snowcity_briefing3_n08_jp,TRAPPER,"He's a bad man, right? Maybe I should hurt him …",他是坏蛋，对吧？没准我该杀了他……,奴は悪い奴よね？ならあたしが手をかけたい…。
+5,351,vocs_over_over_snowcity_briefing3_n09,vocs_snowcity_briefing3_n09_jp,WARRIOR,"No, you must do him no harm. The Shogun will not tolerate the killing of a high ranking official, not until we have solid proof.",不，你千万不能杀了他。除非我们掌握确凿证据，否则将军绝不允许我们杀死一名高级官员。,ならぬ、危害を加えてはならぬ。上様は位の高い役人が死ぬのを好まぬ。証拠を掴むまではな。
+5,351,vocs_over_over_snowcity_briefing3_n10,vocs_snowcity_briefing3_n10_jp,TRAPPER,Understood!,是！,わかりました！
+5,351,vocs_over_over_snowcity_briefing3_n11,vocs_snowcity_briefing3_n11_jp,WARRIOR,"Well then. Ready, Yuki-chan?",那么，友希妹妹，准备好了吗?,そしなら行くぞ、雪殿。
+5,351,vocs_over_over_snowcity_briefing3_n12,vocs_snowcity_briefing3_n12_jp,TRAPPER,Ready!,准备好了！,うん。
+5,352,vocs_over_over_snowcity_briefing3a_n00,vocs_snowcity_briefing3a_n00_jp,WARRIOR,Very well …,很好……,よし…。
+5,352,vocs_over_over_snowcity_briefing3a_n01,vocs_snowcity_briefing3a_n01_jp,WARRIOR,"Remember, the official is well protected.",切记，官员周围有重兵把守。,役人は守られていることを忘れるな。
+5,352,vocs_over_over_snowcity_briefing3a_n02,vocs_snowcity_briefing3a_n02_jp,WARRIOR,"We are no match for this many bodyguards, so we must find a way to distract them.",正面迎战这么多保镖必败无疑，所以我们必须想办法把他们分散开。,これほどの護衛とは戦えぬ。気を引く方法をさがすべきであるな。
+5,352,vocs_over_over_snowcity_briefing3a_n03,vocs_snowcity_briefing3a_n03_jp,TRAPPER,I saw two big wooden towers when I was here before.,刚才我进来的时候看到了两座大木塔。,ここに就くまでに二つの木の塔を見た。
+5,352,vocs_over_over_snowcity_briefing3a_n04,vocs_snowcity_briefing3a_n04_jp,TRAPPER,"Maybe you can break one of them? It would make lots of noise, and the man with the papers will send his samurai to see what's wrong.",也许你能破坏一座塔？塔倒了声音肯定很大，拿文件的那人就会派他的武士过来调查。,お侍さんなら壊せますよね？そしたら大きな音がなって、書類の男がきっと侍を送って、何がおこったか見に来ると思う
+5,352,vocs_over_over_snowcity_briefing3a_n05,vocs_snowcity_briefing3a_n05_jp,WARRIOR,An unusual strategy. I am tempted to try it out.,这招不一般。我觉得可以一试。,突飛な作戦だ。試してみたいな
+5,352,vocs_over_over_snowcity_briefing3a_n06,vocs_snowcity_briefing3a_n06_jp,WARRIOR,When I do you will have plenty of time to steal the documents from our target.,当我砍断塔后，你就有充足的时间从目标身上偷走文件。,そうなったら、書類を標的から盗むのに十分な時間があるだろう。
+5,352,vocs_over_over_snowcity_briefing3a_n07,vocs_snowcity_briefing3a_n07_jp,TRAPPER,"Yes, and then we leave, right? Let's hide in that wagon. It'll carry us out of here.",是的，然后我们离开，对吧？我们可以藏在那辆马车里。它会把我们带出去的。,はい、そして逃げる、ですよね？誰か馬車に隠れましょう！ここから出してくれる。
+5,352,vocs_over_over_snowcity_briefing3a_n08,vocs_snowcity_briefing3a_n08_jp,TRAPPER,"The man with the papers … he's bad, right? Maybe I should hurt him …",拿文件的那人……他是坏蛋，对吧？或许我该把他杀了……,書類の男は…悪い人だよね。ならあたしが手をかけたい…。
+5,352,vocs_over_over_snowcity_briefing3a_n09,vocs_snowcity_briefing3a_n09_jp,WARRIOR,"No, you must do him no harm. The Shogun will not tolerate the killing of a high ranking official, not until we have solid proof.",不，你千万不能杀了他。除非我们掌握确凿证据，否则将军绝不允许我们杀死一名高级官员。,ならぬ、危害を加えてはならぬ。上様は位の高い役人が死ぬのを好まぬ。証拠を掴むまではな。
+5,352,vocs_over_over_snowcity_briefing3a_n10,vocs_snowcity_briefing3a_n10_jp,TRAPPER,Understood!,明白！,わかりました！
+5,352,vocs_over_over_snowcity_briefing3a_n11,vocs_snowcity_briefing3a_n11_jp,WARRIOR,"Well then. Ready, Yuki-chan?",那么，准备好了吗，友希妹妹?,では行くぞ、雪殿。
+5,352,vocs_over_over_snowcity_briefing3a_n12,vocs_snowcity_briefing3a_n12_jp,TRAPPER,Ready!,一切准备就绪！,行きましょう。
+5,353,vocs_over_over_snowcity_platform_n00,vocs_snowcity_platform_n00_jp,WARRIOR,A well aimed cut and this platform will crash to the ground.,只要砍对位置，这个平台肯定会垮掉。,よく狙った。一刀は、この舞台も地へと倒れる。
+5,353,vocs_over_over_snowcity_platform_n01,vocs_snowcity_platform_n01_jp,TRAPPER,"You're strong, master samurai!",你力气真大，武士大人！,たくましい、お侍さん。
+5,353,vocs_over_over_snowcity_platform_n01a,vocs_snowcity_platform_n01a_jp,TRAPPER,"You're strong, master samurai! You can do it!",武士大人，你力气那么大！肯定能行！,たくましい、お侍さん。きっとできるわ！
+5,353,vocs_over_over_snowcity_platform_n02,vocs_snowcity_platform_n02_jp,WARRIOR,One must only know where to strike.,只需知道要砍哪里。,打ち込む箇所を知るのみで十分だ。
+5,354,vocs_over_over_snowcity_tower_n00,vocs_snowcity_tower_n00_jp,TRAPPER,These towers are really high!,这些塔真高！,すごく高い塔ね！
+5,354,vocs_over_over_snowcity_tower_n01,vocs_snowcity_tower_n01_jp,WARRIOR,"The tower's supports are no match for my blade. If our plan works, the official will send his guards to investigate.",在我的刀面前这些塔的支架不堪一击。假如你的计划成功，官员就会派他的守卫过来察看。,塔の柱など我が刀の敵ではない。この作戦がうまくいけば、役人は見張りを送ってくるはず。
+5,355,vocs_over_over_snowcity_distraction_n00,vocs_snowcity_distraction_n00_jp,OFFICIAL,"What is going on?! Go, investigate all of you!",什么情况？！你们所有人快去调查！,何が起きておる？！行け、皆で調べろ。
+5,355,vocs_over_over_snowcity_distraction_n01,vocs_snowcity_distraction_n01_jp,WARRIOR,"This will keep them busy for a while. Be careful, Yuki-chan.",这就够他们先忙活一阵了。小心啊，友希妹妹。,これはしばらく忙しくなりそうだ。気をつけて、雪殿。
+5,355,vocs_over_over_snowcity_distraction_n01a,vocs_snowcity_distraction_n01a_jp,WARRIOR,"Your plan has worked. You know what to do, Yuki-chan.",你的计划成功了。你知道该怎么做，友希妹妹。,お主の計画がうまいった。やることはわかっておるな、雪殿。
+5,355,vocs_over_over_snowcity_distraction_n02,vocs_snowcity_distraction_n02_jp,TRAPPER,Yes. Steal the papers. Don't be seen. Don't hurt the bad man.,好，偷取文件，别被发现。不要杀了那个坏蛋。,はい。書類を盗む姿を見られない。悪い男は傷つけない。
+5,356,vo_hint_hint_snowcity_official1_n00,vo_snowcity_official1_n00_jp,OFFICIAL,Lord Yabu was displeased about the loss of the latest shipment. As a result he has gone to Mount Tsuru.,上批货丢了薮领主很不高兴，所以他亲自去了都留山。,藪大名は輸送での損失に機嫌を損ねておられる。その結果、鶴山に向かわれてしまった。
+5,356,vo_hint_hint_snowcity_official1_n01,vo_snowcity_official1_n01_jp,CIVILIAN M,"Do not worry, my lord. We will double the guards on the next transport. I am sure this delay will mean little in the end.",大人不用担心。下次运输时我们会把守卫加倍。我保证这次延误不会碍事的。,心配なさらないでください。護衛を次の輸送では倍に致します。この遅延は後にはほとんど意味はなくなりまする。
+5,356,vo_hint_hint_snowcity_official1_n02,vo_snowcity_official1_n02_jp,OFFICIAL,"We can only hope. Regardless, I will be glad when this is behind us.",希望如此吧，无论如何要把这事办妥。,祈るのみであるな。とにかく、裏で行われていれば私はありがたい。
+5,356,vo_hint_hint_snowcity_official1_n03,vo_snowcity_official1_n03_jp,CIVILIAN M,"As will I, my lord. Now, shall we discuss the next point on the list …",遵命，大人。那么现在我们继续讨论下一点……,私もでございます。では、覧の次の場所についての話…。
+5,357,vo_hint_hint_snowcity_official2_n00,vo_snowcity_official2_n00_jp,OFFICIAL,This matter troubles me greatly.,这次真是摊上大事了。,とても困る問題だ。
+5,357,vo_hint_hint_snowcity_official2_n01,vo_snowcity_official2_n01_jp,CIVILIAN M,"I will see it done, my lord.",我会全程监督的 ，大人。,終わらせるように致します。
+5,357,vo_hint_hint_snowcity_official2_n02,vo_snowcity_official2_n02_jp,OFFICIAL,That must be handled immediately.,这事必须立即处理！,すぐに対処が必要だ。
+5,357,vo_hint_hint_snowcity_official2_n03,vo_snowcity_official2_n03_jp,CIVILIAN M,I will report to you once it is done.,一旦办妥我会立即向您汇报。,終わり次第報告致します。
+5,357,vo_hint_hint_snowcity_official2_n04,vo_snowcity_official2_n04_jp,OFFICIAL,Are preparations under way?,准备工作进度如何？,準備はどうなっている。
+5,357,vo_hint_hint_snowcity_official2_n05,vo_snowcity_official2_n05_jp,CIVILIAN M,It will be to your satisfaction.,进度会让您满意的。,満足いただけるかと。
+5,357,vo_hint_hint_snowcity_official2_n06,vo_snowcity_official2_n06_jp,OFFICIAL,Can we trust him? We better make further inquiries.,啊...我们能信他吗？最好再做进一步调查。,奴を信じられるのか？さらに質問をするのがよいだろう。
+5,357,vo_hint_hint_snowcity_official2_n07,vo_snowcity_official2_n07_jp,CIVILIAN M,It will be arranged.,我会安排的。,手配致します。
+5,358,vocs_over_over_snowcity_pickpocket_n00,vocs_snowcity_pickpocket_n00_jp,TRAPPER,"Yes! You did it! Now, leave quickly.",好！你拿到文件了。现在赶紧撤离。,よし！やったわ！次は、急いで出るのよ。
+5,358,vocs_over_over_snowcity_pickpocket_n01,vocs_snowcity_pickpocket_n01_jp,WARRIOR,"Well done, Yuki-chan. Now, let us make haste and meet at the wagon. It will carry us out of danger.",干得好，友希妹妹。现在我们赶紧到马车里会合。上了马车就能安全撤离了。,よくやった、雪殿。では急いで馬車へと向かおう。危険から解放してくれる。
+5,359,vocs_over_over_snowcity_fail_n00,vocs_snowcity_fail_n00_jp,TRAPPER,"No no no no no! You killed him, stupid, stupid!",哦，不不不不不!你把他杀了，笨蛋、笨蛋！,駄目駄目駄目駄目！やっちゃったわ、ばか、ばか！
+5,359,vocs_over_over_snowcity_fail_n01,vocs_snowcity_fail_n01_jp,WARRIOR,He is dead! I will not be able to justify this to the Shogun. We have failed.,他死了！这事我无法向将军交代。任务失败。,死んでいる！しまった！上様に申し訳が立たぬ。失敗したか。
+5,360,vocs_over_over_snowcity_debriefing_n00,vocs_snowcity_debriefing_n00_jp,TRAPPER,That was a fun adventure!,简直就是一次大冒险!,楽しい冒険だったわ！
+5,360,vocs_over_over_snowcity_debriefing_n01,vocs_snowcity_debriefing_n01_jp,WARRIOR,"A fine display of the thieving arts, amongst other things.",偷盗艺术的一次完美展示，其他的不提也罢。,盗みの技が良かった、とりわけな。
+5,360,vocs_over_over_snowcity_debriefing_n02,vocs_snowcity_debriefing_n02_jp,TRAPPER,"Oh, thank you, master samurai!",哦！谢谢你，武士大人!,ありがとう、お侍さん！
+5,360,vocs_over_over_snowcity_debriefing_n03,vocs_snowcity_debriefing_n03_jp,WARRIOR,I think Hayato-san will be glad to have such a talented student.,我想隼人先生会很乐意收你为徒的。,隼人殿は才覚のある生徒を喜んで受け入れるであろう。
+5,360,vocs_over_over_snowcity_debriefing_n04,vocs_snowcity_debriefing_n04_jp,TRAPPER,Uhm … can I ask you a question?,呃…我能...问你一件事吗？,うーん、質問していいですか？
+5,360,vocs_over_over_snowcity_debriefing_n05,vocs_snowcity_debriefing_n05_jp,WARRIOR,Go ahead.,请说。,かまわぬぞ。
+5,360,vocs_over_over_snowcity_debriefing_n06,vocs_snowcity_debriefing_n06_jp,TRAPPER,"You're … not like other samurai, are you?",你…你和其他武士不一样，对吧？,その…他の侍とはちがいますよね？
+5,360,vocs_over_over_snowcity_debriefing_n07,vocs_snowcity_debriefing_n07_jp,WARRIOR,Haha ... is that your idea of a compliment?,哈哈……你这是在夸我吗？,はは…それは褒めているのか？
+5,360,vocs_over_over_snowcity_debriefing_n08,vocs_snowcity_debriefing_n08_jp,TRAPPER,Yes?,是-是的？,は、はい。
+5,360,vocs_over_over_snowcity_debriefing_n09,vocs_snowcity_debriefing_n09_jp,WARRIOR,"Then I will take it as such. Now, let us return to the meeting place and examine these documents.",那我就当作你在夸我。我们现在就回汇合点吧，然后仔细查看这些文件。,そう受け取っておこう。では、隠れ家へと戻り、書類を調べるとしよう。
+5,360,vocs_over_over_snowcity_debriefing_n10,vocs_snowcity_debriefing_n10_jp,TRAPPER,"Hai, master samurai.",是，武士大人。,はい、お侍さん！

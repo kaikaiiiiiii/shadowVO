@@ -1,0 +1,33 @@
+5,2,11		"CUTSCENE
+CONTEXT
+WORLD"				"NINJA
+TRAPPER
+WARRIOR
+ALCHEMIST
+GEISHA
+TANUKI
+SHOGUN
+SHOGUNSON
+DAIMYO
+GENERAL
+BROGUN
+BROGUNSON"	"Hayato 
+Yuki 
+艑shiro Mugen
+Takuma 
+Aiko 
+Kuma
+Shogun
+Ry奴nosuke
+Yabu
+Okkoto
+Noboru
+Masaru"	STORY:	"1) Aiko and Hayato are here to kidnap Masaru
+2) They'll spy on his men and find out he is in the bathhouse
+3) Then they'll kidnap and question him with Takuma to find out Noboru's plans
+4) Hayato is driven by revenge after Mugen's death
+5) Aiko keeps him in check and slowly shows that she is the new leader."																								
+																																	
+BRIEFING									Hayato and Aiko have entered the district where Masaru's house and business are located.																								
+PREFIX	SUFFIX	NAME	REC.	IMPL.	IMPL. BY	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE																					
+						TITLECARD			Kanazawa City	2	鏉惧北甯

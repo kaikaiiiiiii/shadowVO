@@ -1,0 +1,101 @@
+2,3,9									
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN
+vo_eny_eny_	daimyo_	death_scream_00	vo_eny_eny_daimyo_death_scream_00	omuk	hambo	Daimyo	shocked	(sound) short deathsound	
+vo_eny_eny_	daimyo_	death_scream_01	vo_eny_eny_daimyo_death_scream_01	omuk	hambo	Daimyo	shocked	(sound) short deathsound	
+vo_eny_eny_	daimyo_	death_scream_02	vo_eny_eny_daimyo_death_scream_02	omuk	hambo	Daimyo	shocked	(sound) short deathsound	
+vo_eny_eny_	daimyo_	death_scream_muffled_00	vo_eny_eny_daimyo_death_scream_muffled_00	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound	
+vo_eny_eny_	daimyo_	death_scream_muffled_01	vo_eny_eny_daimyo_death_scream_muffled_01	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound	
+vo_eny_eny_	daimyo_	death_scream_muffled_02	vo_eny_eny_daimyo_death_scream_muffled_02	omuk	hambo	Daimyo	struggling	(sound) muffled deathsound	
+vo_eny_eny_	daimyo_	detect_corpse_female_00	vo_eny_eny_daimyo_detect_corpse_female_00	omuk		Daimyo	furious	sees a corpse	死んでおるぞ！
+vo_eny_eny_	daimyo_	detect_corpse_female_01	vo_eny_eny_daimyo_detect_corpse_female_01	omuk		Daimyo	furious	sees a corpse	誰かに殺されたのじゃ！
+vo_eny_eny_	daimyo_	detect_corpse_male_00	vo_eny_eny_daimyo_detect_corpse_male_00	omuk		Daimyo	furious	sees a corpse	死んでおるぞ！
+vo_eny_eny_	daimyo_	detect_corpse_male_01	vo_eny_eny_daimyo_detect_corpse_male_01	omuk		Daimyo	furious	sees a corpse	誰かに殺されたのじゃ！
+vo_eny_eny_	daimyo_	detect_corpse_neutral_00	vo_eny_eny_daimyo_detect_corpse_neutral_00	omuk	hambo	Daimyo	furious	sees a corpse	殺人じゃ！
+vo_eny_eny_	daimyo_	detect_corpse_neutral_01	vo_eny_eny_daimyo_detect_corpse_neutral_01	omuk	hambo	Daimyo	furious	sees a corpse	暗殺者じゃ！
+vo_eny_eny_	daimyo_	detect_player_00	vo_eny_eny_daimyo_detect_player_00	omuk	hambo	Daimyo	agressive	sees a player character	お主！
+vo_eny_eny_	daimyo_	detect_player_01	vo_eny_eny_daimyo_detect_player_01	omuk	hambo	Daimyo	agressive	sees a player character	そこのお主！
+vo_eny_eny_	daimyo_	detect_player_02	vo_eny_eny_daimyo_detect_player_02	omuk	hambo	Daimyo	agressive	sees a player character	幕府の輩か！
+vo_eny_eny_	daimyo_	detect_player_03	vo_eny_eny_daimyo_detect_player_03	omuk	hambo	Daimyo	agressive	sees a player character	奴らじゃな！
+vo_eny_eny_	daimyo_	detect_player_proximity_00	vo_eny_eny_daimyo_detect_player_proximity_00	omuk	hambo	Daimyo	suspicious	senses a nearby player character	何かおかしいのぅ…。
+vo_eny_eny_	daimyo_	detect_player_proximity_01	vo_eny_eny_daimyo_detect_player_proximity_01	omuk	hambo	Daimyo	suspicious	senses a nearby player character	変じゃな。まるで…。
+vo_eny_eny_	daimyo_	detect_player_proximity_02	vo_eny_eny_daimyo_detect_player_proximity_02	omuk	hambo	Daimyo	suspicious	senses a nearby player character	何者かがおるのか？
+vo_eny_eny_	daimyo_	detect_player_proximity_03	vo_eny_eny_daimyo_detect_player_proximity_03	omuk	hambo	Daimyo	suspicious	senses a nearby player character	そこに何者かおるのか？
+vo_eny_eny_	daimyo_	detect_tanuki_00	vo_eny_eny_daimyo_detect_tanuki_00	omuk	hambo	Daimyo	dismissive	sees the tanuki	小汚い動物よ。
+vo_eny_eny_	daimyo_	detect_tanuki_01	vo_eny_eny_daimyo_detect_tanuki_01	omuk	hambo	Daimyo	dismissive	sees the tanuki	虫けらのようじゃ。
+vo_eny_eny_	daimyo_	detect_tanuki_02	vo_eny_eny_daimyo_detect_tanuki_02	omuk	hambo	Daimyo	dismissive	sees the tanuki	潰してしまう前に逃げるんじゃな！
+vo_eny_eny_	daimyo_	detect_tanuki_03	vo_eny_eny_daimyo_detect_tanuki_03	omuk	hambo	Daimyo	dismissive	sees the tanuki	ただの動物じゃ。
+vo_eny_eny_	daimyo_	detect_trap_00	vo_eny_eny_daimyo_detect_trap_00	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	ぬぬ？なんとこしゃくな…。
+vo_eny_eny_	daimyo_	detect_trap_01	vo_eny_eny_daimyo_detect_trap_01	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	ふん、こんなのオモチャに過ぎないわい。
+vo_eny_eny_	daimyo_	detect_trap_02	vo_eny_eny_daimyo_detect_trap_02	omuk	hambo	Daimyo	with contempt	spots the trap on the floor and breaks it	こんなのを置いたのは誰じゃ？ゴミめ。
+vo_eny_eny_	daimyo_	detect_unconscious_female_01	vo_eny_eny_daimyo_detect_unconscious_female_01	omuk		Daimyo	displeased	sees unconcious person	気絶してるのぅ。
+vo_eny_eny_	daimyo_	detect_unconscious_female_02	vo_eny_eny_daimyo_detect_unconscious_female_02	omuk		Daimyo	displeased	sees unconcious person	殴られたようじゃな。
+vo_eny_eny_	daimyo_	detect_unconscious_female_03	vo_eny_eny_daimyo_detect_unconscious_female_03	omuk		Daimyo	displeased	sees unconcious person	襲われたのであろう。
+vo_eny_eny_	daimyo_	detect_unconscious_male_00	vo_eny_eny_daimyo_detect_unconscious_male_00	omuk		Daimyo	displeased	sees unconcious person	気絶してるのぅ。
+vo_eny_eny_	daimyo_	detect_unconscious_male_01	vo_eny_eny_daimyo_detect_unconscious_male_01	omuk		Daimyo	displeased	sees unconcious person	殴られたようじゃな。
+vo_eny_eny_	daimyo_	detect_unconscious_male_02	vo_eny_eny_daimyo_detect_unconscious_male_02	omuk		Daimyo	displeased	sees unconcious person	襲われたのであろう。
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_01	vo_eny_eny_daimyo_detect_unconscious_neutral_01	omuk	hambo	Daimyo	displeased	sees unconcious person	どうしたんじゃ？
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_02	vo_eny_eny_daimyo_detect_unconscious_neutral_02	omuk	hambo	Daimyo	displeased	sees unconcious person	お主、誰に襲われたのじゃ？
+vo_eny_eny_	daimyo_	detect_unconscious_neutral_03	vo_eny_eny_daimyo_detect_unconscious_neutral_03	omuk	hambo	Daimyo	displeased	sees unconcious person	眠りこけておるのか？
+vo_eny_eny_	daimyo_	flee_00	vo_eny_eny_daimyo_flee_00	omuk		Daimyo	angry panic	player character has been spotted nearby	ワシの守りにつけ！
+vo_eny_eny_	daimyo_	flee_01	vo_eny_eny_daimyo_flee_01	omuk		Daimyo	angry panic	player character has been spotted nearby	ワシを狙ってきたんじゃ！討ち取るのじゃ！
+vo_eny_eny_	daimyo_	flee_02	vo_eny_eny_daimyo_flee_02	omuk		Daimyo	angry panic	player character has been spotted nearby	将軍の暗殺者じゃ！ワシを守るのじゃ！
+vo_eny_eny_	daimyo_	friend_missing_female_00	vo_eny_eny_daimyo_friend_missing_female_00	omuk		Daimyo	displeased	his partner is missing	持ち場を離れたのか？
+vo_eny_eny_	daimyo_	friend_missing_female_01	vo_eny_eny_daimyo_friend_missing_female_01	omuk		Daimyo	displeased	his partner is missing	どこに行ったのじゃ？
+vo_eny_eny_	daimyo_	friend_missing_female_02	vo_eny_eny_daimyo_friend_missing_female_02	omuk		Daimyo	displeased	his partner is missing	何に時間を食っておるのじゃ？
+vo_eny_eny_	daimyo_	friend_missing_female_03	vo_eny_eny_daimyo_friend_missing_female_03	omuk		Daimyo	displeased	his partner is missing	待ちきれんわい。
+vo_eny_eny_	daimyo_	friend_missing_female_04	vo_eny_eny_daimyo_friend_missing_female_04	omuk		Daimyo	displeased	his partner is missing	行方不明じゃ！
+vo_eny_eny_	daimyo_	friend_missing_female_05	vo_eny_eny_daimyo_friend_missing_female_05	omuk		Daimyo	displeased	his partner is missing	このワシを待たせるなど…！
+vo_eny_eny_	daimyo_	friend_missing_male_00	vo_eny_eny_daimyo_friend_missing_male_00	omuk	placeholder	Daimyo	displeased	his partner is missing	持ち場を離れたのか？
+vo_eny_eny_	daimyo_	friend_missing_male_01	vo_eny_eny_daimyo_friend_missing_male_01	omuk	placeholder	Daimyo	displeased	his partner is missing	どこに行ったのじゃ？
+vo_eny_eny_	daimyo_	friend_missing_male_02	vo_eny_eny_daimyo_friend_missing_male_02	omuk	placeholder	Daimyo	displeased	his partner is missing	何に時間を食っておるのじゃ？
+vo_eny_eny_	daimyo_	friend_missing_male_03	vo_eny_eny_daimyo_friend_missing_male_03	omuk	placeholder	Daimyo	displeased	his partner is missing	待ちきれんわい。
+vo_eny_eny_	daimyo_	friend_missing_male_04	vo_eny_eny_daimyo_friend_missing_male_04	omuk	placeholder	Daimyo	displeased	his partner is missing	行方不明じゃ！
+vo_eny_eny_	daimyo_	friend_missing_male_05	vo_eny_eny_daimyo_friend_missing_male_05	omuk	placeholder	Daimyo	displeased	his partner is missing	このワシを待たせるなど…！
+vo_eny_eny_	daimyo_	friend_wakeup_00	vo_eny_eny_daimyo_friend_wakeup_00	omuk	hambo	Daimyo	urgent	wakes unconcious person	お主！起きるのじゃ！
+vo_eny_eny_	daimyo_	friend_wakeup_01	vo_eny_eny_daimyo_friend_wakeup_01	omuk	hambo	Daimyo	urgent	wakes unconcious person	目を覚ますのじゃ！
+vo_eny_eny_	daimyo_	friend_wakeup_02	vo_eny_eny_daimyo_friend_wakeup_02	omuk	hambo	Daimyo	urgent	wakes unconcious person	立つのじゃ！
+vo_eny_eny_	daimyo_	friend_wakeup_03	vo_eny_eny_daimyo_friend_wakeup_03	omuk	hambo	Daimyo	urgent	wakes unconcious person	何が起きたんじゃ？
+vo_eny_eny_	daimyo_	friend_wakeup_04	vo_eny_eny_daimyo_friend_wakeup_04	omuk	hambo	Daimyo	urgent	wakes unconcious person	しっかりするのじゃ！
+vo_eny_eny_	daimyo_	hear_noise_00	vo_eny_eny_daimyo_hear_noise_00	omuk		Daimyo	suspicious	hears strange noise	何じゃと？
+vo_eny_eny_	daimyo_	hear_noise_01	vo_eny_eny_daimyo_hear_noise_01	omuk		Daimyo	suspicious	hears strange noise	今のは何じゃ？
+vo_eny_eny_	daimyo_	hear_noise_02	vo_eny_eny_daimyo_hear_noise_02	omuk		Daimyo	suspicious	hears strange noise	何か聞こえたのう…。
+vo_eny_eny_	daimyo_	hear_noise_03	vo_eny_eny_daimyo_hear_noise_03	omuk		Daimyo	suspicious	hears strange noise	妙な音じゃな…。
+vo_eny_eny_	daimyo_	hear_noise_04	vo_eny_eny_daimyo_hear_noise_04	omuk		Daimyo	suspicious	hears strange noise	あの音は…。
+vo_eny_eny_	daimyo_	hear_noise_directhit_00	vo_eny_eny_daimyo_hear_noise_directhit_00	omuk		Daimyo	anger	is hit by stone	フン！卑怯者めが！
+vo_eny_eny_	daimyo_	hear_noise_directhit_01	vo_eny_eny_daimyo_hear_noise_directhit_01	omuk		Daimyo	contempt	is hit by stone	フン！ただではおかんぞ！
+vo_eny_eny_	daimyo_	hear_noise_directhit_02	vo_eny_eny_daimyo_hear_noise_directhit_02	omuk		Daimyo	anger	is hit by stone	フン！姿を見せるのじゃ！
+vo_eny_eny_	daimyo_	hear_noise_directhit_03	vo_eny_eny_daimyo_hear_noise_directhit_03	omuk		Daimyo	contempt	is hit by stone	フン！痛くもかゆくもないわい！
+vo_eny_eny_	daimyo_	hear_noise_gunshot_00	vo_eny_eny_daimyo_hear_noise_gunshot_00	omuk		Daimyo	alarmed	hears player gunshot	なぜ銃声がするのじゃ？
+vo_eny_eny_	daimyo_	hear_noise_gunshot_01	vo_eny_eny_daimyo_hear_noise_gunshot_01	omuk		Daimyo	alarmed	hears player gunshot	攻撃じゃ！皆準備に付け！
+vo_eny_eny_	daimyo_	hear_noise_gunshot_02	vo_eny_eny_daimyo_hear_noise_gunshot_02	omuk		Daimyo	alarmed	hears player gunshot	敵は銃を持っておる！
+vo_eny_eny_	daimyo_	hear_noise_human_00	vo_eny_eny_daimyo_hear_noise_human_00	omuk		Daimyo	tense	hears human noise	誰かいるのか？
+vo_eny_eny_	daimyo_	hear_noise_human_01	vo_eny_eny_daimyo_hear_noise_human_01	omuk		Daimyo	tense	hears human noise	誰じゃ？
+vo_eny_eny_	daimyo_	hear_noise_human_02	vo_eny_eny_daimyo_hear_noise_human_02	omuk		Daimyo	tense	hears human noise	今の聞こえたのじゃ。
+vo_eny_eny_	daimyo_	hear_noise_human_03	vo_eny_eny_daimyo_hear_noise_human_03	omuk		Daimyo	tense	hears human noise	誰の仕業じゃ！
+vo_eny_eny_	daimyo_	hear_noise_human_04	vo_eny_eny_daimyo_hear_noise_human_04	omuk		Daimyo	tense	hears human noise	茂みに隠れておるのは分かっておる！
+vo_eny_eny_	daimyo_	hear_noise_human_05	vo_eny_eny_daimyo_hear_noise_human_05	omuk		Daimyo	tense	hears human noise	姿を見せるのじゃ！
+vo_eny_eny_	daimyo_	hear_noise_too_much_00	vo_eny_eny_daimyo_hear_noise_too_much_00	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	うるさいのじゃ！
+vo_eny_eny_	daimyo_	hear_noise_too_much_01	vo_eny_eny_daimyo_hear_noise_too_much_01	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	ただではおかんぞ！
+vo_eny_eny_	daimyo_	hear_noise_too_much_02	vo_eny_eny_daimyo_hear_noise_too_much_02	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	出てこい、卑怯者！
+vo_eny_eny_	daimyo_	hear_noise_too_much_03	vo_eny_eny_daimyo_hear_noise_too_much_03	omuk	hambo	Daimyo	irritated	irritated by a continuous string of strange noises	もう我慢ならん！
+vo_eny_eny_	daimyo_	ignore_distraction_00	vo_eny_eny_daimyo_ignore_distraction_00	omuk	hambo	Daimyo	dismissive	ignores player distraction	ワシが気にするほどのものではないわい。
+vo_eny_eny_	daimyo_	ignore_distraction_01	vo_eny_eny_daimyo_ignore_distraction_01	omuk	hambo	Daimyo	dismissive	ignores player distraction	そんなものではワシの気はひけんぞ。
+vo_eny_eny_	daimyo_	ignore_distraction_02	vo_eny_eny_daimyo_ignore_distraction_02	omuk	hambo	Daimyo	dismissive	ignores player distraction	小道具なぞきかんわい。
+vo_eny_eny_	daimyo_	ignore_distraction_03	vo_eny_eny_daimyo_ignore_distraction_03	omuk	hambo	Daimyo	dismissive	ignores player distraction	ワシはだまされんぞ。
+vo_eny_eny_	daimyo_	investigate_missing_00	vo_eny_eny_daimyo_investigate_missing_00	omuk		Daimyo	displeased	searches for partner	どこじゃ？
+vo_eny_eny_	daimyo_	investigate_missing_01	vo_eny_eny_daimyo_investigate_missing_01	omuk		Daimyo	displeased	searches for partner	隠れてるわけではなかろう。
+vo_eny_eny_	daimyo_	investigate_missing_02	vo_eny_eny_daimyo_investigate_missing_02	omuk		Daimyo	displeased	searches for partner	出てくるのじゃ！
+vo_eny_eny_	daimyo_	investigate_missing_03	vo_eny_eny_daimyo_investigate_missing_03	omuk		Daimyo	displeased	searches for partner	冗談もほどほどにするのじゃ！
+vo_eny_eny_	daimyo_	investigate_missing_04	vo_eny_eny_daimyo_investigate_missing_04	omuk		Daimyo	displeased	searches for partner	姿を見せるのじゃ！
+vo_eny_eny_	daimyo_	knockout_scream_00	vo_eny_eny_daimyo_knockout_scream_00	omuk	hambo	Daimyo	stunned	(sound) gets knocked out	
+vo_eny_eny_	daimyo_	knockout_scream_01	vo_eny_eny_daimyo_knockout_scream_01	omuk	hambo	Daimyo	stunned	(sound) gets knocked out	
+vo_eny_eny_	daimyo_	knockout_scream_02	vo_eny_eny_daimyo_knockout_scream_02	omuk	hambo	Daimyo	stunned	(sound) gets knocked out	
+vo_eny_eny_	daimyo_	regain_consciousness_00	vo_eny_eny_daimyo_regain_consciousness_00	omuk	hambo	Daimyo	very angry	knocked out, wakes up	ただでは…おかん…。
+vo_eny_eny_	daimyo_	regain_consciousness_01	vo_eny_eny_daimyo_regain_consciousness_01	omuk	hambo	Daimyo	very angry	knocked out, wakes up	ワシが襲われただと？！
+vo_eny_eny_	daimyo_	regain_consciousness_02	vo_eny_eny_daimyo_regain_consciousness_02	omuk	hambo	Daimyo	very angry	knocked out, wakes up	ワシの…守りはどこじゃ…。
+vo_eny_eny_	daimyo_	see_something_00	vo_eny_eny_daimyo_see_something_00	omuk	hambo	Daimyo	suspicious	sees something strange	何じゃと？
+vo_eny_eny_	daimyo_	see_something_01	vo_eny_eny_daimyo_see_something_01	omuk	hambo	Daimyo	suspicious	sees something strange	フム？
+vo_eny_eny_	daimyo_	see_something_02	vo_eny_eny_daimyo_see_something_02	omuk	hambo	Daimyo	suspicious	sees something strange	何じゃ？
+vo_eny_eny_	daimyo_	see_something_03	vo_eny_eny_daimyo_see_something_03	omuk	hambo	Daimyo	suspicious	sees something strange	何かあるのう…。
+vo_eny_eny_	daimyo_	see_something_04	vo_eny_eny_daimyo_see_something_04	omuk	hambo	Daimyo	suspicious	sees something strange	ほぉ～。
+									

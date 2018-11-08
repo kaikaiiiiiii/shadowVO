@@ -1,0 +1,224 @@
+[
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n00","vojp":"vocs_monastery1_briefing_n00_jp","s":"WARRIOR","en":"Hmm ... is there a chance I got here first? Did she not get my message?","cn":"嗯……怎么没人？难道她没收到我的消息？","jp":"うーむ…私が先に着いてしまったか？もしかして連絡が届いていないのだろうか？"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n01","vojp":"vocs_monastery1_briefing_n01_jp","s":"GEISHA","en":"Konnichiwa, Mugen-san.","cn":"午安，无限大哥。","jp":"ごきげんよう、武源様。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n02","vojp":"vocs_monastery1_briefing_n02_jp","s":"WARRIOR","en":"Ah, Aiko-san. Your beauty is most welcome on this desolate mountain.","cn":"哦喔，爱子小姐！在这荒山野岭还能一睹您的芳容，真是三生有幸。","jp":"おぉ、愛琥殿！この人里離れた山の中、そなたのような美女にお目にかかれるとはなんたる幸福か！"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n03","vojp":"vocs_monastery1_briefing_n03_jp","s":"GEISHA","en":"Mugen-san! Have we come all this way for flattery?","cn":"无限大哥。跑到这种荒郊野外，就为了来献殷勤的吗？","jp":"あら、武源様ったら！そんなこと言うためにここまでいらしたのかしら？"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n04","vojp":"vocs_monastery1_briefing_n04_jp","s":"WARRIOR","en":"I wish it were so. You seem to have arrived before me. What do you gather from this place?","cn":"我倒希望如此。看来你比我先到。有没有探到什么情报？","jp":"そうだと良かったのですが。拙者より先に来ていたようですな。何か気づいたことは？"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n05","vojp":"vocs_monastery1_briefing_n05_jp","s":"GEISHA","en":"The guards are talkative. I heard them speak of a captive held near the waterfalls.","cn":"这边的守卫都很健谈。我听他们在说有个俘虏关押在瀑布那边。","jp":"おしゃべりな見張りがいるわ。滝の側に捕らえ人がいると。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n06","vojp":"vocs_monastery1_briefing_n06_jp","s":"WARRIOR","en":"That must be Takuma-san! How shall we proceed?","cn":"肯定是琢磨大师！你有什么计划？","jp":"巧磨殿に違いない！いかがしましょうか？"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n07","vojp":"vocs_monastery1_briefing_n07_jp","s":"GEISHA","en":"There are a number of female temple servants. If we find a match, I can take her clothes and assume her identity.","cn":"寺庙里有不少女佣。如能拿到合适的衣服，我可以乔装成女佣。","jp":"寺に仕える女たちがいるわ。服を頂いてなりすましましょう。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n08","vojp":"vocs_monastery1_briefing_n08_jp","s":"GEISHA","en":"It would allow me to move freely and ring the bell that calls the monks to prayer …","cn":"这样我就能进出自由，然后敲响大钟，召集僧人去祷告……","jp":"そうすれば自由に動けて、鐘を鳴らせるわ。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n09","vojp":"vocs_monastery1_briefing_n09_jp","s":"WARRIOR","en":"… thinning out the crowd. An elegant plan. One of the many things I have missed about you.","cn":"调虎离山，然后趁机潜入…… 此计甚妙，爱子小姐还是和当年一样才貌双全。","jp":"…紛れ込む、と。なんと美しい計画。拙者が見初めたそなたの魅力のひとつだ。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n10","vojp":"vocs_monastery1_briefing_n10_jp","s":"WARRIOR","en":"Very well. Once we reach Takuma-san, we should …","cn":"很好。一旦救出琢磨大师……","jp":"いいでしょう。巧磨殿のところに着いたら…。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n11","vojp":"vocs_monastery1_briefing_n11_jp","s":"GEISHA","en":"Quickly! Someone is coming!","cn":"躲好！有人来了！","jp":"隠れて、誰か来る！"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n12","vojp":"vocs_monastery1_briefing_n12_jp","s":"DAIMYO","en":"I expect you to make up for the loss of the latest shipment.","cn":"你们要将功补过，弥补上批货物的损失。","jp":"失態を埋め合わせてくれるかの。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n13","vojp":"vocs_monastery1_briefing_n13_jp","s":"SAMURAI","en":"Yes, Lord Yabu. The monks will increase their workload, as will Takuma.","cn":"遵命，薮大人。我会让僧人和琢磨都加班加点。","jp":"御意、藪様。僧の仕事を増やしております。巧磨も同様です。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n14","vojp":"vocs_monastery1_briefing_n14_jp","s":"DAIMYO","en":"This matter will soon be concluded, and the old man will cease to be useful. See to it that he never leaves this mountain.","cn":"最后一批货很快就能造完，那么老家伙就没用了。到时候切记不能让他活着下山。","jp":"ことはすぐ終わる。老人はすぐ不要になる。山から逃げ出さぬようにしておけ。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n15","vojp":"vocs_monastery1_briefing_n15_jp","s":"SAMURAI","en":"As you wish, Yabu-sama.","cn":"谨遵指令，薮大人。","jp":"仰せのままに、藪様。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n16","vojp":"vocs_monastery1_briefing_n16_jp","s":"DAIMYO","en":"And make sure that the next transport leaves in time. I will not tolerate any further delays.","cn":"下批货一定要准时发出。不可再有拖延。","jp":"時間通り輸送を行え。これ以上の遅れは許さん。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n17","vojp":"vocs_monastery1_briefing_n17_jp","s":"WARRIOR","en":"That was close. Best we start now, before more complications arrive.","cn":"好险。迟则生变，我们最好立即行动。","jp":"危なかった…。今ぞ好機。厄介な事になる前に動きましょう。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n17a","vojp":"vocs_monastery1_briefing_n17a_jp","s":"WARRIOR","en":"Lord Yabu. I expect we will meet again in the near future. For now, we must free Takuma-san.","cn":"薮大名，我们很快就会再见面的。但现在要先营救琢磨大师。","jp":"藪大名、近い内にまた会うであろう。今は巧磨殿の解放が先だ。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n17b","vojp":"vocs_monastery1_briefing_n17b_jp","s":"WARRIOR","en":"So Lord Yabu has forced Takuma-san and the monks to build weapons. We will deal with him once we have freed Takuma-san.","cn":"看来是薮大名强迫琢磨大师和僧人们制造武器。这次先营救琢磨大师，下次再去找他。","jp":"藪大名は巧磨殿や僧に武器を作らせていたのか。巧磨殿を解放したらあやつの番だ。"}
+,
+{"lvl":"7","sec":"198","voen":"vocs_over_over_monastery1_briefing_n18","vojp":"vocs_monastery1_briefing_n18_jp","s":"GEISHA","en":"I agree, let us begin.","cn":"同意，开始行动吧。","jp":"そうね、始めましょう。"}
+,
+{"lvl":"7","sec":"199","voen":"vo_hint_hint_monastery1_transport_n00","vojp":"vo_monastery1_transport_n00_jp","s":"OFFICER","en":"This one must reach Kyoto, understand?","cn":"这批货一定要安全运到京都，明白吗？","jp":"京都に着かねばならぬ、わかってるだろう？"}
+,
+{"lvl":"7","sec":"199","voen":"vo_hint_hint_monastery1_transport_n01","vojp":"vo_monastery1_transport_n01_jp","s":"OFFICER","en":"Then take a different route!","cn":"那就换条路走！","jp":"なら違う経路にしろ。"}
+,
+{"lvl":"7","sec":"199","voen":"vo_hint_hint_monastery1_transport_n02","vojp":"vo_monastery1_transport_n02_jp","s":"OFFICER","en":"You must protect these crates with your life.","cn":"就算搭上性命也得保护好这批货。","jp":"木枠は命をもってお守りせねばならない。"}
+,
+{"lvl":"7","sec":"199","voen":"vo_hint_hint_monastery1_transport_n03","vojp":"vo_monastery1_transport_n03_jp","s":"OFFICER","en":"If  you fail, Lord Yabu will have your head.","cn":"要是办砸了，当心薮大人要你脑袋。","jp":"もしできなければ藪様がお前の首を取る。"}
+,
+{"lvl":"7","sec":"199","voen":"vo_hint_hint_monastery1_transport_n04","vojp":"vo_monastery1_transport_n04_jp","s":"OFFICER","en":"No excuses, no delays.","cn":"别找借口！不得拖延！","jp":"問答無用、遅れは許さん。"}
+,
+{"lvl":"7","sec":"200","voen":"vocs_over_over_monastery1_options_n00","vojp":"vocs_monastery1_options_n00_jp","s":"WARRIOR","en":"These wagons … I have seen their kind before. This place is indeed the source of the weapon transports.","cn":"这些马车…和我之前见过的一样。此地的确就是武器运输的源头。","jp":"荷馬車…見覚えがある。確かに、ここが武器輸送の根源に違いない。"}
+,
+{"lvl":"7","sec":"200","voen":"vocs_over_over_monastery1_options_n01","vojp":"vocs_monastery1_options_n01_jp","s":"GEISHA","en":"The gate they came from is heavily guarded, but there are other ways in. Let's explore the possibilities.","cn":"大门戒备森严，但还有其它方法进入。先打探下周围吧。","jp":"門は守りが堅い、けど他に道はあるはず。何かないか探しましょう。"}
+,
+{"lvl":"7","sec":"201","voen":"vocs_over_over_monastery1_climbing_n00","vojp":"vocs_monastery1_climbing_n00_jp","s":"GEISHA","en":"I will go ahead. Will you be patient while I am gone?","cn":"我先走一步啦，你会耐心等我回来吗？","jp":"潜入してきます。私がいない間、おとなしく待っていてくださるかしら？"}
+,
+{"lvl":"7","sec":"201","voen":"vocs_over_over_monastery1_climbing_n01","vojp":"vocs_monastery1_climbing_n01_jp","s":"WARRIOR","en":"The sight of your elegant ascent will keep my thoughts occupied.","cn":"你攀爬的背影实在优雅，在下都看呆了。就让我在原地好好回味吧。","jp":"そなたの美しき後ろ姿に心囚われ、動くこともままならぬでしょう。"}
+,
+{"lvl":"7","sec":"202","voen":"vocs_over_over_monastery1_secrets1_n00","vojp":"vocs_monastery1_secrets1_n00_jp","s":"GEISHA","en":"Curious. This opened a secret passage of sorts. Let us keep that in mind for when we leave.","cn":"好神奇。这个机关能打开秘道，撤离的时候或许能派上用场。","jp":"面白いわね。秘密の道が開くなんて。出る時は気をつけておきましょう。"}
+,
+{"lvl":"7","sec":"202","voen":"vocs_over_over_monastery1_secrets1_n01","vojp":"vocs_monastery1_secrets1_n01_jp","s":"WARRIOR","en":"What is this? It seems to have opened a secret passage. We must remember that for our escape.","cn":"这是什么？这个机关好像能打开秘道。最好记下来，逃离的时候用得到。","jp":"なんだ、これは。秘密の道か。脱出の時のため、覚えておこう。"}
+,
+{"lvl":"7","sec":"203","voen":"vocs_over_over_monastery1_entrance_n00","vojp":"vocs_monastery1_entrance_n00_jp","s":"GEISHA","en":"Carts and wagons, packed with firearms. What an unexpected place for such a sinister enterprise.","cn":"嗯…这么多装满火器的推车和马车。谁能想到堂堂庙宇之上，竟有这等勾当。","jp":"荷車、馬車、武器。なんて物騒な場所なの。"}
+,
+{"lvl":"7","sec":"204","voen":"vocs_over_over_monastery1_pilgrims_n00","vojp":"vocs_monastery1_pilgrims_n00_jp","s":"GEISHA","en":"There are more guards than monks and pilgrims combined. Clearly the gods are not masters of this temple …","cn":"僧人和信众加起来都没守卫多。这座庙里，供奉的哪是神明……","jp":"見張りの数が僧や巡礼者より多いわ。ここに神の加護なんて無いわね。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n00","vojp":"vo_monastery1_shy_n00_jp","s":"ENEMY","en":"What should I do …","cn":"我该怎么办…","jp":"どうしよう…。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n01","vojp":"vo_monastery1_shy_n01_jp","s":"ENEMY","en":"Uhm … I … hello again …","cn":"嗯…那个…我还是想…","jp":"えっと…あの、すみません…。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n02","vojp":"vo_monastery1_shy_n02_jp","s":"CIVILIAN F","en":"I beg you. Leave me be.","cn":"求你了，别来找我了。","jp":"ごめんなさい。お手伝いできません。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n03","vojp":"vo_monastery1_shy_n03_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n04","vojp":"vo_monastery1_shy_n04_jp","s":"ENEMY","en":"Give me strength …","cn":"大神，赐予我勇气吧…","jp":"まいったなぁ…。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n05","vojp":"vo_monastery1_shy_n05_jp","s":"ENEMY","en":"Uhm … would you … consider …","cn":"呃…那个…我想…","jp":"あの…すみません…どうか…。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n06","vojp":"vo_monastery1_shy_n06_jp","s":"CIVILIAN F","en":"Please. It is forbidden.","cn":"别这样！不可以的。","jp":"すみませんが、決まりなので。"}
+,
+{"lvl":"7","sec":"205","voen":"vo_hint_hint_monastery1_shy_n07","vojp":"vo_monastery1_shy_n07_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"lvl":"7","sec":"206","voen":"vocs_over_over_monastery1_servant_n00","vojp":"vocs_monastery1_servant_n00_jp","s":"GEISHA","en":"This woman has a few secret admirers. Her uniform would fit me perfectly.","cn":"好像有不少人对这个女佣有意思嘛。她的衣服正合我身。","jp":"この女を思う人がいるようね。その服、私にちょうど良さそうね。"}
+,
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n00","vojp":"vo_monastery1_laundry_n00_jp","s":"CIVILIAN F","en":"","cn":"","jp":""},
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n01","vojp":"vo_monastery1_laundry_n01_jp","s":"CIVILIAN F","en":"","cn":"","jp":""},
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n02","vojp":"vo_monastery1_laundry_n02_jp","s":"CIVILIAN F","en":"Hmm …","cn":"嗯……","jp":"うーん…。"}
+,
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n03","vojp":"vo_monastery1_laundry_n03_jp","s":"CIVILIAN F","en":"Almost done.","cn":"快干完了。","jp":"もうおしまい。"}
+,
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n04","vojp":"vo_monastery1_laundry_n04_jp","s":"CIVILIAN F","en":"There …","cn":"嘿！","jp":"これ…。"}
+,
+{"lvl":"7","sec":"207","voen":"vo_hint_hint_monastery1_laundry_n05","vojp":"vo_monastery1_laundry_n05_jp","s":"CIVILIAN F","en":"This needs mending.","cn":"这件得缝一下。","jp":"縫わないと。"}
+,
+{"lvl":"7","sec":"208","voen":"vocs_over_over_monastery1_laundry_n00","vojp":"vocs_monastery1_laundry_n00_jp","s":"GEISHA","en":"The laundry. What better place to look for new attire?","cn":"是洗衣场。要找衣服，来这里就对了。","jp":"洗濯場ね。衣服の手に入る場所だわ。"}
+,
+{"lvl":"7","sec":"209","voen":"vocs_over_over_monastery1_disguise1_n00","vojp":"vocs_monastery1_disguise1_n00_jp","s":"GEISHA","en":"Once I have changed clothes, the guards will not suspect me.","cn":"换上这身衣服，守卫就不会怀疑我了。","jp":"着替えてしまえば、見張りは私に気づかない。"}
+,
+{"lvl":"7","sec":"210","voen":"vocs_over_over_monastery1_disguise2_n00","vojp":"vocs_monastery1_disguise2_n00_jp","s":"GEISHA","en":"It has been some time since I have worn Hakama.","cn":"已经很久没穿过这种女袴了。","jp":"袴なんて久しぶりだわ。"}
+,
+{"lvl":"7","sec":"210","voen":"vocs_over_over_monastery1_disguise2_n01","vojp":"vocs_monastery1_disguise2_n01_jp","s":"GEISHA","en":"Now I must proceed to ring the bell. Once the monks have gone to prayer it will be easier to bring Mugen-san inside.","cn":"得去敲钟了。如果僧人都去祷告，无限大哥就更容易进来。","jp":"鐘を鳴らしに行かないと。僧が祈りに行ってしまえば、武源様が来られる。"}
+,
+{"lvl":"7","sec":"211","voen":"vocs_over_over_monastery1_temple_n00","vojp":"vocs_monastery1_temple_n00_jp","s":"GEISHA","en":"Layers of walls, fortified gates ... this was once an armed temple. No wonder they have the means to produce weapons.","cn":"真是高墙林立，关卡重重…...这座寺庙曾在战时武装成据点，难怪会选这里生产武器。","jp":"何重もの壁、門の守り…ここはかつて戦場に使われたのね。武器を作っていても不思議ではないわ。"}
+,
+{"lvl":"7","sec":"212","voen":"vocs_over_over_monastery1_graveyard_n00","vojp":"vocs_monastery1_graveyard_n00_jp","s":"GEISHA","en":"A graveyard. Former servants of this temple. I always find these sorts of places soothing.","cn":"墓地。葬在这里的应该都是庙里的人。这种地方总能让人心神宁静。","jp":"墓地ね、お寺の前の従者のだわ。こういう場所って落ち着くわね。"}
+,
+{"lvl":"7","sec":"213","voen":"vocs_over_over_monastery1_tunnels_n00","vojp":"vocs_monastery1_tunnels_n00_jp","s":"GEISHA","en":"Tunnels. Do they lead to the different parts of the temple? What a curious place this is.","cn":"有隧道，是连通寺庙其它地点的吗？这里的构造真是稀奇。","jp":"抜け穴ね。これは寺の別の場所へと繋がるのかしら。面白そうね。"}
+,
+{"lvl":"7","sec":"214","voen":"vocs_over_over_monastery1_bell_n00","vojp":"vocs_monastery1_bell_n00_jp","s":"GEISHA","en":"The bell. I hope the monks do not mind a change in routine.","cn":"钟在这里。希望大家不要察觉今日的祷告时间和平时不一样。","jp":"鐘だわ。いつもと違う時間なのに気づかなければいいけれど。"}
+,
+{"lvl":"7","sec":"215","voen":"vocs_over_over_monastery1_clear_n00","vojp":"vocs_monastery1_clear_n00_jp","s":"GEISHA","en":"The path is clear. I should return to the entrance and help Mugen-san in.","cn":"路已开好，现在该回到入口，帮无限大哥进来。","jp":"道は開いたわ。入口に戻って武源様が入るお手伝いをしましょう。"}
+,
+{"lvl":"7","sec":"216","voen":"vocs_over_over_monastery1_inside_n00","vojp":"vocs_monastery1_inside_n00_jp","s":"WARRIOR","en":"I'm in the temple. What is your impression so far, Aiko-san?","cn":"我已进入寺庙。你在庙中有什么发现吗，爱子小姐？","jp":"寺に入ったぞ。状況はいかがです、愛琥殿。"}
+,
+{"lvl":"7","sec":"216","voen":"vocs_over_over_monastery1_inside_n01","vojp":"vocs_monastery1_inside_n01_jp","s":"GEISHA","en":"This place hides many things. It must have a rich history.","cn":"此地藏了不少秘密，必有很多渊源。","jp":"色々隠されたものがあるわ。過去に色々ありそうね。"}
+,
+{"lvl":"7","sec":"216","voen":"vocs_over_over_monastery1_inside_n02","vojp":"vocs_monastery1_inside_n02_jp","s":"WARRIOR","en":"We could look for records to satisfy your curiosity.","cn":"文献里没有记载，不过我们可以一起去找找。","jp":"記録がないか探してみましょう。"}
+,
+{"lvl":"7","sec":"216","voen":"vocs_over_over_monastery1_inside_n03","vojp":"vocs_monastery1_inside_n03_jp","s":"GEISHA","en":"You mean well Mugen, but I think we have more urgent business to attend to.","cn":"无限大哥说笑了。还是赶紧办正事吧。","jp":"武源様らしいこと。けれど、今は先にすべきことがあるわ。"}
+,
+{"lvl":"7","sec":"217","voen":"vocs_over_over_monastery1_rocks_n00","vojp":"vocs_monastery1_rocks_n00_jp","s":"WARRIOR","en":"These rocks might prove useful. I could throw them on unsuspecting opponents.","cn":"这些岩石说不定有用。可以悄悄扔到敌人头上，给他们来个惊喜。","jp":"この岩は役に立ちそうだ。警戒心の弱い敵に投げつけることもできましょう。"}
+,
+{"lvl":"7","sec":"217","voen":"vocs_over_over_monastery1_rocks_n01","vojp":"vocs_monastery1_rocks_n01_jp","s":"GEISHA","en":"I am eager to hear the stories surrounding this particular battle strategy.","cn":"我很好奇，你每次用这个战术的时候，结果如何。","jp":"興味深い戦略ですこと。ぜひとも詳しくお聞きしたいわ。"}
+,
+{"lvl":"7","sec":"218","voen":"vocs_over_over_monastery1_ninja_n00","vojp":"vocs_monastery1_ninja_n00_jp","s":"WARRIOR","en":"Your deadliness rivals that of Hayato-san.","cn":"你的身手和隼人兄不相上下啊。","jp":"隼人殿にも劣らぬ腕前だ。"}
+,
+{"lvl":"7","sec":"218","voen":"vocs_over_over_monastery1_ninja_n01","vojp":"vocs_monastery1_ninja_n01_jp","s":"GEISHA","en":"Is that your Shinobi friend? I am looking forward to making his acquaintance.","cn":"是说你提过的忍者朋友吗?我期待与他相识。","jp":"仲間の忍のこと？お知り合いになれるのが楽しみだわ。"}
+,
+{"lvl":"7","sec":"218","voen":"vocs_over_over_monastery1_ninja_n02","vojp":"vocs_monastery1_ninja_n02_jp","s":"WARRIOR","en":"Perhaps you and he can trade stories regarding your training and experience.","cn":"没准你们还可以交流切磋下技术。","jp":"ひょっとしたら彼と互いの技を伝授し合えるやもしれぬな。"}
+,
+{"lvl":"7","sec":"218","voen":"vocs_over_over_monastery1_ninja_n03","vojp":"vocs_monastery1_ninja_n03_jp","s":"GEISHA","en":"A Shinobi from Iga and a Kunoichi from Shinano. It will be quite the exchange, I'm sure.","cn":"伊贺忍者和信浓女忍交流切磋么。应该会很有收获吧。","jp":"伊賀の忍、信濃のくノ一。良いやり取りができそうね。"}
+,
+{"lvl":"7","sec":"218","voen":"vocs_over_over_monastery1_ninja_n03a","vojp":"vocs_monastery1_ninja_n03a_jp","s":"GEISHA","en":"I wonder if he's worked with other Kunoichi before. From what you told me he seems a solitary person.","cn":"不知道他有没有和女忍一起行动过。你口中的他，似乎是位独行客。","jp":"他のくノ一と共に働いたことはあるのかしら。聞く限り、孤独を好みそうだけど。"}
+,
+{"lvl":"7","sec":"219","voen":"vocs_over_over_monastery1_history_n00","vojp":"vocs_monastery1_history_n00_jp","s":"WARRIOR","en":"There's the waterfall. Takuma-san must be close.","cn":"看到瀑布了。琢磨大师一定在这附近。","jp":"滝だ。巧磨殿が近くにいるはずだ。"}
+,
+{"lvl":"7","sec":"219","voen":"vocs_over_over_monastery1_history_n01","vojp":"vocs_monastery1_history_n01_jp","s":"GEISHA","en":"From what you have told me, he enabled your victory in Osaka Castle.","cn":"据你所说，攻下大阪城也有他的功劳。","jp":"大阪城での勝利は彼なくして不可能だったとおっしゃってましたわね。"}
+,
+{"lvl":"7","sec":"219","voen":"vocs_over_over_monastery1_history_n02","vojp":"vocs_monastery1_history_n02_jp","s":"WARRIOR","en":"We could not have done it without him. I never thought I would get the chance to thank him.","cn":"没有他我们不可能获胜。没想到事隔多年我还有机会当面感谢他。","jp":"その通りである。かの方に礼を言える機会が訪れるとは。"}
+,
+{"lvl":"7","sec":"219","voen":"vocs_over_over_monastery1_history_n03","vojp":"vocs_monastery1_history_n03_jp","s":"GEISHA","en":"We will both thank him, once we have freed him.","cn":"救出来之后，我们一同感谢他吧。","jp":"助け出したら、2人でお礼をしましょう。"}
+,
+{"lvl":"7","sec":"220","voen":"vocs_over_over_monastery1_samurai_n00","vojp":"vocs_monastery1_samurai_n00_jp","s":"WARRIOR","en":"Samurai guard this area.","cn":"此地有武士看守。","jp":"侍がこの辺りを見張っている。"}
+,
+{"lvl":"7","sec":"220","voen":"vocs_over_over_monastery1_samurai_n01","vojp":"vocs_monastery1_samurai_n01_jp","s":"GEISHA","en":"Samurai ... they can see through my disguise. I should keep my distance.","cn":"武士……他们能识破我的伪装。我得离他们远点。","jp":"侍…ならこの変装も通用しないわね。距離を取るわ。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n00","vojp":"vo_monastery1_argument_n00_jp","s":"SAMURAI","en":"No more excuses, old man.","cn":"不准再找借口，老头。","jp":"言い訳はできぬぞ、老人。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n01","vojp":"vo_monastery1_argument_n01_jp","s":"ALCHEMIST","en":"Hmm, we are doing what we can.","cn":"唔，我已竭尽所能。","jp":"うーむ、できることをやっとるんじゃがな。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n02","vojp":"vo_monastery1_argument_n02_jp","s":"SAMURAI","en":"Lord Yabu demands results.","cn":"薮大人要你拿出点成果。","jp":"藪様は結果をお求めになられる。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n03","vojp":"vo_monastery1_argument_n03_jp","s":"ALCHEMIST","en":"Hmm, of course he does.","cn":"嗯，那肯定的。","jp":"うーむ、じゃろうな。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n04","vojp":"vo_monastery1_argument_n04_jp","s":"SAMURAI","en":"When will the next shipment be ready?","cn":"下批货什么时候能备好？","jp":"次の出荷はいつだ？"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n05","vojp":"vo_monastery1_argument_n05_jp","s":"ALCHEMIST","en":"Hmm, when it is finished, I presume.","cn":"唔，该好的时候自然就好了吧。","jp":"うーむ、準備が終わった時じゃろう、おそらくな。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n06","vojp":"vo_monastery1_argument_n06_jp","s":"SAMURAI","en":"Will it take longer than expected?","cn":"工期难道要延长吗？","jp":"予定よりかかるのか？"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n07","vojp":"vo_monastery1_argument_n07_jp","s":"ALCHEMIST","en":"Hmm, an excellent question.","cn":"啊，这个问题问得好。","jp":"うーむ、良い質問じゃの。"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n08","vojp":"vo_monastery1_argument_n08_jp","s":"SAMURAI","en":"Are you mocking me?","cn":"你是在耍我吗?","jp":"馬鹿にしているのか？"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n09","vojp":"vo_monastery1_argument_n09_jp","s":"ALCHEMIST","en":"Hehe, what makes you think that?","cn":"呵呵呵，何出此言?","jp":"へっへ、どうしてそう思うんじゃ？"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n10","vojp":"vo_monastery1_argument_n10_jp","s":"SAMURAI","en":"Do not test my patience!","cn":"别把我逼急了!","jp":"いい加減にしろ！"}
+,
+{"lvl":"7","sec":"221","voen":"vo_hint_hint_monastery1_argument_n11","vojp":"vo_monastery1_argument_n11_jp","s":"ALCHEMIST","en":"Hmm, I shall follow your advice.","cn":"嗯，你说得是。","jp":"ふむ、お主の助言に従うとしよう。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n00","vojp":"vocs_monastery1_rescue_n00_jp","s":"ALCHEMIST","en":"… Hehe, good thing you came. His conversation went nowhere.","cn":"哈哈！来得正好。和他说话简直是对牛弹琴。","jp":"へっへ、よく来てくれたわい。そやつとの話は埒が明かんでのう。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n01","vojp":"vocs_monastery1_rescue_n01_jp","s":"WARRIOR","en":"Takuma-san. My name is ?shiro Mugen. Do you remember me?","cn":"琢磨大师，在下尾城无限。还记得我吗?","jp":"巧磨殿。大代武源にございます。覚えておいででしょうか？"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n02","vojp":"vocs_monastery1_rescue_n02_jp","s":"ALCHEMIST","en":"Hmm … hehe how could I forget? You were with the young Shinobi, at the siege of Osaka.","cn":"嗯…我怎会忘记呢？是在大阪攻城战的时候吧，你和一个年轻忍者一起。","jp":"ふむ…忘れるわけもなかろう。若い忍と共におったのう、大阪の包囲戦の時にのぅ。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n03","vojp":"vocs_monastery1_rescue_n03_jp","s":"WARRIOR","en":"We have come to free you. I understand Lord Yabu forced you to build firearms here?","cn":"我们是来救你的。听说薮大名强迫你在这里制造火器？","jp":"あなたを助けに参った。藪大名がここであなたに武器を作らせていたのですね？"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n04","vojp":"vocs_monastery1_rescue_n04_jp","s":"ALCHEMIST","en":"He was quite keen on my knowledge. I had to instruct the monks, whom he enslaved to produce weapons in large numbers.","cn":"他觊觎我的学问。这些僧人也都是被他奴役的， 我被迫教他们大批量制造火器。","jp":"ワシの知識にさぞかし興味があったようでな。捕らえられた多くの僧は武器作りのいろはを教えねばならんかった。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n05","vojp":"vocs_monastery1_rescue_n05_jp","s":"WARRIOR","en":"Hrm … Lord Yabu will pay for this.","cn":"哼，我无限一定要让薮大名为此付出代价。","jp":"ふむ…藪大名にはこの報いを受けてもらおう。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n06","vojp":"vocs_monastery1_rescue_n06_jp","s":"GEISHA","en":"Might we continue this tale later? The monks might finish their prayer soon, and it is a long way back to the entrance.","cn":"待会儿再聊吧？僧人的祷告可能快做完了，而且逃出去的路还很长。","jp":"話は後にしましょうか？僧が参拝を終えて戻ってくるわ。入口までは距離がある。"}
+,
+{"lvl":"7","sec":"222","voen":"vocs_over_over_monastery1_rescue_n07","vojp":"vocs_monastery1_rescue_n07_jp","s":"ALCHEMIST","en":"Hehe, yes, we should listen to your companion, Mugen.","cn":"嘿嘿，是的，你的同伴言之有理。","jp":"へっへ、そうじゃな。お連れの別嬪さんの言う通りじゃ。"}
+,
+{"lvl":"7","sec":"223","voen":"vocs_over_over_monastery1_secrets2_n00","vojp":"vocs_monastery1_secrets2_n00_jp","s":"ALCHEMIST","en":"Hmm, on your way here, have you passed by any statues of cranes?","cn":"嗯，你们来的路上，可否经过一些仙鹤雕像？","jp":"うーむ、ここに来るまでに鶴の像を見とらんか？"}
+,
+{"lvl":"7","sec":"223","voen":"vocs_over_over_monastery1_secrets2_n01","vojp":"vocs_monastery1_secrets2_n01_jp","s":"WARRIOR","en":"Why do you ask?","cn":"问这个干什么？","jp":"なぜそのようなことを？"}
+,
+{"lvl":"7","sec":"223","voen":"vocs_over_over_monastery1_secrets2_n02","vojp":"vocs_monastery1_secrets2_n02_jp","s":"ALCHEMIST","en":"This is an old place, with old secrets. Let me mark these statues on your map … if we inspect them, who knows what we might find …","cn":"此地历史悠久，藏了很多古代秘密。我会把这些仙鹤雕像的位置标于地图之上。如能前去调查一番，或许会有意外收获……","jp":"古い場所じゃからな。古い秘密もある。地図に像の場所の印をつけておこう…調べればひょっとしたら何かあるかもしれん。"}
+,
+{"lvl":"7","sec":"223","voen":"vocs_over_over_monastery1_secrets2_n03","vojp":"vocs_monastery1_secrets2_n03_jp","s":"GEISHA","en":"We have seen them, and noticed they open secret passages.","cn":"看到过，好像是打开密道的机关。","jp":"見つけましたわ、秘密の通路が開くようですわ。"}
+,
+{"lvl":"7","sec":"223","voen":"vocs_over_over_monastery1_secrets2_n04","vojp":"vocs_monastery1_secrets2_n04_jp","s":"ALCHEMIST","en":"I suspected as much. I'm sure some of them lead off this mountain. Here, let me mark the statues on your map.","cn":"果然如此，其中应该有能直接下山的通道，让我来把仙鹤雕像的位置都标到地图上吧。","jp":"やはりそうだったか。その内のどれかが山につながっておるはずじゃ。地図に印をつけておこう。"}
+,
+{"lvl":"7","sec":"224","voen":"vocs_over_over_monastery1_slow_n00","vojp":"vocs_monastery1_slow_n00_jp","s":"ALCHEMIST","en":"Hrm … too slow.","cn":"哎……走不快啊。","jp":"はー…遅いのう。"}
+,
+{"lvl":"7","sec":"224","voen":"vocs_over_over_monastery1_slow_n01","vojp":"vocs_monastery1_slow_n01_jp","s":"WARRIOR","en":"I am sorry about your leg Takuma-san.","cn":"琢磨大师，对于你的腿我深表遗憾。","jp":"巧磨殿、その足のことは残念です。"}
+,
+{"lvl":"7","sec":"224","voen":"vocs_over_over_monastery1_slow_n02","vojp":"vocs_monastery1_slow_n02_jp","s":"ALCHEMIST","en":"Oh don't be, I escaped death that day. A wise man does not question fate after fortune gave him a smile.","cn":"哦，不要在意。那日我也算死里逃生了。所谓大难不死，必有后福。","jp":"まぁ、そう言ってくれるな。あの日、死を免れたんじゃ。幸運が微笑んだ後のことに、とやかく言わぬのが賢者である。"}
+,
+{"lvl":"7","sec":"224","voen":"vocs_over_over_monastery1_slow_n03","vojp":"vocs_monastery1_slow_n03_jp","s":"GEISHA","en":"Your wooden leg has been crafted with care. Did you fashion it yourself?","cn":"你的木腿制作精良。是你亲手做的吗？","jp":"それにしても見事な細工の義足ですわ。ご自分で作られたのですか？"}
+,
+{"lvl":"7","sec":"224","voen":"vocs_over_over_monastery1_slow_n04","vojp":"vocs_monastery1_slow_n04_jp","s":"ALCHEMIST","en":"Indeed, it has served me well. Though I have been making some improvements.","cn":"是的，用着还挺顺的。另外，我还在上面做了些小改造。","jp":"いかにも。よく働いてくれておる。時々調整はしておるがの。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n00","vojp":"vocs_monastery1_debriefing_n00_jp","s":"ALCHEMIST","en":"Oh, I will not miss this place.","cn":"哦，终于可以和这里说永别了。","jp":"おお、もうこの場所とは永遠におさらばじゃ。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n01","vojp":"vocs_monastery1_debriefing_n01_jp","s":"GEISHA","en":"I am curious. What are your plans, now that you are a free man?","cn":"冒昧地问一句。既然自由了，接下来有什么打算呢?","jp":"お聞きしてもよろしいでしょうか？自由の身となった今、どちらに向かわれるのですか？"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n02","vojp":"vocs_monastery1_debriefing_n02_jp","s":"ALCHEMIST","en":"Hmm, I had no desire to support Lord Yabu's ambitions. But I will gladly help you end them.","cn":"之前我是迫于无奈才助纣为虐的，但现在我很乐意帮你们挫败薮大名的野心。","jp":"ふぅむ。藪大名の野望に肩入れするつもりなんぞこれっぽっちも無かった。一方でお主たちの手助けなら喜んでしようぞ。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n03","vojp":"vocs_monastery1_debriefing_n03_jp","s":"WARRIOR","en":"I will not ask the impossible of you.","cn":"不能再让您老以身涉险了。","jp":"ご無理をさせるつもりはありませぬ。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n04","vojp":"vocs_monastery1_debriefing_n04_jp","s":"ALCHEMIST","en":"Heh, do not fear, Mugen-san. With the proper tools, even an old fool like me can be of use on the battlefield.","cn":"呵呵呵，别担心，无限。若有利器在身，我这样的老糊涂亦可在战场上有所作为。","jp":"へっへ、武源。心配せずとも適切な道具さえあれば、ワシのような老いぼれでも戦場で十分役に立てるわい。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n05","vojp":"vocs_monastery1_debriefing_n05_jp","s":"GEISHA","en":"You are a man of many talents, Takuma-san.","cn":"琢磨大师还真是文武双全，神通广大。","jp":"巧磨様は多才なお方ですのね。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n06","vojp":"vocs_monastery1_debriefing_n06_jp","s":"ALCHEMIST","en":"Oh, too many, I'm afraid. Heh, most bring me nothing but trouble.","cn":"神通是不少，但有用的不多，反而一堆麻烦，呵呵呵。","jp":"多才すぎて厄介ごとばかり抱え込んでしまうほどじゃ。へっへっへ。"}
+,
+{"lvl":"7","sec":"225","voen":"vocs_over_over_monastery1_debriefing_n07","vojp":"vocs_monastery1_debriefing_n07_jp","s":"WARRIOR","en":"Well then, let us return to the safe house and discuss the fate of Lord Yabu.","cn":"那么，先回藏身处，再商讨如何处置薮大名吧。","jp":"それではひとまず陣営に戻り、藪大名討伐について作戦を練りましょうぞ。"}
+
+]

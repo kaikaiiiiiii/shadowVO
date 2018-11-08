@@ -1,0 +1,67 @@
+2,3,11														
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE		
+vo_eny_eny_	brogun_	death_scream_00	vo_eny_eny_brogun_death_scream_00	omuk	hambo	Brogun	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_01	vo_eny_eny_brogun_death_scream_01	omuk	hambo	Brogun	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_02	vo_eny_eny_brogun_death_scream_02	omuk	hambo	Brogun	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_03	vo_eny_eny_brogun_death_scream_03	omuk	hambo	Brogun	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_04	vo_eny_eny_brogun_death_scream_04	omuk	hambo	Brogun	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_muffled_00	vo_eny_eny_brogun_death_scream_muffled_00	omuk	hambo	Brogun	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_muffled_01	vo_eny_eny_brogun_death_scream_muffled_01	omuk	hambo	Brogun	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_muffled_02	vo_eny_eny_brogun_death_scream_muffled_02	omuk	hambo	Brogun	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_muffled_03	vo_eny_eny_brogun_death_scream_muffled_03	omuk	hambo	Brogun	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	brogun_	death_scream_muffled_04	vo_eny_eny_brogun_death_scream_muffled_04	omuk	hambo	Brogun	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	brogun_	detect_corpse_female_02	vo_eny_eny_brogun_detect_corpse_female_02	omuk		Brogun	displeased	sees a corpse	She's dead!	2	她死了！	1		
+vo_eny_eny_	brogun_	detect_corpse_female_03	vo_eny_eny_brogun_detect_corpse_female_03	omuk		Brogun	displeased	sees a corpse	They killed her!	3	他们杀了她！	1		
+vo_eny_eny_	brogun_	detect_corpse_male_00	vo_eny_eny_brogun_detect_corpse_male_00	omuk		Brogun	displeased	sees a corpse	He is dead!	3	他死了！	1		
+vo_eny_eny_	brogun_	detect_corpse_male_01	vo_eny_eny_brogun_detect_corpse_male_01	omuk		Brogun	displeased	sees a corpse	They killed him!	3	他们杀了他！	1		
+vo_eny_eny_	brogun_	detect_corpse_neutral_00	vo_eny_eny_brogun_detect_corpse_neutral_00	omuk	hambo	Brogun	displeased	sees a corpse	Murder!	1	杀人了！	1		
+vo_eny_eny_	brogun_	detect_corpse_neutral_01	vo_eny_eny_brogun_detect_corpse_neutral_01	omuk	hambo	Brogun	displeased	sees a corpse	There's a killer!	3	有杀手来过！	1		
+vo_eny_eny_	brogun_	detect_player_00	vo_eny_eny_brogun_detect_player_00	omuk	hambo	Brogun	tense	sees a player character	You!	1	是你！	1		
+vo_eny_eny_	brogun_	detect_player_01	vo_eny_eny_brogun_detect_player_01	omuk	hambo	Brogun	tense	sees a player character	Mugen's men!	2	是无限的手下！	1		
+vo_eny_eny_	brogun_	detect_player_02	vo_eny_eny_brogun_detect_player_02	omuk	hambo	Brogun	tense	sees a player character	My brother sent you!	4	是兄长派你来的吧！	1		
+vo_eny_eny_	brogun_	detect_player_proximity_00	vo_eny_eny_brogun_detect_player_proximity_00	omuk	hambo	Brogun	tense	senses a nearby player character	That feeling …	3	这感觉……	1		
+vo_eny_eny_	brogun_	detect_player_proximity_01	vo_eny_eny_brogun_detect_player_proximity_01	omuk	hambo	Brogun	tense	senses a nearby player character	Someone's close …	3	感觉附近有人……	1		
+vo_eny_eny_	brogun_	detect_player_proximity_02	vo_eny_eny_brogun_detect_player_proximity_02	omuk	hambo	Brogun	tense	senses a nearby player character	there's someone there …	4	有人隐藏在附近……	1		
+vo_eny_eny_	brogun_	detect_unconscious_female_01	vo_eny_eny_brogun_detect_unconscious_female_01	omuk		Brogun	displeased	sees unconcious person	She was hit badly.	4	她受了重击	1		
+vo_eny_eny_	brogun_	detect_unconscious_female_02	vo_eny_eny_brogun_detect_unconscious_female_02	omuk		Brogun	displeased	sees unconcious person	She is unconscious.	3	她晕过去了	1		
+vo_eny_eny_	brogun_	detect_unconscious_female_03	vo_eny_eny_brogun_detect_unconscious_female_03	omuk		Brogun	displeased	sees unconcious person	She was attacked.	3	她被袭击了	1		
+vo_eny_eny_	brogun_	detect_unconscious_male_00	vo_eny_eny_brogun_detect_unconscious_male_00	omuk		Brogun	displeased	sees unconcious person	He was hit badly.	4	他受了重击	1		
+vo_eny_eny_	brogun_	detect_unconscious_male_01	vo_eny_eny_brogun_detect_unconscious_male_01	omuk		Brogun	displeased	sees unconcious person	He is unconscious.	3	他晕过去了	1		
+vo_eny_eny_	brogun_	detect_unconscious_male_02	vo_eny_eny_brogun_detect_unconscious_male_02	omuk		Brogun	displeased	sees unconcious person	He was attacked.	3	他被袭击了	1		
+vo_eny_eny_	brogun_	detect_unconscious_neutral_01	vo_eny_eny_brogun_detect_unconscious_neutral_01	omuk	hambo	Brogun	displeased	sees unconcious person	Are you alright?	3	你没事吧？	1		
+vo_eny_eny_	brogun_	detect_unconscious_neutral_02	vo_eny_eny_brogun_detect_unconscious_neutral_02	omuk	hambo	Brogun	displeased	sees unconcious person	What happened?	2	发生了什么？	1		
+vo_eny_eny_	brogun_	detect_unconscious_neutral_03	vo_eny_eny_brogun_detect_unconscious_neutral_03	omuk	hambo	Brogun	displeased	sees unconcious person	Why are you on the ground?	6	你怎么躺在地上？	1		
+vo_eny_eny_	brogun_	friend_wakeup_00	vo_eny_eny_brogun_friend_wakeup_00	omuk	hambo	Brogun	annoyed	wakes unconcious person	Wake up!	2	醒醒！	1		
+vo_eny_eny_	brogun_	friend_wakeup_01	vo_eny_eny_brogun_friend_wakeup_01	omuk	hambo	Brogun	annoyed	wakes unconcious person	Resume your duty!	3	快回岗位！	1		
+vo_eny_eny_	brogun_	friend_wakeup_02	vo_eny_eny_brogun_friend_wakeup_02	omuk	hambo	Brogun	annoyed	wakes unconcious person	Stand up!	2	站起来！	1		
+vo_eny_eny_	brogun_	hear_noise_00	vo_eny_eny_brogun_hear_noise_00	omuk	hambo	Brogun	calm	hears strange noise	Hmm …	2	嗯？	1		
+vo_eny_eny_	brogun_	hear_noise_01	vo_eny_eny_brogun_hear_noise_01	omuk	hambo	Brogun	calm	hears strange noise	What was that?	3	什么声音？	1		
+vo_eny_eny_	brogun_	hear_noise_02	vo_eny_eny_brogun_hear_noise_02	omuk	hambo	Brogun	calm	hears strange noise	A strange sound …	4	奇怪的声音……	1		
+vo_eny_eny_	brogun_	hear_noise_directhit_00	vo_eny_eny_brogun_hear_noise_directhit_00	omuk		Brogun	calm	is hit by stone	… what hit me?	4	…什么打我身上？	1		
+vo_eny_eny_	brogun_	hear_noise_directhit_01	vo_eny_eny_brogun_hear_noise_directhit_01	omuk		Brogun	calm	is hit by stone	… is this a joke?	5	……是谁在闹着玩吗？	1		
+vo_eny_eny_	brogun_	hear_noise_directhit_02	vo_eny_eny_brogun_hear_noise_directhit_02	omuk		Brogun	calm	is hit by stone	… foolish.	2	……愚蠢	1		
+vo_eny_eny_	brogun_	hear_noise_gunshot_00	vo_eny_eny_brogun_hear_noise_gunshot_00	omuk		Brogun	commanding	hears player gunshot	A fight! To arms!	4	有人开枪！准备作战！	1		
+vo_eny_eny_	brogun_	hear_noise_gunshot_01	vo_eny_eny_brogun_hear_noise_gunshot_01	omuk		Brogun	commanding	hears player gunshot	That was not one of ours!	6	那不是我军的枪声！	1		
+vo_eny_eny_	brogun_	hear_noise_human_00	vo_eny_eny_brogun_hear_noise_human_00	omuk	hambo	Brogun	calm	hears human noise	Is someone there?	3	谁在那儿？	1		
+vo_eny_eny_	brogun_	hear_noise_human_01	vo_eny_eny_brogun_hear_noise_human_01	omuk	hambo	Brogun	commanding	hears human noise	Come out!	2	出来！	1		
+vo_eny_eny_	brogun_	hear_noise_human_02	vo_eny_eny_brogun_hear_noise_human_02	omuk	hambo	Brogun	commanding	hears human noise	Stop hiding!	2	不要藏了！	1		
+vo_eny_eny_	brogun_	hear_noise_too_much_00	vo_eny_eny_brogun_hear_noise_too_much_00	omuk	hambo	Brogun	annoyed	irritated by a continuous string of strange noises	Stop this at once!	4	吵死人了！	1		
+vo_eny_eny_	brogun_	hear_noise_too_much_01	vo_eny_eny_brogun_hear_noise_too_much_01	omuk	hambo	Brogun	annoyed	irritated by a continuous string of strange noises	What foolishness is this?	4	谁这么无聊？	1		
+vo_eny_eny_	brogun_	hear_noise_too_much_02	vo_eny_eny_brogun_hear_noise_too_much_02	omuk	hambo	Brogun	annoyed	irritated by a continuous string of strange noises	I have no time for this.	6	我可没时间搭理你	1		
+vo_eny_eny_	brogun_	knockout_scream_00	vo_eny_eny_brogun_knockout_scream_00	omuk	hambo	Brogun	pain	(sound) gets knocked out		0		0		
+vo_eny_eny_	brogun_	knockout_scream_01	vo_eny_eny_brogun_knockout_scream_01	omuk	hambo	Brogun	pain	(sound) gets knocked out		0		0		
+vo_eny_eny_	brogun_	knockout_scream_02	vo_eny_eny_brogun_knockout_scream_02	omuk	hambo	Brogun	pain	(sound) gets knocked out		0		0		
+vo_eny_eny_	brogun_	regain_consciousness_00	vo_eny_eny_brogun_regain_consciousness_00	omuk	hambo	Brogun	contempt	knocked out, wakes up	Ugh … stop toying with me.	6	啊……别耍我了。	1		
+vo_eny_eny_	brogun_	regain_consciousness_01	vo_eny_eny_brogun_regain_consciousness_01	omuk	hambo	Brogun	contempt	knocked out, wakes up	Ugh … finish it.	4	……动手吧	1		
+vo_eny_eny_	brogun_	regain_consciousness_02	vo_eny_eny_brogun_regain_consciousness_02	omuk	hambo	Brogun	contempt	knocked out, wakes up	Ugh … have you no honour.	6	能不能讲点道义？	1		
+vo_eny_eny_	brogun_	see_something_00	vo_eny_eny_brogun_see_something_00	omuk	hambo	Brogun	calm	sees something strange	What is this?	3	什么东西？	1		
+vo_eny_eny_	brogun_	see_something_01	vo_eny_eny_brogun_see_something_01	omuk	hambo	Brogun	calm	sees something strange	Hmm …	2	嗯？	1		
+vo_eny_eny_	brogun_	see_something_02	vo_eny_eny_brogun_see_something_02	omuk	hambo	Brogun	calm	sees something strange	Something …	2	有东西……	1		
+vo_eny_eny_	brogun_	easteregg_00	vo_eny_eny_brogun_easteregg_00	omuk		Brogun		"quote from the movie Shogun Assassin
+
+https://www.youtube.com/watch?v=0JK3E6s-zQ8&feature=youtu.be&t=4m4s"	Your technique is magnificent.	4	您这招真是太牛逼了。	1		
+vo_eny_eny_	brogun_	easteregg_01	vo_eny_eny_brogun_easteregg_01	omuk		Brogun		quote from the movie Shogun Assassin 	When cut across the neck, a sound like wailing winter winds is heard, they say.	15	人言，刎颈之声如冬风哀号。	1		
+vo_eny_eny_	brogun_	easteregg_02	vo_eny_eny_brogun_easteregg_02	omuk		Brogun		quote from the movie Shogun Assassin 	I'd always hoped to cut someone like that someday, to hear that sound.	13	为闻其声，吾常期某日以此法杀人。	1		
+vo_eny_eny_	brogun_	easteregg_03	vo_eny_eny_brogun_easteregg_03	omuk		Brogun		quote from the movie Shogun Assassin 	But to have it happen to my own neck is ridiculous.	11	岂知反起吾身，荒谬至极。	1		
+														
+									WORDCOUNT EN:	187		48		

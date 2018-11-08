@@ -1,0 +1,256 @@
+[
+{"lvl":"5","sec":"334","voen":"vocs_over_over_snowcity_briefing1_n00","vojp":"vocs_snowcity_briefing1_n00_jp","s":"TRAPPER","en":" … Master samurai? Master samurai? … no, no, you ran too fast, stupid …","cn":"……武士大人？武士大人？……不，不，我跑得太快了，笨蛋……","jp":"…お侍さん。お侍さん。…駄目駄目、走るの速すぎだよ。"}
+,
+{"lvl":"5","sec":"334","voen":"vocs_over_over_snowcity_briefing1_n01","vojp":"vocs_snowcity_briefing1_n01_jp","s":"TRAPPER","en":"Find him, before he gets angry. Now, stupid!","cn":"在他生气之前赶紧找到他。我真是笨啊！","jp":"怒られる前に見つけないと。すぐによ、ばかっ。"}
+,
+{"lvl":"5","sec":"335","voen":"vocs_over_over_snowcity_briefing1a_n00","vojp":"vocs_snowcity_briefing1a_n00_jp","s":"TRAPPER","en":"… Master samurai?","cn":"……武士大人？","jp":"…お侍さん。"}
+,
+{"lvl":"5","sec":"335","voen":"vocs_over_over_snowcity_briefing1a_n01","vojp":"vocs_snowcity_briefing1a_n01_jp","s":"TRAPPER","en":"Not here! Wrong place, stupid!","cn":"不是这里！找错地了，笨蛋！","jp":"いないわ！ここじゃないわ、ばか。"}
+,
+{"lvl":"5","sec":"335","voen":"vocs_over_over_snowcity_briefing1a_n02","vojp":"vocs_snowcity_briefing1a_n02_jp","s":"TRAPPER","en":"Find him, before he gets angry.","cn":"在他生气之前赶紧找到他。","jp":"怒られる前に見つけないと。"}
+,
+{"lvl":"5","sec":"335","voen":"vocs_over_over_snowcity_briefing1a_n03","vojp":"vocs_snowcity_briefing1a_n03_jp","s":"TRAPPER","en":"Now! Hurry, stupid!","cn":"现在！赶快，笨蛋！","jp":"すぐによ！急がないと、ばか！"}
+,
+{"lvl":"5","sec":"336","voen":"vocs_over_over_snowcity_separated_n00","vojp":"vocs_snowcity_separated_n00_jp","s":"TRAPPER","en":"You lost him, stupid, stupid, stupid!","cn":"我跟丢他了，笨、笨、笨啊！","jp":"見失うなんて、ばか、ばか、ばか！"}
+,
+{"lvl":"5","sec":"336","voen":"vocs_over_over_snowcity_separated_n00a","vojp":"vocs_snowcity_separated_n00a_jp","s":"TRAPPER","en":"You messed up, stupid, stupid!","cn":"哦，我搞砸了，笨蛋、笨蛋！","jp":"やっちゃったわ、ばか、ばか！"}
+,
+{"lvl":"5","sec":"337","voen":"vocs_over_over_snowcity_footprints_n00","vojp":"vocs_snowcity_footprints_n00_jp","s":"TRAPPER","en":"Footprints. Little traitors. Like arrows, pointing at you.","cn":"脚印会暴露行踪的。","jp":"足跡。反逆者たち。矢のようにあなたを狙う。"}
+,
+{"lvl":"5","sec":"338","voen":"vocs_over_over_snowcity_crossover_n00","vojp":"vocs_snowcity_crossover_n00_jp","s":"TRAPPER","en":"Maybe this way? Please let him be this way …","cn":"也许是这条路？拜托他也走了这条路……","jp":"多分こっちかな？お願いだからこの道にいて…。"}
+,
+{"lvl":"5","sec":"339","voen":"vo_hint_hint_snowcity_sake1_n00","vojp":"vo_snowcity_sake1_n00_jp","s":"STATIC","en":"Head for the market when the wagon's fully loaded.","cn":"马车装满酒后就前往集市。","jp":"馬車に荷物が乗ったら市場へ向かってくれ。"}
+,
+{"lvl":"5","sec":"339","voen":"vo_hint_hint_snowcity_sake1_n01","vojp":"vo_snowcity_sake1_n01_jp","s":"CIVILIAN M","en":"Yes, my lord.","cn":"是，大人！","jp":"はい、わかりました。"}
+,
+{"lvl":"5","sec":"339","voen":"vo_hint_hint_snowcity_sake1_n02","vojp":"vo_snowcity_sake1_n02_jp","s":"STATIC","en":"Make haste, all of you! The sake won't deliver itself.","cn":"所有人抓紧时间！清酒可不会自己送过去。","jp":"いそげ、皆よ！酒が届けられぬぞ。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n00","vojp":"vocs_snowcity_briefing2_n00_jp","s":"TRAPPER","en":"Master samurai!","cn":"哦，武士主人！","jp":"お侍さん！"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n01","vojp":"vocs_snowcity_briefing2_n01_jp","s":"WARRIOR","en":"There you are! You had me worried there, young woman.","cn":"你来了！小姑娘，你真让我担心。","jp":"ここにいたか！心配したぞ、若い娘よ。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n02","vojp":"vocs_snowcity_briefing2_n02_jp","s":"TRAPPER","en":"Sorry … am I in trouble?","cn":"抱歉……是不是我有麻烦了？","jp":"ごめん…厄介ごとを持ってきちゃった？"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n03","vojp":"vocs_snowcity_briefing2_n03_jp","s":"WARRIOR","en":"We will see. For now, let us proceed with the mission.","cn":"暂时没有，现在我们继续进行任务。","jp":"さて、どうだろうな。とにかく今は任務を進めよう。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n04","vojp":"vocs_snowcity_briefing2_n04_jp","s":"WARRIOR","en":"That man is a high ranking official. He has the documents we need.","cn":"那个人是名高级官员。我们要拿的文件就在他身上。","jp":"その男は位の高い役人だ。我らの欲しい書類を持っておる。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n05","vojp":"vocs_snowcity_briefing2_n05_jp","s":"TRAPPER","en":"Uhm, he has lots of samurai with him …","cn":"嗯，他身边全是武士……","jp":"うーん、まわりに侍がたくさん…。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n06","vojp":"vocs_snowcity_briefing2_n06_jp","s":"WARRIOR","en":"We will worry about that later. First, we need to get inside the compound.","cn":"那个问题稍后再说。首先，我们得进入大院。","jp":"それは後で考えよう。まず、屋敷の中に入る必要がある。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n07","vojp":"vocs_snowcity_briefing2_n07_jp","s":"WARRIOR","en":"There are two side entrances. One at the north wall …","cn":"大院有两个侧门。一个在北墙……","jp":"入り口は二つある。一つは北の門…。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n08","vojp":"vocs_snowcity_briefing2_n08_jp","s":"WARRIOR","en":"… and one at the south wall. Both of them locked.","cn":"……另一个在南墙。不过门都锁着。","jp":"…もう一つは南だ。両方共施錠されておる。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n09","vojp":"vocs_snowcity_briefing2_n09_jp","s":"WARRIOR","en":"That samurai has the key. You need to climb inside and steal it from him.","cn":"那个武士有门钥匙。你需要爬进去然后从他身上偷到钥匙。","jp":"あの侍が鍵を持っている。中へ登って入り、奴から鍵を奪うのだ。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n10","vojp":"vocs_snowcity_briefing2_n10_jp","s":"TRAPPER","en":"Yes! I can do that!","cn":"是！没问题！","jp":"はい！やります！"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n11","vojp":"vocs_snowcity_briefing2_n11_jp","s":"WARRIOR","en":"Once you have it, open the gate for me. We will regroup inside and discuss further plans.","cn":"拿到钥匙后，帮我打开门。我们在院里会合，然后商量下一步计划。","jp":"それが済んだら、門を開けて欲しい。中で落ち合い、次の計画を話そう。"}
+,
+{"lvl":"5","sec":"340","voen":"vocs_over_over_snowcity_briefing2_n12","vojp":"vocs_snowcity_briefing2_n12_jp","s":"TRAPPER","en":"Hai, master samurai!","cn":"是，武士大人！","jp":"はい、お侍さん！"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n00","vojp":"vocs_snowcity_briefing2a_n00_jp","s":"TRAPPER","en":"Master samurai!","cn":"武士大人！","jp":"お侍さん！"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n01","vojp":"vocs_snowcity_briefing2a_n01_jp","s":"WARRIOR","en":"There you are! You had me worried there, young woman.","cn":"你来了！小姑娘，你真让我担心。","jp":"ここにいたか！心配したぞ、若い娘よ。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n02","vojp":"vocs_snowcity_briefing2a_n02_jp","s":"TRAPPER","en":"Sorry … am I in trouble?","cn":"抱歉……是不是我有麻烦了？","jp":"ごめん…厄介ごとを持ってきちゃった？"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n03","vojp":"vocs_snowcity_briefing2a_n03_jp","s":"WARRIOR","en":"Hmm, we will see. Tell me, what did you find out?","cn":"嗯，暂时没有。把你打探到的情况告诉我。","jp":"さて、どうだろうな。それで、何を見つけたんだ？"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n04","vojp":"vocs_snowcity_briefing2a_n04_jp","s":"TRAPPER","en":"That man with the papers. He is at that big house, like you said.","cn":"拿文件的那个人。正如你所说，就在那座大房子里。","jp":"あの男が書類をもってる。言ってた通り大きな家にいる。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n05","vojp":"vocs_snowcity_briefing2a_n05_jp","s":"TRAPPER","en":"He has lots of big, mean samurai with him …","cn":"他身边全是那些坏武士……","jp":"大きくて卑しい侍をたくさんつれてる…。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n06","vojp":"vocs_snowcity_briefing2a_n06_jp","s":"WARRIOR","en":"We will worry about them later. First, we need to get inside the compound.","cn":"我们稍后再处理他们。首先，我们要进到大院里。","jp":"後でどうにかしよう。まず、屋敷の中に入る必要がある。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n07","vojp":"vocs_snowcity_briefing2a_n07_jp","s":"TRAPPER","en":"Hai! I found two ways inside. One at the north wall …","cn":"是！我发现两条路能进去。一个在北墙……","jp":"はい！入るのに二箇所みつけた。一つは北の門…。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n08","vojp":"vocs_snowcity_briefing2a_n08_jp","s":"TRAPPER","en":"… and one at the south wall. But they are both locked.","cn":"……另一个在南墙。但大门都锁着。","jp":"…もう一つは南ね。けどどちらも鍵がかけられてる。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n09","vojp":"vocs_snowcity_briefing2a_n09_jp","s":"WARRIOR","en":"For every lock there is a key. Can you think of anyone who could have it?","cn":"每把锁都有一把钥匙。想想谁会有钥匙？","jp":"その鍵があるはず。誰が鍵をもっているかわかりそうか？"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n10","vojp":"vocs_snowcity_briefing2a_n10_jp","s":"TRAPPER","en":"Uhm … yes! There was another mean samurai! He has a key that wants to be stolen.","cn":"嗯……对了！还有一个坏武士！他身上装着大门钥匙。","jp":"うーん…はい！そこの卑しい侍よ！あの人の鍵が盗んで欲しがってる。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n11","vojp":"vocs_snowcity_briefing2a_n11_jp","s":"WARRIOR","en":"You must climb inside, steal that key and let me in. After that, we will regroup and discuss further plans.","cn":"你必须爬到里面，偷上钥匙，帮我打开门。然后我们会合，讨论下一步计划。","jp":"中へ登って入り、奴から鍵を奪ったら、中に入れてくれ。そしたら中で再会してさらなる計画を話そう。"}
+,
+{"lvl":"5","sec":"341","voen":"vocs_over_over_snowcity_briefing2a_n12","vojp":"vocs_snowcity_briefing2a_n12_jp","s":"TRAPPER","en":"Hai, master samurai!","cn":"是，武士大人！","jp":"はい、お侍さん！"}
+,
+{"lvl":"5","sec":"342","voen":"vocs_over_over_snowcity_samurai_n01","vojp":"vocs_snowcity_samurai_n01_jp","s":"WARRIOR","en":"Samurai. I can defeat one in a duel, but two will overpower me. Keep your distance, Yuki-chan. Do not attack them at close range.","cn":"武士，一个不是问题，但我无法同时对付两个。友希妹妹离他们远点。千万别和他们近战。","jp":"決闘で一人は倒せるが、二人では拙者を上回る。距離をとるのだ、雪殿。接近して攻撃してはならぬ。"}
+,
+{"lvl":"5","sec":"342","voen":"vocs_over_over_snowcity_samurai_n02","vojp":"vocs_snowcity_samurai_n02_jp","s":"TRAPPER","en":"Hai!","cn":"是！","jp":"はい。"}
+,
+{"lvl":"5","sec":"343","voen":"vocs_over_over_snowcity_shadows_n01","vojp":"vocs_snowcity_shadows_n01_jp","s":"WARRIOR","en":"To think that all these men serve Kage-sama.","cn":"这些人应该都是影大人的手下。","jp":"カゲサマに仕える者どもと考えるか。"}
+,
+{"lvl":"5","sec":"343","voen":"vocs_over_over_snowcity_shadows_n02","vojp":"vocs_snowcity_shadows_n02_jp","s":"TRAPPER","en":"Uhm … who is Kage-sama? Is he a shadow?","cn":"嗯……影大人是谁？他是影子吗？","jp":"うーん…カゲサマって誰？影なの？"}
+,
+{"lvl":"5","sec":"343","voen":"vocs_over_over_snowcity_shadows_n03","vojp":"vocs_snowcity_shadows_n03_jp","s":"WARRIOR","en":"It is a name, Yuki-chan, meant to scare people and destroy their faith in the Shogun. Stay vigilant now, and we might face him soon enough.","cn":"名字而已，友希妹妹，为了制造恐慌，击垮人们对将军的信念。现在要保持警惕，没准很快就会与他见面。","jp":"それが名前だ。人々を戦慄させ、上様への誠意を破壊せんとするものだ。用心してくれ、すぐに戦うことになるやもしれぬ。"}
+,
+{"lvl":"5","sec":"343","voen":"vocs_over_over_snowcity_shadows_n04","vojp":"vocs_snowcity_shadows_n04_jp","s":"TRAPPER","en":"Yes, master samurai.","cn":"是，武士大人。","jp":"はい、お侍さん。"}
+,
+{"lvl":"5","sec":"344","voen":"vocs_over_over_snowcity_infiltration_n00","vojp":"vocs_snowcity_infiltration_n00_jp","s":"TRAPPER","en":"We can slip through here.","cn":"我们可以从这溜过去。","jp":"ここから滑り込める。"}
+,
+{"lvl":"5","sec":"344","voen":"vocs_over_over_snowcity_infiltration_n01","vojp":"vocs_snowcity_infiltration_n01_jp","s":"WARRIOR","en":"This business comes naturally to you, Yuki-chan. Have you always been a thief?","cn":"这次任务你做得很顺手，友希妹妹。你过去一直当小偷吗？","jp":"この仕事を自然にこなせるのだな。いつも盗みをしていたのか？"}
+,
+{"lvl":"5","sec":"344","voen":"vocs_over_over_snowcity_infiltration_n02","vojp":"vocs_snowcity_infiltration_n02_jp","s":"TRAPPER","en":"I was alone … for a time. Others came … they taught me how to see things, you know? Things that want to be taken?","cn":"有段时间我孤身一人……后来有帮人收留了我……他们教我如何找东西，你明白吗？就是找那种很容易被偷的东西。","jp":"一人だったの…ずっとね。それで誰かが来て…物の見方を教えてくれたの。物が盗んでって言ってるんだよ。"}
+,
+{"lvl":"5","sec":"344","voen":"vocs_over_over_snowcity_infiltration_n03","vojp":"vocs_snowcity_infiltration_n03_jp","s":"TRAPPER","en":"… is that a problem?","cn":"……你是不是讨厌小偷?","jp":"…駄目かな？"}
+,
+{"lvl":"5","sec":"344","voen":"vocs_over_over_snowcity_infiltration_n04","vojp":"vocs_snowcity_infiltration_n04_jp","s":"WARRIOR","en":"Your origins don't bother me. What matters is how you use the talents that have been given to you.","cn":"你的出身不是问题。问题是你如何发挥自己的天赋。","jp":"どのようにそうなったかは気にはせぬ。大切なのは、その才能をどう使うかであろう。"}
+,
+{"lvl":"5","sec":"345","voen":"vocs_over_over_snowcity_wagon_n00","vojp":"vocs_snowcity_wagon_n00_jp","s":"TRAPPER","en":"A wagon, a wagon …","cn":"马车，马车！","jp":"馬車、馬車…。"}
+,
+{"lvl":"5","sec":"345","voen":"vocs_over_over_snowcity_wagon_n01","vojp":"vocs_snowcity_wagon_n01_jp","s":"WARRIOR","en":"This wagon delivers sake to the northern market.","cn":"这辆马车把清酒运往北面的集市。","jp":"馬車が酒を北の市場へと運ぶ。"}
+,
+{"lvl":"5","sec":"345","voen":"vocs_over_over_snowcity_wagon_n02","vojp":"vocs_snowcity_wagon_n02_jp","s":"TRAPPER","en":"He wants to go where we're going. Maybe jump inside?","cn":"他去的地方和我们一样。要不跳到马车里?","jp":"私たちの向かう場所へ行きたがってるわ。中に入ってみる？"}
+,
+{"lvl":"5","sec":"345","voen":"vocs_over_over_snowcity_wagon_n03","vojp":"vocs_snowcity_wagon_n03_jp","s":"WARRIOR","en":"Hmm, good thinking.","cn":"嗯，好主意。","jp":"うーむ、いいかもしれぬな。"}
+,
+{"lvl":"5","sec":"346","voen":"vo_hint_hint_snowcity_sake2_n00","vojp":"vo_snowcity_sake2_n00_jp","s":"ENEMY","en":"You can come through.","cn":"你可以过去了。","jp":"通ってくれ。"}
+,
+{"lvl":"5","sec":"347","voen":"vocs_over_over_snowcity_locked_n00","vojp":"vocs_snowcity_locked_n00_jp","s":"TRAPPER","en":"There. One of the gates!","cn":"那边！是大门。","jp":"あそこ門の場所！"}
+,
+{"lvl":"5","sec":"347","voen":"vocs_over_over_snowcity_locked_n01","vojp":"vocs_snowcity_locked_n01_jp","s":"WARRIOR","en":"The gate is locked, as expected. Are you ready, Yuki-chan?","cn":"不出所料，大门已锁。准备好了吗，友希妹妹？","jp":"思った通り施錠されておる。準備はよいか、雪殿？"}
+,
+{"lvl":"5","sec":"347","voen":"vocs_over_over_snowcity_locked_n02","vojp":"vocs_snowcity_locked_n02_jp","s":"TRAPPER","en":"Yes. Locks have keys. Keys like being stolen.","cn":"准备好了，开门要用钥匙，钥匙就在武士身上。","jp":"はい。閉まってるってことは鍵がある。鍵は盗まれたがってる。"}
+,
+{"lvl":"5","sec":"348","voen":"vocs_over_over_snowcity_icicle_n00","vojp":"vocs_snowcity_icicle_n00_jp","s":"TRAPPER","en":"Look! Big, shiny icicles! Oh, they want to fall on the samurai's head.","cn":"看！闪闪发光的大冰柱！他们肯定想掉到武士的脑袋上。","jp":"みて！大きな、輝くつらら。侍の頭の上に落ちたがってるみたい。"}
+,
+{"lvl":"5","sec":"349","voen":"vocs_over_over_snowcity_key_n00","vojp":"vocs_snowcity_key_n00_jp","s":"TRAPPER","en":"Quick! Open the gate, before master samurai gets worried.","cn":"快！赶紧开门，要不武士大人会着急的。","jp":"急いで！お侍さんが心配する前に門を開けなきゃ。"}
+,
+{"lvl":"5","sec":"350","voen":"vocs_over_over_snowcity_unlocked_n00","vojp":"vocs_snowcity_unlocked_n00_jp","s":"TRAPPER","en":"There. All done!","cn":"搞定！","jp":"よし、やったわ。"}
+,
+{"lvl":"5","sec":"350","voen":"vocs_over_over_snowcity_unlocked_n01","vojp":"vocs_snowcity_unlocked_n01_jp","s":"WARRIOR","en":"Impressive. I see why Hayato-san saw potential in you.","cn":"真是让我大开眼界。现在我明白为何隼人先生说你有潜力了。","jp":"見事だ。隼人殿がお主に可能性を見出したわけもわかる。"}
+,
+{"lvl":"5","sec":"350","voen":"vocs_over_over_snowcity_unlocked_n02","vojp":"vocs_snowcity_unlocked_n02_jp","s":"TRAPPER","en":"Thank you!","cn":"谢谢！","jp":"ありがとう！"}
+,
+{"lvl":"5","sec":"350","voen":"vocs_over_over_snowcity_unlocked_n03","vojp":"vocs_snowcity_unlocked_n03_jp","s":"WARRIOR","en":"Let us regroup, and discuss our next approach.","cn":"到里面会合，然后讨论下一步计划。","jp":"では共に次の手について話し合おう。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n00","vojp":"vocs_snowcity_briefing3_n00_jp","s":"WARRIOR","en":"Very well …","cn":"很好……","jp":"よし…。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n01","vojp":"vocs_snowcity_briefing3_n01_jp","s":"WARRIOR","en":"Remember, the official is well protected.","cn":"切记，官员周围有重兵把守。","jp":"役人は守られていることを忘れるな。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n02","vojp":"vocs_snowcity_briefing3_n02_jp","s":"WARRIOR","en":"We are no match for this many bodyguards, so we must find a way to distract them.","cn":"正面迎战这么多保镖必败无疑，所以我们必须想办法把他们分散开。","jp":"これほどの護衛とは戦えぬ。気を引く方法を探すべきであるな。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n03","vojp":"vocs_snowcity_briefing3_n03_jp","s":"WARRIOR","en":"I saw two fire lookout towers on the way here.","cn":"来的路上我看到两座消防瞭望塔。","jp":"火の見やぐらがここからの道に二つある。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n04","vojp":"vocs_snowcity_briefing3_n04_jp","s":"WARRIOR","en":"If I cut one down, the official will send his men to investigate the disturbance.","cn":"如果我砍断一座，官员就会派他的保镖前来调查。","jp":"一つを倒せば、役人が騒いで部下を送ってくるだろう。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n05","vojp":"vocs_snowcity_briefing3_n05_jp","s":"TRAPPER","en":"You can cut through a tower?!","cn":"塔你都能砍断？！","jp":"塔を倒すの？"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n06","vojp":"vocs_snowcity_briefing3_n06_jp","s":"WARRIOR","en":"When it happens you will have plenty of time to steal the documents from our target.","cn":"等保镖过来调查时，你就有充足的时间从目标身上偷走文件。","jp":"そうなったら、書類を標的から盗むのに十分な時間があるだろう。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n07","vojp":"vocs_snowcity_briefing3_n07_jp","s":"WARRIOR","en":"Once we are finished we will use this wagon for our escape.","cn":"一旦拿到文件，我们就利用这辆马车逃走。","jp":"終わったらこの馬車を脱出に使おう。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n08","vojp":"vocs_snowcity_briefing3_n08_jp","s":"TRAPPER","en":"He's a bad man, right? Maybe I should hurt him …","cn":"他是坏蛋，对吧？没准我该杀了他……","jp":"奴は悪い奴よね？ならあたしが手をかけたい…。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n09","vojp":"vocs_snowcity_briefing3_n09_jp","s":"WARRIOR","en":"No, you must do him no harm. The Shogun will not tolerate the killing of a high ranking official, not until we have solid proof.","cn":"不，你千万不能杀了他。除非我们掌握确凿证据，否则将军绝不允许我们杀死一名高级官员。","jp":"ならぬ、危害を加えてはならぬ。上様は位の高い役人が死ぬのを好まぬ。証拠を掴むまではな。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n10","vojp":"vocs_snowcity_briefing3_n10_jp","s":"TRAPPER","en":"Understood!","cn":"是！","jp":"わかりました！"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n11","vojp":"vocs_snowcity_briefing3_n11_jp","s":"WARRIOR","en":"Well then. Ready, Yuki-chan?","cn":"那么，友希妹妹，准备好了吗?","jp":"そしなら行くぞ、雪殿。"}
+,
+{"lvl":"5","sec":"351","voen":"vocs_over_over_snowcity_briefing3_n12","vojp":"vocs_snowcity_briefing3_n12_jp","s":"TRAPPER","en":"Ready!","cn":"准备好了！","jp":"うん。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n00","vojp":"vocs_snowcity_briefing3a_n00_jp","s":"WARRIOR","en":"Very well …","cn":"很好……","jp":"よし…。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n01","vojp":"vocs_snowcity_briefing3a_n01_jp","s":"WARRIOR","en":"Remember, the official is well protected.","cn":"切记，官员周围有重兵把守。","jp":"役人は守られていることを忘れるな。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n02","vojp":"vocs_snowcity_briefing3a_n02_jp","s":"WARRIOR","en":"We are no match for this many bodyguards, so we must find a way to distract them.","cn":"正面迎战这么多保镖必败无疑，所以我们必须想办法把他们分散开。","jp":"これほどの護衛とは戦えぬ。気を引く方法をさがすべきであるな。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n03","vojp":"vocs_snowcity_briefing3a_n03_jp","s":"TRAPPER","en":"I saw two big wooden towers when I was here before.","cn":"刚才我进来的时候看到了两座大木塔。","jp":"ここに就くまでに二つの木の塔を見た。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n04","vojp":"vocs_snowcity_briefing3a_n04_jp","s":"TRAPPER","en":"Maybe you can break one of them? It would make lots of noise, and the man with the papers will send his samurai to see what's wrong.","cn":"也许你能破坏一座塔？塔倒了声音肯定很大，拿文件的那人就会派他的武士过来调查。","jp":"お侍さんなら壊せますよね？そしたら大きな音がなって、書類の男がきっと侍を送って、何がおこったか見に来ると思う"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n05","vojp":"vocs_snowcity_briefing3a_n05_jp","s":"WARRIOR","en":"An unusual strategy. I am tempted to try it out.","cn":"这招不一般。我觉得可以一试。","jp":"突飛な作戦だ。試してみたいな"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n06","vojp":"vocs_snowcity_briefing3a_n06_jp","s":"WARRIOR","en":"When I do you will have plenty of time to steal the documents from our target.","cn":"当我砍断塔后，你就有充足的时间从目标身上偷走文件。","jp":"そうなったら、書類を標的から盗むのに十分な時間があるだろう。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n07","vojp":"vocs_snowcity_briefing3a_n07_jp","s":"TRAPPER","en":"Yes, and then we leave, right? Let's hide in that wagon. It'll carry us out of here.","cn":"是的，然后我们离开，对吧？我们可以藏在那辆马车里。它会把我们带出去的。","jp":"はい、そして逃げる、ですよね？誰か馬車に隠れましょう！ここから出してくれる。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n08","vojp":"vocs_snowcity_briefing3a_n08_jp","s":"TRAPPER","en":"The man with the papers … he's bad, right? Maybe I should hurt him …","cn":"拿文件的那人……他是坏蛋，对吧？或许我该把他杀了……","jp":"書類の男は…悪い人だよね。ならあたしが手をかけたい…。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n09","vojp":"vocs_snowcity_briefing3a_n09_jp","s":"WARRIOR","en":"No, you must do him no harm. The Shogun will not tolerate the killing of a high ranking official, not until we have solid proof.","cn":"不，你千万不能杀了他。除非我们掌握确凿证据，否则将军绝不允许我们杀死一名高级官员。","jp":"ならぬ、危害を加えてはならぬ。上様は位の高い役人が死ぬのを好まぬ。証拠を掴むまではな。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n10","vojp":"vocs_snowcity_briefing3a_n10_jp","s":"TRAPPER","en":"Understood!","cn":"明白！","jp":"わかりました！"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n11","vojp":"vocs_snowcity_briefing3a_n11_jp","s":"WARRIOR","en":"Well then. Ready, Yuki-chan?","cn":"那么，准备好了吗，友希妹妹?","jp":"では行くぞ、雪殿。"}
+,
+{"lvl":"5","sec":"352","voen":"vocs_over_over_snowcity_briefing3a_n12","vojp":"vocs_snowcity_briefing3a_n12_jp","s":"TRAPPER","en":"Ready!","cn":"一切准备就绪！","jp":"行きましょう。"}
+,
+{"lvl":"5","sec":"353","voen":"vocs_over_over_snowcity_platform_n00","vojp":"vocs_snowcity_platform_n00_jp","s":"WARRIOR","en":"A well aimed cut and this platform will crash to the ground.","cn":"只要砍对位置，这个平台肯定会垮掉。","jp":"よく狙った。一刀は、この舞台も地へと倒れる。"}
+,
+{"lvl":"5","sec":"353","voen":"vocs_over_over_snowcity_platform_n01","vojp":"vocs_snowcity_platform_n01_jp","s":"TRAPPER","en":"You're strong, master samurai!","cn":"你力气真大，武士大人！","jp":"たくましい、お侍さん。"}
+,
+{"lvl":"5","sec":"353","voen":"vocs_over_over_snowcity_platform_n01a","vojp":"vocs_snowcity_platform_n01a_jp","s":"TRAPPER","en":"You're strong, master samurai! You can do it!","cn":"武士大人，你力气那么大！肯定能行！","jp":"たくましい、お侍さん。きっとできるわ！"}
+,
+{"lvl":"5","sec":"353","voen":"vocs_over_over_snowcity_platform_n02","vojp":"vocs_snowcity_platform_n02_jp","s":"WARRIOR","en":"One must only know where to strike.","cn":"只需知道要砍哪里。","jp":"打ち込む箇所を知るのみで十分だ。"}
+,
+{"lvl":"5","sec":"354","voen":"vocs_over_over_snowcity_tower_n00","vojp":"vocs_snowcity_tower_n00_jp","s":"TRAPPER","en":"These towers are really high!","cn":"这些塔真高！","jp":"すごく高い塔ね！"}
+,
+{"lvl":"5","sec":"354","voen":"vocs_over_over_snowcity_tower_n01","vojp":"vocs_snowcity_tower_n01_jp","s":"WARRIOR","en":"The tower's supports are no match for my blade. If our plan works, the official will send his guards to investigate.","cn":"在我的刀面前这些塔的支架不堪一击。假如你的计划成功，官员就会派他的守卫过来察看。","jp":"塔の柱など我が刀の敵ではない。この作戦がうまくいけば、役人は見張りを送ってくるはず。"}
+,
+{"lvl":"5","sec":"355","voen":"vocs_over_over_snowcity_distraction_n00","vojp":"vocs_snowcity_distraction_n00_jp","s":"OFFICIAL","en":"What is going on?! Go, investigate all of you!","cn":"什么情况？！你们所有人快去调查！","jp":"何が起きておる？！行け、皆で調べろ。"}
+,
+{"lvl":"5","sec":"355","voen":"vocs_over_over_snowcity_distraction_n01","vojp":"vocs_snowcity_distraction_n01_jp","s":"WARRIOR","en":"This will keep them busy for a while. Be careful, Yuki-chan.","cn":"这就够他们先忙活一阵了。小心啊，友希妹妹。","jp":"これはしばらく忙しくなりそうだ。気をつけて、雪殿。"}
+,
+{"lvl":"5","sec":"355","voen":"vocs_over_over_snowcity_distraction_n01a","vojp":"vocs_snowcity_distraction_n01a_jp","s":"WARRIOR","en":"Your plan has worked. You know what to do, Yuki-chan.","cn":"你的计划成功了。你知道该怎么做，友希妹妹。","jp":"お主の計画がうまいった。やることはわかっておるな、雪殿。"}
+,
+{"lvl":"5","sec":"355","voen":"vocs_over_over_snowcity_distraction_n02","vojp":"vocs_snowcity_distraction_n02_jp","s":"TRAPPER","en":"Yes. Steal the papers. Don't be seen. Don't hurt the bad man.","cn":"好，偷取文件，别被发现。不要杀了那个坏蛋。","jp":"はい。書類を盗む姿を見られない。悪い男は傷つけない。"}
+,
+{"lvl":"5","sec":"356","voen":"vo_hint_hint_snowcity_official1_n00","vojp":"vo_snowcity_official1_n00_jp","s":"OFFICIAL","en":"Lord Yabu was displeased about the loss of the latest shipment. As a result he has gone to Mount Tsuru.","cn":"上批货丢了薮领主很不高兴，所以他亲自去了都留山。","jp":"藪大名は輸送での損失に機嫌を損ねておられる。その結果、鶴山に向かわれてしまった。"}
+,
+{"lvl":"5","sec":"356","voen":"vo_hint_hint_snowcity_official1_n01","vojp":"vo_snowcity_official1_n01_jp","s":"CIVILIAN M","en":"Do not worry, my lord. We will double the guards on the next transport. I am sure this delay will mean little in the end.","cn":"大人不用担心。下次运输时我们会把守卫加倍。我保证这次延误不会碍事的。","jp":"心配なさらないでください。護衛を次の輸送では倍に致します。この遅延は後にはほとんど意味はなくなりまする。"}
+,
+{"lvl":"5","sec":"356","voen":"vo_hint_hint_snowcity_official1_n02","vojp":"vo_snowcity_official1_n02_jp","s":"OFFICIAL","en":"We can only hope. Regardless, I will be glad when this is behind us.","cn":"希望如此吧，无论如何要把这事办妥。","jp":"祈るのみであるな。とにかく、裏で行われていれば私はありがたい。"}
+,
+{"lvl":"5","sec":"356","voen":"vo_hint_hint_snowcity_official1_n03","vojp":"vo_snowcity_official1_n03_jp","s":"CIVILIAN M","en":"As will I, my lord. Now, shall we discuss the next point on the list …","cn":"遵命，大人。那么现在我们继续讨论下一点……","jp":"私もでございます。では、覧の次の場所についての話…。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n00","vojp":"vo_snowcity_official2_n00_jp","s":"OFFICIAL","en":"This matter troubles me greatly.","cn":"这次真是摊上大事了。","jp":"とても困る問題だ。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n01","vojp":"vo_snowcity_official2_n01_jp","s":"CIVILIAN M","en":"I will see it done, my lord.","cn":"我会全程监督的 ，大人。","jp":"終わらせるように致します。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n02","vojp":"vo_snowcity_official2_n02_jp","s":"OFFICIAL","en":"That must be handled immediately.","cn":"这事必须立即处理！","jp":"すぐに対処が必要だ。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n03","vojp":"vo_snowcity_official2_n03_jp","s":"CIVILIAN M","en":"I will report to you once it is done.","cn":"一旦办妥我会立即向您汇报。","jp":"終わり次第報告致します。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n04","vojp":"vo_snowcity_official2_n04_jp","s":"OFFICIAL","en":"Are preparations under way?","cn":"准备工作进度如何？","jp":"準備はどうなっている。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n05","vojp":"vo_snowcity_official2_n05_jp","s":"CIVILIAN M","en":"It will be to your satisfaction.","cn":"进度会让您满意的。","jp":"満足いただけるかと。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n06","vojp":"vo_snowcity_official2_n06_jp","s":"OFFICIAL","en":"Can we trust him? We better make further inquiries.","cn":"啊...我们能信他吗？最好再做进一步调查。","jp":"奴を信じられるのか？さらに質問をするのがよいだろう。"}
+,
+{"lvl":"5","sec":"357","voen":"vo_hint_hint_snowcity_official2_n07","vojp":"vo_snowcity_official2_n07_jp","s":"CIVILIAN M","en":"It will be arranged.","cn":"我会安排的。","jp":"手配致します。"}
+,
+{"lvl":"5","sec":"358","voen":"vocs_over_over_snowcity_pickpocket_n00","vojp":"vocs_snowcity_pickpocket_n00_jp","s":"TRAPPER","en":"Yes! You did it! Now, leave quickly.","cn":"好！你拿到文件了。现在赶紧撤离。","jp":"よし！やったわ！次は、急いで出るのよ。"}
+,
+{"lvl":"5","sec":"358","voen":"vocs_over_over_snowcity_pickpocket_n01","vojp":"vocs_snowcity_pickpocket_n01_jp","s":"WARRIOR","en":"Well done, Yuki-chan. Now, let us make haste and meet at the wagon. It will carry us out of danger.","cn":"干得好，友希妹妹。现在我们赶紧到马车里会合。上了马车就能安全撤离了。","jp":"よくやった、雪殿。では急いで馬車へと向かおう。危険から解放してくれる。"}
+,
+{"lvl":"5","sec":"359","voen":"vocs_over_over_snowcity_fail_n00","vojp":"vocs_snowcity_fail_n00_jp","s":"TRAPPER","en":"No no no no no! You killed him, stupid, stupid!","cn":"哦，不不不不不!你把他杀了，笨蛋、笨蛋！","jp":"駄目駄目駄目駄目！やっちゃったわ、ばか、ばか！"}
+,
+{"lvl":"5","sec":"359","voen":"vocs_over_over_snowcity_fail_n01","vojp":"vocs_snowcity_fail_n01_jp","s":"WARRIOR","en":"He is dead! I will not be able to justify this to the Shogun. We have failed.","cn":"他死了！这事我无法向将军交代。任务失败。","jp":"死んでいる！しまった！上様に申し訳が立たぬ。失敗したか。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n00","vojp":"vocs_snowcity_debriefing_n00_jp","s":"TRAPPER","en":"That was a fun adventure!","cn":"简直就是一次大冒险!","jp":"楽しい冒険だったわ！"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n01","vojp":"vocs_snowcity_debriefing_n01_jp","s":"WARRIOR","en":"A fine display of the thieving arts, amongst other things.","cn":"偷盗艺术的一次完美展示，其他的不提也罢。","jp":"盗みの技が良かった、とりわけな。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n02","vojp":"vocs_snowcity_debriefing_n02_jp","s":"TRAPPER","en":"Oh, thank you, master samurai!","cn":"哦！谢谢你，武士大人!","jp":"ありがとう、お侍さん！"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n03","vojp":"vocs_snowcity_debriefing_n03_jp","s":"WARRIOR","en":"I think Hayato-san will be glad to have such a talented student.","cn":"我想隼人先生会很乐意收你为徒的。","jp":"隼人殿は才覚のある生徒を喜んで受け入れるであろう。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n04","vojp":"vocs_snowcity_debriefing_n04_jp","s":"TRAPPER","en":"Uhm … can I ask you a question?","cn":"呃…我能...问你一件事吗？","jp":"うーん、質問していいですか？"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n05","vojp":"vocs_snowcity_debriefing_n05_jp","s":"WARRIOR","en":"Go ahead.","cn":"请说。","jp":"かまわぬぞ。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n06","vojp":"vocs_snowcity_debriefing_n06_jp","s":"TRAPPER","en":"You're … not like other samurai, are you?","cn":"你…你和其他武士不一样，对吧？","jp":"その…他の侍とはちがいますよね？"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n07","vojp":"vocs_snowcity_debriefing_n07_jp","s":"WARRIOR","en":"Haha ... is that your idea of a compliment?","cn":"哈哈……你这是在夸我吗？","jp":"はは…それは褒めているのか？"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n08","vojp":"vocs_snowcity_debriefing_n08_jp","s":"TRAPPER","en":"Yes?","cn":"是-是的？","jp":"は、はい。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n09","vojp":"vocs_snowcity_debriefing_n09_jp","s":"WARRIOR","en":"Then I will take it as such. Now, let us return to the meeting place and examine these documents.","cn":"那我就当作你在夸我。我们现在就回汇合点吧，然后仔细查看这些文件。","jp":"そう受け取っておこう。では、隠れ家へと戻り、書類を調べるとしよう。"}
+,
+{"lvl":"5","sec":"360","voen":"vocs_over_over_snowcity_debriefing_n10","vojp":"vocs_snowcity_debriefing_n10_jp","s":"TRAPPER","en":"Hai, master samurai.","cn":"是，武士大人。","jp":"はい、お侍さん！"}
+
+]

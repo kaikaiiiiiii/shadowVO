@@ -1,0 +1,385 @@
+2,3,11														
+PREFIX	TYPE	SUFFIX	NAME	REC.	IMPL.	SPEAKER	MOOD	COMMENT	EN	CEN	Simplified Chinese	CDE		
+vo_eny_eny_	static_00_	alarm_area_00	vo_eny_eny_static_00_alarm_area_00	omuk	hambo	Static	high tension	sounds the alarm	Sound the alarm!	3	快发警报！	1		
+vo_eny_eny_	static_00_	alarm_area_01	vo_eny_eny_static_00_alarm_area_01	omuk	hambo	Static	high tension	sounds the alarm	We are being attacked!	4	我们受到了攻击！	1		
+vo_eny_eny_	static_00_	alarm_area_02	vo_eny_eny_static_00_alarm_area_02	omuk	hambo	Static	high tension	sounds the alarm	To arms!	2	准备战斗！	1		
+vo_eny_eny_	static_00_	alarm_area_03	vo_eny_eny_static_00_alarm_area_03	omuk	hambo	Static	high tension	sounds the alarm	We need reinforcements!	3	我们需要支援！	1		
+vo_eny_eny_	static_00_	alarm_area_04	vo_eny_eny_static_00_alarm_area_04	omuk	hambo	Static	high tension	sounds the alarm	Alert the others!	3	警告其他人!	1		
+vo_eny_eny_	static_00_	alarm_local_00	vo_eny_eny_static_00_alarm_local_00	omuk	hambo	Static	urgent, tense	calls for backup	Get over here!	3	快来这里！	1		
+vo_eny_eny_	static_00_	alarm_local_01	vo_eny_eny_static_00_alarm_local_01	omuk	hambo	Static	urgent, tense	calls for backup	To me to me!	4	到我这里来！	1		
+vo_eny_eny_	static_00_	alarm_local_02	vo_eny_eny_static_00_alarm_local_02	omuk	hambo	Static	urgent, tense	calls for backup	I need backup!	3	我需要支援！	1		
+vo_eny_eny_	static_00_	alarm_local_03	vo_eny_eny_static_00_alarm_local_03	omuk	hambo	Static	urgent, tense	calls for backup	Help!	1	救命！	1		
+vo_eny_eny_	static_00_	alarm_local_04	vo_eny_eny_static_00_alarm_local_04	omuk	hambo	Static	urgent, tense	calls for backup	Over here!	2	这里！	1		
+vo_eny_eny_	static_00_	alarm_local_05	vo_eny_eny_static_00_alarm_local_05	omuk	hambo	Static	urgent, tense	calls for backup	Men over here!	3	兄弟们，都过来！	1		
+vo_eny_eny_	static_00_	alarm_local_06	vo_eny_eny_static_00_alarm_local_06	omuk	hambo	Static	urgent, tense	curses	Damn it!	2	该死！	1		
+vo_eny_eny_	static_00_	alarm_stop_00	vo_eny_eny_static_00_alarm_stop_00	omuk	hambo	Static	commanding	end of alarm	They must have escaped! Cancel the alarm!	7	他们肯定已经逃走了，解除警报！	1		
+vo_eny_eny_	static_00_	alarm_stop_01	vo_eny_eny_static_00_alarm_stop_01	omuk	hambo	Static	commanding	end of alarm	Call  off the search! As you were!	8	停止搜索！各回岗位！	1		
+vo_eny_eny_	static_00_	alarm_stop_02	vo_eny_eny_static_00_alarm_stop_02	omuk	hambo	Static	commanding	end of alarm	They must have run! Stand down men!	7	他们肯定已经跑了，回去吧，弟兄们	1		
+vo_eny_eny_	static_00_	alarm_stop_03	vo_eny_eny_static_00_alarm_stop_03	omuk	hambo	Static	commanding	end of alarm	No more danger! At ease, everyone!	6	没有危险了，大家解散	1		
+vo_eny_eny_	static_00_	alarm_stop_04	vo_eny_eny_static_00_alarm_stop_04	omuk	hambo	Static	commanding	end of alarm	Looks like we have driven them off!	7	看来已经把他们赶跑了！	1		
+vo_eny_eny_	static_00_	alarm_stop_05	vo_eny_eny_static_00_alarm_stop_05	omuk	hambo	Static	commanding	end of alarm	All clear!	2	警报解除！	1		
+vo_eny_eny_	static_00_	carry_object_00	vo_eny_eny_static_00_carry_object_00	omuk		Static		(sound) carries heavy object		0		0		
+vo_eny_eny_	static_00_	clear_throat_00	vo_eny_eny_static_00_clear_throat_00	omuk		Static		(sound) clears throat		0		0		
+vo_eny_eny_	static_00_	cough_00	vo_eny_eny_static_00_cough_00	omuk		Static		(sound) coughs		0		0		
+vo_eny_eny_	static_00_	danger_toohigh_00	vo_eny_eny_static_00_danger_toohigh_00	omuk	hambo	Static	shocked	has seen a player far above him	Look Above us! Taking aim!	5	看，我们上方！瞄准！	1		
+vo_eny_eny_	static_00_	danger_toohigh_01	vo_eny_eny_static_00_danger_toohigh_01	omuk	hambo	Static	shocked	has seen a player far above him	They are above us!	4	在我们上面！	1		
+vo_eny_eny_	static_00_	danger_toohigh_02	vo_eny_eny_static_00_danger_toohigh_02	omuk	hambo	Static	shocked	has seen a player far above him	They're attacking from above!	4	是从上方攻击的!	1		
+vo_eny_eny_	static_00_	danger_unreachable_00	vo_eny_eny_static_00_danger_unreachable_00	omuk	hambo	Static	angry	has seen a player, but can't get to that spot	Cowards! Fight like men!	4	懦夫！有本事像男人一样战斗!	1		
+vo_eny_eny_	static_00_	danger_unreachable_01	vo_eny_eny_static_00_danger_unreachable_01	omuk	hambo	Static	angry	has seen a player, but can't get to that spot	How did they get there?	5	他们是怎么到那种地方的?	1		
+vo_eny_eny_	static_00_	danger_unreachable_02	vo_eny_eny_static_00_danger_unreachable_02	omuk	hambo	Static	angry	has seen a player, but can't get to that spot	I can't reach them!	4	我无法接近他们…	1		
+vo_eny_eny_	static_00_	death_scream_00	vo_eny_eny_static_00_death_scream_00	omuk	hambo	Static	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_01	vo_eny_eny_static_00_death_scream_01	omuk	hambo	Static	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_02	vo_eny_eny_static_00_death_scream_02	omuk	hambo	Static	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_03	vo_eny_eny_static_00_death_scream_03	omuk	hambo	Static	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_04	vo_eny_eny_static_00_death_scream_04	omuk	hambo	Static	shocked	(sound) short deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_muffled_00	vo_eny_eny_static_00_death_scream_muffled_00	omuk	hambo	Static	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_muffled_01	vo_eny_eny_static_00_death_scream_muffled_01	omuk	hambo	Static	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_muffled_02	vo_eny_eny_static_00_death_scream_muffled_02	omuk	hambo	Static	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_muffled_03	vo_eny_eny_static_00_death_scream_muffled_03	omuk	hambo	Static	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	static_00_	death_scream_muffled_04	vo_eny_eny_static_00_death_scream_muffled_04	omuk	hambo	Static	struggling	(sound) muffled deathsound		0		0		
+vo_eny_eny_	static_00_	detect_corpse_female_02	vo_eny_eny_static_00_detect_corpse_female_02	omuk		Static	shocked	sees a corpse	She's dead!	2	她死了！	1		
+vo_eny_eny_	static_00_	detect_corpse_female_03	vo_eny_eny_static_00_detect_corpse_female_03	omuk		Static	shocked	sees a corpse	They must have killed her!	5	一定是他们杀了她！	1		
+vo_eny_eny_	static_00_	detect_corpse_male_00	vo_eny_eny_static_00_detect_corpse_male_00	omuk		Static	shocked	sees a corpse	He's dead!	2	他死了！	1		
+vo_eny_eny_	static_00_	detect_corpse_male_01	vo_eny_eny_static_00_detect_corpse_male_01	omuk		Static	shocked	sees a corpse	They killed him!	3	一定是他们杀了他！	1		
+vo_eny_eny_	static_00_	detect_corpse_neutral_02	vo_eny_eny_static_00_detect_corpse_neutral_02	omuk	hambo	Static	shocked	sees a corpse	Murder!	1	杀人了！	1		
+vo_eny_eny_	static_00_	detect_corpse_neutral_03	vo_eny_eny_static_00_detect_corpse_neutral_03	omuk	hambo	Static	shocked	sees a corpse	Assassins!	1	有刺客！	1		
+vo_eny_eny_	static_00_	detect_footsteps_00	vo_eny_eny_static_00_detect_footsteps_00	omuk		Static	dismissive	sees player footprints	Huh? Footprints …	3	嗯？脚印……	1		
+vo_eny_eny_	static_00_	detect_footsteps_01	vo_eny_eny_static_00_detect_footsteps_01	omuk		Static	dismissive	sees player footprints	Who made those footprints?	4	是谁的脚印？	1		
+vo_eny_eny_	static_00_	detect_footsteps_02	vo_eny_eny_static_00_detect_footsteps_02	omuk		Static	dismissive	sees player footprints	Who left those tracks!	4	是谁留下的足迹！	1		
+vo_eny_eny_	static_00_	detect_footsteps_03	vo_eny_eny_static_00_detect_footsteps_03	omuk		Static	dismissive	sees player footprints	These tracks do not belong here.	6	这些足迹怎么会出现在这里……	1		
+vo_eny_eny_	static_00_	detect_footsteps_04	vo_eny_eny_static_00_detect_footsteps_04	omuk		Static	dismissive	sees player footprints	Someone must be sneaking around?	5	肯定有人潜伏在附近	1		
+vo_eny_eny_	static_00_	detect_lightsource_00	vo_eny_eny_static_00_detect_lightsource_00	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	The light's gone out …	5	灯灭了……	1		
+vo_eny_eny_	static_00_	detect_lightsource_01	vo_eny_eny_static_00_detect_lightsource_01	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	Was it the wind?	4	是风吹灭的吗？	1		
+vo_eny_eny_	static_00_	detect_lightsource_02	vo_eny_eny_static_00_detect_lightsource_02	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	That light should be burning.	5	灯必须点亮	1		
+vo_eny_eny_	static_00_	detect_lightsource_03	vo_eny_eny_static_00_detect_lightsource_03	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	Someone has been careless with that lamp.	7	是谁没看好火	1		
+vo_eny_eny_	static_00_	detect_lightsource_04	vo_eny_eny_static_00_detect_lightsource_04	omuk		Static	dismissive	sees extiguished lamp, but doesn't leave his post	The fire's died …	4	火灭了……	1		
+vo_eny_eny_	static_00_	detect_player_00	vo_eny_eny_static_00_detect_player_00	omuk	hambo	Static	agressive	sees a player character	Don't you move!	3	别动!	1		
+vo_eny_eny_	static_00_	detect_player_01	vo_eny_eny_static_00_detect_player_01	omuk	hambo	Static	agressive	sees a player character	Stop right there!	3	站住别动！	1		
+vo_eny_eny_	static_00_	detect_player_02	vo_eny_eny_static_00_detect_player_02	omuk	hambo	Static	agressive	sees a player character	Halt!	1	站住！	1		
+vo_eny_eny_	static_00_	detect_player_03	vo_eny_eny_static_00_detect_player_03	omuk	hambo	Static	agressive	sees a player character	I can see you!	4	我看到你了！	1		
+vo_eny_eny_	static_00_	detect_player_04	vo_eny_eny_static_00_detect_player_04	omuk	hambo	Static	agressive	sees a player character	You there!	2	那边的!	1		
+vo_eny_eny_	static_00_	detect_player_05	vo_eny_eny_static_00_detect_player_05	omuk	hambo	Static	agressive	sees a player character	Stop right there!	3	站住别动！	1		
+vo_eny_eny_	static_00_	detect_player_06	vo_eny_eny_static_00_detect_player_06	omuk	hambo	Static	agressive	sees a player character	Intruder!	1	有入侵者！	1		
+vo_eny_eny_	static_00_	detect_player_07	vo_eny_eny_static_00_detect_player_07	omuk	hambo	Static	agressive	sees a player character	Die, you scum!	3	死吧，渣滓！	1		
+vo_eny_eny_	static_00_	detect_player_08	vo_eny_eny_static_00_detect_player_08	omuk	hambo	Static	agressive	sees a player character	I've got you!	3	我找到你了！	1		
+vo_eny_eny_	static_00_	detect_player_09	vo_eny_eny_static_00_detect_player_09	omuk	hambo	Static	agressive	sees a player character	H-hey you!	2	喂，你!	1		
+vo_eny_eny_	static_00_	detect_player_10	vo_eny_eny_static_00_detect_player_10	omuk	hambo	Static	agressive	sees a player character	Death to the attacker!	4	干掉入侵者！	1		
+vo_eny_eny_	static_00_	detect_player_11	vo_eny_eny_static_00_detect_player_11	omuk	hambo	Static	agressive	sees a player character	Kill the intruder!	3	杀了入侵者！	1		
+vo_eny_eny_	static_00_	detect_player_12	vo_eny_eny_static_00_detect_player_12	omuk	hambo	Static	agressive	sees a player character	It's the Shogunate!	3	是将军的走狗	1		
+vo_eny_eny_	static_00_	detect_player_13	vo_eny_eny_static_00_detect_player_13	omuk	hambo	Static	agressive	sees a player character	It's them!	2	是他们！	1		
+vo_eny_eny_	static_00_	detect_player_14	vo_eny_eny_static_00_detect_player_14	omuk	hambo	Static	agressive	sees a player character	You shouldn't be here!	4	你不该在这儿出现!	1		
+vo_eny_eny_	static_00_	detect_player_15	vo_eny_eny_static_00_detect_player_15	omuk	hambo	Static	agressive	sees a player character	I'll take care of you!	5	让我来教训你…	1		
+vo_eny_eny_	static_00_	detect_player_16	vo_eny_eny_static_00_detect_player_16	omuk	hambo	Static	agressive	sees a player character	Don't try to run!	4	别想跑!	1		
+vo_eny_eny_	static_00_	detect_player_17	vo_eny_eny_static_00_detect_player_17	omuk	hambo	Static	agressive	sees a player character	You can't escape!	3	你逃不掉的!	1		
+vo_eny_eny_	static_00_	detect_player_proximity_00	vo_eny_eny_static_00_detect_player_proximity_00	omuk	hambo	Static	suspicious	senses a nearby player character	Something's wrong …	3	不对劲…	1		
+vo_eny_eny_	static_00_	detect_player_proximity_01	vo_eny_eny_static_00_detect_player_proximity_01	omuk	hambo	Static	suspicious	senses a nearby player character	Strange … it feels like …	6	奇怪…感觉好像…	1		
+vo_eny_eny_	static_00_	detect_player_proximity_02	vo_eny_eny_static_00_detect_player_proximity_02	omuk	hambo	Static	suspicious	senses a nearby player character	Wait … is someone …	5	等等…好像有人…	1		
+vo_eny_eny_	static_00_	detect_player_proximity_03	vo_eny_eny_static_00_detect_player_proximity_03	omuk	hambo	Static	suspicious	senses a nearby player character	I'm sure there's something there …	6	我...我敢肯定那儿有什么东西…	1		
+vo_eny_eny_	static_00_	detect_sake_00	vo_eny_eny_static_00_detect_sake_00	omuk	hambo	Static	dismissive	spots the sake bottle	Sake, huh? ...someone else have it.	6	清酒，嗯?……我就不要了	1		
+vo_eny_eny_	static_00_	detect_sake_01	vo_eny_eny_static_00_detect_sake_01	omuk	hambo	Static	dismissive	spots the sake bottle	Can’t leave my post for sake.	6	啊...不能因为清酒离岗	1		
+vo_eny_eny_	static_00_	detect_sake_02	vo_eny_eny_static_00_detect_sake_02	omuk	hambo	Static	dismissive	spots the sake bottle	It's a bad thing I stopped drinking.	7	可惜我已经戒酒了	1		
+vo_eny_eny_	static_00_	detect_tanuki_00	vo_eny_eny_static_00_detect_tanuki_00	omuk	hambo	Static	indifferent	sees the tanuki	Heh, just an animal.	4	原来只是只动物…	1		
+vo_eny_eny_	static_00_	detect_tanuki_01	vo_eny_eny_static_00_detect_tanuki_01	omuk	hambo	Static	annoyed	sees the tanuki	Away with you! Shoo!	4	滚开！去，去！	1		
+vo_eny_eny_	static_00_	detect_tanuki_02	vo_eny_eny_static_00_detect_tanuki_02	omuk	hambo	Static	indifferent	sees the tanuki	Eh … I’ll just ignore you.	6	好吧……我无视它好了	1		
+vo_eny_eny_	static_00_	detect_unconscious_female_01	vo_eny_eny_static_00_detect_unconscious_female_01	omuk		Static	concerned	sees unconcious person	She's unconscious.	2	她晕过去了	1		
+vo_eny_eny_	static_00_	detect_unconscious_female_02	vo_eny_eny_static_00_detect_unconscious_female_02	omuk		Static	concerned	sees unconcious person	She's been hit!	3	她受了重击	1		
+vo_eny_eny_	static_00_	detect_unconscious_female_03	vo_eny_eny_static_00_detect_unconscious_female_03	omuk		Static	concerned	sees unconcious person	She's been attacked.	3	她被袭击了	1		
+vo_eny_eny_	static_00_	detect_unconscious_male_00	vo_eny_eny_static_00_detect_unconscious_male_00	omuk		Static	concerned	sees unconcious person	He's unconscious.	2	他晕过去了	1		
+vo_eny_eny_	static_00_	detect_unconscious_male_01	vo_eny_eny_static_00_detect_unconscious_male_01	omuk		Static	concerned	sees unconcious person	He's been hit!	3	他受了重击	1		
+vo_eny_eny_	static_00_	detect_unconscious_male_02	vo_eny_eny_static_00_detect_unconscious_male_02	omuk		Static	concerned	sees unconcious person	That man been attacked.	4	他好像被袭击了	1		
+vo_eny_eny_	static_00_	detect_unconscious_neutral_01	vo_eny_eny_static_00_detect_unconscious_neutral_01	omuk	hambo	Static	concerned	sees unconcious person	What happened there?	3	那里发生了什么？	1		
+vo_eny_eny_	static_00_	detect_unconscious_neutral_02	vo_eny_eny_static_00_detect_unconscious_neutral_02	omuk	hambo	Static	concerned	sees unconcious person	Hey! What's wrong!	3	喂！你怎么了？	1		
+vo_eny_eny_	static_00_	detect_unconscious_neutral_03	vo_eny_eny_static_00_detect_unconscious_neutral_03	omuk	hambo	Static	concerned	sees unconcious person	Are you sleeping?	3	你在睡觉吗？	1		
+vo_eny_eny_	static_00_	drink_sake_00	vo_eny_eny_static_00_drink_sake_00	omuk		Static		(sound) drink sake		0		0		
+vo_eny_eny_	static_00_	drop_object_00	vo_eny_eny_static_00_drop_object_00	omuk		Static		(sound) lay down heavy object		0		0		
+vo_eny_eny_	static_00_	friend_missing_female_00	vo_eny_eny_static_00_friend_missing_female_00	omuk		Static	concerned	his partner is missing	He's gone missing!	3	他不见了！	1		
+vo_eny_eny_	static_00_	friend_missing_female_01	vo_eny_eny_static_00_friend_missing_female_01	omuk		Static	concerned	his partner is missing	She left her post.	4	她擅离岗位	1		
+vo_eny_eny_	static_00_	friend_missing_female_02	vo_eny_eny_static_00_friend_missing_female_02	omuk		Static	concerned	his partner is missing	Where is she?	3	她去哪了?	1		
+vo_eny_eny_	static_00_	friend_missing_female_03	vo_eny_eny_static_00_friend_missing_female_03	omuk		Static	concerned	his partner is missing	What's keeping her?	3	她干什么去了？	1		
+vo_eny_eny_	static_00_	friend_missing_female_04	vo_eny_eny_static_00_friend_missing_female_04	omuk		Static	concerned	his partner is missing	She's gone too long.	4	她怎么这么久不回来	1		
+vo_eny_eny_	static_00_	friend_missing_male_01	vo_eny_eny_static_00_friend_missing_male_01	omuk	placeholder	Static	concerned	his partner is missing	He left his post.	4	他擅离岗位	1		
+vo_eny_eny_	static_00_	friend_missing_male_02	vo_eny_eny_static_00_friend_missing_male_02	omuk	placeholder	Static	concerned	his partner is missing	Where is he?	3	他去哪了?	1		
+vo_eny_eny_	static_00_	friend_missing_male_03	vo_eny_eny_static_00_friend_missing_male_03	omuk	placeholder	Static	concerned	his partner is missing	What on earth keeping him?	5	他干什么去了？	1		
+vo_eny_eny_	static_00_	friend_missing_male_04	vo_eny_eny_static_00_friend_missing_male_04	omuk	placeholder	Static	concerned	his partner is missing	He's gone too long.	4	他怎么这么久不回来	1		
+vo_eny_eny_	static_00_	friend_wakeup_00	vo_eny_eny_static_00_friend_wakeup_00	omuk	hambo	Static	urgent	wakes unconcious person	Hey! Wake up!	3	喂！醒醒！	1		
+vo_eny_eny_	static_00_	friend_wakeup_01	vo_eny_eny_static_00_friend_wakeup_01	omuk	hambo	Static	urgent	wakes unconcious person	Get up!	2	起来!	1		
+vo_eny_eny_	static_00_	friend_wakeup_02	vo_eny_eny_static_00_friend_wakeup_02	omuk	hambo	Static	urgent	wakes unconcious person	Are you alright?	3	你还好吗？	1		
+vo_eny_eny_	static_00_	friend_wakeup_03	vo_eny_eny_static_00_friend_wakeup_03	omuk	hambo	Static	urgent	wakes unconcious person	What happened to you?	4	你怎么了?	1		
+vo_eny_eny_	static_00_	friend_wakeup_04	vo_eny_eny_static_00_friend_wakeup_04	omuk	hambo	Static	urgent	wakes unconcious person	On your feet!	3	站起来!	1		
+vo_eny_eny_	static_00_	hard_work_00	vo_eny_eny_static_00_hard_work_00	omuk		Static		(sound) pushing a cart		0		0		
+vo_eny_eny_	static_00_	hear_noise_00	vo_eny_eny_static_00_hear_noise_00	omuk		Static	suspicious	hears strange noise	Huh?!	1	嗯?！	1		
+vo_eny_eny_	static_00_	hear_noise_01	vo_eny_eny_static_00_hear_noise_01	omuk		Static	suspicious	hears strange noise	What was that?	3	什么声音？	1		
+vo_eny_eny_	static_00_	hear_noise_02	vo_eny_eny_static_00_hear_noise_02	omuk		Static	suspicious	hears strange noise	I heard something …	4	我听到了什么…	1		
+vo_eny_eny_	static_00_	hear_noise_03	vo_eny_eny_static_00_hear_noise_03	omuk		Static	suspicious	hears strange noise	Strange sound …	3	奇怪的声音……	1		
+vo_eny_eny_	static_00_	hear_noise_04	vo_eny_eny_static_00_hear_noise_04	omuk		Static	suspicious	hears strange noise	That noise …	3	这声音…	1		
+vo_eny_eny_	static_00_	hear_noise_directhit_00	vo_eny_eny_static_00_hear_noise_directhit_00	omuk		Static	very irritated	is hit by stone	Ow! Who was that?	4	啊，痛！是谁？	1		
+vo_eny_eny_	static_00_	hear_noise_directhit_01	vo_eny_eny_static_00_hear_noise_directhit_01	omuk		Static	very irritated	is hit by stone	Argh … you will pay for this!	7	嗷！你会为此付出代价的！	1		
+vo_eny_eny_	static_00_	hear_noise_directhit_02	vo_eny_eny_static_00_hear_noise_directhit_02	omuk		Static	very irritated	is hit by stone	Gah! Show yourself, now!	4	啊！快给我出来！	1		
+vo_eny_eny_	static_00_	hear_noise_directhit_03	vo_eny_eny_static_00_hear_noise_directhit_03	omuk		Static	very irritated	is hit by stone	Ouch! Stop this!	3	哎哟！快住手！	1		
+vo_eny_eny_	static_00_	hear_noise_gunshot_00	vo_eny_eny_static_00_hear_noise_gunshot_00	omuk		Static	alarmed	hears player gunshot	Why is there shooting?	4	怎么会有枪声?	1		
+vo_eny_eny_	static_00_	hear_noise_gunshot_01	vo_eny_eny_static_00_hear_noise_gunshot_01	omuk		Static	alarmed	hears player gunshot	Shots fired! Alarm!	3	有枪声!快发警报！	1		
+vo_eny_eny_	static_00_	hear_noise_gunshot_02	vo_eny_eny_static_00_hear_noise_gunshot_02	omuk		Static	alarmed	hears player gunshot	The enemy has firearms!	4	敌人有枪！	1		
+vo_eny_eny_	static_00_	hear_noise_human_00	vo_eny_eny_static_00_hear_noise_human_00	omuk		Static	tense	hears human noise	Someone there?	2	有人在那儿吗?	1		
+vo_eny_eny_	static_00_	hear_noise_human_01	vo_eny_eny_static_00_hear_noise_human_01	omuk		Static	tense	hears human noise	Who goes there?	3	谁在那儿?	1		
+vo_eny_eny_	static_00_	hear_noise_human_02	vo_eny_eny_static_00_hear_noise_human_02	omuk		Static	tense	hears human noise	I heard that!	3	我听到了!	1		
+vo_eny_eny_	static_00_	hear_noise_human_03	vo_eny_eny_static_00_hear_noise_human_03	omuk		Static	tense	hears human noise	Who's making that noise?	4	是谁的声音？	1		
+vo_eny_eny_	static_00_	hear_noise_human_04	vo_eny_eny_static_00_hear_noise_human_04	omuk		Static	tense	hears human noise	Who hides in the shadows?	5	是谁藏在暗处？	1		
+vo_eny_eny_	static_00_	hear_noise_human_05	vo_eny_eny_static_00_hear_noise_human_05	omuk		Static	tense	hears human noise	Who is this?	3	是谁?	1		
+vo_eny_eny_	static_00_	hear_noise_too_much_00	vo_eny_eny_static_00_hear_noise_too_much_00	omuk	hambo	Static	irritated	irritated by a continuous string of strange noises	Enough already!	2	够了!	1		
+vo_eny_eny_	static_00_	hear_noise_too_much_01	vo_eny_eny_static_00_hear_noise_too_much_01	omuk	hambo	Static	irritated	irritated by a continuous string of strange noises	Who is doing this?	4	是谁在作怪？	1		
+vo_eny_eny_	static_00_	hear_noise_too_much_02	vo_eny_eny_static_00_hear_noise_too_much_02	omuk	hambo	Static	irritated	irritated by a continuous string of strange noises	Show yourself!	2	快出来！	1		
+vo_eny_eny_	static_00_	hear_noise_too_much_03	vo_eny_eny_static_00_hear_noise_too_much_03	omuk	hambo	Static	irritated	irritated by a continuous string of strange noises	This isn't funny!	3	一点也不好玩！	1		
+vo_eny_eny_	static_00_	hum_00	vo_eny_eny_static_00_hum_00	omuk		Static		(sound) humming tune		0		0		
+vo_eny_eny_	static_00_	ignore_distraction_00	vo_eny_eny_static_00_ignore_distraction_00	omuk	hambo	Static	dutiful	ignores player distraction (whistle, stone noise)	It's nothing.	2	不值一提	1		
+vo_eny_eny_	static_00_	ignore_distraction_01	vo_eny_eny_static_00_ignore_distraction_01	omuk	hambo	Static	dutiful	ignores player distraction (whistle, stone noise)	Just the wind.	3	只是风声而已	1		
+vo_eny_eny_	static_00_	ignore_distraction_02	vo_eny_eny_static_00_ignore_distraction_02	omuk	hambo	Static	dutiful	ignores player distraction (whistle, stone noise)	The wind plays tricks on me.	6	风在和我开玩笑而已	1		
+vo_eny_eny_	static_00_	ignore_distraction_03	vo_eny_eny_static_00_ignore_distraction_03	omuk	hambo	Static	dutiful	ignores player distraction (whistle, stone noise)	I will not be distracted.	5	我不会分心的	1		
+vo_eny_eny_	static_00_	ignore_distraction_04	vo_eny_eny_static_00_ignore_distraction_04	omuk	hambo	Static	dutiful	ignores player distraction (whistle, stone noise)	Hrm … nothing.	3	嗯……什么事都没有	1		
+vo_eny_eny_	static_00_	ignore_disturbance_00	vo_eny_eny_static_00_ignore_disturbance_00	omuk	hambo	Static	dutiful	ignores disturbance (footprints, snuffed torch)	I can't leave my post.	5	我不能离开岗位	1		
+vo_eny_eny_	static_00_	ignore_disturbance_01	vo_eny_eny_static_00_ignore_disturbance_01	omuk	hambo	Static	dutiful	ignores disturbance (footprints, snuffed torch)	I must remember my duty.	5	我必须牢记职责	1		
+vo_eny_eny_	static_00_	ignore_disturbance_02	vo_eny_eny_static_00_ignore_disturbance_02	omuk	hambo	Static	dutiful	ignores disturbance (footprints, snuffed torch)	Nothing important …	3	不是什么要紧事	1		
+vo_eny_eny_	static_00_	ignore_disturbance_03	vo_eny_eny_static_00_ignore_disturbance_03	omuk	hambo	Static	dutiful	ignores disturbance (footprints, snuffed torch)	Not worth it …	4	没必要去查	1		
+vo_eny_eny_	static_00_	investigate_accident_start_00	vo_eny_eny_static_00_investigate_accident_start_00	omuk	hambo	Static	shocked	sees accident (like guard crushed by falling debris)	What happened?	2	发生了什么？	1		
+vo_eny_eny_	static_00_	investigate_accident_start_01	vo_eny_eny_static_00_investigate_accident_start_01	omuk	hambo	Static	shocked	sees accident (like guard crushed by falling debris)	How did this happen?	4	怎么会发生这种事？	1		
+vo_eny_eny_	static_00_	investigate_accident_start_02	vo_eny_eny_static_00_investigate_accident_start_02	omuk	hambo	Static	shocked	sees accident (like guard crushed by falling debris)	Impossible!	1	怎么会...！	1		
+vo_eny_eny_	static_00_	investigate_accident_start_03	vo_eny_eny_static_00_investigate_accident_start_03	omuk	hambo	Static	shocked	sees accident (like guard crushed by falling debris)	B-but … how?!	3	这……怎么会？	1		
+vo_eny_eny_	static_00_	investigate_accident_start_04	vo_eny_eny_static_00_investigate_accident_start_04	omuk	hambo	Static	shocked	sees accident (like guard crushed by falling debris)	No! It can't be!	4	不！怎么可能!	1		
+vo_eny_eny_	static_00_	investigate_accident_stop_00	vo_eny_eny_static_00_investigate_accident_stop_00	omuk	hambo	Static	accepting	stops investigating accident	Such a shame ...	4	真可怜……	1		
+vo_eny_eny_	static_00_	investigate_accident_stop_01	vo_eny_eny_static_00_investigate_accident_stop_01	omuk	hambo	Static	accepting	stops investigating accident	Karma, eh?	2	所谓，人各有命？	1		
+vo_eny_eny_	static_00_	investigate_accident_stop_02	vo_eny_eny_static_00_investigate_accident_stop_02	omuk	hambo	Static	accepting	stops investigating accident	Hm, tragic …	3	真悲惨…	1		
+vo_eny_eny_	static_00_	investigate_accident_stop_03	vo_eny_eny_static_00_investigate_accident_stop_03	omuk	hambo	Static	accepting	stops investigating accident	Cursed fate …	3	被诅咒的命运	1		
+vo_eny_eny_	static_00_	investigate_accident_stop_04	vo_eny_eny_static_00_investigate_accident_stop_04	omuk	hambo	Static	accepting	stops investigating accident	Nothing we can do.	4	我们也无能为力	1		
+vo_eny_eny_	static_00_	investigate_bush_00	vo_eny_eny_static_00_investigate_bush_00	omuk	hambo	Static	agressive	searches bushes for player characters	Hiding in the bushes?!	4	想躲在灌木丛中?	1		
+vo_eny_eny_	static_00_	investigate_bush_01	vo_eny_eny_static_00_investigate_bush_01	omuk	hambo	Static	agressive	searches bushes for player characters	You can't hide from me!	5	你躲不了我的！	1		
+vo_eny_eny_	static_00_	investigate_bush_02	vo_eny_eny_static_00_investigate_bush_02	omuk	hambo	Static	agressive	searches bushes for player characters	You cannot fool me!	4	你骗不了我的!	1		
+vo_eny_eny_	static_00_	investigate_bush_03	vo_eny_eny_static_00_investigate_bush_03	omuk	hambo	Static	agressive	searches bushes for player characters	Crawling through the thicket?	4	想从灌木丛爬走?	1		
+vo_eny_eny_	static_00_	investigate_bush_04	vo_eny_eny_static_00_investigate_bush_04	omuk	hambo	Static	agressive	searches bushes for player characters	The brush will not protect you!	6	灌木丛也保护不了你!	1		
+vo_eny_eny_	static_00_	investigate_door_00	vo_eny_eny_static_00_investigate_door_00	omuk	hambo	Static	agressive	follows player character inside buildings	Hiding in there?	3	躲进屋里了吧?	1		
+vo_eny_eny_	static_00_	investigate_door_01	vo_eny_eny_static_00_investigate_door_01	omuk	hambo	Static	agressive	follows player character inside buildings	I know you're in there!	5	我知道你在里面!	1		
+vo_eny_eny_	static_00_	investigate_door_02	vo_eny_eny_static_00_investigate_door_02	omuk	hambo	Static	agressive	follows player character inside buildings	You think you're safe in there?	6	你以为在屋里就安全了么？	1		
+vo_eny_eny_	static_00_	investigate_end_00	vo_eny_eny_static_00_investigate_end_00	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Nobody here.	2	.这里没人	1		
+vo_eny_eny_	static_00_	investigate_end_01	vo_eny_eny_static_00_investigate_end_01	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Gone.	1	他们都已经逃走了	1		
+vo_eny_eny_	static_00_	investigate_end_02	vo_eny_eny_static_00_investigate_end_02	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Nothing.	1	什么也没有	1		
+vo_eny_eny_	static_00_	investigate_end_03	vo_eny_eny_static_00_investigate_end_03	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Heh, ran away.	3	哼，跑掉了	1		
+vo_eny_eny_	static_00_	investigate_end_04	vo_eny_eny_static_00_investigate_end_04	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Must have fled.	3	一定是逃走了	1		
+vo_eny_eny_	static_00_	investigate_end_05	vo_eny_eny_static_00_investigate_end_05	omuk	hambo	Static	tension releases	"stops investigating area
+(same as squad solo)"	Huh … can't find anyone.	5	嗯……一个人都没发现	1		
+vo_eny_eny_	static_00_	investigate_missing_00	vo_eny_eny_static_00_investigate_missing_00	omuk		Static	annoyed	searches the area for missing friend	Hello?	1	在么？	1		
+vo_eny_eny_	static_00_	investigate_missing_01	vo_eny_eny_static_00_investigate_missing_01	omuk		Static	annoyed	searches the area for missing friend	Are you hiding somewhere?	4	你躲到哪儿去了？	1		
+vo_eny_eny_	static_00_	investigate_missing_02	vo_eny_eny_static_00_investigate_missing_02	omuk		Static	annoyed	searches the area for missing friend	Are you there?	3	你在那里么？	1		
+vo_eny_eny_	static_00_	investigate_missing_03	vo_eny_eny_static_00_investigate_missing_03	omuk		Static	annoyed	searches the area for missing friend	I'm not in the mood for this!	7	我可没心情闹着玩	1		
+vo_eny_eny_	static_00_	investigate_missing_04	vo_eny_eny_static_00_investigate_missing_04	omuk		Static	annoyed	searches the area for missing friend	Where are you? Speak up!	5	你在哪里？快回答！	1		
+vo_eny_eny_	static_00_	investigate_missing_05	vo_eny_eny_static_00_investigate_missing_05	omuk		Static	annoyed	searches the area for missing friend	You hear me?	3	听到了么？	1		
+vo_eny_eny_	static_00_	investigate_other_00	vo_eny_eny_static_00_investigate_other_00	omuk		Static	urgent	doesn't leave his post, sends someone else	Someone investigate!	2	来人去那儿查一下！	1		
+vo_eny_eny_	static_00_	investigate_other_01	vo_eny_eny_static_00_investigate_other_01	omuk		Static	urgent	doesn't leave his post, sends someone else	You! Investigate!	2	你！去查一下！	1		
+vo_eny_eny_	static_00_	investigate_other_02	vo_eny_eny_static_00_investigate_other_02	omuk		Static	urgent	doesn't leave his post, sends someone else	You, go! I cannot leave my post.	7	你，快去！我不能离开岗位	1		
+vo_eny_eny_	static_00_	investigate_self_00	vo_eny_eny_static_00_investigate_self_00	omuk		Static	anxious	no one else around, has to leave his post	No one here but me …	6	只有我在这儿……	1		
+vo_eny_eny_	static_00_	investigate_self_01	vo_eny_eny_static_00_investigate_self_01	omuk		Static	anxious	no one else around, has to leave his post	Damn. I must leave my post.	6	该死，我必须离开岗位了	1		
+vo_eny_eny_	static_00_	investigate_self_02	vo_eny_eny_static_00_investigate_self_02	omuk		Static	anxious	no one else around, has to leave his post	I'm alone. Have to investigate …	6	就我一个人，我得去查一下…	1		
+vo_eny_eny_	static_00_	investigate_start_00	vo_eny_eny_static_00_investigate_start_00	omuk	hambo	Static	tense	"starts investigating area
+(same as squad solo)"	Where are you?	3	你在哪？	1		
+vo_eny_eny_	static_00_	investigate_start_01	vo_eny_eny_static_00_investigate_start_01	omuk	hambo	Static	tense	"starts investigating area
+(same as squad solo)"	Anyone here?	2	有人吗？	1		
+vo_eny_eny_	static_00_	investigate_start_02	vo_eny_eny_static_00_investigate_start_02	omuk	hambo	Static	tense	"starts investigating area
+(same as squad solo)"	I know you're here!	4	我知道你在附近！	1		
+vo_eny_eny_	static_00_	investigate_start_03	vo_eny_eny_static_00_investigate_start_03	omuk	hambo	Static	tense	"starts investigating area
+(same as squad solo)"	I will find you!	4	我会找到你的	1		
+vo_eny_eny_	static_00_	investigate_start_04	vo_eny_eny_static_00_investigate_start_04	omuk	hambo	Static	tense	"starts investigating area
+(same as squad solo)"	Come forward!	2	快出来！	1		
+vo_eny_eny_	static_00_	investigate_too_long_00	vo_eny_eny_static_00_investigate_too_long_00	omuk	hambo	Static	suspicious, then lazy	hears noise, but getting there is too complicated	Eh, not worth the walk.	5	没必跑这么远过去	1		
+vo_eny_eny_	static_00_	investigate_too_long_01	vo_eny_eny_static_00_investigate_too_long_01	omuk	hambo	Static	suspicious, then lazy	hears noise, but getting there is too complicated	No, that's to far off.	5	太远了，没必要	1		
+vo_eny_eny_	static_00_	investigate_too_long_02	vo_eny_eny_static_00_investigate_too_long_02	omuk	hambo	Static	suspicious, then lazy	hears noise, but getting there is too complicated	No, that's way over there.	5	没必要，实在太远了	1		
+vo_eny_eny_	static_00_	investigate_unreachable_00	vo_eny_eny_static_00_investigate_unreachable_00	omuk	hambo	Static	suspicious	wants to investigate spot, but can't get there	No, I can't reach that.	5	没办法，我到不了那里	1		
+vo_eny_eny_	static_00_	investigate_unreachable_01	vo_eny_eny_static_00_investigate_unreachable_01	omuk	hambo	Static	suspicious	wants to investigate spot, but can't get there	Eh, the path is blocked.	5	找不到去那边的路	1		
+vo_eny_eny_	static_00_	investigate_unreachable_02	vo_eny_eny_static_00_investigate_unreachable_02	omuk	hambo	Static	suspicious	wants to investigate spot, but can't get there	That's too much trouble.	4	没必要，太麻烦了	1		
+vo_eny_eny_	static_00_	knockout_scream_00	vo_eny_eny_static_00_knockout_scream_00	omuk	hambo	Static	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	static_00_	knockout_scream_01	vo_eny_eny_static_00_knockout_scream_01	omuk	hambo	Static	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	static_00_	knockout_scream_02	vo_eny_eny_static_00_knockout_scream_02	omuk	hambo	Static	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	static_00_	knockout_scream_03	vo_eny_eny_static_00_knockout_scream_03	omuk	hambo	Static	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	static_00_	knockout_scream_04	vo_eny_eny_static_00_knockout_scream_04	omuk	hambo	Static	stunned	(sound) gets knocked out		0		0		
+vo_eny_eny_	static_00_	laugh_evil_00	vo_eny_eny_static_00_laugh_evil_00	omuk		Static		(sound) dark laugh		0		0		
+vo_eny_eny_	static_00_	laugh_good_00	vo_eny_eny_static_00_laugh_good_00	omuk		Static		(sound) humorous laugh		0		0		
+vo_eny_eny_	static_00_	make_toast_00	vo_eny_eny_static_00_make_toast_00	omuk		Static		(sound) makes a toast		0		0		
+vo_eny_eny_	static_00_	officer_alert_00	vo_eny_eny_static_00_officer_alert_00	omuk		Static	tense	instructs other guards to stay alert	Stay vigilant. We have assassins in our midst.	8	保持警惕，附近有刺客	1		
+vo_eny_eny_	static_00_	officer_alert_01	vo_eny_eny_static_00_officer_alert_01	omuk		Static	tense	instructs other guards to stay alert	The enemy is among us. Stay sharp.	7	敌人还在附近，保持警觉	1		
+vo_eny_eny_	static_00_	officer_alert_02	vo_eny_eny_static_00_officer_alert_02	omuk		Static	tense	instructs other guards to stay alert	Don't be fooled. They are still here.	7	别被骗了，他们还在附近	1		
+vo_eny_eny_	static_00_	officer_alert_03	vo_eny_eny_static_00_officer_alert_03	omuk		Static	tense	instructs other guards to stay alert	Watch the shadows. It's where they hide.	7	注意，他们喜欢藏在暗处	1		
+vo_eny_eny_	static_00_	officer_alert_04	vo_eny_eny_static_00_officer_alert_04	omuk		Static	tense	instructs other guards to stay alert	Keep together. Don't let them separate you.	7	要一起行动，别东一个西一个	1		
+vo_eny_eny_	static_00_	officer_alert_05	vo_eny_eny_static_00_officer_alert_05	omuk		Static	tense	instructs other guards to stay alert	They are looking for weakness. Give them death.	8	他们正在观察我们的弱点，我们要先下手为强	1		
+vo_eny_eny_	static_00_	officer_alert_06	vo_eny_eny_static_00_officer_alert_06	omuk		Static	tense	instructs other guards to stay alert	Attack on sight. Show no mercy.	6	格杀勿论，不要心慈手软	1		
+vo_eny_eny_	static_00_	officer_alert_07	vo_eny_eny_static_00_officer_alert_07	omuk		Static	tense	instructs other guards to stay alert	Do not cower before common criminals.	6	别害怕这些罪犯	1		
+vo_eny_eny_	static_00_	officer_alert_08	vo_eny_eny_static_00_officer_alert_08	omuk		Static	tense	instructs other guards to stay alert	Teach them fear. Give them no place to hide.	9	让他们无处可藏，尝尝恐惧的滋味	1		
+vo_eny_eny_	static_00_	pickup_object_00	vo_eny_eny_static_00_pickup_object_00	omuk		Static		(sound) pickup heavy object		0		0		
+vo_eny_eny_	static_00_	regain_consciousness_00	vo_eny_eny_static_00_regain_consciousness_00	omuk	hambo	Static	ashamed	knocked out, wakes up	… sorry.	2	啊……对不起	1		
+vo_eny_eny_	static_00_	regain_consciousness_01	vo_eny_eny_static_00_regain_consciousness_01	omuk	hambo	Static	headache	knocked out, wakes up	Uh … my head …	5	啊……我的头……	1		
+vo_eny_eny_	static_00_	regain_consciousness_02	vo_eny_eny_static_00_regain_consciousness_02	omuk	hambo	Static	ashamed	knocked out, wakes up	… I am shamed.	4	噢……真是丢脸	1		
+vo_eny_eny_	static_00_	regain_consciousness_03	vo_eny_eny_static_00_regain_consciousness_03	omuk	hambo	Static	headache	knocked out, wakes up	Ow … that hurt …	5	嗷……疼……	1		
+vo_eny_eny_	static_00_	regain_consciousness_04	vo_eny_eny_static_00_regain_consciousness_04	omuk	hambo	Static	angry	knocked out, wakes up	… they jumped me!	4	啊……他们偷袭我！	1		
+vo_eny_eny_	static_00_	regain_consciousness_05	vo_eny_eny_static_00_regain_consciousness_05	omuk	hambo	Static	angry	knocked out, wakes up	… they knocked me out!	5	噢……他们把我打晕了!	1		
+vo_eny_eny_	static_00_	regain_consciousness_06	vo_eny_eny_static_00_regain_consciousness_06	omuk	hambo	Static	angry	knocked out, wakes up	… I was attacked!	4	……我被偷袭了！	1		
+vo_eny_eny_	static_00_	regain_consciousness_07	vo_eny_eny_static_00_regain_consciousness_07	omuk	hambo	Static	angry	knocked out, wakes up	… I left my post!	5	……我离开岗位了！	1		
+vo_eny_eny_	static_00_	regain_consciousness_08	vo_eny_eny_static_00_regain_consciousness_08	omuk	hambo	Static	angry	knocked out, wakes up	… I neglected my duty!	5	噢……我忘了职责在身！	1		
+vo_eny_eny_	static_00_	see_flying_body_00	vo_eny_eny_static_00_see_flying_body_00	omuk	hambo	Static	startled, then shocked	sees corpse that's thrown into his view by player	Wha... AAH!	2	什么……啊！	1		
+vo_eny_eny_	static_00_	see_flying_body_01	vo_eny_eny_static_00_see_flying_body_01	omuk	hambo	Static	startled, then shocked	sees corpse that's thrown into his view by player	Uh… ah! AAH!	3	嗯……啊！啊……	1		
+vo_eny_eny_	static_00_	see_flying_body_02	vo_eny_eny_static_00_see_flying_body_02	omuk	hambo	Static	startled, then shocked	sees corpse that's thrown into his view by player	Hm… AAH!	2	啊啊啊！	1		
+vo_eny_eny_	static_00_	see_flying_object_00	vo_eny_eny_static_00_see_flying_object_00	omuk	hambo	Static	startled	sees object that's thrown into his view by player	Hey!	1	喂！	1		
+vo_eny_eny_	static_00_	see_flying_object_01	vo_eny_eny_static_00_see_flying_object_01	omuk	hambo	Static	startled	sees object that's thrown into his view by player	What?!	1	什么……?!	1		
+vo_eny_eny_	static_00_	see_flying_object_02	vo_eny_eny_static_00_see_flying_object_02	omuk	hambo	Static	startled	sees object that's thrown into his view by player	Huh?! How did …	4	……这是怎么回事？	1		
+vo_eny_eny_	static_00_	see_something_00	vo_eny_eny_static_00_see_something_00	omuk	hambo	Static	suspicious	sees something strange	What?	1	什么？	1		
+vo_eny_eny_	static_00_	see_something_01	vo_eny_eny_static_00_see_something_01	omuk	hambo	Static	suspicious	sees something strange	Huh?	1	嗯?	1		
+vo_eny_eny_	static_00_	see_something_02	vo_eny_eny_static_00_see_something_02	omuk	hambo	Static	suspicious	sees something strange	What's that?	2	那是什么？	1		
+vo_eny_eny_	static_00_	see_something_03	vo_eny_eny_static_00_see_something_03	omuk	hambo	Static	suspicious	sees something strange	Something …	2	好像是……	1		
+vo_eny_eny_	static_00_	see_something_04	vo_eny_eny_static_00_see_something_04	omuk	hambo	Static	suspicious	sees something strange	Hmm …	2	嗯？	1		
+vo_eny_eny_	static_00_	snore_00	vo_eny_eny_static_00_snore_00	omuk		Static		(sound) snore		0		0		
+vo_eny_eny_	static_00_	squad_investigate_end_00	vo_eny_eny_static_00_squad_investigate_end_00	omuk	hambo	Static	tension releases	squad leader stops investigation	Nothing. Back to your posts.	5	没发现情况，各回岗位吧	1		
+vo_eny_eny_	static_00_	squad_investigate_end_01	vo_eny_eny_static_00_squad_investigate_end_01	omuk	hambo	Static	tension releases	squad leader stops investigation	Long gone. Back to your posts.	6	看来早就跑了，各回岗位吧	1		
+vo_eny_eny_	static_00_	squad_investigate_end_02	vo_eny_eny_static_00_squad_investigate_end_02	omuk	hambo	Static	tension releases	squad leader stops investigation	Nobody here. Back to your posts.	6	没看到人，各回岗位吧	1		
+vo_eny_eny_	static_00_	squad_investigate_end_03	vo_eny_eny_static_00_squad_investigate_end_03	omuk	hambo	Static	tension releases	squad leader stops investigation	Stop the search. Back to work.	6	停止搜索，各回岗位吧	1		
+vo_eny_eny_	static_00_	squad_investigate_end_04	vo_eny_eny_static_00_squad_investigate_end_04	omuk	hambo	Static	tension releases	squad leader stops investigation	No danger. Return to your posts everyone.	7	没有危险了，各回岗位吧	1		
+vo_eny_eny_	static_00_	squad_investigate_start_00	vo_eny_eny_static_00_squad_investigate_start_00	omuk	hambo	Static	tense	squad leader starts investigation	We must search the area!	5	必须搜索这片区域!	1		
+vo_eny_eny_	static_00_	squad_investigate_start_01	vo_eny_eny_static_00_squad_investigate_start_01	omuk	hambo	Static	tense	squad leader starts investigation	Everyone! Attack on sight!	4	所有人！看到就立即射击！	1		
+vo_eny_eny_	static_00_	squad_investigate_start_02	vo_eny_eny_static_00_squad_investigate_start_02	omuk	hambo	Static	tense	squad leader starts investigation	Careful, they are still here!	5	小心，他可能还在附近!	1		
+vo_eny_eny_	static_00_	squad_investigate_start_03	vo_eny_eny_static_00_squad_investigate_start_03	omuk	hambo	Static	tense	squad leader starts investigation	Search everywhere!	2	搜索每个角落！	1		
+vo_eny_eny_	static_00_	squad_investigate_start_04	vo_eny_eny_static_00_squad_investigate_start_04	omuk	hambo	Static	tense	squad leader starts investigation	If you find anyone, show no mercy.	7	发现了就往死里打	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_00	vo_eny_eny_static_00_squad_investigate_talk_00	omuk	hambo	Static	focussed	squad serches the area, commenting on things	Nothing here!	2	什么都没有发现！	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_01	vo_eny_eny_static_00_squad_investigate_talk_01	omuk	hambo	Static	pondering	squad serches the area, commenting on things	Where did they go?	4	他们到底去哪了?	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_02	vo_eny_eny_static_00_squad_investigate_talk_02	omuk	hambo	Static	tense	squad serches the area, commenting on things	Eyes open, everyone!	3	每个人都睁大眼睛！	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_03	vo_eny_eny_static_00_squad_investigate_talk_03	omuk	hambo	Static	tense	squad serches the area, commenting on things	Tracks, maybe?	2	这是足迹吗？	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_04	vo_eny_eny_static_00_squad_investigate_talk_04	omuk	hambo	Static	frusttrated	squad serches the area, commenting on things	I'm no tracker.	3	追踪我不在行啊	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_05	vo_eny_eny_static_00_squad_investigate_talk_05	omuk	hambo	Static	tense	squad serches the area, commenting on things	Anyone see them?	3	有人看到他们吗?	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_06	vo_eny_eny_static_00_squad_investigate_talk_06	omuk	hambo	Static	nervous	squad serches the area, commenting on things	The cant have vanished …	5	他们不可能就这么消失了……	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_07	vo_eny_eny_static_00_squad_investigate_talk_07	omuk	hambo	Static	nervous	squad serches the area, commenting on things	Are we hunting ghosts?	4	我们是在追踪鬼魂吗？	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_08	vo_eny_eny_static_00_squad_investigate_talk_08	omuk	hambo	Static	focussed	squad serches the area, commenting on things	What are we looking for?	5	我们到底在找什么?	1		
+vo_eny_eny_	static_00_	squad_investigate_talk_09	vo_eny_eny_static_00_squad_investigate_talk_09	omuk	hambo	Static	focussed	squad serches the area, commenting on things	Are you sure you saw something?	6	你确定看到了什么吗?	1		
+vo_eny_eny_	static_00_	talk_geisha_00	vo_eny_eny_static_00_talk_geisha_00	omuk		Static	annoyed	"is approached by Geisha
+(Excuse me …)"	What?	1	什么？	1		
+vo_eny_eny_	static_00_	talk_geisha_01	vo_eny_eny_static_00_talk_geisha_01	omuk		Static	annoyed	"is approached by Geisha
+(Excuse me …)"	Yes?	1	嗯？	1		
+vo_eny_eny_	static_00_	talk_geisha_02	vo_eny_eny_static_00_talk_geisha_02	omuk		Static	annoyed	"is approached by Geisha
+(Excuse me …)"	What is it?	3	怎么了？	1		
+vo_eny_eny_	static_00_	talk_geisha_03	vo_eny_eny_static_00_talk_geisha_03	omuk		Static	annoyed	"is approached by Geisha
+(Excuse me …)"	Make it quick.	3	有话快说	1		
+vo_eny_eny_	static_00_	talk_geisha_04	vo_eny_eny_static_00_talk_geisha_04	omuk		Static	annoyed	"is approached by Geisha
+(Excuse me …)"	What? I am busy.	4	什么？我很忙的	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_00	vo_eny_eny_static_00_talk_geisha_leave_00	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	Yes, yes, move on.	4	好，好，继续工作	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_01	vo_eny_eny_static_00_talk_geisha_leave_01	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	Finally. Back to duty	4	终于说完了，回到岗位	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_02	vo_eny_eny_static_00_talk_geisha_leave_02	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	It took long enough.	4	讲了挺长时间	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_03	vo_eny_eny_static_00_talk_geisha_leave_03	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	Good, now leave me be.	5	好！可以清净一会儿了	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_04	vo_eny_eny_static_00_talk_geisha_leave_04	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	What a waste of time.	5	真是浪费时间	1		
+vo_eny_eny_	static_00_	talk_geisha_leave_05	vo_eny_eny_static_00_talk_geisha_leave_05	omuk		Static	annoyed	"is left by Geisha
+(I thank you. Farewell ...)"	Tch, unbelievable.	2	呃，难以置信	1		
+vo_gothic_gothic_	static_00_	talk_idle_00	vo_gothic_gothic_static_00_talk_idle_00	omuk		Static	relaxed	(sound) humming tune		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_01	vo_gothic_gothic_static_00_talk_idle_01	omuk		Static	sneezing	(sound) sneeze		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_02	vo_gothic_gothic_static_00_talk_idle_02	omuk		Static		(sound) yawn		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_03	vo_gothic_gothic_static_00_talk_idle_03	omuk		Static	in thought	makes noise on duty	Ah!	1	哈！	1		
+vo_gothic_gothic_	static_00_	talk_idle_04	vo_gothic_gothic_static_00_talk_idle_04	omuk		Static	in thought	makes noise on duty	Hmm …	2	嗯……	1		
+vo_gothic_gothic_	static_00_	talk_idle_05	vo_gothic_gothic_static_00_talk_idle_05	omuk		Static	in thought	makes noise on duty	Hm, yes.	2	嗯，是的	1		
+vo_gothic_gothic_	static_00_	talk_idle_06	vo_gothic_gothic_static_00_talk_idle_06	omuk		Static	relaxed	"makes noise on duty
+(long exhale)"	Hah …	2	呃……	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_00	vo_gothic_gothic_static_talk_idle_calm_00	omuk		Static	tense	"makes noise on duty
+(mumbling)"	We will win.	3	我们会赢的	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_01	vo_gothic_gothic_static_talk_idle_calm_01	omuk		Static	tense	"makes noise on duty
+(mumbling)"	Hrm … curse the Shogun.	5	哼……混蛋将军	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_02	vo_gothic_gothic_static_talk_idle_calm_02	omuk		Static	tense	"makes noise on duty
+(mumbling)"	Aim true …	3	瞄准了…	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_03	vo_gothic_gothic_static_talk_idle_calm_03	omuk		Static	nervous	"makes noise on duty
+(shivering from stress)"	… hah!	2	……啊！	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_04	vo_gothic_gothic_static_talk_idle_calm_04	omuk		Static	tense	"makes noise on duty
+(mumbling)"	Honour in death …	4	虽死犹容……	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_05	vo_gothic_gothic_static_00_talk_idle_battle_05	omuk		Static	rush of battle	makes noise in battle	Reloading!	1	装弹中！	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_06	vo_gothic_gothic_static_00_talk_idle_battle_06	omuk		Static	rush of battle	makes noise in battle	I'm reloading!	2	我在重新装弹!	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_07	vo_gothic_gothic_static_00_talk_idle_battle_07	omuk		Static	rush of battle	makes noise in battle	Cover me!	2	掩护我!	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_08	vo_gothic_gothic_static_00_talk_idle_battle_08	omuk		Static	rush of battle	makes noise in battle	Die, Shogunate scum!	3	去死吧，幕府人渣!	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_09	vo_gothic_gothic_static_00_talk_idle_battle_09	omuk		Static	rush of battle	makes noise in battle	Hold the castle!	3	一定要守住城	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_10	vo_gothic_gothic_static_00_talk_idle_battle_10	omuk		Static	rush of battle	makes noise in battle	Push them back!	3	挡住他们！	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_11	vo_gothic_gothic_static_00_talk_idle_battle_11	omuk		Static	rush of battle	makes noise in battle	Retreat!	1	撤退！	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_12	vo_gothic_gothic_static_00_talk_idle_battle_12	omuk		Static	rush of battle	makes noise in battle	Fall back!	2	撤退!	1		
+vo_gothic_gothic_	static_00_	talk_idle_battle_13	vo_gothic_gothic_static_00_talk_idle_battle_13	omuk		Static	rush of battle	makes noise in battle	Officer dead!	2	指挥官死了！	1		
+vo_gothic_gothic_	static_00_	talk_idle_daimyo_00	vo_gothic_gothic_static_00_talk_idle_daimyo_00	omuk		Static	dutiful	"makes noise on duty
+(mumbling)"	For lord Yabu.	3	为了薮大人	1		
+vo_gothic_gothic_	static_00_	talk_idle_general_00	vo_gothic_gothic_static_00_talk_idle_general_00	omuk		Static	dutiful	"makes noise on duty
+(mumbling)"	For lord Okkoto.	3	为了乙事大人	1		
+vo_gothic_gothic_	static_00_	talk_idle_kagesama_00	vo_gothic_gothic_static_00_talk_idle_kagesama_00	omuk		Static	dutiful	"makes noise on duty
+(mumbling)"	For Kage-sama.	2	为了影大人	1		
+vo_gothic_gothic_	static_00_	talk_idle_kagesama_01	vo_gothic_gothic_static_00_talk_idle_kagesama_01	omuk		Static	dutiful	"makes noise on duty
+(mumbling)"	For Lord Noboru.	3	为了昇大人	1		
+vo_gothic_gothic_	static_00_	talk_idle_night_00	vo_gothic_gothic_static_00_talk_idle_night_00	omuk		Static	tired	"makes noise on duty
+(mumbling)"	Hmm … sake.	3	嗯…想喝酒了	1		
+vo_gothic_gothic_	static_00_	talk_idle_night_01	vo_gothic_gothic_static_00_talk_idle_night_01	omuk		Static	tired	"makes noise on duty
+(mumbling)"	Been up all day.	4	…忙了一整天了	1		
+vo_gothic_gothic_	static_00_	talk_idle_night_02	vo_gothic_gothic_static_00_talk_idle_night_02	omuk		Static	tired	"makes noise on duty
+(mumbling)"	The night is gloomy.	4	夜好黑啊	1		
+vo_gothic_gothic_	static_00_	talk_idle_night_03	vo_gothic_gothic_static_00_talk_idle_night_03	omuk		Static	tired	(sound) short yawn		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_night_04	vo_gothic_gothic_static_00_talk_idle_night_04	omuk		Static	tired	(sound) longer yawn		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_snow_00	vo_gothic_gothic_static_00_talk_idle_snow_00	omuk		Static	cold	"makes noise on duty
+(mumbling)"	Damn snow.	2	呃，该死的雪	1		
+vo_gothic_gothic_	static_00_	talk_idle_snow_01	vo_gothic_gothic_static_00_talk_idle_snow_01	omuk		Static	cold	"makes noise on duty
+(mumbling)"	It is freezing.	3	真冷啊	1		
+vo_gothic_gothic_	static_00_	talk_idle_snow_02	vo_gothic_gothic_static_00_talk_idle_snow_02	omuk		Static	cold	"makes noise on duty
+(mumbling)"	So cold.	2	啊！好冷	1		
+vo_gothic_gothic_	static_00_	talk_idle_snow_03	vo_gothic_gothic_static_00_talk_idle_snow_03	omuk		Static	cold	(sound) slight shiver		0		0		
+vo_gothic_gothic_	static_00_	talk_idle_snow_04	vo_gothic_gothic_static_00_talk_idle_snow_04	omuk		Static	cold	(sound) strong shiver		0		0		
+vo_gothic_gothic_	static_00_	talk_npc_00	vo_gothic_gothic_static_00_talk_npc_00	omuk		Static	dismissive	dialog without topic	That does not concern me.	5	啊...与我无关	1		
+vo_gothic_gothic_	static_00_	talk_npc_01	vo_gothic_gothic_static_00_talk_npc_01	omuk		Static	aggree	dialog without topic	That much is known.	4	对啊是这样的	1		
+vo_gothic_gothic_	static_00_	talk_npc_02	vo_gothic_gothic_static_00_talk_npc_02	omuk		Static	dismissive	dialog without topic	You should not believe everything you hear.	7	不要听到什么都相信啊	1		
+vo_gothic_gothic_	static_00_	talk_npc_03	vo_gothic_gothic_static_00_talk_npc_03	omuk		Static	disagree	dialog without topic	I have heard otherwise.	4	我听到的恰恰相反	1		
+vo_gothic_gothic_	static_00_	talk_npc_04	vo_gothic_gothic_static_00_talk_npc_04	omuk		Static	aggree	dialog without topic	Just how it has always been.	6	是啊，一向如此嘛	1		
+vo_gothic_gothic_	static_00_	talk_npc_05	vo_gothic_gothic_static_00_talk_npc_05	omuk		Static	dismissive	dialog without topic	He is a fool. Don't listen to him.	8	他是傻子，别听他的	1		
+vo_gothic_gothic_	static_00_	talk_npc_06	vo_gothic_gothic_static_00_talk_npc_06	omuk		Static	aggree	dialog without topic	We can agree on that.	5	对，我也是这么想的	1		
+vo_gothic_gothic_	static_00_	talk_npc_07	vo_gothic_gothic_static_00_talk_npc_07	omuk		Static	warning	dialog without topic	Be careful what you say.	5	嘿，你说话要小心了	1		
+vo_gothic_gothic_	static_00_	talk_npc_08	vo_gothic_gothic_static_00_talk_npc_08	omuk		Static	concerned	dialog without topic	This means trouble.	3	这下麻烦了！	1		
+vo_gothic_gothic_	static_00_	talk_npc_09	vo_gothic_gothic_static_00_talk_npc_09	omuk		Static	unconcerned	dialog without topic	It will blow over.	4	很快大家就都忘了	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_00	vo_gothic_gothic_static_00_talk_npc_confirm_00	omuk		Static	dutiful	confirms orders during battle	Understood.	1	明白	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_01	vo_gothic_gothic_static_00_talk_npc_confirm_01	omuk		Static	dutiful	confirms orders during battle	Yes, my lord.	3	是的，大人	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_02	vo_gothic_gothic_static_00_talk_npc_confirm_02	omuk		Static	dutiful	confirms orders during battle	At once.	2	这就去办	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_battle_00	vo_gothic_gothic_static_00_talk_npc_confirm_battle_00	omuk		Static	rush of battle	confirms orders during battle	Understood!	1	遵命！	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_battle_01	vo_gothic_gothic_static_00_talk_npc_confirm_battle_01	omuk		Static	rush of battle	confirms orders during battle	Yes, my lord!	3	是，大人	1		
+vo_gothic_gothic_	static_00_	talk_npc_confirm_battle_02	vo_gothic_gothic_static_00_talk_npc_confirm_battle_02	omuk		Static	rush of battle	confirms orders during battle	I will not fail!	4	不会让你失望的！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_00	vo_gothic_gothic_static_00_talk_npc_orders_00	omuk		Static	focussed	gives orders to guardpost	Carry on.	2	保持警戒	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_01	vo_gothic_gothic_static_00_talk_npc_orders_01	omuk		Static	focussed	gives orders to guardpost	Continue.	1	继续保持	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_02	vo_gothic_gothic_static_00_talk_npc_orders_02	omuk		Static	focussed	gives orders to guardpost	Stay vigilant.	2	保持警惕	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_03	vo_gothic_gothic_static_00_talk_npc_orders_03	omuk		Static	focussed	gives orders to guardpost	Stay sharp.	2	提高警觉	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_04	vo_gothic_gothic_static_00_talk_npc_orders_04	omuk		Static	focussed	gives orders to guardpost	Keep it up.	3	坚持下去	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_05	vo_gothic_gothic_static_00_talk_npc_orders_05	omuk		Static	focussed	gives orders to guardpost	Do not get lazy.	4	别放弃!	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_00	vo_gothic_gothic_static_00_talk_npc_orders_battle_00	omuk		Static	rush of battle	asks guardpost for status during battle	Carry on!	2	坚持下去！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_01	vo_gothic_gothic_static_00_talk_npc_orders_battle_01	omuk		Static	rush of battle	asks guardpost for status during battle	I have new orders!	4	收到新命令！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_02	vo_gothic_gothic_static_00_talk_npc_orders_battle_02	omuk		Static	rush of battle	gives orders to guardpost during battle	Stay strong!	2	继续保持警戒	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_03	vo_gothic_gothic_static_00_talk_npc_orders_battle_03	omuk		Static	rush of battle	gives orders to guardpost during battle	Hold your position!	3	守住防线！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_04	vo_gothic_gothic_static_00_talk_npc_orders_battle_04	omuk		Static	rush of battle	gives orders to guardpost during battle	New orders!	2	新命令！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_05	vo_gothic_gothic_static_00_talk_npc_orders_battle_05	omuk		Static	rush of battle	gives orders to guardpost during battle	Continue!	1	继续坚持！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_06	vo_gothic_gothic_static_00_talk_npc_orders_battle_06	omuk		Static	rush of battle	gives orders to guardpost during battle	Reload!	1	重新装弹！	1		
+vo_gothic_gothic_	static_00_	talk_npc_orders_battle_07	vo_gothic_gothic_static_00_talk_npc_orders_battle_07	omuk		Static	rush of battle	gives orders to guardpost during battle	Fire!	1	开火！	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_00	vo_gothic_gothic_static_00_talk_npc_report_00	omuk		Static	focussed	asks guardpost for status	Report.	1	报告情况	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_01	vo_gothic_gothic_static_00_talk_npc_report_01	omuk		Static	focussed	asks guardpost for status	Your report?	2	什么情况?	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_02	vo_gothic_gothic_static_00_talk_npc_report_02	omuk		Static	focussed	asks guardpost for status	What news?	2	战况如何?	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_03	vo_gothic_gothic_static_00_talk_npc_report_03	omuk		Static	focussed	asks guardpost for status	Anything new?	2	有新消息吗？	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_04	vo_gothic_gothic_static_00_talk_npc_report_04	omuk		Static	focussed	asks guardpost for status	Everything quiet?	2	一切正常吗？	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_battle_00	vo_gothic_gothic_static_00_talk_npc_report_battle_00	omuk		Static	rush of battle	asks guardpost for status during battle	Report!	1	报告情况！	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_battle_01	vo_gothic_gothic_static_00_talk_npc_report_battle_01	omuk		Static	rush of battle	asks guardpost for status during battle	Tell me!	2	汇报情况!	1		
+vo_gothic_gothic_	static_00_	talk_npc_report_battle_02	vo_gothic_gothic_static_00_talk_npc_report_battle_02	omuk		Static	rush of battle	asks guardpost for status during battle	Give your report!	3	向我汇报情况!	1		
+vo_gothic_gothic_	static_00_	talk_npc_tense_00	vo_gothic_gothic_static_00_talk_npc_tense_00	omuk		Static	dutiful	"dialog without topic
+(during open battle)"	We have our orders!	4	我们有令在身!	1		
+vo_gothic_gothic_	static_00_	talk_npc_tense_01	vo_gothic_gothic_static_00_talk_npc_tense_01	omuk		Static	anxious	"dialog without topic
+(during open battle)"	The battle wages on.	4	战斗仍在继续	1		
+vo_gothic_gothic_	static_00_	talk_npc_tense_02	vo_gothic_gothic_static_00_talk_npc_tense_02	omuk		Static	for honor!	"dialog without topic
+(during open battle)"	We will gain honour today.	5	今天我们无比荣耀	1		
+vo_gothic_gothic_	static_00_	talk_npc_tense_03	vo_gothic_gothic_static_00_talk_npc_tense_03	omuk		Static	for honor!	"dialog without topic
+(during open battle)"	We must stay strong.	4	必须保持状态	1		
+vo_gothic_gothic_	static_00_	talk_npc_tense_04	vo_gothic_gothic_static_00_talk_npc_tense_04	omuk		Static	fierce	"dialog without topic
+(during open battle)"	Let the enemy come to us.	6	让敌人放马过来吧	1		
+vo_eny_eny_	static_00_	urinate_00	vo_eny_eny_static_00_urinate_00	omuk		Static		(sound) relieves himself		0		0		
+vo_eny_eny_	static_00_	whistle_00	vo_eny_eny_static_00_whistle_00	omuk		Static		(sound) whistles a tune		0		0		
+vo_eny_eny_	static_00_	wounded_00	vo_eny_eny_static_00_wounded_00	omuk		Static		(sound) badly wounded, lying on stretcher, moaning		0		0		
+vo_eny_eny_	static_00_	yawn_00	vo_eny_eny_static_00_yawn_00	omuk		Static		(sound) yawn		0		0		
+														
+									WORDCOUNT EN:	1081		300		

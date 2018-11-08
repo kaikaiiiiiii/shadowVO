@@ -7,8 +7,8 @@ export const languages=[
 ]
 
 export const voices = [
-    { code: "en", text: "English" },
-    { code: "jp", text: "日本語" }
+    { code: "voen", text: "English" },
+    { code: "vojp", text: "日本語" }
 ]
 
 export const levels=[
@@ -39,13 +39,29 @@ export const levels=[
     {order:25,name:"",mission:{CN:"",EN:"",JP:""},cover:"",isChapter:false,origin:"finalcastle_post"},
 ]
 
-export const speakers = [
-    {id:"NARRATOR",name:{CN:"旁白"},icon:"icon1"},
-    {id:"NINJA",name:{CN:"隼人"},icon:"icon1"},
-    {id:"GUARD1",name:{CN:"敌人"},icon:"icon1"},
-    {id: "GUARD2", name:{CN:"敌人"},icon:"icon1"},
-    {id:"OFFICER",name:{CN:"军官"},icon:"icon1"},
-    {id:"WARRIOR",name:{CN:"无限"},icon:"icon1"},
-    {id:"ALCHEMIST",name:{CN:"琢磨"},icon:"icon1"},
-    {id:"SAMURAI",name:{CN:"武士"},icon:"icon1"},
-]
+export const speakers = {
+    "GEISHA":{en:"Aiko",cn:"爱子",jp:"愛琥",i:"icon1"},
+    "ALCHEMIST":{en:"Takuma",cn:"琢磨",jp:"巧磨",i:"icon2"},
+    "TRAPPER":{en:"Yuki",cn:"有希",jp:"雪",i:"icon3"},
+    "NINJA":{en:"Hayato",cn:"隼人",jp:"隼人",i:"icon4"},
+    "WARRIOR":{en:"Mugen",cn:"无限",jp:"武源",i:"icon5"},
+    "ENEMY":{en:"ENEMY",cn:"士兵",jp:"ENEMY",i:"icon6"},
+    "STATIC":{en:"STATIC",cn:"士兵",jp:"STATIC",i:"icon7"},
+    "CIVILIAN M":{en:"CIVILIAN M",cn:"平民",jp:"町人",i:"icon8"},
+    "CIVILIAN F":{en:"CIVILIAN F",cn:"平民",jp:"町人",i:"icon9"},
+    "FAKE":{en:"FAKE",cn:"影大人",jp:"カゲサマ",i:"icon10"},
+    "OFFICER":{en:"OFFICER",cn:"守卫",jp:"OFFICER",i:"icon11"},
+    "BROGUN":{en:"Noboru",cn:"昇",jp:"昇",i:"icon12"},
+    "BROGUNSON":{en:"Masaru",cn:"真申",jp:"勝",i:"icon13"},
+    "NARRATOR":{en:"NARRATOR",cn:"旁白",jp:"NARRATOR",i:"icon14"},
+    "GUARD1":{en:"GUARD1",cn:"士兵",jp:"GUARD1",i:"icon15"},
+    "GUARD2":{en:"GUARD2",cn:"士兵",jp:"GUARD2",i:"icon16"},
+    "SAMURAI":{en:"SAMURAI",cn:"武士",jp:"武士",i:"icon17"},
+    "TANUKI":{en:"Kuma",cn:"小熊",jp:"クマ",i:"icon18"},
+    "SHOGUNSON":{en:"Ryūnosuke",cn:"龙之介",jp:"龍之介",i:"icon19"},
+    "SHOGUN":{en:"Shogun",cn:"将军",jp:"将軍",i:"icon20"},
+    "GENERAL":{en:"Okkoto",cn:"乙事",jp:"乙事",i:"icon21"},
+    "DAIMYO":{en:"Yabu",cn:"薮",jp:"薮",i:"icon22"},
+    "OFFICIAL":{en:"Official",cn:"官员",jp:"Official",i:"icon23"},
+    "HUSBAND":{en:"HUSBAND",cn:"平民",jp:"HUSBAND",i:"icon24"}
+}

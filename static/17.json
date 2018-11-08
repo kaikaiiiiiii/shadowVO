@@ -1,226 +1,226 @@
 [
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n00","vojp":"vocs_bambooforest_briefing_n00_jp","s":"GEISHA","en":"What do you see, Takuma-sama?","cn":"琢磨大师，你看到什么？","jp":"巧磨様、何が見えます？"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n00","vojp":"vocs_bambooforest_briefing_n00_jp","s":"GEISHA","en":"What do you see, Takuma-sama?","cn":"琢磨大师，你看到什么？","jp":"巧磨様、何が見えます？"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n01","vojp":"vocs_bambooforest_briefing_n01_jp","s":"ALCHEMIST","en":"Fire, at the heart of the camp.","cn":"营地正中有篝火。","jp":"火だ、野営の中心地じゃ。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n01","vojp":"vocs_bambooforest_briefing_n01_jp","s":"ALCHEMIST","en":"Fire, at the heart of the camp.","cn":"营地正中有篝火。","jp":"火だ、野営の中心地じゃ。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n02","vojp":"vocs_bambooforest_briefing_n02_jp","s":"ALCHEMIST","en":"I'd reckon that's where Kage-sama is.","cn":"影大人想必就在那里。","jp":"そこにカゲサマもいるはず。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n02","vojp":"vocs_bambooforest_briefing_n02_jp","s":"ALCHEMIST","en":"I'd reckon that's where Kage-sama is.","cn":"影大人想必就在那里。","jp":"そこにカゲサマもいるはず。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n03","vojp":"vocs_bambooforest_briefing_n03_jp","s":"GEISHA","en":"I agree. Are the others in position?","cn":"同意。其他人是否已就位？","jp":"同感よ。皆も位置に着いたかしら？"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n03","vojp":"vocs_bambooforest_briefing_n03_jp","s":"GEISHA","en":"I agree. Are the others in position?","cn":"同意。其他人是否已就位？","jp":"同感よ。皆も位置に着いたかしら？"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n04","vojp":"vocs_bambooforest_briefing_n04_jp","s":"TRAPPER","en":"Why did Aiko-san and Takuma-san go another way?","cn":"为什么爱子姐和琢磨师父要走那一边？","jp":"どうして愛琥さんと巧磨先生は別の方へ？"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n04","vojp":"vocs_bambooforest_briefing_n04_jp","s":"TRAPPER","en":"Why did Aiko-san and Takuma-san go another way?","cn":"为什么爱子姐和琢磨师父要走那一边？","jp":"どうして愛琥さんと巧磨先生は別の方へ？"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n05","vojp":"vocs_bambooforest_briefing_n05_jp","s":"NINJA","en":"We'll attack from two sides, circle in on him, then take him out.","cn":"这次要兵分两路将其包围，然后把他干掉。","jp":"両方から攻めて、囲い出して奴を倒すのさ。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n05","vojp":"vocs_bambooforest_briefing_n05_jp","s":"NINJA","en":"We'll attack from two sides, circle in on him, then take him out.","cn":"这次要兵分两路将其包围，然后把他干掉。","jp":"両方から攻めて、囲い出して奴を倒すのさ。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n06","vojp":"vocs_bambooforest_briefing_n06_jp","s":"WARRIOR","en":"Remember that the Shogun wants Kage-sama delivered. We need to take him with us, whether he is alive or dead.","cn":"切记将军的命令，无论生死，我们都必须把影大人带回去。","jp":"上様はカゲサマを連れて来いとおっしゃった。生死を問わず、連れて帰るのだ。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n06","vojp":"vocs_bambooforest_briefing_n06_jp","s":"WARRIOR","en":"Remember that the Shogun wants Kage-sama delivered. We need to take him with us, whether he is alive or dead.","cn":"切记将军的命令，无论生死，我们都必须把影大人带回去。","jp":"上様はカゲサマを連れて来いとおっしゃった。生死を問わず、連れて帰るのだ。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n07","vojp":"vocs_bambooforest_briefing_n07_jp","s":"NINJA","en":"Dead's fine with me. Saves us trouble on the road.","cn":"杀了他更好，省得路上麻烦。","jp":"死体の方がいい。道中で面倒事にならんだろう。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n07","vojp":"vocs_bambooforest_briefing_n07_jp","s":"NINJA","en":"Dead's fine with me. Saves us trouble on the road.","cn":"杀了他更好，省得路上麻烦。","jp":"死体の方がいい。道中で面倒事にならんだろう。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n08","vojp":"vocs_bambooforest_briefing_n08_jp","s":"WARRIOR","en":"Once we have incapacitated him we will carry him back here and leave this forest with our prize.","cn":"一旦将他拿下，要迅速带回这里，离开竹林确保胜利。","jp":"まず、奴を捕らえたらここへ戻し、その勝利と共に森を出る。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n08","vojp":"vocs_bambooforest_briefing_n08_jp","s":"WARRIOR","en":"Once we have incapacitated him we will carry him back here and leave this forest with our prize.","cn":"一旦将他拿下，要迅速带回这里，离开竹林确保胜利。","jp":"まず、奴を捕らえたらここへ戻し、その勝利と共に森を出る。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n09","vojp":"vocs_bambooforest_briefing_n09_jp","s":"TRAPPER","en":"Sneak inside, catch the shadow, sneak back out.","cn":"潜伏进去，抓住影子，悄悄出来。","jp":"忍び込んで、カゲを捕まえて、バレずに出る。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n09","vojp":"vocs_bambooforest_briefing_n09_jp","s":"TRAPPER","en":"Sneak inside, catch the shadow, sneak back out.","cn":"潜伏进去，抓住影子，悄悄出来。","jp":"忍び込んで、カゲを捕まえて、バレずに出る。"}
 ,
-{"lvl":"17","sec":"1","voen":"vocs_over_over_bambooforest_briefing_n10","vojp":"vocs_bambooforest_briefing_n10_jp","s":"NINJA","en":"Teh, sound simple. Alright, let's finish this.","cn":"哼，很简单嘛。好了，开始行动吧。","jp":"ふん、簡単だな。さあ、始めよう。"}
+{"sec":1,"voen":"vocs_over_over_bambooforest_briefing_n10","vojp":"vocs_bambooforest_briefing_n10_jp","s":"NINJA","en":"Teh, sound simple. Alright, let's finish this.","cn":"哼，很简单嘛。好了，开始行动吧。","jp":"ふん、簡単だな。さあ、始めよう。"}
 ,
-{"lvl":"17","sec":"2","voen":"vocs_over_over_bambooforest_force_n00","vojp":"vocs_bambooforest_force_n00_jp","s":"NINJA","en":"What's this. Almost looks challenging …","cn":"前面什么情况。还算有点难度……","jp":"おっと、こいつは…。そう簡単にはいかなさそうだな。"}
+{"sec":2,"voen":"vocs_over_over_bambooforest_force_n00","vojp":"vocs_bambooforest_force_n00_jp","s":"NINJA","en":"What's this. Almost looks challenging …","cn":"前面什么情况。还算有点难度……","jp":"おっと、こいつは…。そう簡単にはいかなさそうだな。"}
 ,
-{"lvl":"17","sec":"2","voen":"vocs_over_over_bambooforest_force_n01","vojp":"vocs_bambooforest_force_n01_jp","s":"TRAPPER","en":"Oh, a challenge!","cn":"啊，前面好像有点难度。","jp":"わぁ、やりがいありそっ！"}
+{"sec":2,"voen":"vocs_over_over_bambooforest_force_n01","vojp":"vocs_bambooforest_force_n01_jp","s":"TRAPPER","en":"Oh, a challenge!","cn":"啊，前面好像有点难度。","jp":"わぁ、やりがいありそっ！"}
 ,
-{"lvl":"17","sec":"2","voen":"vocs_over_over_bambooforest_force_n02","vojp":"vocs_bambooforest_force_n02_jp","s":"WARRIOR","en":"Ha! These men do not know what they're up against.","cn":"哼！这些人还不知道他们的对手是谁。","jp":"ハッ！この者達は誰と敵対してるのかわかっておらぬな。"}
+{"sec":2,"voen":"vocs_over_over_bambooforest_force_n02","vojp":"vocs_bambooforest_force_n02_jp","s":"WARRIOR","en":"Ha! These men do not know what they're up against.","cn":"哼！这些人还不知道他们的对手是谁。","jp":"ハッ！この者達は誰と敵対してるのかわかっておらぬな。"}
 ,
-{"lvl":"17","sec":"3","voen":"vocs_over_over_bambooforest_workers_n00","vojp":"vocs_bambooforest_workers_n00_jp","s":"NINJA","en":"Workers … slaves maybe?","cn":"有人在干活……或许是奴隶？","jp":"働かされている…奴隷か？"}
+{"sec":3,"voen":"vocs_over_over_bambooforest_workers_n00","vojp":"vocs_bambooforest_workers_n00_jp","s":"NINJA","en":"Workers … slaves maybe?","cn":"有人在干活……或许是奴隶？","jp":"働かされている…奴隷か？"}
 ,
-{"lvl":"17","sec":"3","voen":"vocs_over_over_bambooforest_workers_n01","vojp":"vocs_bambooforest_workers_n01_jp","s":"TRAPPER","en":"Look! They don't have weapons …","cn":"看！这些人没有武器……","jp":"見て！武器は持ってないよ…。"}
+{"sec":3,"voen":"vocs_over_over_bambooforest_workers_n01","vojp":"vocs_bambooforest_workers_n01_jp","s":"TRAPPER","en":"Look! They don't have weapons …","cn":"看！这些人没有武器……","jp":"見て！武器は持ってないよ…。"}
 ,
-{"lvl":"17","sec":"3","voen":"vocs_over_over_bambooforest_workers_n02","vojp":"vocs_bambooforest_workers_n02_jp","s":"WARRIOR","en":"Civilians, either enslaved or loyal to the enemy. We will deal with them later.","cn":"是平民，要么是奴隶要么是敌人同党。稍后再处理他们。","jp":"町人だ。捕らえられたか、敵に忠誠を誓ったのであろう。後でどうにかしてやろう。"}
+{"sec":3,"voen":"vocs_over_over_bambooforest_workers_n02","vojp":"vocs_bambooforest_workers_n02_jp","s":"WARRIOR","en":"Civilians, either enslaved or loyal to the enemy. We will deal with them later.","cn":"是平民，要么是奴隶要么是敌人同党。稍后再处理他们。","jp":"町人だ。捕らえられたか、敵に忠誠を誓ったのであろう。後でどうにかしてやろう。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n00","vojp":"vo_bambooforest_workers1_n00_jp","s":"ENEMY","en":"That's it, carry on.","cn":"这就对了，继续干。","jp":"それだ、運べ。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n00","vojp":"vo_bambooforest_workers1_n00_jp","s":"ENEMY","en":"That's it, carry on.","cn":"这就对了，继续干。","jp":"それだ、運べ。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n01","vojp":"vo_bambooforest_workers1_n01_jp","s":"STATIC","en":"No slacking!","cn":"别偷懒！","jp":"怠けるな。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n01","vojp":"vo_bambooforest_workers1_n01_jp","s":"STATIC","en":"No slacking!","cn":"别偷懒！","jp":"怠けるな。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n02","vojp":"vo_bambooforest_workers1_n02_jp","s":"ENEMY","en":"We're not done yet.","cn":"活还没干完呢。","jp":"まだ終わらんぞ。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n02","vojp":"vo_bambooforest_workers1_n02_jp","s":"ENEMY","en":"We're not done yet.","cn":"活还没干完呢。","jp":"まだ終わらんぞ。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n03","vojp":"vo_bambooforest_workers1_n03_jp","s":"STATIC","en":"Come on, faster.","cn":"快，快点。","jp":"早くやれ。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n03","vojp":"vo_bambooforest_workers1_n03_jp","s":"STATIC","en":"Come on, faster.","cn":"快，快点。","jp":"早くやれ。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n04","vojp":"vo_bambooforest_workers1_n04_jp","s":"ENEMY","en":"Kage-sama wants these walkways finished.","cn":"影大人有令，赶紧铺好这些走道。","jp":"カゲサマは早く終わるのを望まれている。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n04","vojp":"vo_bambooforest_workers1_n04_jp","s":"ENEMY","en":"Kage-sama wants these walkways finished.","cn":"影大人有令，赶紧铺好这些走道。","jp":"カゲサマは早く終わるのを望まれている。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n05","vojp":"vo_bambooforest_workers1_n05_jp","s":"STATIC","en":"You know what happens when Kage-sama is displeased.","cn":"你们知道影大人生气的后果。","jp":"カゲサマがご機嫌を損なわれたらどうなるか知っているだろう。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n05","vojp":"vo_bambooforest_workers1_n05_jp","s":"STATIC","en":"You know what happens when Kage-sama is displeased.","cn":"你们知道影大人生气的后果。","jp":"カゲサマがご機嫌を損なわれたらどうなるか知っているだろう。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n06","vojp":"vo_bambooforest_workers1_n06_jp","s":"CIVILIAN M","en":"Hrgn …","cn":"哎……","jp":"はあぁ…。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n06","vojp":"vo_bambooforest_workers1_n06_jp","s":"CIVILIAN M","en":"Hrgn …","cn":"哎……","jp":"はあぁ…。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n07","vojp":"vo_bambooforest_workers1_n07_jp","s":"CIVILIAN M","en":"Ugh … heavy …","cn":"呃……好重……","jp":"うぅ…おもっ…。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n07","vojp":"vo_bambooforest_workers1_n07_jp","s":"CIVILIAN M","en":"Ugh … heavy …","cn":"呃……好重……","jp":"うぅ…おもっ…。"}
 ,
-{"lvl":"17","sec":"4","voen":"vo_gothic_gothic_bambooforest_workers1_n08","vojp":"vo_bambooforest_workers1_n08_jp","s":"CIVILIAN F","en":"... my back.","cn":"……我的腰。","jp":"…腰が。"}
+{"sec":4,"voen":"vo_gothic_gothic_bambooforest_workers1_n08","vojp":"vo_bambooforest_workers1_n08_jp","s":"CIVILIAN F","en":"... my back.","cn":"……我的腰。","jp":"…腰が。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n00","vojp":"vo_bambooforest_workers2_n00_jp","s":"ENEMY","en":"You're too slow.","cn":"动作太慢了。","jp":"遅すぎるぞ。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n00","vojp":"vo_bambooforest_workers2_n00_jp","s":"ENEMY","en":"You're too slow.","cn":"动作太慢了。","jp":"遅すぎるぞ。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n01","vojp":"vo_bambooforest_workers2_n01_jp","s":"STATIC","en":"This is taking forever.","cn":"怎么这么久都没做完。","jp":"日が暮れるぞ。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n01","vojp":"vo_bambooforest_workers2_n01_jp","s":"STATIC","en":"This is taking forever.","cn":"怎么这么久都没做完。","jp":"日が暮れるぞ。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n02","vojp":"vo_bambooforest_workers2_n02_jp","s":"ENEMY","en":"You call that a swing?","cn":"有你那么砍竹子的吗？","jp":"それで急いでるのか？"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n02","vojp":"vo_bambooforest_workers2_n02_jp","s":"ENEMY","en":"You call that a swing?","cn":"有你那么砍竹子的吗？","jp":"それで急いでるのか？"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n03","vojp":"vo_bambooforest_workers2_n03_jp","s":"STATIC","en":"Faster, damn it.","cn":"再快点，懒驴。","jp":"早くしろ、このっ。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n03","vojp":"vo_bambooforest_workers2_n03_jp","s":"STATIC","en":"Faster, damn it.","cn":"再快点，懒驴。","jp":"早くしろ、このっ。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n04","vojp":"vo_bambooforest_workers2_n04_jp","s":"ENEMY","en":"Kage-sama won't be pleased.","cn":"别惹影大人发火。","jp":"カゲサマがお喜びになられないぞ。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n04","vojp":"vo_bambooforest_workers2_n04_jp","s":"ENEMY","en":"Kage-sama won't be pleased.","cn":"别惹影大人发火。","jp":"カゲサマがお喜びになられないぞ。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n05","vojp":"vo_bambooforest_workers2_n05_jp","s":"STATIC","en":"Those who don't pull their weight will be executed. Kage-sama's orders.","cn":"影大人有令，谁敢偷懒立即处死。","jp":"仕事をこなせぬ者は処刑だ。カゲサマのご命令だ。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n05","vojp":"vo_bambooforest_workers2_n05_jp","s":"STATIC","en":"Those who don't pull their weight will be executed. Kage-sama's orders.","cn":"影大人有令，谁敢偷懒立即处死。","jp":"仕事をこなせぬ者は処刑だ。カゲサマのご命令だ。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n06","vojp":"vo_bambooforest_workers2_n06_jp","s":"CIVILIAN M","en":"... So tired.","cn":"……好累。","jp":"…疲れた。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n06","vojp":"vo_bambooforest_workers2_n06_jp","s":"CIVILIAN M","en":"... So tired.","cn":"……好累。","jp":"…疲れた。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n07","vojp":"vo_bambooforest_workers2_n07_jp","s":"CIVILIAN M","en":"Agh, my back.","cn":"啊，我的腰。","jp":"あぁ、腰が。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n07","vojp":"vo_bambooforest_workers2_n07_jp","s":"CIVILIAN M","en":"Agh, my back.","cn":"啊，我的腰。","jp":"あぁ、腰が。"}
 ,
-{"lvl":"17","sec":"5","voen":"vo_gothic_gothic_bambooforest_workers2_n08","vojp":"vo_bambooforest_workers2_n08_jp","s":"CIVILIAN F","en":"Forgive us …","cn":"饶了我们吧……","jp":"どうかお許しを…。"}
+{"sec":5,"voen":"vo_gothic_gothic_bambooforest_workers2_n08","vojp":"vo_bambooforest_workers2_n08_jp","s":"CIVILIAN F","en":"Forgive us …","cn":"饶了我们吧……","jp":"どうかお許しを…。"}
 ,
-{"lvl":"17","sec":"6","voen":"vocs_over_over_bambooforest_camp_n00","vojp":"vocs_bambooforest_camp_n00_jp","s":"NINJA","en":"Not bad. Small. Well hidden. No wonder no one ever found it.","cn":"还不赖，营地又小又隐蔽。难怪没人能发现这里。","jp":"悪くない。小規模で、うまく隠れていた。これは見つからないはずだ。"}
+{"sec":6,"voen":"vocs_over_over_bambooforest_camp_n00","vojp":"vocs_bambooforest_camp_n00_jp","s":"NINJA","en":"Not bad. Small. Well hidden. No wonder no one ever found it.","cn":"还不赖，营地又小又隐蔽。难怪没人能发现这里。","jp":"悪くない。小規模で、うまく隠れていた。これは見つからないはずだ。"}
 ,
-{"lvl":"17","sec":"6","voen":"vocs_over_over_bambooforest_camp_n01","vojp":"vocs_bambooforest_camp_n01_jp","s":"WARRIOR","en":"The camp may be small, but it's well defended.","cn":"这片营地虽小，但防备很足。","jp":"野営の規模は小さいが、しかし防衛にも優れている。"}
+{"sec":6,"voen":"vocs_over_over_bambooforest_camp_n01","vojp":"vocs_bambooforest_camp_n01_jp","s":"WARRIOR","en":"The camp may be small, but it's well defended.","cn":"这片营地虽小，但防备很足。","jp":"野営の規模は小さいが、しかし防衛にも優れている。"}
 ,
-{"lvl":"17","sec":"6","voen":"vocs_over_over_bambooforest_camp_n02","vojp":"vocs_bambooforest_camp_n02_jp","s":"TRAPPER","en":"This place … it's like a hidden Shinobi village!","cn":"这里真隐秘……就像忍者村一样！","jp":"この場所…忍の里みたい！"}
+{"sec":6,"voen":"vocs_over_over_bambooforest_camp_n02","vojp":"vocs_bambooforest_camp_n02_jp","s":"TRAPPER","en":"This place … it's like a hidden Shinobi village!","cn":"这里真隐秘……就像忍者村一样！","jp":"この場所…忍の里みたい！"}
 ,
-{"lvl":"17","sec":"6","voen":"vocs_over_over_bambooforest_camp_n03","vojp":"vocs_bambooforest_camp_n03_jp","s":"NINJA","en":"Teh … trust me: if it were, we'd be dead by now.","cn":"哼…如果真是忍者村，我们早就死透了。","jp":"ハッ、もしそうだったら俺たちゃいま頃オダブツだぜ。"}
+{"sec":6,"voen":"vocs_over_over_bambooforest_camp_n03","vojp":"vocs_bambooforest_camp_n03_jp","s":"NINJA","en":"Teh … trust me: if it were, we'd be dead by now.","cn":"哼…如果真是忍者村，我们早就死透了。","jp":"ハッ、もしそうだったら俺たちゃいま頃オダブツだぜ。"}
 ,
-{"lvl":"17","sec":"7","voen":"vocs_over_over_bambooforest_nemesis_n00","vojp":"vocs_bambooforest_nemesis_n00_jp","s":"NINJA","en":"That man in the centre ... guess that's Kage-sama.","cn":"中间那位……应该就是影大人。","jp":"真ん中にいるのが、カゲサマであろう。"}
+{"sec":7,"voen":"vocs_over_over_bambooforest_nemesis_n00","vojp":"vocs_bambooforest_nemesis_n00_jp","s":"NINJA","en":"That man in the centre ... guess that's Kage-sama.","cn":"中间那位……应该就是影大人。","jp":"真ん中にいるのが、カゲサマであろう。"}
 ,
-{"lvl":"17","sec":"7","voen":"vocs_over_over_bambooforest_nemesis_n01","vojp":"vocs_bambooforest_nemesis_n01_jp","s":"TRAPPER","en":"Look! The spider in his web! Kage-sama!","cn":"看啊！蜘蛛就坐在网中央！是影大人！","jp":"みて！巣に蜘蛛がいる！カゲサマ！"}
+{"sec":7,"voen":"vocs_over_over_bambooforest_nemesis_n01","vojp":"vocs_bambooforest_nemesis_n01_jp","s":"TRAPPER","en":"Look! The spider in his web! Kage-sama!","cn":"看啊！蜘蛛就坐在网中央！是影大人！","jp":"みて！巣に蜘蛛がいる！カゲサマ！"}
 ,
-{"lvl":"17","sec":"7","voen":"vocs_over_over_bambooforest_nemesis_n02","vojp":"vocs_bambooforest_nemesis_n02_jp","s":"WARRIOR","en":"Black clothes, like they were cut from shadow. Kage-sama truly lives up to his name.","cn":"一身黑衣，有如影子般漆黑。影大人果然人如其名。","jp":"黒装束、影から切り取れらたようだ。名に劣らぬ姿だ。"}
+{"sec":7,"voen":"vocs_over_over_bambooforest_nemesis_n02","vojp":"vocs_bambooforest_nemesis_n02_jp","s":"WARRIOR","en":"Black clothes, like they were cut from shadow. Kage-sama truly lives up to his name.","cn":"一身黑衣，有如影子般漆黑。影大人果然人如其名。","jp":"黒装束、影から切り取れらたようだ。名に劣らぬ姿だ。"}
 ,
-{"lvl":"17","sec":"7","voen":"vocs_over_over_bambooforest_nemesis_n03","vojp":"vocs_bambooforest_nemesis_n03_jp","s":"TRAPPER","en":"He's just sitting there, like a statue. Why is he doing that?","cn":"他怎么和神像一样，坐在那儿一动也不动？","jp":"像のように動かないね。どうしてだろう？"}
+{"sec":7,"voen":"vocs_over_over_bambooforest_nemesis_n03","vojp":"vocs_bambooforest_nemesis_n03_jp","s":"TRAPPER","en":"He's just sitting there, like a statue. Why is he doing that?","cn":"他怎么和神像一样，坐在那儿一动也不动？","jp":"像のように動かないね。どうしてだろう？"}
 ,
-{"lvl":"17","sec":"7","voen":"vocs_over_over_bambooforest_nemesis_n04","vojp":"vocs_bambooforest_nemesis_n04_jp","s":"NINJA","en":"Doesn't matter. He won't be doing it for much longer.","cn":"管他的。反正他也快死了。","jp":"関係ないさ。今から死んでもらうんだからな。"}
+{"sec":7,"voen":"vocs_over_over_bambooforest_nemesis_n04","vojp":"vocs_bambooforest_nemesis_n04_jp","s":"NINJA","en":"Doesn't matter. He won't be doing it for much longer.","cn":"管他的。反正他也快死了。","jp":"関係ないさ。今から死んでもらうんだからな。"}
 ,
-{"lvl":"17","sec":"8","voen":"vocs_over_over_bambooforest_worry_n00","vojp":"vocs_bambooforest_worry_n00_jp","s":"GEISHA","en":"I shall go meet the others. I trust you'll watch over my descent.","cn":"我要去和他们会合。琢磨大师就在这儿掩护我们吧。","jp":"彼らの所に行きましょう。巧磨様はここから見ていてください。"}
+{"sec":8,"voen":"vocs_over_over_bambooforest_worry_n00","vojp":"vocs_bambooforest_worry_n00_jp","s":"GEISHA","en":"I shall go meet the others. I trust you'll watch over my descent.","cn":"我要去和他们会合。琢磨大师就在这儿掩护我们吧。","jp":"彼らの所に行きましょう。巧磨様はここから見ていてください。"}
 ,
-{"lvl":"17","sec":"8","voen":"vocs_over_over_bambooforest_worry_n01","vojp":"vocs_bambooforest_worry_n01_jp","s":"ALCHEMIST","en":"Of course I will. Is something troubling you, Aiko-san?","cn":"交给我吧。不过你好像有些不安？","jp":"もちろんじゃよ。何か問題でもあるのかね、愛琥さん。"}
+{"sec":8,"voen":"vocs_over_over_bambooforest_worry_n01","vojp":"vocs_bambooforest_worry_n01_jp","s":"ALCHEMIST","en":"Of course I will. Is something troubling you, Aiko-san?","cn":"交给我吧。不过你好像有些不安？","jp":"もちろんじゃよ。何か問題でもあるのかね、愛琥さん。"}
 ,
-{"lvl":"17","sec":"8","voen":"vocs_over_over_bambooforest_worry_n02","vojp":"vocs_bambooforest_worry_n02_jp","s":"GEISHA","en":"Perhaps. I think there is more to this place than meets the eye.","cn":"我怀疑此地还有蹊跷。","jp":"ひょっとしたらもっと何かあるかもしれないんです。"}
+{"sec":8,"voen":"vocs_over_over_bambooforest_worry_n02","vojp":"vocs_bambooforest_worry_n02_jp","s":"GEISHA","en":"Perhaps. I think there is more to this place than meets the eye.","cn":"我怀疑此地还有蹊跷。","jp":"ひょっとしたらもっと何かあるかもしれないんです。"}
 ,
-{"lvl":"17","sec":"8","voen":"vocs_over_over_bambooforest_worry_n03","vojp":"vocs_bambooforest_worry_n03_jp","s":"ALCHEMIST","en":"Ah, caution. I understand. I will watch for anything unusual or out of place.","cn":"啊，我懂了。我会注意异常情况的。","jp":"ああ、わかった。用心深く警戒しておくよ。"}
+{"sec":8,"voen":"vocs_over_over_bambooforest_worry_n03","vojp":"vocs_bambooforest_worry_n03_jp","s":"ALCHEMIST","en":"Ah, caution. I understand. I will watch for anything unusual or out of place.","cn":"啊，我懂了。我会注意异常情况的。","jp":"ああ、わかった。用心深く警戒しておくよ。"}
 ,
-{"lvl":"17","sec":"8","voen":"vocs_over_over_bambooforest_worry_n04","vojp":"vocs_bambooforest_worry_n04_jp","s":"GEISHA","en":"Thank you, Takuma-san.","cn":"多谢，琢磨大师。","jp":"ありがとうございます、巧磨様。"}
+{"sec":8,"voen":"vocs_over_over_bambooforest_worry_n04","vojp":"vocs_bambooforest_worry_n04_jp","s":"GEISHA","en":"Thank you, Takuma-san.","cn":"多谢，琢磨大师。","jp":"ありがとうございます、巧磨様。"}
 ,
-{"lvl":"17","sec":"9","voen":"vocs_over_over_bambooforest_contempt_n00","vojp":"vocs_bambooforest_contempt_n00_jp","s":"GEISHA","en":"The man who caused all this trouble. Quite disappointing, I must say. You have wasted enough of everyone's time.","cn":"始作俑者已近在眼前。真是可惜，就因为你，浪费了大家太多宝贵时间。","jp":"この男が全ての元凶。とても残念だわ。皆の時間を無駄にしたわ。"}
+{"sec":9,"voen":"vocs_over_over_bambooforest_contempt_n00","vojp":"vocs_bambooforest_contempt_n00_jp","s":"GEISHA","en":"The man who caused all this trouble. Quite disappointing, I must say. You have wasted enough of everyone's time.","cn":"始作俑者已近在眼前。真是可惜，就因为你，浪费了大家太多宝贵时间。","jp":"この男が全ての元凶。とても残念だわ。皆の時間を無駄にしたわ。"}
 ,
-{"lvl":"17","sec":"10","voen":"vocs_over_over_bambooforest_reunion_n00","vojp":"vocs_bambooforest_reunion_n00_jp","s":"NINJA","en":"Hey …","cn":"喂……","jp":"おーい。"}
+{"sec":10,"voen":"vocs_over_over_bambooforest_reunion_n00","vojp":"vocs_bambooforest_reunion_n00_jp","s":"NINJA","en":"Hey …","cn":"喂……","jp":"おーい。"}
 ,
-{"lvl":"17","sec":"10","voen":"vocs_over_over_bambooforest_reunion_n01","vojp":"vocs_bambooforest_reunion_n01_jp","s":"TRAPPER","en":"Aiko-san!","cn":"爱子小姐！","jp":"愛琥さんっ！"}
+{"sec":10,"voen":"vocs_over_over_bambooforest_reunion_n01","vojp":"vocs_bambooforest_reunion_n01_jp","s":"TRAPPER","en":"Aiko-san!","cn":"爱子小姐！","jp":"愛琥さんっ！"}
 ,
-{"lvl":"17","sec":"10","voen":"vocs_over_over_bambooforest_reunion_n02","vojp":"vocs_bambooforest_reunion_n02_jp","s":"GEISHA","en":"I see you are doing well.","cn":"还好你们平安无事。","jp":"良く無事だったわね。"}
+{"sec":10,"voen":"vocs_over_over_bambooforest_reunion_n02","vojp":"vocs_bambooforest_reunion_n02_jp","s":"GEISHA","en":"I see you are doing well.","cn":"还好你们平安无事。","jp":"良く無事だったわね。"}
 ,
-{"lvl":"17","sec":"10","voen":"vocs_over_over_bambooforest_reunion_n03","vojp":"vocs_bambooforest_reunion_n03_jp","s":"WARRIOR","en":"Ah, Aiko-san. I am glad you join me for this victory.","cn":"啊，爱子小姐！很高兴能和你一起迎接胜利。","jp":"愛琥殿、よくぞ我らに勝利をもたらしてくれました。"}
+{"sec":10,"voen":"vocs_over_over_bambooforest_reunion_n03","vojp":"vocs_bambooforest_reunion_n03_jp","s":"WARRIOR","en":"Ah, Aiko-san. I am glad you join me for this victory.","cn":"啊，爱子小姐！很高兴能和你一起迎接胜利。","jp":"愛琥殿、よくぞ我らに勝利をもたらしてくれました。"}
 ,
-{"lvl":"17","sec":"10","voen":"vocs_over_over_bambooforest_reunion_n04","vojp":"vocs_bambooforest_reunion_n04_jp","s":"GEISHA","en":"I cannot shake the feeling that not all is as it seems. Let us be cautious.","cn":"我总感觉事情没这么简单，大家要提高警惕。","jp":"こんなに簡単にいくなんて…。なんだか嫌な感じがするわ。"}
+{"sec":10,"voen":"vocs_over_over_bambooforest_reunion_n04","vojp":"vocs_bambooforest_reunion_n04_jp","s":"GEISHA","en":"I cannot shake the feeling that not all is as it seems. Let us be cautious.","cn":"我总感觉事情没这么简单，大家要提高警惕。","jp":"こんなに簡単にいくなんて…。なんだか嫌な感じがするわ。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n00","vojp":"vo_bambooforest_shadows_n00_jp","s":"FAKE","en":"Yes, the time is near.","cn":"嗯，时辰快到了。","jp":"うむ、時は近い。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n00","vojp":"vo_bambooforest_shadows_n00_jp","s":"FAKE","en":"Yes, the time is near.","cn":"嗯，时辰快到了。","jp":"うむ、時は近い。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n01","vojp":"vo_bambooforest_shadows_n01_jp","s":"FAKE","en":"A quiet moment.","cn":"万籁俱寂。","jp":"静寂。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n01","vojp":"vo_bambooforest_shadows_n01_jp","s":"FAKE","en":"A quiet moment.","cn":"万籁俱寂。","jp":"静寂。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n02","vojp":"vo_bambooforest_shadows_n02_jp","s":"FAKE","en":"Yet everything is in motion.","cn":"然而，万物皆在动荡。","jp":"しかし、全ては渦中。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n02","vojp":"vo_bambooforest_shadows_n02_jp","s":"FAKE","en":"Yet everything is in motion.","cn":"然而，万物皆在动荡。","jp":"しかし、全ては渦中。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n03","vojp":"vo_bambooforest_shadows_n03_jp","s":"FAKE","en":"It is as it should be.","cn":"一切皆有定数。","jp":"然るべき有様。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n03","vojp":"vo_bambooforest_shadows_n03_jp","s":"FAKE","en":"It is as it should be.","cn":"一切皆有定数。","jp":"然るべき有様。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n04","vojp":"vo_bambooforest_shadows_n04_jp","s":"FAKE","en":"A life for a life.","cn":"以眼还眼，以命抵命。","jp":"人生は人生。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n04","vojp":"vo_bambooforest_shadows_n04_jp","s":"FAKE","en":"A life for a life.","cn":"以眼还眼，以命抵命。","jp":"人生は人生。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n05","vojp":"vo_bambooforest_shadows_n05_jp","s":"FAKE","en":"All men choose their duty.","cn":"人命不由天定。","jp":"人々の選ぶ義務。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n05","vojp":"vo_bambooforest_shadows_n05_jp","s":"FAKE","en":"All men choose their duty.","cn":"人命不由天定。","jp":"人々の選ぶ義務。"}
 ,
-{"lvl":"17","sec":"11","voen":"vo_hint_hint_bambooforest_shadows_n06","vojp":"vo_bambooforest_shadows_n06_jp","s":"FAKE","en":"I have chosen mine.","cn":"我已决定我的命运。","jp":"私は決めたのだ。"}
+{"sec":11,"voen":"vo_hint_hint_bambooforest_shadows_n06","vojp":"vo_bambooforest_shadows_n06_jp","s":"FAKE","en":"I have chosen mine.","cn":"我已决定我的命运。","jp":"私は決めたのだ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n00","vojp":"vocs_bambooforest_debriefing_n00_jp","s":"OFFICER","en":"Now!","cn":"就是现在！","jp":"今だ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n00","vojp":"vocs_bambooforest_debriefing_n00_jp","s":"OFFICER","en":"Now!","cn":"就是现在！","jp":"今だ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n01","vojp":"vocs_bambooforest_debriefing_n01_jp","s":"WARRIOR","en":"A trap!","cn":"是陷阱！","jp":"罠だ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n01","vojp":"vocs_bambooforest_debriefing_n01_jp","s":"WARRIOR","en":"A trap!","cn":"是陷阱！","jp":"罠だ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n02","vojp":"vocs_bambooforest_debriefing_n02_jp","s":"NINJA","en":"Damn!","cn":"该死！","jp":"くそっ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n02","vojp":"vocs_bambooforest_debriefing_n02_jp","s":"NINJA","en":"Damn!","cn":"该死！","jp":"くそっ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n03","vojp":"vocs_bambooforest_debriefing_n03_jp","s":"TRAPPER","en":"Wha–NO!","cn":"啊-不要！","jp":"わぁ、やめっ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n03","vojp":"vocs_bambooforest_debriefing_n03_jp","s":"TRAPPER","en":"Wha–NO!","cn":"啊-不要！","jp":"わぁ、やめっ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n04","vojp":"vocs_bambooforest_debriefing_n04_jp","s":"GEISHA","en":"No, stay back!","cn":"不，别过来！","jp":"駄目、下がって！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n04","vojp":"vocs_bambooforest_debriefing_n04_jp","s":"GEISHA","en":"No, stay back!","cn":"不，别过来！","jp":"駄目、下がって！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n06","vojp":"vocs_bambooforest_debriefing_n06_jp","s":"OFFICER","en":"It is done, Kage-sama. The old man was on a slope nearby. They came alone, just like you said.","cn":"全抓住了，影大人。老头躲在附近的山坡上。正如您所料，他们一共来了五个人。","jp":"終わりました、カゲサマ。老人は側の坂にいます。カゲサマのおっしゃる通り奴らは単体でやってきました。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n06","vojp":"vocs_bambooforest_debriefing_n06_jp","s":"OFFICER","en":"It is done, Kage-sama. The old man was on a slope nearby. They came alone, just like you said.","cn":"全抓住了，影大人。老头躲在附近的山坡上。正如您所料，他们一共来了五个人。","jp":"終わりました、カゲサマ。老人は側の坂にいます。カゲサマのおっしゃる通り奴らは単体でやってきました。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n07","vojp":"vocs_bambooforest_debriefing_n07_jp","s":"WARRIOR","en":"Kage-sama … YOU!","cn":"影大人……是你！","jp":"カゲサマ…あ、あなたは！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n07","vojp":"vocs_bambooforest_debriefing_n07_jp","s":"WARRIOR","en":"Kage-sama … YOU!","cn":"影大人……是你！","jp":"カゲサマ…あ、あなたは！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n08","vojp":"vocs_bambooforest_debriefing_n08_jp","s":"BROGUN","en":"… I remember my brother giving you this ... a remarkable weapon.","cn":"我还记得那天兄长赐予你这把刀的情景……","jp":"兄上がお主にこの刀を渡した時のことを覚えている…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n08","vojp":"vocs_bambooforest_debriefing_n08_jp","s":"BROGUN","en":"… I remember my brother giving you this ... a remarkable weapon.","cn":"我还记得那天兄长赐予你这把刀的情景……","jp":"兄上がお主にこの刀を渡した時のことを覚えている…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n09","vojp":"vocs_bambooforest_debriefing_n09_jp","s":"BROGUN","en":"Such a waste.","cn":"真是无聊。","jp":"くだらない。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n09","vojp":"vocs_bambooforest_debriefing_n09_jp","s":"BROGUN","en":"Such a waste.","cn":"真是无聊。","jp":"くだらない。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n10","vojp":"vocs_bambooforest_debriefing_n10_jp","s":"WARRIOR","en":"It makes no sense … how is this possible?!","cn":"怎么回事…为什么要这么做？！","jp":"どうして…なぜこのようなことを！？"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n10","vojp":"vocs_bambooforest_debriefing_n10_jp","s":"WARRIOR","en":"It makes no sense … how is this possible?!","cn":"怎么回事…为什么要这么做？！","jp":"どうして…なぜこのようなことを！？"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n11","vojp":"vocs_bambooforest_debriefing_n11_jp","s":"BROGUN","en":"My brother and I disagree on so many things, Mugen. If you knew the extent of it, you would not be surprised.","cn":"将军和我之间的分歧实在太大，无限。如果你站在我的立场，也一定能够理解。","jp":"私と兄上には、意見の食い違いが心底多かったのだ。すべてを知っていればお前も納得するだろう…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n11","vojp":"vocs_bambooforest_debriefing_n11_jp","s":"BROGUN","en":"My brother and I disagree on so many things, Mugen. If you knew the extent of it, you would not be surprised.","cn":"将军和我之间的分歧实在太大，无限。如果你站在我的立场，也一定能够理解。","jp":"私と兄上には、意見の食い違いが心底多かったのだ。すべてを知っていればお前も納得するだろう…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n12","vojp":"vocs_bambooforest_debriefing_n12_jp","s":"WARRIOR","en":"Then what do you want, traitor?!","cn":"你到底想怎么样，叛徒？！","jp":"一体何が望みだ！？この、裏切者めが！！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n12","vojp":"vocs_bambooforest_debriefing_n12_jp","s":"WARRIOR","en":"Then what do you want, traitor?!","cn":"你到底想怎么样，叛徒？！","jp":"一体何が望みだ！？この、裏切者めが！！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n13","vojp":"vocs_bambooforest_debriefing_n13_jp","s":"BROGUN","en":"A great deal. Mugen, from you …","cn":"做个交易吧，无限…","jp":"取引だ、武源。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n13","vojp":"vocs_bambooforest_debriefing_n13_jp","s":"BROGUN","en":"A great deal. Mugen, from you …","cn":"做个交易吧，无限…","jp":"取引だ、武源。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n14","vojp":"vocs_bambooforest_debriefing_n14_jp","s":"BROGUN","en":"… I want to know where you hid Ryūnosuke.","cn":"……我想知道你把龙之介藏哪了。","jp":"龍之介をどこへやったか、知りたい。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n14","vojp":"vocs_bambooforest_debriefing_n14_jp","s":"BROGUN","en":"… I want to know where you hid Ryūnosuke.","cn":"……我想知道你把龙之介藏哪了。","jp":"龍之介をどこへやったか、知りたい。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n15","vojp":"vocs_bambooforest_debriefing_n15_jp","s":"WARRIOR","en":"Do you think I would let you harm the heir to the Shogunate?!","cn":"哼，你真以为我会老老实实告诉你吗？！","jp":"ハッ、拙者がおとなしく口を割るとでも？"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n15","vojp":"vocs_bambooforest_debriefing_n15_jp","s":"WARRIOR","en":"Do you think I would let you harm the heir to the Shogunate?!","cn":"哼，你真以为我会老老实实告诉你吗？！","jp":"ハッ、拙者がおとなしく口を割るとでも？"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n16","vojp":"vocs_bambooforest_debriefing_n16_jp","s":"BROGUN","en":"Of course not.","cn":"当然不会。","jp":"まぁ、そうはいかないだろう。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n16","vojp":"vocs_bambooforest_debriefing_n16_jp","s":"BROGUN","en":"Of course not.","cn":"当然不会。","jp":"まぁ、そうはいかないだろう。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n17","vojp":"vocs_bambooforest_debriefing_n17_jp","s":"BROGUN","en":"I know you, ?shiro Mugen.","cn":"尾城无限，我很了解你。","jp":"大代武源、お主のことはよく知っている。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n17","vojp":"vocs_bambooforest_debriefing_n17_jp","s":"BROGUN","en":"I know you, ?shiro Mugen.","cn":"尾城无限，我很了解你。","jp":"大代武源、お主のことはよく知っている。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n18","vojp":"vocs_bambooforest_debriefing_n18_jp","s":"BROGUN","en":"You are the most loyal man I have ever met.","cn":"你是我见过的最忠诚的部下。","jp":"お主ほど忠誠心の厚い男はそういない。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n18","vojp":"vocs_bambooforest_debriefing_n18_jp","s":"BROGUN","en":"You are the most loyal man I have ever met.","cn":"你是我见过的最忠诚的部下。","jp":"お主ほど忠誠心の厚い男はそういない。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n19","vojp":"vocs_bambooforest_debriefing_n19_jp","s":"BROGUN","en":"You would rather die than betray your precious Shogun.","cn":"你宁死也不会背叛将军的。","jp":"将軍を裏切るくらいなら自ら死を選ぶだろう。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n19","vojp":"vocs_bambooforest_debriefing_n19_jp","s":"BROGUN","en":"You would rather die than betray your precious Shogun.","cn":"你宁死也不会背叛将军的。","jp":"将軍を裏切るくらいなら自ら死を選ぶだろう。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n20","vojp":"vocs_bambooforest_debriefing_n20_jp","s":"BROGUN","en":"But I wonder …","cn":"但我在想……","jp":"だが…、"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n20","vojp":"vocs_bambooforest_debriefing_n20_jp","s":"BROGUN","en":"But I wonder …","cn":"但我在想……","jp":"だが…、"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n21","vojp":"vocs_bambooforest_debriefing_n21_jp","s":"BROGUN","en":"How far does your loyalty to my brother go?","cn":"你对我兄弟的忠心，能到什么程度？","jp":"その兄上への忠誠心とはどれほどのものか…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n21","vojp":"vocs_bambooforest_debriefing_n21_jp","s":"BROGUN","en":"How far does your loyalty to my brother go?","cn":"你对我兄弟的忠心，能到什么程度？","jp":"その兄上への忠誠心とはどれほどのものか…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n22","vojp":"vocs_bambooforest_debriefing_n22_jp","s":"BROGUN","en":"Far enough to sacrifice your friends …","cn":"高到可以牺牲掉这些人吗？","jp":"この者たちを犠牲にしても貫けるものか…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n22","vojp":"vocs_bambooforest_debriefing_n22_jp","s":"BROGUN","en":"Far enough to sacrifice your friends …","cn":"高到可以牺牲掉这些人吗？","jp":"この者たちを犠牲にしても貫けるものか…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n23","vojp":"vocs_bambooforest_debriefing_n23_jp","s":"BROGUN","en":"… these people you are so proud of.","cn":"这些你引以为傲的战友……","jp":"…お主の誇りである友たちが"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n23","vojp":"vocs_bambooforest_debriefing_n23_jp","s":"BROGUN","en":"… these people you are so proud of.","cn":"这些你引以为傲的战友……","jp":"…お主の誇りである友たちが"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n24","vojp":"vocs_bambooforest_debriefing_n24_jp","s":"BROGUN","en":"Would you rather watch them die …","cn":"你宁愿眼睁睁看着他们死去吗？","jp":"目の前で死ぬのを見たいと申すか…？"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n24","vojp":"vocs_bambooforest_debriefing_n24_jp","s":"BROGUN","en":"Would you rather watch them die …","cn":"你宁愿眼睁睁看着他们死去吗？","jp":"目の前で死ぬのを見たいと申すか…？"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n25","vojp":"vocs_bambooforest_debriefing_n25_jp","s":"WARRIOR","en":"Damn you! Damn you for all eternity!","cn":"该死！昇，你这个畜生！","jp":"おのれ、昇！この畜生めが！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n25","vojp":"vocs_bambooforest_debriefing_n25_jp","s":"WARRIOR","en":"Damn you! Damn you for all eternity!","cn":"该死！昇，你这个畜生！","jp":"おのれ、昇！この畜生めが！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n26","vojp":"vocs_bambooforest_debriefing_n26_jp","s":"BROGUN","en":"The boy, Mugen. Or she will be the first to die.","cn":"回答我的问题。否则第一个死的就是她。","jp":"言うことを聞くか？…さもなくばこの女が最初の犠牲者だ。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n26","vojp":"vocs_bambooforest_debriefing_n26_jp","s":"BROGUN","en":"The boy, Mugen. Or she will be the first to die.","cn":"回答我的问题。否则第一个死的就是她。","jp":"言うことを聞くか？…さもなくばこの女が最初の犠牲者だ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n27","vojp":"vocs_bambooforest_debriefing_n27_jp","s":"GEISHA","en":"… go ahead! I will face death with open eyes!","cn":"动手吧！我早已视死如归！","jp":"…好きにしろ！死など恐れるものか！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n27","vojp":"vocs_bambooforest_debriefing_n27_jp","s":"GEISHA","en":"… go ahead! I will face death with open eyes!","cn":"动手吧！我早已视死如归！","jp":"…好きにしろ！死など恐れるものか！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n28","vojp":"vocs_bambooforest_debriefing_n28_jp","s":"TRAPPER","en":"Aiko-san!","cn":"爱子小姐！","jp":"愛琥さんっ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n28","vojp":"vocs_bambooforest_debriefing_n28_jp","s":"TRAPPER","en":"Aiko-san!","cn":"爱子小姐！","jp":"愛琥さんっ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n29","vojp":"vocs_bambooforest_debriefing_n29_jp","s":"TRAPPER","en":"… agh!","cn":"……啊！","jp":"…あぁ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n29","vojp":"vocs_bambooforest_debriefing_n29_jp","s":"TRAPPER","en":"… agh!","cn":"……啊！","jp":"…あぁ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n30","vojp":"vocs_bambooforest_debriefing_n30_jp","s":"BROGUNSON","en":"Shut your mouth brat.","cn":"你给我老实点。","jp":"大人しくしているがよい。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n30","vojp":"vocs_bambooforest_debriefing_n30_jp","s":"BROGUNSON","en":"Shut your mouth brat.","cn":"你给我老实点。","jp":"大人しくしているがよい。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n31","vojp":"vocs_bambooforest_debriefing_n31_jp","s":"BROGUN","en":"A decision, Mugen. It does not have to be like this.","cn":"好了，无限。你要怎么选，都取决于你。","jp":"さぁ、武源。決断せよ。好きな方を選ぶがよい。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n31","vojp":"vocs_bambooforest_debriefing_n31_jp","s":"BROGUN","en":"A decision, Mugen. It does not have to be like this.","cn":"好了，无限。你要怎么选，都取决于你。","jp":"さぁ、武源。決断せよ。好きな方を選ぶがよい。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n32","vojp":"vocs_bambooforest_debriefing_n32_jp","s":"WARRIOR","en":"… My name is Oshiro Mugen. I am samurai.","cn":"……我是尾城无限，一名武士。","jp":"我が名は大代武源…、侍だ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n32","vojp":"vocs_bambooforest_debriefing_n32_jp","s":"WARRIOR","en":"… My name is Oshiro Mugen. I am samurai.","cn":"……我是尾城无限，一名武士。","jp":"我が名は大代武源…、侍だ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n33","vojp":"vocs_bambooforest_debriefing_n33_jp","s":"WARRIOR","en":"… A samurai must serve his lord …","cn":"……武士必须为主君献上一切……","jp":"…侍たるもの、我が主君に全てを捧げる…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n33","vojp":"vocs_bambooforest_debriefing_n33_jp","s":"WARRIOR","en":"… A samurai must serve his lord …","cn":"……武士必须为主君献上一切……","jp":"…侍たるもの、我が主君に全てを捧げる…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n34","vojp":"vocs_bambooforest_debriefing_n34_jp","s":"WARRIOR","en":"… Protect his lord","cn":"……保护主君……","jp":"…主君を守り"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n34","vojp":"vocs_bambooforest_debriefing_n34_jp","s":"WARRIOR","en":"… Protect his lord","cn":"……保护主君……","jp":"…主君を守り"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n35","vojp":"vocs_bambooforest_debriefing_n35_jp","s":"WARRIOR","en":"… Die for his lord …","cn":"……为主君献身……","jp":"…主君のために命を捧ぐ。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n35","vojp":"vocs_bambooforest_debriefing_n35_jp","s":"WARRIOR","en":"… Die for his lord …","cn":"……为主君献身……","jp":"…主君のために命を捧ぐ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n36","vojp":"vocs_bambooforest_debriefing_n36_jp","s":"WARRIOR","en":"… But I cannot!","cn":"……但我不能！","jp":"…だが、できぬ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n36","vojp":"vocs_bambooforest_debriefing_n36_jp","s":"WARRIOR","en":"… But I cannot!","cn":"……但我不能！","jp":"…だが、できぬ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n37","vojp":"vocs_bambooforest_debriefing_n37_jp","s":"WARRIOR","en":"I cannot let my companions die!","cn":"我不能眼看同伴牺牲!","jp":"友を死なせる事などできぬ！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n37","vojp":"vocs_bambooforest_debriefing_n37_jp","s":"WARRIOR","en":"I cannot let my companions die!","cn":"我不能眼看同伴牺牲!","jp":"友を死なせる事などできぬ！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n38","vojp":"vocs_bambooforest_debriefing_n38_jp","s":"GEISHA","en":"No …","cn":"不……","jp":"駄目よ…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n38","vojp":"vocs_bambooforest_debriefing_n38_jp","s":"GEISHA","en":"No …","cn":"不……","jp":"駄目よ…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n39","vojp":"vocs_bambooforest_debriefing_n39_jp","s":"WARRIOR","en":"My Shogun, forgive me!","cn":"将军大人，请恕罪！","jp":"上様、どうかお許しを！"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n39","vojp":"vocs_bambooforest_debriefing_n39_jp","s":"WARRIOR","en":"My Shogun, forgive me!","cn":"将军大人，请恕罪！","jp":"上様、どうかお許しを！"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n40","vojp":"vocs_bambooforest_debriefing_n40_jp","s":"BROGUN","en":"A wise choice Mugen.","cn":"此乃明智之举，无限。","jp":"利口な判断だ、武源。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n40","vojp":"vocs_bambooforest_debriefing_n40_jp","s":"BROGUN","en":"A wise choice Mugen.","cn":"此乃明智之举，无限。","jp":"利口な判断だ、武源。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n41","vojp":"vocs_bambooforest_debriefing_n41_jp","s":"WARRIOR","en":"Swear to me, on your life and the life of your son, that you will not harm my companions!","cn":"快发誓，用你和你儿子的性命发誓，不会对我的同伴下手！","jp":"誓え。貴様の命、貴様の息子の命に誓え。我が友に手は出さぬと。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n41","vojp":"vocs_bambooforest_debriefing_n41_jp","s":"WARRIOR","en":"Swear to me, on your life and the life of your son, that you will not harm my companions!","cn":"快发誓，用你和你儿子的性命发誓，不会对我的同伴下手！","jp":"誓え。貴様の命、貴様の息子の命に誓え。我が友に手は出さぬと。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n42","vojp":"vocs_bambooforest_debriefing_n42_jp","s":"BROGUN","en":"I will not touch them. On this you have my word.","cn":"可以，我保证不动他们。","jp":"…よかろう。手出しはせぬ。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n42","vojp":"vocs_bambooforest_debriefing_n42_jp","s":"BROGUN","en":"I will not touch them. On this you have my word.","cn":"可以，我保证不动他们。","jp":"…よかろう。手出しはせぬ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n43","vojp":"vocs_bambooforest_debriefing_n43_jp","s":"WARRIOR","en":"… then … I yield … you have won …","cn":"……那好……你赢了……就照你说的办……","jp":"…ならば…貴様の勝ちだ…言う通りにしよう…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n43","vojp":"vocs_bambooforest_debriefing_n43_jp","s":"WARRIOR","en":"… then … I yield … you have won …","cn":"……那好……你赢了……就照你说的办……","jp":"…ならば…貴様の勝ちだ…言う通りにしよう…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n44","vojp":"vocs_bambooforest_debriefing_n44_jp","s":"BROGUN","en":"Good. You will lead the way. Your friends will come with us.","cn":"好，你先去前面带路。你的同伴会和我一起赶上。","jp":"それでよい。お主は先に行ってもらう。友は私と共に来てもらう。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n44","vojp":"vocs_bambooforest_debriefing_n44_jp","s":"BROGUN","en":"Good. You will lead the way. Your friends will come with us.","cn":"好，你先去前面带路。你的同伴会和我一起赶上。","jp":"それでよい。お主は先に行ってもらう。友は私と共に来てもらう。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n45","vojp":"vocs_bambooforest_debriefing_n45_jp","s":"BROGUN","en":"Masaru, see that they are secured. They are not to be harmed, is that understood?","cn":"真申，看好他们。但不要对他们出手，明白吗？","jp":"勝、奴らを拘束せよ。傷つけぬようにな、よいか？"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n45","vojp":"vocs_bambooforest_debriefing_n45_jp","s":"BROGUN","en":"Masaru, see that they are secured. They are not to be harmed, is that understood?","cn":"真申，看好他们。但不要对他们出手，明白吗？","jp":"勝、奴らを拘束せよ。傷つけぬようにな、よいか？"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n46","vojp":"vocs_bambooforest_debriefing_n46_jp","s":"BROGUNSON","en":"Yes, father ...","cn":"遵命，父亲……","jp":"わかりました、父上…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n46","vojp":"vocs_bambooforest_debriefing_n46_jp","s":"BROGUNSON","en":"Yes, father ...","cn":"遵命，父亲……","jp":"わかりました、父上…。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n47","vojp":"vocs_bambooforest_debriefing_n47_jp","s":"BROGUNSON","en":"You, what are you waiting for?! Get to work.","cn":"你们还愣着干什么？赶紧干活。","jp":"おい、何をしている。仕事にとりかかれ。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n47","vojp":"vocs_bambooforest_debriefing_n47_jp","s":"BROGUNSON","en":"You, what are you waiting for?! Get to work.","cn":"你们还愣着干什么？赶紧干活。","jp":"おい、何をしている。仕事にとりかかれ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n48","vojp":"vocs_bambooforest_debriefing_n48_jp","s":"GEISHA","en":"I knew something was wrong. I should have known better …","cn":"我就知道有蹊跷。要是能早点发现……","jp":"何かおかしいと思っていたのよ。もっと早くに気づいていれば。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n48","vojp":"vocs_bambooforest_debriefing_n48_jp","s":"GEISHA","en":"I knew something was wrong. I should have known better …","cn":"我就知道有蹊跷。要是能早点发现……","jp":"何かおかしいと思っていたのよ。もっと早くに気づいていれば。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n49","vojp":"vocs_bambooforest_debriefing_n49_jp","s":"ALCHEMIST","en":"It does not matter. Save your strength. Dark things lie ahead.","cn":"没用了，还是省省力气吧，黑暗即将来临。","jp":"よしなさい。気を強く持つのじゃ…ここからが大変じゃ。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n49","vojp":"vocs_bambooforest_debriefing_n49_jp","s":"ALCHEMIST","en":"It does not matter. Save your strength. Dark things lie ahead.","cn":"没用了，还是省省力气吧，黑暗即将来临。","jp":"よしなさい。気を強く持つのじゃ…ここからが大変じゃ。"}
 ,
-{"lvl":"17","sec":"12","voen":"vocs_over_over_bambooforest_debriefing_n50","vojp":"vocs_bambooforest_debriefing_n50_jp","s":"NINJA","en":"Mugen …","cn":"无限……","jp":"武源…。"}
+{"sec":12,"voen":"vocs_over_over_bambooforest_debriefing_n50","vojp":"vocs_bambooforest_debriefing_n50_jp","s":"NINJA","en":"Mugen …","cn":"无限……","jp":"武源…。"}
 
 ]

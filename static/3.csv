@@ -1,136 +1,136 @@
-lvl,sec,voen,vojp,s,en,cn,jp
-3,27,vocs_over_over_convoy_briefing_n00,vocs_convoy_briefing_n00_jp,NINJA,Alright. That must be the transport. Wonder why it's stopped.,嗯，那一定是运输车队。奇怪，它怎么停下了。,よし。あれが輸送車か。何故止まっているんだ。
-3,27,vocs_over_over_convoy_briefing_n01,vocs_convoy_briefing_n01_jp,NINJA,Hmm … looks like the bridge gave in. That's fine with me ...,嗯……看起来是卡在桥上了，好机会……,ふむ…どうやら橋が壊れてしまったようだ。丁度良い…。
-3,27,vocs_over_over_convoy_briefing_n02,vocs_convoy_briefing_n02_jp,NINJA,"The ones with the flags are the officers. Think I'll kill at least four, just to be safe.",身上背旗的那些人就是军官。为了保险起见，我至少得杀四名军官。,旗付きのが士官か。念のため四人は仕留めておくか。
-3,27,vocs_over_over_convoy_briefing_n03,vocs_convoy_briefing_n03_jp,NINJA,I'll signal Mugen when I'm done. That statue looks like a good spot.,搞定之后就给无限发信号。那个雕像位置不错。,終わったら武源に合図を送るとしよう。あの像の辺りが丁度いい。
-3,27,vocs_over_over_convoy_briefing_n04,vocs_convoy_briefing_n04_jp,NINJA,Hm ... they are looking for something. Or someone. Better keep my head down.,嗯……他们正在找啥东西，也许是找某个人。看来要小心行事。,ふむ…奴らは何かを探しているようだ。誰かを、かもしれないな。目立たぬように行動せねば。
-3,28,vo_hint_hint_convoy_search_n00,vo_convoy_search_n00_jp,ENEMY,She must be hiding here somewhere!,她肯定藏在这附近！,この辺りに隠れたはずだ！
-3,28,vo_hint_hint_convoy_search_n01,vo_convoy_search_n01_jp,ENEMY,Keep searching!,继续给我找！,探せ！
-3,28,vo_hint_hint_convoy_search_n02,vo_convoy_search_n02_jp,ENEMY,"She's here, I know it!",她就藏这了，我知道！,そこにいるのは分かっている！
-3,29,vocs_over_over_convoy_trapper_n00,vocs_convoy_trapper_n00_jp,NINJA,Huh …?,嗯……？,ん…?
-3,29,vocs_over_over_convoy_trapper_n01,vocs_convoy_trapper_n01_jp,NINJA,"Hmm, a trap. Interesting …",嗯，陷阱。有点意思……,ふーむ、罠か。面白い…。
-3,29,vocs_over_over_convoy_trapper_n02,vocs_convoy_trapper_n02_jp,TRAPPER,Don't move ... what are you? A lonely wolf?,别动……你是谁？独行侠？,動かないで…あんた何者？一匹狼か？
-3,29,vocs_over_over_convoy_trapper_n03,vocs_convoy_trapper_n03_jp,NINJA,"… A child, huh? You're the one they're looking for.",……是个小孩，哈？他们就是在找你吧。,…ガキか。奴らが探していたのはお前か？
-3,29,vocs_over_over_convoy_trapper_n04,vocs_convoy_trapper_n04_jp,TRAPPER,N-no they're not! I'm silent like a cat!,不-不 不是找我！我身手可是很敏捷的！,いや、あたしじゃない！あたしは猫みたいに静かなんだ！
-3,29,vocs_over_over_convoy_trapper_n05,vocs_convoy_trapper_n05_jp,NINJA,What are you doing here?,你在这儿干什么？,こんな所で何をしているんだ？
-3,29,vocs_over_over_convoy_trapper_n06,vocs_convoy_trapper_n06_jp,TRAPPER,"I saw things on those wagons. They didn't look happy there, so I thought I'd take them with me.",马车上的货我都看见了。我看那些货物不高兴，所以我想带点货走。,この荷馬車の積荷を見かけて、こんな所じゃ可哀想だから、あたしが持って帰ってあげようと思ったんだ。
-3,29,vocs_over_over_convoy_trapper_n07,vocs_convoy_trapper_n07_jp,NINJA,Better run along now. Bad things happen to children out here. Go play somewhere else.,你现在赶紧离开这里。这里的状况对小孩来说太危险。到其他地方玩去。,そろそろ逃げた方が良い。ここはお子様のいる場所じゃない。他で遊びな。
-3,29,vocs_over_over_convoy_trapper_n08,vocs_convoy_trapper_n08_jp,TRAPPER,"You saw my little trap, right? I could help you. If you send me away, I'll just try on my own again.",你也看到我的小陷阱了，对吧？我能帮上忙。你要是打发我走，我就继续单干。,ねぇ、あたしの罠を見たでしょう？連れてったら役に立つよ。追っ払ったって着いてくけどね！
-3,29,vocs_over_over_convoy_trapper_n09,vocs_convoy_trapper_n09_jp,NINJA,"… I don't have time for this ... Fine, you can come along. But you do exactly what I tell you, got it?","…ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?",…お前の相手をしている暇はないんだが。まぁ、いいだろう。着いてこい。ただし言うことを聞くんだぞ？
-3,29,vocs_over_over_convoy_trapper_n10,vocs_convoy_trapper_n10_jp,TRAPPER,"Hai, sensei!",是，师傅！,はい、先生！
-3,29,vocs_over_over_convoy_trapper_n11,vocs_convoy_trapper_n11_jp,NINJA,… don't call me that.,……我不是你师傅。,…先生はやめろ。
-3,30,vocs_over_over_convoy_carrytra_n00,vocs_convoy_carrytra_n00_jp,TRAPPER,Uhh …,呃……,うーん…
-3,30,vocs_over_over_convoy_carrytra_n01,vocs_convoy_carrytra_n01_jp,NINJA,Teh … need help with that?,嘿……需要帮忙吗？,…手を貸そうか？
-3,30,vocs_over_over_convoy_carrytra_n02,vocs_convoy_carrytra_n02_jp,TRAPPER,"I'm fine, thank you.",我自己能搞定，谢谢。,大丈夫だよ、ありがとう。
-3,31,vocs_over_over_convoy_carrynin_n00,vocs_convoy_carrynin_n00_jp,NINJA,There we go.,开始行动。,よし行くぞ。
-3,31,vocs_over_over_convoy_carrynin_n01,vocs_convoy_carrynin_n01_jp,TRAPPER,Looks so easy for you.,对你来说简直易如反掌啊。,手際いいんだね。
-3,31,vocs_over_over_convoy_carrynin_n02,vocs_convoy_carrynin_n02_jp,NINJA,That's because I'm a grownup.,因为我是大人。,ま、大人だからな。
-3,32,vocs_over_over_convoy_usetrap_n00,vocs_convoy_usetrap_n00_jp,NINJA,Tight spot. This could get messy.,处境不妙啊。事情变得麻烦了。,参ったな。こりゃ厄介だ。
-3,32,vocs_over_over_convoy_usetrap_n01,vocs_convoy_usetrap_n01_jp,TRAPPER,Wait. I'll just call them with my bird's voice. They like that.,等等！我能用鸟声引诱他们！他们喜欢那声音！,待って、あたしが鳥の声真似をするよ。うまくいくよ！
-3,33,vocs_over_over_convoy_trapkill_n00,vocs_convoy_trapkill_n00_jp,TRAPPER,See? It works!,看到没？成功啦！,ほらね？うまくいったでしょ！
-3,33,vocs_over_over_convoy_trapkill_n01,vocs_convoy_trapkill_n01_jp,NINJA,Not bad. Who made you that trap?,还行。那陷阱谁给你做的？,悪くない。その罠は誰が作ったんだ？
-3,33,vocs_over_over_convoy_trapkill_n02,vocs_convoy_trapkill_n02_jp,TRAPPER,No one! I built it myself!,没人给我做！我自己做的！,あたしが自分で作ったんだよ！
-3,33,vocs_over_over_convoy_trapkill_n03,vocs_convoy_trapkill_n03_jp,NINJA,Sure you did.,我猜也是你做的。,ほぅ、そうか。
-3,34,vocs_over_over_convoy_shuriken_n00,vocs_convoy_shuriken_n00_jp,TRAPPER,"Ooh, shuriken! Can I have one?",哦，手里剑！能给我一个吗？,おお、手裏剣だ！あたしにもひとつちょうだい！
-3,34,vocs_over_over_convoy_shuriken_n01,vocs_convoy_shuriken_n01_jp,NINJA,Definitely not.,免谈。,絶対に駄目だ。
-3,34,vocs_over_over_convoy_shuriken_n02,vocs_convoy_shuriken_n02_jp,TRAPPER,Why not?,为啥不行？,どうして？
-3,34,vocs_over_over_convoy_shuriken_n03,vocs_convoy_shuriken_n03_jp,NINJA,Teh …,哈……,ふっ…。
-3,34,vocs_over_over_convoy_shuriken_n03a,vocs_convoy_shuriken_n03a_jp,NINJA,No spares.,就这一枚。,予備がない。
-3,34,vocs_over_over_convoy_shuriken_n03b,vocs_convoy_shuriken_n03b_jp,NINJA,Because not.,因为不行。,駄目なものは駄目だ。
-3,35,vocs_over_over_convoy_knifed_n00,vocs_convoy_knifed_n00_jp,NINJA,You're quick with that knife.,你匕首玩的挺溜啊。,見事な太刀筋だ。
-3,35,vocs_over_over_convoy_knifed_n01,vocs_convoy_knifed_n01_jp,TRAPPER,"Thank you, sensei!",谢谢师傅夸奖！,ありがとう、先生！
-3,35,vocs_over_over_convoy_knifed_n02,vocs_convoy_knifed_n02_jp,NINJA,I told you: Don't call me that.,我说过：我不是你师傅。,その呼び方はやめろと言っただろう？
-3,36,vocs_over_over_convoy_jumps_n00,vocs_convoy_jumps_n00_jp,NINJA,More wagons this way …,这条路上马车真多……,こっちにはもっと荷馬車が…。
-3,36,vocs_over_over_convoy_jumps_n01,vocs_convoy_jumps_n01_jp,TRAPPER,Lazy wagons. No one looks up there. Let's jump on top!,慢吞吞的马车。没人看上面。咱们跳上车吧！,怠けた荷馬車だね。上には誰も注意を払っちゃいない。飛び乗ってやろうよ。
-3,36,vocs_over_over_convoy_jumps_n02,vocs_convoy_jumps_n02_jp,NINJA,"Not a bad idea, actually.",说实话你这主意还不错。,悪い策ではない。
-3,37,vocs_over_over_convoy_vertical_n00,vocs_convoy_vertical_n00_jp,TRAPPER,Hep.,嘿。,よっと。
-3,37,vocs_over_over_convoy_vertical_n01,vocs_convoy_vertical_n01_jp,NINJA,Good balance. Who taught you?,平衡能力不错。谁教你的？,筋がいい。誰に教わった？
-3,37,vocs_over_over_convoy_vertical_n02,vocs_convoy_vertical_n02_jp,TRAPPER,Alley cats.,巷子里的猫。,野良猫さ。
-3,37,vocs_over_over_convoy_vertical_n03,vocs_convoy_vertical_n03_jp,NINJA,Teh ... Alley cats!,哈……巷子里的猫。,ふん…野良猫か！
-3,38,vocs_over_over_convoy_rock_n00,vocs_convoy_rock_n00_jp,NINJA,See that large rock on the cliff? What does it tell you?,看到悬崖上的那块巨石没？知道那是啥意思吗？,崖の上の大きな岩が見えるか？どんな石に見える？
-3,38,vocs_over_over_convoy_rock_n01,vocs_convoy_rock_n01_jp,TRAPPER,"Hm, beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below.",嗯，真是块美人石。已经摇摇欲坠了。没准她在等下面的人呢。,うーん。美しい石だね。崖から身を乗り出すのが好きな石。誰かが下を通りかかるのを待っているのかもね。
-3,38,vocs_over_over_convoy_rock_n02,vocs_convoy_rock_n02_jp,NINJA,My thoughts exactly.,和我想法一样。,まったく同感だ。
-3,38,vocs_over_over_convoy_rock_n02a,vocs_convoy_rock_n02a_jp,NINJA,"Eh … not the word's I'd choose, but good in theory.",呃……虽然我不会那样说，但理论上可行。,あー…俺が使うような言葉ではないが、まあ原理は同じだ。
-3,39,vocs_over_over_convoy_wagon_n00,vocs_convoy_wagon_n00_jp,NINJA,You see the wagon there? The one with the cannons?,你看到那边的马车没？装火炮的那辆？,あそこの荷馬車が見えるか？大砲が乗ってるやつだ。
-3,39,vocs_over_over_convoy_wagon_n01,vocs_convoy_wagon_n01_jp,TRAPPER,"Oh, the wagon's wheels are blocked! He wants to be free!",哦，那马车的轮子被挡住了！它想要自由！,お、車輪が止められてるね！自由になりたがってるよ！
-3,39,vocs_over_over_convoy_wagon_n02,vocs_convoy_wagon_n02_jp,NINJA,Then we should remove those brakes.,那我们就该把那些刹车移走。,ならば止め具を破壊するべきだ。
-3,39,vocs_over_over_convoy_wagon_n02a,vocs_convoy_wagon_n02a_jp,NINJA,"Uhuh … well, if we ""free"" it at the right time, it could work out for us.","啊……好吧，要是我们看准时机""放""它走，它还能帮上忙呢。",ああ…頃合よく「自由に」すれば、うまく使えるかもしれぬ。
-3,40,vocs_over_over_convoy_oxen_n00,vocs_convoy_oxen_n00_jp,NINJA,Oxen … dangerous if provoked. Why not make use of that ...,公牛……被激怒的话很危险。没准可以利用一下……,牡牛…怒らせると危険だ。それをうまく利用したらどうだ…。
-3,40,vocs_over_over_convoy_oxen_n01,vocs_convoy_oxen_n01_jp,TRAPPER,Don't hurt him!,别伤害他！,傷つけないで！
-3,40,vocs_over_over_convoy_oxen_n02,vocs_convoy_oxen_n02_jp,NINJA,"The ox? No, he just needs a little poke.",公牛？不会的，只是稍微刺激他一下。,牡牛を？いや、ちょいと突くだけで十分だ。
-3,41,vocs_over_over_convoy_monk_n00,vocs_convoy_monk_n00_jp,TRAPPER,Strange man with bright clothes ...,那人好奇怪，衣服还那么亮……,鮮やかな服の怪しい男…。
-3,41,vocs_over_over_convoy_monk_n01,vocs_convoy_monk_n01_jp,NINJA,Huh … yellow robes … why did they take a monk with them?,呃……黄色长袍……他们为啥还带着位和尚？,ふーん…黄色の着物…なにゆえ奴らは僧侶と行動を？
-3,41,vocs_over_over_convoy_monk_n02,vocs_convoy_monk_n02_jp,TRAPPER,Maybe he's praying for safe travel?,也许他是为了祈祷旅途平安？,旅の安全祈願でもしてるのかしら？
-3,41,vocs_over_over_convoy_monk_n03,vocs_convoy_monk_n03_jp,NINJA,"Well, he's not doing a good job then.",好吧，那他绝对是在干坏事。,ならば祈りは効かなかったという事だろう。
-3,42,vo_hint_hint_convoy_work_n00,vo_convoy_work_n00_jp,CIVILIAN M,The men are working hard. I hope we can move soon.,人们正在努力修桥。希望车队很快就能走了。,男たちは一生懸命働いている。早く動けるとよいな。
-3,42,vo_hint_hint_convoy_work_n01,vo_convoy_work_n01_jp,CIVILIAN F,"The journey was rough, some rest'll do us good.",旅途劳累，小憩片刻还是不错的。,この旅はつらかった。休めばいい事あるさ。
-3,43,vo_hint_hint_convoy_drunk1_n00,vo_convoy_drunk1_n00_jp,ENEMY,... more sake …,……再来点清酒……,…酒をもっと…。
-3,43,vo_hint_hint_convoy_drunk1_n01,vo_convoy_drunk1_n01_jp,CIVILIAN F,"I beg you, stop. Your behaviour is disgraceful.",求求你，住手。你的行为太可耻了。,お願いだからやめてください。なんと恥ずかしい人なのか。
-3,43,vo_gothic_gothic_convoy_drunk1_n02,vo_convoy_drunk1_n02_jp,ENEMY,… More sake!,……再来点清酒！,…酒はどこだ！
-3,44,vo_gothic_gothic_convoy_drunk2_n00,vo_convoy_drunk2_n00_jp,ENEMY,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n01,vo_convoy_drunk2_n01_jp,STATIC,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n02,vo_convoy_drunk2_n02_jp,ENEMY,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n03,vo_convoy_drunk2_n03_jp,STATIC,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n04,vo_convoy_drunk2_n04_jp,ENEMY,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n05,vo_convoy_drunk2_n05_jp,STATIC,,,
-3,44,vo_gothic_gothic_convoy_drunk2_n06,vo_convoy_drunk2_n06_jp,ENEMY,Mmmm …,嗯……,
-3,44,vo_gothic_gothic_convoy_drunk2_n07,vo_convoy_drunk2_n07_jp,STATIC,Mmmm …,嗯……,
-3,45,vo_hint_hint_convoy_nervous_n00,vo_convoy_nervous_n00_jp,ENEMY,How much longer must we wait? This place makes me nervous.,我们还得等多久？这地方弄得我很紧张。,あとどのくらいかかるんだ？この場所はおっかねえよ。
-3,45,vo_hint_hint_convoy_nervous_n01,vo_convoy_nervous_n01_jp,STATIC,Calm down. Kage-sama has paid off the local bandits. No one will attack us.,冷静点儿。影大人已经向当地土匪付过钱了。没人会袭击我们。,落ち着け。カゲサマが地元の盗賊団に金を握らせたんだ。誰も襲っちゃこないさ。
-3,46,vo_hint_hint_convoy_officer1_n00,vo_convoy_officer1_n00_jp,OFFICER,This is going too slow.,这进度太慢了。,遅すぎる。
-3,46,vo_hint_hint_convoy_officer1_n01,vo_convoy_officer1_n01_jp,OFFICER,We are losing time.,我们快没时间了。,時間がもったいないぞ。
-3,46,vo_hint_hint_convoy_officer1_n02,vo_convoy_officer1_n02_jp,OFFICER,Lazy peasants.,那些农民真懒。,怠けた百姓め。
-3,46,vo_hint_hint_convoy_officer1_n03,vo_convoy_officer1_n03_jp,OFFICER,Just my luck.,真倒霉。,ついてないぜ。
-3,46,vo_hint_hint_convoy_officer1_n04,vo_convoy_officer1_n04_jp,OFFICER,"Keep drinking, you stupid ox.",让你一次喝个够，你这头蠢牛。,どんどん飲めよ、阿呆の牛め。
-3,46,vo_hint_hint_convoy_officer1_n05,vo_convoy_officer1_n05_jp,OFFICER,Our lord won't be pleased.,大人肯定生气了。,君主様はお気に召さないぞ。
-3,47,vocs_over_over_convoy_officer1_n00,vocs_convoy_officer1_n00_jp,NINJA,One down.,干掉一个。,一人目完了。
-3,47,vocs_over_over_convoy_officer1_n01,vocs_convoy_officer1_n01_jp,TRAPPER,One flag down.,一面旗子倒下了。,一旗目完了。
-3,48,vo_hint_hint_convoy_officer2_n00,vo_convoy_officer2_n00_jp,OFFICER,Watch the cliffs.,注意悬崖上面。,崖を見張れ。
-3,48,vo_hint_hint_convoy_officer2_n01,vo_convoy_officer2_n01_jp,OFFICER,Don't lose focus.,别走神。,油断するな。
-3,48,vo_hint_hint_convoy_officer2_n02,vo_convoy_officer2_n02_jp,OFFICER,Keep sharp.,眼睛睁大点。,集中しろよ。
-3,48,vo_hint_hint_convoy_officer2_n03,vo_convoy_officer2_n03_jp,OFFICER,No one must touch these wagons.,不要让任何人接近这些马车。,誰もこの荷馬車に触れさせちゃならねぇ。
-3,48,vo_hint_hint_convoy_officer2_n04,vo_convoy_officer2_n04_jp,OFFICER,Just keep an eye on the peasants.,盯紧这些农民。,百姓どもを見張ってろよ。
-3,49,vocs_over_over_convoy_officer2_n00,vocs_convoy_officer2_n00_jp,NINJA,Two down.,干掉两个了。,二人目完了。
-3,49,vocs_over_over_convoy_officer2_n01,vocs_convoy_officer2_n01_jp,TRAPPER,Two flags down.,两面旗子倒下了。,二旗目完了。
-3,50,vo_hint_hint_convoy_officer3_n00,vo_convoy_officer3_n00_jp,OFFICER,Are they done yet?,他们还没搞定吗？,まだ終わらんのか？
-3,50,vo_hint_hint_convoy_officer3_n01,vo_convoy_officer3_n01_jp,OFFICER,Any news?,有消息吗？,進捗は？
-3,50,vo_hint_hint_convoy_officer3_n02,vo_convoy_officer3_n02_jp,OFFICER,What is taking so long?,怎么花这么长时间？,なぜこんなに時間がかかるのだ？
-3,50,vo_hint_hint_convoy_officer3_n03,vo_convoy_officer3_n03_jp,OFFICER,What now?,现在啥情况？,今ならどうだ？
-3,50,vo_hint_hint_convoy_officer3_n04,vo_convoy_officer3_n04_jp,OFFICER,Is the wagon still stuck?,马车还被卡着吗？,荷馬車はまだつっかえてるのか？
-3,50,vo_hint_hint_convoy_officer3_n05,vo_convoy_officer3_n05_jp,OFFICER,Tell me.,告诉我。,教えろよ。
-3,51,vocs_over_over_convoy_officer3_n00,vocs_convoy_officer3_n00_jp,TRAPPER,"Three down, haha.",干掉三个了，哈哈。,三人目完了、はは。
-3,51,vocs_over_over_convoy_officer3_n01,vocs_convoy_officer3_n01_jp,NINJA,Aren't you a bit too good at this?,这事你咋干得这么熟练？,ちょいと上手すぎるんじゃないのか？
-3,51,vocs_over_over_convoy_officer3_n02,vocs_convoy_officer3_n02_jp,TRAPPER,What do you mean?,你什么意思?,どういう意味だい？
-3,51,vocs_over_over_convoy_officer3_n03,vocs_convoy_officer3_n03_jp,NINJA,Never mind. One to go.,没什么。还差一个。,何でもない。あと一人。
-3,52,vo_hint_hint_convoy_officer4_n00,vo_convoy_officer4_n00_jp,OFFICER,Sake.,上酒。,酒
-3,52,vo_hint_hint_convoy_officer4_n01,vo_convoy_officer4_n01_jp,CIVILIAN F,Hai!,是！,はい！
-3,52,vo_hint_hint_convoy_officer4_n02,vo_convoy_officer4_n02_jp,OFFICER,Hmm.,嗯。,うーん
-3,53,vocs_over_over_convoy_officer4_n00,vocs_convoy_officer4_n00_jp,NINJA,Four down.,干掉四个了。,四人目完了。
-3,53,vocs_over_over_convoy_officer4_n01,vocs_convoy_officer4_n01_jp,TRAPPER,Four flags. What now?,四面旗子。接下来干啥？,旗四つ。次は？
-3,53,vocs_over_over_convoy_officer4_n02,vocs_convoy_officer4_n02_jp,NINJA,Now we have to signal Mugen at the statue.,现在我们去雕像那给无限发信号。,像の場所で武源に合図を送らねばならん。
-3,53,vocs_over_over_convoy_officer4_n03,vocs_convoy_officer4_n03_jp,TRAPPER,Who's Mugen?,谁是无限？,武源って誰？
-3,53,vocs_over_over_convoy_officer4_n04,vocs_convoy_officer4_n04_jp,NINJA,Wait and see.,到时候你就知道了。,すぐに分かる。
-3,54,vo_hint_hint_convoy_officer5_n00,vo_convoy_officer5_n00_jp,OFFICER,Tehehe.,呵呵呵。,てへへ。
-3,54,vo_hint_hint_convoy_officer5_n01,vo_convoy_officer5_n01_jp,OFFICER,What are you looking at?,你在看什么呢？,何を見ている？
-3,54,vo_hint_hint_convoy_officer5_n02,vo_convoy_officer5_n02_jp,OFFICER,Attention!,立正！,注目！
-3,54,vo_hint_hint_convoy_officer5_n03,vo_convoy_officer5_n03_jp,OFFICER,Ugly thing.,丑东西。,醜い奴だ。
-3,54,vo_hint_hint_convoy_officer5_n04,vo_convoy_officer5_n04_jp,OFFICER,"Safe travel, eh.",旅途平安，呃。,安全祈願、ね。
-3,55,vocs_over_over_convoy_debriefing_n00,vocs_convoy_debriefing_n00_jp,NINJA,Keep your head down.,把头低下。,頭を下げていろ。
-3,55,vocs_over_over_convoy_debriefing_n01,vocs_convoy_debriefing_n01_jp,TRAPPER,"H-hai, sensei!",是-是，师傅！,は、はい、先生！
-3,55,vocs_over_over_convoy_debriefing_n02,vocs_convoy_debriefing_n02_jp,WARRIOR,Forward men! For the Shogun!,冲啊！为了将军！,全体進め！上様のために！
-3,56,vocs_over_over_convoy_debriefing_n03,vocs_convoy_debriefing_n03_jp,WARRIOR,We took the wagons with little resistance. Your skills are as sharp as ever.,没遇到啥抵抗就拿下了这批马车。你果真名不虚传。,抵抗もほとんどなく荷馬車を抑えた。相変わらず切れる腕前だな。
-3,56,vocs_over_over_convoy_debriefing_n04,vocs_convoy_debriefing_n04_jp,NINJA,"Got to admit, I had a little assistance.",不得不承认，有人帮了我点小忙。,正直に申すと、ちょいと手助けがあったのでな。
-3,56,vocs_over_over_convoy_debriefing_n05,vocs_convoy_debriefing_n05_jp,WARRIOR,"Ah yes, I saw your companion. What do you think of her?",啊对，我看到你同伴了。你认为她怎么样？,ああ、連れを見た。彼女はどうだ？
-3,56,vocs_over_over_convoy_debriefing_n09,vocs_convoy_debriefing_n09_jp,NINJA,"She's a bit wild maybe, but she has talent.",虽然有点儿野，但很有天赋。,ちょいと手荒だが、才能は確かだ。
-3,56,vocs_over_over_convoy_debriefing_n10,vocs_convoy_debriefing_n10_jp,NINJA,Either that or I'm getting careless ... How did she sneak up on me …,要么是她聪明要么是我粗心……她是怎么溜到我背后的……,それか俺が不注意になっているのか…どうやって俺に忍び寄ったのか…。
-3,56,vocs_over_over_convoy_debriefing_n11,vocs_convoy_debriefing_n11_jp,WARRIOR,"What was that, Hayato-san?",怎么回事，隼人先生?,何だって、隼人殿？
-3,56,vocs_over_over_convoy_debriefing_n12,vocs_convoy_debriefing_n12_jp,NINJA,"Nothing. Nothing. See you at the safe house, right?",没事，没事。安全屋见，对吧？,何でもない。隠れ家で落ち合うんだったな？
-3,56,vocs_over_over_convoy_debriefing_n06,vocs_convoy_debriefing_n06_jp,WARRIOR,"What is your name, young woman?",你叫什么名字，年轻人？,名は何と申す、少女よ？
-3,56,vocs_over_over_convoy_debriefing_n07,vocs_convoy_debriefing_n07_jp,TRAPPER,"Yuki, master samurai.",友希，武士大人。,雪です。お侍様。
-3,56,vocs_over_over_convoy_debriefing_n08,vocs_convoy_debriefing_n08_jp,WARRIOR,A fine name. I am ?shiro Mugen. No need to be afraid.,好名字。我是尾城无限。不用害怕。,いい名だ。私は大代武源。恐れることはない。
-3,56,vocs_over_over_convoy_debriefing_n15,vocs_convoy_debriefing_n15_jp,TRAPPER,Are you a friend of Hayato-san?,你是隼人先生的朋友吗？,隼人先生のお友達ですか？
-3,56,vocs_over_over_convoy_debriefing_n16,vocs_convoy_debriefing_n16_jp,WARRIOR,I like to think so. Though he might not see it that way.,我认为是，但他可能不这么看。,そうだと思いたい。奴はそうは思っておらんかも知れぬがな。
-3,56,vocs_over_over_convoy_debriefing_n17,vocs_convoy_debriefing_n17_jp,TRAPPER,Master samurai? Can I stay with you two? Just for a while?,武士大人？我能留下来跟你们两个在一起吗？一阵就好？,お侍様？お二人と一緒にいていいですか？ちょっとだけ？
-3,56,vocs_over_over_convoy_debriefing_n18,vocs_convoy_debriefing_n18_jp,WARRIOR,"I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger …",我不知道该拿你怎么办。隼人先生对你印象深刻。但是，把一个孩子放在如此危险……,どうするか考えておったところだ。隼人殿は実に感心しておるようだが。しかし、幼子をこんな危険な目に…。
-3,56,vocs_over_over_convoy_debriefing_n19,vocs_convoy_debriefing_n19_jp,TRAPPER,"Please, I … I want him to be my sensei! He's got tricks that I can learn from no one else!",拜托了，我……我想让他做我的师傅！他的招数太酷了！,お願いです…あたしはあの方の弟子になりたい！あの方の技を覚えたいんです！
-3,56,vocs_over_over_convoy_debriefing_n20,vocs_convoy_debriefing_n20_jp,WARRIOR,Hmmm ... I will consider it.,嗯……我会考虑的。,うーむ…考えておこう。
+sec,voen,vojp,s,en,cn,jp
+27,vocs_over_over_convoy_briefing_n00,vocs_convoy_briefing_n00_jp,NINJA,Alright. That must be the transport. Wonder why it's stopped.,嗯，那一定是运输车队。奇怪，它怎么停下了。,よし。あれが輸送車か。何故止まっているんだ。
+27,vocs_over_over_convoy_briefing_n01,vocs_convoy_briefing_n01_jp,NINJA,Hmm … looks like the bridge gave in. That's fine with me ...,嗯……看起来是卡在桥上了，好机会……,ふむ…どうやら橋が壊れてしまったようだ。丁度良い…。
+27,vocs_over_over_convoy_briefing_n02,vocs_convoy_briefing_n02_jp,NINJA,"The ones with the flags are the officers. Think I'll kill at least four, just to be safe.",身上背旗的那些人就是军官。为了保险起见，我至少得杀四名军官。,旗付きのが士官か。念のため四人は仕留めておくか。
+27,vocs_over_over_convoy_briefing_n03,vocs_convoy_briefing_n03_jp,NINJA,I'll signal Mugen when I'm done. That statue looks like a good spot.,搞定之后就给无限发信号。那个雕像位置不错。,終わったら武源に合図を送るとしよう。あの像の辺りが丁度いい。
+27,vocs_over_over_convoy_briefing_n04,vocs_convoy_briefing_n04_jp,NINJA,Hm ... they are looking for something. Or someone. Better keep my head down.,嗯……他们正在找啥东西，也许是找某个人。看来要小心行事。,ふむ…奴らは何かを探しているようだ。誰かを、かもしれないな。目立たぬように行動せねば。
+28,vo_hint_hint_convoy_search_n00,vo_convoy_search_n00_jp,ENEMY,She must be hiding here somewhere!,她肯定藏在这附近！,この辺りに隠れたはずだ！
+28,vo_hint_hint_convoy_search_n01,vo_convoy_search_n01_jp,ENEMY,Keep searching!,继续给我找！,探せ！
+28,vo_hint_hint_convoy_search_n02,vo_convoy_search_n02_jp,ENEMY,"She's here, I know it!",她就藏这了，我知道！,そこにいるのは分かっている！
+29,vocs_over_over_convoy_trapper_n00,vocs_convoy_trapper_n00_jp,NINJA,Huh …?,嗯……？,ん…?
+29,vocs_over_over_convoy_trapper_n01,vocs_convoy_trapper_n01_jp,NINJA,"Hmm, a trap. Interesting …",嗯，陷阱。有点意思……,ふーむ、罠か。面白い…。
+29,vocs_over_over_convoy_trapper_n02,vocs_convoy_trapper_n02_jp,TRAPPER,Don't move ... what are you? A lonely wolf?,别动……你是谁？独行侠？,動かないで…あんた何者？一匹狼か？
+29,vocs_over_over_convoy_trapper_n03,vocs_convoy_trapper_n03_jp,NINJA,"… A child, huh? You're the one they're looking for.",……是个小孩，哈？他们就是在找你吧。,…ガキか。奴らが探していたのはお前か？
+29,vocs_over_over_convoy_trapper_n04,vocs_convoy_trapper_n04_jp,TRAPPER,N-no they're not! I'm silent like a cat!,不-不 不是找我！我身手可是很敏捷的！,いや、あたしじゃない！あたしは猫みたいに静かなんだ！
+29,vocs_over_over_convoy_trapper_n05,vocs_convoy_trapper_n05_jp,NINJA,What are you doing here?,你在这儿干什么？,こんな所で何をしているんだ？
+29,vocs_over_over_convoy_trapper_n06,vocs_convoy_trapper_n06_jp,TRAPPER,"I saw things on those wagons. They didn't look happy there, so I thought I'd take them with me.",马车上的货我都看见了。我看那些货物不高兴，所以我想带点货走。,この荷馬車の積荷を見かけて、こんな所じゃ可哀想だから、あたしが持って帰ってあげようと思ったんだ。
+29,vocs_over_over_convoy_trapper_n07,vocs_convoy_trapper_n07_jp,NINJA,Better run along now. Bad things happen to children out here. Go play somewhere else.,你现在赶紧离开这里。这里的状况对小孩来说太危险。到其他地方玩去。,そろそろ逃げた方が良い。ここはお子様のいる場所じゃない。他で遊びな。
+29,vocs_over_over_convoy_trapper_n08,vocs_convoy_trapper_n08_jp,TRAPPER,"You saw my little trap, right? I could help you. If you send me away, I'll just try on my own again.",你也看到我的小陷阱了，对吧？我能帮上忙。你要是打发我走，我就继续单干。,ねぇ、あたしの罠を見たでしょう？連れてったら役に立つよ。追っ払ったって着いてくけどね！
+29,vocs_over_over_convoy_trapper_n09,vocs_convoy_trapper_n09_jp,NINJA,"… I don't have time for this ... Fine, you can come along. But you do exactly what I tell you, got it?","…ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?",…お前の相手をしている暇はないんだが。まぁ、いいだろう。着いてこい。ただし言うことを聞くんだぞ？
+29,vocs_over_over_convoy_trapper_n10,vocs_convoy_trapper_n10_jp,TRAPPER,"Hai, sensei!",是，师傅！,はい、先生！
+29,vocs_over_over_convoy_trapper_n11,vocs_convoy_trapper_n11_jp,NINJA,… don't call me that.,……我不是你师傅。,…先生はやめろ。
+30,vocs_over_over_convoy_carrytra_n00,vocs_convoy_carrytra_n00_jp,TRAPPER,Uhh …,呃……,うーん…
+30,vocs_over_over_convoy_carrytra_n01,vocs_convoy_carrytra_n01_jp,NINJA,Teh … need help with that?,嘿……需要帮忙吗？,…手を貸そうか？
+30,vocs_over_over_convoy_carrytra_n02,vocs_convoy_carrytra_n02_jp,TRAPPER,"I'm fine, thank you.",我自己能搞定，谢谢。,大丈夫だよ、ありがとう。
+31,vocs_over_over_convoy_carrynin_n00,vocs_convoy_carrynin_n00_jp,NINJA,There we go.,开始行动。,よし行くぞ。
+31,vocs_over_over_convoy_carrynin_n01,vocs_convoy_carrynin_n01_jp,TRAPPER,Looks so easy for you.,对你来说简直易如反掌啊。,手際いいんだね。
+31,vocs_over_over_convoy_carrynin_n02,vocs_convoy_carrynin_n02_jp,NINJA,That's because I'm a grownup.,因为我是大人。,ま、大人だからな。
+32,vocs_over_over_convoy_usetrap_n00,vocs_convoy_usetrap_n00_jp,NINJA,Tight spot. This could get messy.,处境不妙啊。事情变得麻烦了。,参ったな。こりゃ厄介だ。
+32,vocs_over_over_convoy_usetrap_n01,vocs_convoy_usetrap_n01_jp,TRAPPER,Wait. I'll just call them with my bird's voice. They like that.,等等！我能用鸟声引诱他们！他们喜欢那声音！,待って、あたしが鳥の声真似をするよ。うまくいくよ！
+33,vocs_over_over_convoy_trapkill_n00,vocs_convoy_trapkill_n00_jp,TRAPPER,See? It works!,看到没？成功啦！,ほらね？うまくいったでしょ！
+33,vocs_over_over_convoy_trapkill_n01,vocs_convoy_trapkill_n01_jp,NINJA,Not bad. Who made you that trap?,还行。那陷阱谁给你做的？,悪くない。その罠は誰が作ったんだ？
+33,vocs_over_over_convoy_trapkill_n02,vocs_convoy_trapkill_n02_jp,TRAPPER,No one! I built it myself!,没人给我做！我自己做的！,あたしが自分で作ったんだよ！
+33,vocs_over_over_convoy_trapkill_n03,vocs_convoy_trapkill_n03_jp,NINJA,Sure you did.,我猜也是你做的。,ほぅ、そうか。
+34,vocs_over_over_convoy_shuriken_n00,vocs_convoy_shuriken_n00_jp,TRAPPER,"Ooh, shuriken! Can I have one?",哦，手里剑！能给我一个吗？,おお、手裏剣だ！あたしにもひとつちょうだい！
+34,vocs_over_over_convoy_shuriken_n01,vocs_convoy_shuriken_n01_jp,NINJA,Definitely not.,免谈。,絶対に駄目だ。
+34,vocs_over_over_convoy_shuriken_n02,vocs_convoy_shuriken_n02_jp,TRAPPER,Why not?,为啥不行？,どうして？
+34,vocs_over_over_convoy_shuriken_n03,vocs_convoy_shuriken_n03_jp,NINJA,Teh …,哈……,ふっ…。
+34,vocs_over_over_convoy_shuriken_n03a,vocs_convoy_shuriken_n03a_jp,NINJA,No spares.,就这一枚。,予備がない。
+34,vocs_over_over_convoy_shuriken_n03b,vocs_convoy_shuriken_n03b_jp,NINJA,Because not.,因为不行。,駄目なものは駄目だ。
+35,vocs_over_over_convoy_knifed_n00,vocs_convoy_knifed_n00_jp,NINJA,You're quick with that knife.,你匕首玩的挺溜啊。,見事な太刀筋だ。
+35,vocs_over_over_convoy_knifed_n01,vocs_convoy_knifed_n01_jp,TRAPPER,"Thank you, sensei!",谢谢师傅夸奖！,ありがとう、先生！
+35,vocs_over_over_convoy_knifed_n02,vocs_convoy_knifed_n02_jp,NINJA,I told you: Don't call me that.,我说过：我不是你师傅。,その呼び方はやめろと言っただろう？
+36,vocs_over_over_convoy_jumps_n00,vocs_convoy_jumps_n00_jp,NINJA,More wagons this way …,这条路上马车真多……,こっちにはもっと荷馬車が…。
+36,vocs_over_over_convoy_jumps_n01,vocs_convoy_jumps_n01_jp,TRAPPER,Lazy wagons. No one looks up there. Let's jump on top!,慢吞吞的马车。没人看上面。咱们跳上车吧！,怠けた荷馬車だね。上には誰も注意を払っちゃいない。飛び乗ってやろうよ。
+36,vocs_over_over_convoy_jumps_n02,vocs_convoy_jumps_n02_jp,NINJA,"Not a bad idea, actually.",说实话你这主意还不错。,悪い策ではない。
+37,vocs_over_over_convoy_vertical_n00,vocs_convoy_vertical_n00_jp,TRAPPER,Hep.,嘿。,よっと。
+37,vocs_over_over_convoy_vertical_n01,vocs_convoy_vertical_n01_jp,NINJA,Good balance. Who taught you?,平衡能力不错。谁教你的？,筋がいい。誰に教わった？
+37,vocs_over_over_convoy_vertical_n02,vocs_convoy_vertical_n02_jp,TRAPPER,Alley cats.,巷子里的猫。,野良猫さ。
+37,vocs_over_over_convoy_vertical_n03,vocs_convoy_vertical_n03_jp,NINJA,Teh ... Alley cats!,哈……巷子里的猫。,ふん…野良猫か！
+38,vocs_over_over_convoy_rock_n00,vocs_convoy_rock_n00_jp,NINJA,See that large rock on the cliff? What does it tell you?,看到悬崖上的那块巨石没？知道那是啥意思吗？,崖の上の大きな岩が見えるか？どんな石に見える？
+38,vocs_over_over_convoy_rock_n01,vocs_convoy_rock_n01_jp,TRAPPER,"Hm, beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below.",嗯，真是块美人石。已经摇摇欲坠了。没准她在等下面的人呢。,うーん。美しい石だね。崖から身を乗り出すのが好きな石。誰かが下を通りかかるのを待っているのかもね。
+38,vocs_over_over_convoy_rock_n02,vocs_convoy_rock_n02_jp,NINJA,My thoughts exactly.,和我想法一样。,まったく同感だ。
+38,vocs_over_over_convoy_rock_n02a,vocs_convoy_rock_n02a_jp,NINJA,"Eh … not the word's I'd choose, but good in theory.",呃……虽然我不会那样说，但理论上可行。,あー…俺が使うような言葉ではないが、まあ原理は同じだ。
+39,vocs_over_over_convoy_wagon_n00,vocs_convoy_wagon_n00_jp,NINJA,You see the wagon there? The one with the cannons?,你看到那边的马车没？装火炮的那辆？,あそこの荷馬車が見えるか？大砲が乗ってるやつだ。
+39,vocs_over_over_convoy_wagon_n01,vocs_convoy_wagon_n01_jp,TRAPPER,"Oh, the wagon's wheels are blocked! He wants to be free!",哦，那马车的轮子被挡住了！它想要自由！,お、車輪が止められてるね！自由になりたがってるよ！
+39,vocs_over_over_convoy_wagon_n02,vocs_convoy_wagon_n02_jp,NINJA,Then we should remove those brakes.,那我们就该把那些刹车移走。,ならば止め具を破壊するべきだ。
+39,vocs_over_over_convoy_wagon_n02a,vocs_convoy_wagon_n02a_jp,NINJA,"Uhuh … well, if we ""free"" it at the right time, it could work out for us.","啊……好吧，要是我们看准时机""放""它走，它还能帮上忙呢。",ああ…頃合よく「自由に」すれば、うまく使えるかもしれぬ。
+40,vocs_over_over_convoy_oxen_n00,vocs_convoy_oxen_n00_jp,NINJA,Oxen … dangerous if provoked. Why not make use of that ...,公牛……被激怒的话很危险。没准可以利用一下……,牡牛…怒らせると危険だ。それをうまく利用したらどうだ…。
+40,vocs_over_over_convoy_oxen_n01,vocs_convoy_oxen_n01_jp,TRAPPER,Don't hurt him!,别伤害他！,傷つけないで！
+40,vocs_over_over_convoy_oxen_n02,vocs_convoy_oxen_n02_jp,NINJA,"The ox? No, he just needs a little poke.",公牛？不会的，只是稍微刺激他一下。,牡牛を？いや、ちょいと突くだけで十分だ。
+41,vocs_over_over_convoy_monk_n00,vocs_convoy_monk_n00_jp,TRAPPER,Strange man with bright clothes ...,那人好奇怪，衣服还那么亮……,鮮やかな服の怪しい男…。
+41,vocs_over_over_convoy_monk_n01,vocs_convoy_monk_n01_jp,NINJA,Huh … yellow robes … why did they take a monk with them?,呃……黄色长袍……他们为啥还带着位和尚？,ふーん…黄色の着物…なにゆえ奴らは僧侶と行動を？
+41,vocs_over_over_convoy_monk_n02,vocs_convoy_monk_n02_jp,TRAPPER,Maybe he's praying for safe travel?,也许他是为了祈祷旅途平安？,旅の安全祈願でもしてるのかしら？
+41,vocs_over_over_convoy_monk_n03,vocs_convoy_monk_n03_jp,NINJA,"Well, he's not doing a good job then.",好吧，那他绝对是在干坏事。,ならば祈りは効かなかったという事だろう。
+42,vo_hint_hint_convoy_work_n00,vo_convoy_work_n00_jp,CIVILIAN M,The men are working hard. I hope we can move soon.,人们正在努力修桥。希望车队很快就能走了。,男たちは一生懸命働いている。早く動けるとよいな。
+42,vo_hint_hint_convoy_work_n01,vo_convoy_work_n01_jp,CIVILIAN F,"The journey was rough, some rest'll do us good.",旅途劳累，小憩片刻还是不错的。,この旅はつらかった。休めばいい事あるさ。
+43,vo_hint_hint_convoy_drunk1_n00,vo_convoy_drunk1_n00_jp,ENEMY,... more sake …,……再来点清酒……,…酒をもっと…。
+43,vo_hint_hint_convoy_drunk1_n01,vo_convoy_drunk1_n01_jp,CIVILIAN F,"I beg you, stop. Your behaviour is disgraceful.",求求你，住手。你的行为太可耻了。,お願いだからやめてください。なんと恥ずかしい人なのか。
+43,vo_gothic_gothic_convoy_drunk1_n02,vo_convoy_drunk1_n02_jp,ENEMY,… More sake!,……再来点清酒！,…酒はどこだ！
+44,vo_gothic_gothic_convoy_drunk2_n00,vo_convoy_drunk2_n00_jp,ENEMY,,,
+44,vo_gothic_gothic_convoy_drunk2_n01,vo_convoy_drunk2_n01_jp,STATIC,,,
+44,vo_gothic_gothic_convoy_drunk2_n02,vo_convoy_drunk2_n02_jp,ENEMY,,,
+44,vo_gothic_gothic_convoy_drunk2_n03,vo_convoy_drunk2_n03_jp,STATIC,,,
+44,vo_gothic_gothic_convoy_drunk2_n04,vo_convoy_drunk2_n04_jp,ENEMY,,,
+44,vo_gothic_gothic_convoy_drunk2_n05,vo_convoy_drunk2_n05_jp,STATIC,,,
+44,vo_gothic_gothic_convoy_drunk2_n06,vo_convoy_drunk2_n06_jp,ENEMY,Mmmm …,嗯……,
+44,vo_gothic_gothic_convoy_drunk2_n07,vo_convoy_drunk2_n07_jp,STATIC,Mmmm …,嗯……,
+45,vo_hint_hint_convoy_nervous_n00,vo_convoy_nervous_n00_jp,ENEMY,How much longer must we wait? This place makes me nervous.,我们还得等多久？这地方弄得我很紧张。,あとどのくらいかかるんだ？この場所はおっかねえよ。
+45,vo_hint_hint_convoy_nervous_n01,vo_convoy_nervous_n01_jp,STATIC,Calm down. Kage-sama has paid off the local bandits. No one will attack us.,冷静点儿。影大人已经向当地土匪付过钱了。没人会袭击我们。,落ち着け。カゲサマが地元の盗賊団に金を握らせたんだ。誰も襲っちゃこないさ。
+46,vo_hint_hint_convoy_officer1_n00,vo_convoy_officer1_n00_jp,OFFICER,This is going too slow.,这进度太慢了。,遅すぎる。
+46,vo_hint_hint_convoy_officer1_n01,vo_convoy_officer1_n01_jp,OFFICER,We are losing time.,我们快没时间了。,時間がもったいないぞ。
+46,vo_hint_hint_convoy_officer1_n02,vo_convoy_officer1_n02_jp,OFFICER,Lazy peasants.,那些农民真懒。,怠けた百姓め。
+46,vo_hint_hint_convoy_officer1_n03,vo_convoy_officer1_n03_jp,OFFICER,Just my luck.,真倒霉。,ついてないぜ。
+46,vo_hint_hint_convoy_officer1_n04,vo_convoy_officer1_n04_jp,OFFICER,"Keep drinking, you stupid ox.",让你一次喝个够，你这头蠢牛。,どんどん飲めよ、阿呆の牛め。
+46,vo_hint_hint_convoy_officer1_n05,vo_convoy_officer1_n05_jp,OFFICER,Our lord won't be pleased.,大人肯定生气了。,君主様はお気に召さないぞ。
+47,vocs_over_over_convoy_officer1_n00,vocs_convoy_officer1_n00_jp,NINJA,One down.,干掉一个。,一人目完了。
+47,vocs_over_over_convoy_officer1_n01,vocs_convoy_officer1_n01_jp,TRAPPER,One flag down.,一面旗子倒下了。,一旗目完了。
+48,vo_hint_hint_convoy_officer2_n00,vo_convoy_officer2_n00_jp,OFFICER,Watch the cliffs.,注意悬崖上面。,崖を見張れ。
+48,vo_hint_hint_convoy_officer2_n01,vo_convoy_officer2_n01_jp,OFFICER,Don't lose focus.,别走神。,油断するな。
+48,vo_hint_hint_convoy_officer2_n02,vo_convoy_officer2_n02_jp,OFFICER,Keep sharp.,眼睛睁大点。,集中しろよ。
+48,vo_hint_hint_convoy_officer2_n03,vo_convoy_officer2_n03_jp,OFFICER,No one must touch these wagons.,不要让任何人接近这些马车。,誰もこの荷馬車に触れさせちゃならねぇ。
+48,vo_hint_hint_convoy_officer2_n04,vo_convoy_officer2_n04_jp,OFFICER,Just keep an eye on the peasants.,盯紧这些农民。,百姓どもを見張ってろよ。
+49,vocs_over_over_convoy_officer2_n00,vocs_convoy_officer2_n00_jp,NINJA,Two down.,干掉两个了。,二人目完了。
+49,vocs_over_over_convoy_officer2_n01,vocs_convoy_officer2_n01_jp,TRAPPER,Two flags down.,两面旗子倒下了。,二旗目完了。
+50,vo_hint_hint_convoy_officer3_n00,vo_convoy_officer3_n00_jp,OFFICER,Are they done yet?,他们还没搞定吗？,まだ終わらんのか？
+50,vo_hint_hint_convoy_officer3_n01,vo_convoy_officer3_n01_jp,OFFICER,Any news?,有消息吗？,進捗は？
+50,vo_hint_hint_convoy_officer3_n02,vo_convoy_officer3_n02_jp,OFFICER,What is taking so long?,怎么花这么长时间？,なぜこんなに時間がかかるのだ？
+50,vo_hint_hint_convoy_officer3_n03,vo_convoy_officer3_n03_jp,OFFICER,What now?,现在啥情况？,今ならどうだ？
+50,vo_hint_hint_convoy_officer3_n04,vo_convoy_officer3_n04_jp,OFFICER,Is the wagon still stuck?,马车还被卡着吗？,荷馬車はまだつっかえてるのか？
+50,vo_hint_hint_convoy_officer3_n05,vo_convoy_officer3_n05_jp,OFFICER,Tell me.,告诉我。,教えろよ。
+51,vocs_over_over_convoy_officer3_n00,vocs_convoy_officer3_n00_jp,TRAPPER,"Three down, haha.",干掉三个了，哈哈。,三人目完了、はは。
+51,vocs_over_over_convoy_officer3_n01,vocs_convoy_officer3_n01_jp,NINJA,Aren't you a bit too good at this?,这事你咋干得这么熟练？,ちょいと上手すぎるんじゃないのか？
+51,vocs_over_over_convoy_officer3_n02,vocs_convoy_officer3_n02_jp,TRAPPER,What do you mean?,你什么意思?,どういう意味だい？
+51,vocs_over_over_convoy_officer3_n03,vocs_convoy_officer3_n03_jp,NINJA,Never mind. One to go.,没什么。还差一个。,何でもない。あと一人。
+52,vo_hint_hint_convoy_officer4_n00,vo_convoy_officer4_n00_jp,OFFICER,Sake.,上酒。,酒
+52,vo_hint_hint_convoy_officer4_n01,vo_convoy_officer4_n01_jp,CIVILIAN F,Hai!,是！,はい！
+52,vo_hint_hint_convoy_officer4_n02,vo_convoy_officer4_n02_jp,OFFICER,Hmm.,嗯。,うーん
+53,vocs_over_over_convoy_officer4_n00,vocs_convoy_officer4_n00_jp,NINJA,Four down.,干掉四个了。,四人目完了。
+53,vocs_over_over_convoy_officer4_n01,vocs_convoy_officer4_n01_jp,TRAPPER,Four flags. What now?,四面旗子。接下来干啥？,旗四つ。次は？
+53,vocs_over_over_convoy_officer4_n02,vocs_convoy_officer4_n02_jp,NINJA,Now we have to signal Mugen at the statue.,现在我们去雕像那给无限发信号。,像の場所で武源に合図を送らねばならん。
+53,vocs_over_over_convoy_officer4_n03,vocs_convoy_officer4_n03_jp,TRAPPER,Who's Mugen?,谁是无限？,武源って誰？
+53,vocs_over_over_convoy_officer4_n04,vocs_convoy_officer4_n04_jp,NINJA,Wait and see.,到时候你就知道了。,すぐに分かる。
+54,vo_hint_hint_convoy_officer5_n00,vo_convoy_officer5_n00_jp,OFFICER,Tehehe.,呵呵呵。,てへへ。
+54,vo_hint_hint_convoy_officer5_n01,vo_convoy_officer5_n01_jp,OFFICER,What are you looking at?,你在看什么呢？,何を見ている？
+54,vo_hint_hint_convoy_officer5_n02,vo_convoy_officer5_n02_jp,OFFICER,Attention!,立正！,注目！
+54,vo_hint_hint_convoy_officer5_n03,vo_convoy_officer5_n03_jp,OFFICER,Ugly thing.,丑东西。,醜い奴だ。
+54,vo_hint_hint_convoy_officer5_n04,vo_convoy_officer5_n04_jp,OFFICER,"Safe travel, eh.",旅途平安，呃。,安全祈願、ね。
+55,vocs_over_over_convoy_debriefing_n00,vocs_convoy_debriefing_n00_jp,NINJA,Keep your head down.,把头低下。,頭を下げていろ。
+55,vocs_over_over_convoy_debriefing_n01,vocs_convoy_debriefing_n01_jp,TRAPPER,"H-hai, sensei!",是-是，师傅！,は、はい、先生！
+55,vocs_over_over_convoy_debriefing_n02,vocs_convoy_debriefing_n02_jp,WARRIOR,Forward men! For the Shogun!,冲啊！为了将军！,全体進め！上様のために！
+56,vocs_over_over_convoy_debriefing_n03,vocs_convoy_debriefing_n03_jp,WARRIOR,We took the wagons with little resistance. Your skills are as sharp as ever.,没遇到啥抵抗就拿下了这批马车。你果真名不虚传。,抵抗もほとんどなく荷馬車を抑えた。相変わらず切れる腕前だな。
+56,vocs_over_over_convoy_debriefing_n04,vocs_convoy_debriefing_n04_jp,NINJA,"Got to admit, I had a little assistance.",不得不承认，有人帮了我点小忙。,正直に申すと、ちょいと手助けがあったのでな。
+56,vocs_over_over_convoy_debriefing_n05,vocs_convoy_debriefing_n05_jp,WARRIOR,"Ah yes, I saw your companion. What do you think of her?",啊对，我看到你同伴了。你认为她怎么样？,ああ、連れを見た。彼女はどうだ？
+56,vocs_over_over_convoy_debriefing_n09,vocs_convoy_debriefing_n09_jp,NINJA,"She's a bit wild maybe, but she has talent.",虽然有点儿野，但很有天赋。,ちょいと手荒だが、才能は確かだ。
+56,vocs_over_over_convoy_debriefing_n10,vocs_convoy_debriefing_n10_jp,NINJA,Either that or I'm getting careless ... How did she sneak up on me …,要么是她聪明要么是我粗心……她是怎么溜到我背后的……,それか俺が不注意になっているのか…どうやって俺に忍び寄ったのか…。
+56,vocs_over_over_convoy_debriefing_n11,vocs_convoy_debriefing_n11_jp,WARRIOR,"What was that, Hayato-san?",怎么回事，隼人先生?,何だって、隼人殿？
+56,vocs_over_over_convoy_debriefing_n12,vocs_convoy_debriefing_n12_jp,NINJA,"Nothing. Nothing. See you at the safe house, right?",没事，没事。安全屋见，对吧？,何でもない。隠れ家で落ち合うんだったな？
+56,vocs_over_over_convoy_debriefing_n06,vocs_convoy_debriefing_n06_jp,WARRIOR,"What is your name, young woman?",你叫什么名字，年轻人？,名は何と申す、少女よ？
+56,vocs_over_over_convoy_debriefing_n07,vocs_convoy_debriefing_n07_jp,TRAPPER,"Yuki, master samurai.",友希，武士大人。,雪です。お侍様。
+56,vocs_over_over_convoy_debriefing_n08,vocs_convoy_debriefing_n08_jp,WARRIOR,A fine name. I am ?shiro Mugen. No need to be afraid.,好名字。我是尾城无限。不用害怕。,いい名だ。私は大代武源。恐れることはない。
+56,vocs_over_over_convoy_debriefing_n15,vocs_convoy_debriefing_n15_jp,TRAPPER,Are you a friend of Hayato-san?,你是隼人先生的朋友吗？,隼人先生のお友達ですか？
+56,vocs_over_over_convoy_debriefing_n16,vocs_convoy_debriefing_n16_jp,WARRIOR,I like to think so. Though he might not see it that way.,我认为是，但他可能不这么看。,そうだと思いたい。奴はそうは思っておらんかも知れぬがな。
+56,vocs_over_over_convoy_debriefing_n17,vocs_convoy_debriefing_n17_jp,TRAPPER,Master samurai? Can I stay with you two? Just for a while?,武士大人？我能留下来跟你们两个在一起吗？一阵就好？,お侍様？お二人と一緒にいていいですか？ちょっとだけ？
+56,vocs_over_over_convoy_debriefing_n18,vocs_convoy_debriefing_n18_jp,WARRIOR,"I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger …",我不知道该拿你怎么办。隼人先生对你印象深刻。但是，把一个孩子放在如此危险……,どうするか考えておったところだ。隼人殿は実に感心しておるようだが。しかし、幼子をこんな危険な目に…。
+56,vocs_over_over_convoy_debriefing_n19,vocs_convoy_debriefing_n19_jp,TRAPPER,"Please, I … I want him to be my sensei! He's got tricks that I can learn from no one else!",拜托了，我……我想让他做我的师傅！他的招数太酷了！,お願いです…あたしはあの方の弟子になりたい！あの方の技を覚えたいんです！
+56,vocs_over_over_convoy_debriefing_n20,vocs_convoy_debriefing_n20_jp,WARRIOR,Hmmm ... I will consider it.,嗯……我会考虑的。,うーむ…考えておこう。

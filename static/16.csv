@@ -1,40 +1,40 @@
-lvl,sec,voen,vojp,s,en,cn,jp
-16,385,vocs_over_over_uprising_post_n00,vocs_uprising_post_n00_jp,NARRATOR,"With General Okkoto's death, the end of the rebellion was certain. ",乙事大将死后，叛军便日暮途穷。 ,乙事大将の死により、反乱の収束は確実であった。
-16,385,vocs_over_over_uprising_post_n01,vocs_uprising_post_n01_jp,NARRATOR,"Under Lord Noboru's command, the Shogunate army crushed the remaining rebels and restored the peace. Mugen and his companions had achieved an important victory. ",在昇大名的指挥下，幕府军肃清了叛军残党，天下重归和平。无限一行大获全胜。,昇の指揮のもと、幕府軍は残りの勢力を鎮圧し、平和を取り戻した。武源と、その仲間は大きな勝利を成し遂げた。 
-16,385,vocs_over_over_uprising_post_n02,vocs_uprising_post_n02_jp,NARRATOR,"Armed with the knowledge of Kage-sama's secret hideout, they travelled to Edo, where they would await the orders of the Shogun.",在获知影大人的藏身秘所后，他们前往江户，等候将军的命令。,カゲサマの隠れ家の情報を元に江戸へ向かい、将軍の指令を待つのであった。
-16,386,vocs_over_over_uprising_post_n03,vocs_uprising_post_n03_jp,SHOGUN,"Ah, Lord Noboru. I was pleased when I received news of your victory.",昇，听闻你获胜的消息，真是喜出望外。,昇！勝利の一報を聞いて嬉しく思うぞ。
-16,386,,vocs_uprising_post_n03a_jp,SHOGUN,"Your victory over the rebel Okkoto prevented this country from falling into chaos. I chose well when I entrusted you with this task, brother.",你消灭了乙事叛军，保卫国家不至重陷战乱。我果然没有看错人，弟弟。,お主の勝利は国を混沌から救ってくれた。お主に指揮を委ねたのは正しい判断であった、弟よ。
-16,386,vocs_over_over_uprising_post_n04,vocs_uprising_post_n04_jp,BROGUN,"The Shogunate army brought about the end of the rebellion. However, it would bring me shame if I did not mention the involvement of Mugen-san and his comrades.",虽然是幕府军平息了叛乱。但无限一行也立下了汗马功劳，我不敢居功自表。,幕府軍は反乱を鎮めました。しかし、武源やその戦友の名を挙げぬのは恥ずかしきにあります。
-16,386,vocs_over_over_uprising_post_n05,vocs_uprising_post_n05_jp,SHOGUN,"Ah yes, Mugen-san. To think that a group of only five could achieve this much. You have chosen well, Mugen.",啊，是的。无限，你们区区五人竟能成此大事。干得很好，无限。,あぁ、そうだ。武源、たった五人でよくぞこの偉業を成し遂げた。よくやった、武源。
-16,386,,vocs_uprising_post_n05a_jp,SHOGUN,"Hmm … impressive. To think that a group of only five facilitated such a victory. You chose well, Mugen.",嗯……确实非常出色。区区五人竟能立此大功，无限，你干得很好。,うむ、見事な働きじゃ！たったの五人で大勝利をもたらすとは！よくやった、武源。
-16,386,vocs_over_over_uprising_post_n06,vocs_uprising_post_n06_jp,WARRIOR,"Your words honour us, my Shogun.",此乃我等荣幸。,身に余るお言葉。
-16,386,,vocs_uprising_post_n06a_jp,WARRIOR,"Your words honor me, my Shogun.",此乃我等荣幸。,もったいなきお言葉です。
-16,386,vocs_over_over_uprising_post_n07,vocs_uprising_post_n07_jp,SHOGUN,Together you even uncovered the location of Kage-sama. You must be very proud of these men and woman.,你们连影大人的藏身之处都打探到了。能有这等同伴你一定很光荣吧。,五人でカゲサマの居場所を見つけだしたのだな。お主の自慢の仲間たちであろう。
-16,386,vocs_over_over_uprising_post_n08,vocs_uprising_post_n08_jp,WARRIOR,"I am, my Shogun. I have rarely seen such skill in a group. I am honoured that they trust me as their leader.",如您所言，队中每人都很出色。在下很荣幸能受到他们信任。,仰せの通りです。類まれなる技術を有した優秀な者たちです。拙者へ信頼を置いてくれていることを誇りに思っております。
-16,386,vocs_over_over_uprising_post_n09,vocs_uprising_post_n09_jp,BROGUN,Now all that is left is to bring an end to Kage-sama. I say Mugen-san has earned the right to finish this matter himself.,现在只剩影大人要对付了。我认为无限有权亲自了结此事。,残るはカゲサマのみ。武源が、この一件を終わらせる権限を得たと言えるでしょう。
-16,386,vocs_over_over_uprising_post_n10,vocs_uprising_post_n10_jp,SHOGUN,"I agree. No doubt a large attack force would only alert our enemy. I leave this matter to you, Mugen.",我同意。如此兴师动众，只会打草惊蛇。那此事就交给你了，无限。,同感だ。多勢で攻めても敵への警戒につながるのみ。この件をお主に託そう。武源。
-16,386,vocs_over_over_uprising_post_n11,vocs_uprising_post_n11_jp,WARRIOR,"Do you want him captured alive, my Shogun?",要抓活的吗？,生きたまま捕らえますか？
-16,386,vocs_over_over_uprising_post_n12,vocs_uprising_post_n12_jp,SHOGUN,"Alive or dead, I want you to bring him to me. I must see the face of the man that conspired against me.",只要能把他带回来就行，无论生死。此人胆敢与我针锋相对，我必须看看他的真面目。,生死は問わぬ。奴を連れてくればよい。私へ刃向かった者の顔を見ねばならぬ。
-16,386,vocs_over_over_uprising_post_n13,vocs_uprising_post_n13_jp,WARRIOR,"We will not disappoint you, my Shogun. Noboru-sama.",是，一定不会让您失望。,はは、必ずやご期待通りに。
-16,386,vocs_over_over_uprising_post_n14,vocs_uprising_post_n14_jp,SHOGUN,"I must thank you too, brother. We may disagree on certain things, but I know there is no finer man to command the Shogunate army.",这次得好好感谢你。虽然我俩偶有分歧，但要论统兵打仗，确实没人比你更擅长了。,お前にも礼を言うぞ。意見の相違も時にはあるが、兵を指揮するのにお前ほどの適任者はおらぬだろう。
-16,386,vocs_over_over_uprising_post_n15,vocs_uprising_post_n15_jp,BROGUN,"I only fulfil my duty, brother. To my Shogun, and to Japan.",我只是履行职责而已。为了兄长您，也为了日本。,私はただ、己が責務を果たすのみです。兄上、そして日本のために。
-16,387,vocs_over_over_uprising_post_n16,vocs_uprising_post_n16_jp,TRAPPER,We really met the Shogun! That was exciting!,真的见到将军了！好激动啊！,ほんとに将軍様にお会いしたのよ！すごかったわ。
-16,387,vocs_over_over_uprising_post_n17,vocs_uprising_post_n17_jp,NINJA,So this is it huh?,那么…是时候做个了断了？,それで、これがそうか？
-16,387,vocs_over_over_uprising_post_n18,vocs_uprising_post_n18_jp,WARRIOR,"Yes, we will finally meet our enemy face to face.",是的，终于要和影大人正面交锋了。,ああ、これでついに敵と面と向かって対峙できる。
-16,387,vocs_over_over_uprising_post_n19,vocs_uprising_post_n19_jp,NINJA,When this is done … I think I'll need some time alone … have to think about a few things.,这次任务完成后……我想一个人静静……有些事情必须考虑清楚。,これが終わったら…しばらく一人でいたい…考えなければならんことがあるからな。
-16,387,vocs_over_over_uprising_post_n20,vocs_uprising_post_n20_jp,WARRIOR,"I see ... Well, I am grateful that you are here for this most important mission.",明白了……首先，感谢大家都来参加这次重大任务。,わかった…よし、皆この大事な任務のために集まってくれて感謝致す。
-16,387,vocs_over_over_uprising_post_n21,vocs_uprising_post_n21_jp,GEISHA,Will we receive support from the Shogunate troops?,会有幕府军的支援吗？,幕府部隊からの支援は皆受けたのかしら？
-16,387,vocs_over_over_uprising_post_n22,vocs_uprising_post_n22_jp,WARRIOR,"No, we cannot risk spies warning off our prey. There will not be a better chance than this.",没有，因为怕打草惊蛇。这次机会可是千载难逢。,いや、他の密偵が獲物を刺激するようなことがあっては困る。この機を逃すわけにはいかないであろう。
-16,387,vocs_over_over_uprising_post_n23,vocs_uprising_post_n23_jp,GEISHA,"While that is true, I am not certain you have given this enough thought.",话虽如此，但我还是觉得你尚未考虑周全。,そうだけれども、あなたに十分な考えがあってのことなのかしら。
-16,387,vocs_over_over_uprising_post_n24,vocs_uprising_post_n24_jp,WARRIOR,"Will you not come with me, and point me in the right direction?",爱子小姐你不和我一起去，帮我出谋划策吗？,愛琥殿は一緒に来て、聡明な指示を出してはくださらぬのか？
-16,387,vocs_over_over_uprising_post_n25,vocs_uprising_post_n25_jp,GEISHA,I can hardly leave you alone on such an important occasion.,我当然不能让你独自以身犯险。,そんな場所に武源様おひとりで行かせられませんわ。
-16,387,vocs_over_over_uprising_post_n26,vocs_uprising_post_n26_jp,TRAPPER,Will we all be together on this one?,这次大家会一起行动吧？,今回も皆一緒よね？
-16,387,vocs_over_over_uprising_post_n27,vocs_uprising_post_n27_jp,WARRIOR,"Indeed, Yuki-chan. That is if Takuma-san feels ready.",当然，友希小妹。只要琢磨大师愿意出马。,その通りだ、雪殿。あとは巧磨殿も来てくださるのなら。
-16,387,vocs_over_over_uprising_post_n28,vocs_uprising_post_n28_jp,ALCHEMIST,"No need to worry about me, Mugen.",我当然要去，无限。,もちろんじゃよ、武源。
-16,387,vocs_over_over_uprising_post_n29,vocs_uprising_post_n29_jp,WARRIOR,Very good. Everyone! Listen here!,嗯，大家的决心，我无限了然于心！,うむ、皆の気持ち、この武源、しかと受け取った！
-16,387,vocs_over_over_uprising_post_n30,vocs_uprising_post_n30_jp,WARRIOR,"Together we have come far, and we only need to go a little further. Whatever comes after we have finished with Kage-sama, know that I am honoured by your trust and loyalty.",我们历经千难万险，现在只差最后一步了。无论解决影大人后会发生什么，能得到大家的信任和忠诚我都深感荣幸。,ここまで共に戦ってきた。道のりはあと少しである。カゲサマを倒し、任務を終えた後も、皆の信頼と忠誠心を忘れることはないであろう！
-16,387,vocs_over_over_uprising_post_n31,vocs_uprising_post_n31_jp,WARRIOR,A toast. To the Shogun and his trusted blades. May we bring an end to Kage-sama. Kanpai!,举杯。为将军和我们大家，为影大人的末日，干杯！,乾杯だ！上様と信頼ある仲間へ！カゲサマに終焉を！乾杯！
-16,387,vocs_over_over_uprising_post_n32,vocs_uprising_post_n32_jp,NINJA,Kanpai!,干杯！,乾杯！
-16,387,vocs_over_over_uprising_post_n33,vocs_uprising_post_n33_jp,TRAPPER,Kanpai!,干杯！,乾杯！
-16,387,vocs_over_over_uprising_post_n34,vocs_uprising_post_n34_jp,GEISHA,Kanpai!,干杯！,乾杯！
-16,387,vocs_over_over_uprising_post_n35,vocs_uprising_post_n35_jp,ALCHEMIST,Kanpai!,干杯！,乾杯！
+sec,voen,vojp,s,en,cn,jp
+385,vocs_over_over_uprising_post_n00,vocs_uprising_post_n00_jp,NARRATOR,"With General Okkoto's death, the end of the rebellion was certain. ",乙事大将死后，叛军便日暮途穷。 ,乙事大将の死により、反乱の収束は確実であった。
+385,vocs_over_over_uprising_post_n01,vocs_uprising_post_n01_jp,NARRATOR,"Under Lord Noboru's command, the Shogunate army crushed the remaining rebels and restored the peace. Mugen and his companions had achieved an important victory. ",在昇大名的指挥下，幕府军肃清了叛军残党，天下重归和平。无限一行大获全胜。,昇の指揮のもと、幕府軍は残りの勢力を鎮圧し、平和を取り戻した。武源と、その仲間は大きな勝利を成し遂げた。 
+385,vocs_over_over_uprising_post_n02,vocs_uprising_post_n02_jp,NARRATOR,"Armed with the knowledge of Kage-sama's secret hideout, they travelled to Edo, where they would await the orders of the Shogun.",在获知影大人的藏身秘所后，他们前往江户，等候将军的命令。,カゲサマの隠れ家の情報を元に江戸へ向かい、将軍の指令を待つのであった。
+386,vocs_over_over_uprising_post_n03,vocs_uprising_post_n03_jp,SHOGUN,"Ah, Lord Noboru. I was pleased when I received news of your victory.",昇，听闻你获胜的消息，真是喜出望外。,昇！勝利の一報を聞いて嬉しく思うぞ。
+386,,vocs_uprising_post_n03a_jp,SHOGUN,"Your victory over the rebel Okkoto prevented this country from falling into chaos. I chose well when I entrusted you with this task, brother.",你消灭了乙事叛军，保卫国家不至重陷战乱。我果然没有看错人，弟弟。,お主の勝利は国を混沌から救ってくれた。お主に指揮を委ねたのは正しい判断であった、弟よ。
+386,vocs_over_over_uprising_post_n04,vocs_uprising_post_n04_jp,BROGUN,"The Shogunate army brought about the end of the rebellion. However, it would bring me shame if I did not mention the involvement of Mugen-san and his comrades.",虽然是幕府军平息了叛乱。但无限一行也立下了汗马功劳，我不敢居功自表。,幕府軍は反乱を鎮めました。しかし、武源やその戦友の名を挙げぬのは恥ずかしきにあります。
+386,vocs_over_over_uprising_post_n05,vocs_uprising_post_n05_jp,SHOGUN,"Ah yes, Mugen-san. To think that a group of only five could achieve this much. You have chosen well, Mugen.",啊，是的。无限，你们区区五人竟能成此大事。干得很好，无限。,あぁ、そうだ。武源、たった五人でよくぞこの偉業を成し遂げた。よくやった、武源。
+386,,vocs_uprising_post_n05a_jp,SHOGUN,"Hmm … impressive. To think that a group of only five facilitated such a victory. You chose well, Mugen.",嗯……确实非常出色。区区五人竟能立此大功，无限，你干得很好。,うむ、見事な働きじゃ！たったの五人で大勝利をもたらすとは！よくやった、武源。
+386,vocs_over_over_uprising_post_n06,vocs_uprising_post_n06_jp,WARRIOR,"Your words honour us, my Shogun.",此乃我等荣幸。,身に余るお言葉。
+386,,vocs_uprising_post_n06a_jp,WARRIOR,"Your words honor me, my Shogun.",此乃我等荣幸。,もったいなきお言葉です。
+386,vocs_over_over_uprising_post_n07,vocs_uprising_post_n07_jp,SHOGUN,Together you even uncovered the location of Kage-sama. You must be very proud of these men and woman.,你们连影大人的藏身之处都打探到了。能有这等同伴你一定很光荣吧。,五人でカゲサマの居場所を見つけだしたのだな。お主の自慢の仲間たちであろう。
+386,vocs_over_over_uprising_post_n08,vocs_uprising_post_n08_jp,WARRIOR,"I am, my Shogun. I have rarely seen such skill in a group. I am honoured that they trust me as their leader.",如您所言，队中每人都很出色。在下很荣幸能受到他们信任。,仰せの通りです。類まれなる技術を有した優秀な者たちです。拙者へ信頼を置いてくれていることを誇りに思っております。
+386,vocs_over_over_uprising_post_n09,vocs_uprising_post_n09_jp,BROGUN,Now all that is left is to bring an end to Kage-sama. I say Mugen-san has earned the right to finish this matter himself.,现在只剩影大人要对付了。我认为无限有权亲自了结此事。,残るはカゲサマのみ。武源が、この一件を終わらせる権限を得たと言えるでしょう。
+386,vocs_over_over_uprising_post_n10,vocs_uprising_post_n10_jp,SHOGUN,"I agree. No doubt a large attack force would only alert our enemy. I leave this matter to you, Mugen.",我同意。如此兴师动众，只会打草惊蛇。那此事就交给你了，无限。,同感だ。多勢で攻めても敵への警戒につながるのみ。この件をお主に託そう。武源。
+386,vocs_over_over_uprising_post_n11,vocs_uprising_post_n11_jp,WARRIOR,"Do you want him captured alive, my Shogun?",要抓活的吗？,生きたまま捕らえますか？
+386,vocs_over_over_uprising_post_n12,vocs_uprising_post_n12_jp,SHOGUN,"Alive or dead, I want you to bring him to me. I must see the face of the man that conspired against me.",只要能把他带回来就行，无论生死。此人胆敢与我针锋相对，我必须看看他的真面目。,生死は問わぬ。奴を連れてくればよい。私へ刃向かった者の顔を見ねばならぬ。
+386,vocs_over_over_uprising_post_n13,vocs_uprising_post_n13_jp,WARRIOR,"We will not disappoint you, my Shogun. Noboru-sama.",是，一定不会让您失望。,はは、必ずやご期待通りに。
+386,vocs_over_over_uprising_post_n14,vocs_uprising_post_n14_jp,SHOGUN,"I must thank you too, brother. We may disagree on certain things, but I know there is no finer man to command the Shogunate army.",这次得好好感谢你。虽然我俩偶有分歧，但要论统兵打仗，确实没人比你更擅长了。,お前にも礼を言うぞ。意見の相違も時にはあるが、兵を指揮するのにお前ほどの適任者はおらぬだろう。
+386,vocs_over_over_uprising_post_n15,vocs_uprising_post_n15_jp,BROGUN,"I only fulfil my duty, brother. To my Shogun, and to Japan.",我只是履行职责而已。为了兄长您，也为了日本。,私はただ、己が責務を果たすのみです。兄上、そして日本のために。
+387,vocs_over_over_uprising_post_n16,vocs_uprising_post_n16_jp,TRAPPER,We really met the Shogun! That was exciting!,真的见到将军了！好激动啊！,ほんとに将軍様にお会いしたのよ！すごかったわ。
+387,vocs_over_over_uprising_post_n17,vocs_uprising_post_n17_jp,NINJA,So this is it huh?,那么…是时候做个了断了？,それで、これがそうか？
+387,vocs_over_over_uprising_post_n18,vocs_uprising_post_n18_jp,WARRIOR,"Yes, we will finally meet our enemy face to face.",是的，终于要和影大人正面交锋了。,ああ、これでついに敵と面と向かって対峙できる。
+387,vocs_over_over_uprising_post_n19,vocs_uprising_post_n19_jp,NINJA,When this is done … I think I'll need some time alone … have to think about a few things.,这次任务完成后……我想一个人静静……有些事情必须考虑清楚。,これが終わったら…しばらく一人でいたい…考えなければならんことがあるからな。
+387,vocs_over_over_uprising_post_n20,vocs_uprising_post_n20_jp,WARRIOR,"I see ... Well, I am grateful that you are here for this most important mission.",明白了……首先，感谢大家都来参加这次重大任务。,わかった…よし、皆この大事な任務のために集まってくれて感謝致す。
+387,vocs_over_over_uprising_post_n21,vocs_uprising_post_n21_jp,GEISHA,Will we receive support from the Shogunate troops?,会有幕府军的支援吗？,幕府部隊からの支援は皆受けたのかしら？
+387,vocs_over_over_uprising_post_n22,vocs_uprising_post_n22_jp,WARRIOR,"No, we cannot risk spies warning off our prey. There will not be a better chance than this.",没有，因为怕打草惊蛇。这次机会可是千载难逢。,いや、他の密偵が獲物を刺激するようなことがあっては困る。この機を逃すわけにはいかないであろう。
+387,vocs_over_over_uprising_post_n23,vocs_uprising_post_n23_jp,GEISHA,"While that is true, I am not certain you have given this enough thought.",话虽如此，但我还是觉得你尚未考虑周全。,そうだけれども、あなたに十分な考えがあってのことなのかしら。
+387,vocs_over_over_uprising_post_n24,vocs_uprising_post_n24_jp,WARRIOR,"Will you not come with me, and point me in the right direction?",爱子小姐你不和我一起去，帮我出谋划策吗？,愛琥殿は一緒に来て、聡明な指示を出してはくださらぬのか？
+387,vocs_over_over_uprising_post_n25,vocs_uprising_post_n25_jp,GEISHA,I can hardly leave you alone on such an important occasion.,我当然不能让你独自以身犯险。,そんな場所に武源様おひとりで行かせられませんわ。
+387,vocs_over_over_uprising_post_n26,vocs_uprising_post_n26_jp,TRAPPER,Will we all be together on this one?,这次大家会一起行动吧？,今回も皆一緒よね？
+387,vocs_over_over_uprising_post_n27,vocs_uprising_post_n27_jp,WARRIOR,"Indeed, Yuki-chan. That is if Takuma-san feels ready.",当然，友希小妹。只要琢磨大师愿意出马。,その通りだ、雪殿。あとは巧磨殿も来てくださるのなら。
+387,vocs_over_over_uprising_post_n28,vocs_uprising_post_n28_jp,ALCHEMIST,"No need to worry about me, Mugen.",我当然要去，无限。,もちろんじゃよ、武源。
+387,vocs_over_over_uprising_post_n29,vocs_uprising_post_n29_jp,WARRIOR,Very good. Everyone! Listen here!,嗯，大家的决心，我无限了然于心！,うむ、皆の気持ち、この武源、しかと受け取った！
+387,vocs_over_over_uprising_post_n30,vocs_uprising_post_n30_jp,WARRIOR,"Together we have come far, and we only need to go a little further. Whatever comes after we have finished with Kage-sama, know that I am honoured by your trust and loyalty.",我们历经千难万险，现在只差最后一步了。无论解决影大人后会发生什么，能得到大家的信任和忠诚我都深感荣幸。,ここまで共に戦ってきた。道のりはあと少しである。カゲサマを倒し、任務を終えた後も、皆の信頼と忠誠心を忘れることはないであろう！
+387,vocs_over_over_uprising_post_n31,vocs_uprising_post_n31_jp,WARRIOR,A toast. To the Shogun and his trusted blades. May we bring an end to Kage-sama. Kanpai!,举杯。为将军和我们大家，为影大人的末日，干杯！,乾杯だ！上様と信頼ある仲間へ！カゲサマに終焉を！乾杯！
+387,vocs_over_over_uprising_post_n32,vocs_uprising_post_n32_jp,NINJA,Kanpai!,干杯！,乾杯！
+387,vocs_over_over_uprising_post_n33,vocs_uprising_post_n33_jp,TRAPPER,Kanpai!,干杯！,乾杯！
+387,vocs_over_over_uprising_post_n34,vocs_uprising_post_n34_jp,GEISHA,Kanpai!,干杯！,乾杯！
+387,vocs_over_over_uprising_post_n35,vocs_uprising_post_n35_jp,ALCHEMIST,Kanpai!,干杯！,乾杯！

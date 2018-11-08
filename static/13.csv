@@ -1,138 +1,138 @@
-lvl,sec,voen,vojp,s,en,cn,jp
-13,279,vocs_over_over_ricefields_briefing_n00,vocs_ricefields_briefing_n00_jp,ALCHEMIST,"Hmm, will death take me now? Perhaps it has been long enough ... ",嗯…看来我气数已尽…… 这辈子也算活得够长了。,うーむ、死がワシをここへ呼び寄せるか？もう十分生きたということかの…。
-13,279,vocs_over_over_ricefields_briefing_n01,vocs_ricefields_briefing_n01_jp,TRAPPER,Psst. Takuma-sama!,喂，琢磨师父！,ねえ、巧磨先生！
-13,279,vocs_over_over_ricefields_briefing_n02,vocs_ricefields_briefing_n02_jp,ALCHEMIST,Ah! … Yuki-chan! … it's you child. Are you alone?,啊！……友希姑娘！怎么到这里来了，就你一个人吗？,おぉ！…雪ちゃん！…お主一人か？
-13,279,vocs_over_over_ricefields_briefing_n03,vocs_ricefields_briefing_n03_jp,TRAPPER,Yes. I followed Kuma here. The others couldn't come. What happened?,是的，小熊带我过来的。其他人来不了。这里发生了什么？,はい、クマに着いてきたの。他の人は来られなかったけど…。何があったの？
-13,279,vocs_over_over_ricefields_briefing_n04,vocs_ricefields_briefing_n04_jp,ALCHEMIST,Darkness and horror. The rebels slaughtered the farmers. Most of them are dead.,太惨无人道了。叛军血洗了村子，大部分人都死了。,暗黒と恐怖じゃ、反乱者は農民を殺傷しておる。ほとんどもう死んでしもうた。
-13,279,vocs_over_over_ricefields_briefing_n05,vocs_ricefields_briefing_n05_jp,ALCHEMIST,"Mugen tried to help. Now he is a prisoner himself, being interrogated and, most likely, soon executed.",无限想去救他们，反而自身难保。敌人正在审问他，可能马上就要被处决。,武源は助けようとはしたのじゃが、投獄されてしもうた。尋問されて、おそらくすぐに処刑されるじゃろう。
-13,279,vocs_over_over_ricefields_briefing_n06,vocs_ricefields_briefing_n06_jp,TRAPPER,No. We'll save him …,怎么会…快去救他……,そんな、助けないと…。
-13,279,vocs_over_over_ricefields_briefing_n07,vocs_ricefields_briefing_n07_jp,ALCHEMIST,It is impossible child. We are hardly a force to be reckoned with.,不可能的，孩子。敌我力量太过悬殊。,無理じゃよ、雪ちゃん。そのような力はありゃせん。
-13,279,vocs_over_over_ricefields_briefing_n08,vocs_ricefields_briefing_n08_jp,TRAPPER,We have to try! He's our friend! You don't leave friends behind!,不试试怎么知道！他是我们的同伴啊！怎么能见死不救！,やってみなきゃ！だって仲間よ…。見捨てるなんてできない！
-13,279,vocs_over_over_ricefields_briefing_n09,vocs_ricefields_briefing_n09_jp,ALCHEMIST,"Such a young mind … very well, Yuki-chan. If we shall die, we might as well do so with purpose. Lead the way.",果然是年轻人……好吧，友希姑娘。就算死，也要死得其所。你来带路吧。,若い心じゃのぅ…よし、わかったわい雪ちゃん！もし助けられなければ、目的もまた死ぬ、進む他ないということじゃのぅ…。
-13,280,vo_hint_hint_ricefields_shooting_n00,vo_ricefields_shooting_n00_jp,CIVILIAN M,Ah!,啊！,ああ！
-13,280,vo_hint_hint_ricefields_shooting_n01,vo_ricefields_shooting_n01_jp,CIVILIAN F,No …,不要啊……,やめて…。
-13,280,vo_hint_hint_ricefields_shooting_n02,vo_ricefields_shooting_n02_jp,CIVILIAN F,Demon! Monster! I curse you …,魔鬼！妖怪！你们不得好死……,悪魔め！鬼め！呪ってやる…。
-13,280,vo_hint_hint_ricefields_shooting_n03,vo_ricefields_shooting_n03_jp,CIVILIAN F,,,
-13,281,vocs_over_over_ricefields_tanuki_n00,vocs_ricefields_tanuki_n00_jp,TRAPPER,Why did Kuma have blood on his fur?,小熊身上的血迹是怎么回事？,どうしてクマに血が？
-13,281,vocs_over_over_ricefields_tanuki_n01,vocs_ricefields_tanuki_n01_jp,ALCHEMIST,A farmer died right next to him. I'm surprised you could get him to return here.,因为有个村民就在他面前被杀害。真没想到你有办法让他带你过来。,隣で農民が死んだのじゃよ。ここに戻ってきたとは驚きじゃったよ。
-13,281,vocs_over_over_ricefields_tanuki_n02,vocs_ricefields_tanuki_n02_jp,TRAPPER,It wasn't hard. I just made that sound you do.,很简单啊。我就试了试模仿你的发音方法。,簡単だよ。巧磨さんがやるみたいに音を出したの。
-13,281,vocs_over_over_ricefields_tanuki_n03,vocs_ricefields_tanuki_n03_jp,ALCHEMIST,Hmm ... so you picked up on that …,嗯……你确实悟性过人……,うーむ…気づいておったとはの…。
-13,281,vocs_over_over_ricefields_tanuki_n04,vocs_ricefields_tanuki_n04_jp,TRAPPER,I bet Kuma wants to rescue master samurai too!,一定是因为小熊他也想救武士大哥！,きっとクマもお侍さんを助けて欲しがってるよ！
-13,282,vocs_over_over_ricefields_fields_n00,vocs_ricefields_fields_n00_jp,ALCHEMIST,"Ah, the rice will provide cover.",喔，稻田正好可以做掩护。,うむ、稲で隠れられるのぅ。
-13,282,vocs_over_over_ricefields_fields_n01,vocs_ricefields_fields_n01_jp,TRAPPER,Rebels! … why are they searching the fields?,有叛军！……他们为什么要搜查稻田啊？,あれは反乱者よ！…どうしてこの場所を探しているのかな？
-13,282,vocs_over_over_ricefields_fields_n02,vocs_ricefields_fields_n02_jp,ALCHEMIST,"Hmm, I'd say they are hunting for survivors.",喔，应该是在搜寻幸存者。,うーむ、生存者を探しているといったところかのぅ。
-13,282,vocs_over_over_ricefields_fields_n03,vocs_ricefields_fields_n03_jp,TRAPPER,Are the others … are they all dead? Mugen-sama …,其他人……都死了吗？武士大哥他……,皆…皆死んじゃったのかな…。お侍さん…。
-13,282,vocs_over_over_ricefields_fields_n04,vocs_ricefields_fields_n04_jp,ALCHEMIST,"Stay calm, Yuki-chan! We must become the hunters and rescue Mugen.",冷静，友希姑娘！此刻更要沉着冷静才有可能救出无限。,落ち着くんじゃ、雪ちゃん。武源をなんとしてでも救い出すぞい。
-13,283,vo_hint_hint_ricefields_search_n00,vo_ricefields_search_n00_jp,OFFICER,I saw a shadow. Find him!,我看到人影了，快搜！,影を見たぞ、探せ！
-13,283,vo_hint_hint_ricefields_search_n01,vo_ricefields_search_n01_jp,OFFICER,No one must escape! Lord Okkoto's orders.,乙事大人有令，不留活口！,誰も逃がすな！乙事様のご命令だ。
-13,283,vo_hint_hint_ricefields_search_n02,vo_ricefields_search_n02_jp,OFFICER,"Someone's in there, I know it.",肯定还藏着人，我有感觉！,いるんだろ、わかるぞ。
-13,284,vocs_over_over_ricefields_rifle_n00,vocs_ricefields_rifle_n00_jp,TRAPPER,"I do like your leg! It's quick and deadly, and it can hide, like my little trap.",你的木腿真好用！又快又狠，还能藏起来，和我的小陷阱一样。,その足が欲しいわ。速くて強くて、しかもあたしの罠みたいに隠すこともできるし。
-13,284,vocs_over_over_ricefields_rifle_n01,vocs_ricefields_rifle_n01_jp,ALCHEMIST,"Hmm, what an unusual compliment. Do you know how I made it so quiet?",唔，你的赞美方式真是特别。你知道我是如何让枪消音的吗？,うーむ、なんとも突飛な称賛じゃわい。どうやって音を消しているか分かるかのぅ？
-13,284,vocs_over_over_ricefields_rifle_n02,vocs_ricefields_rifle_n02_jp,TRAPPER,"No, don't tell! It's a good puzzle, but no time for puzzles now!",完全猜不到。这个问题很有意思，但现在没时间玩解谜。,全然わからないよ！謎なぞだね、でも今はそれどころじゃないわ！
-13,284,vocs_over_over_ricefields_rifle_n03,vocs_ricefields_rifle_n03_jp,ALCHEMIST,How right you are. Onward to Mugen.,你说得对。赶紧去救无限。,そういうことじゃな！武源のもとへ急ごう！
-13,285,vocs_over_over_ricefields_scouts_n00,vocs_ricefields_scouts_n00_jp,OFFICER,Let's search the fields further down the road to see if anyone's there.,再去那边的稻田里找找吧，看看有没有漏网之鱼。,誰かいないか道の方に出て周辺を探そう。
-13,285,vocs_over_over_ricefields_scouts_n01,vocs_ricefields_scouts_n01_jp,TRAPPER,"Yes, stay away …",好，走得越远越好……,よし、あっちへ行け…。
-13,285,vocs_over_over_ricefields_scouts_n02,vocs_ricefields_scouts_n02_jp,ALCHEMIST,They will return eventually. We should not forget about them.,他们还会绕回来的，切记。,また戻ってくるじゃろう、そのことを忘れてはいかん。
-13,286,vo_hint_near_ricefields_tragedy1_n00,vo_ricefields_tragedy1_n00_jp,CIVILIAN F,No! Please no! Help me! Help!,不！求你了，不要！救命啊！,駄目！お願い！助けて！助けて！
-13,286,vo_hint_near_ricefields_tragedy1_n00a,vo_ricefields_tragedy1_n00a_jp,CIVILIAN M,No! Please no! Help me! Help!,不！求...求你了，不要！救命啊！,やめろ！お願いだ！助けて！助けて！
-13,287,vo_hint_near_ricefields_tragedy1_n01,vo_ricefields_tragedy1_n01_jp,ENEMY,Teh … serves you right.,嘁……你自找的。,ふん…報いだ。
-13,288,vocs_over_over_ricefields_victims1_n01,vocs_ricefields_victims1_n01_jp,TRAPPER,They didn't have to shoot him.,为什么要乱杀无辜。,撃たなくてもいいのに。
-13,288,vocs_over_over_ricefields_victims1_n01a,vocs_ricefields_victims1_n01a_jp,TRAPPER,They didn't have to shoot her.,为什么要乱杀无辜。,撃たなくてもいいのに。
-13,288,vocs_over_over_ricefields_victims1_n02,vocs_ricefields_victims1_n02_jp,ALCHEMIST,"These men are beasts. They'll do whatever they want, with or without reason.",这帮人都是畜生。他们肆无忌惮，杀人不需要理由。,奴らは獣じゃ。欲望のままに命を奪う、そこに理由などありゃせん。
-13,288,vocs_over_over_ricefields_victims1_n03,vocs_ricefields_victims1_n03_jp,TRAPPER,I hope Mugen-sama is OK.,希望武士大哥平安无恙。,…お侍さん、無事でいてね。
-13,288,vocs_over_over_ricefields_victims1_n04,vocs_ricefields_victims1_n04_jp,ALCHEMIST,"Yuki-chan. Do not worry, we will save him.",友希姑娘，别担心，一定能救到他的。,雪ちゃん、心配しなさんな。ワシらで助けるんじゃ。
-13,289,vocs_over_over_ricefields_victims2_n00,vocs_ricefields_victims2_n00_jp,ALCHEMIST,Such shame.,死得太冤了。,残念なことじゃ。
-13,289,vocs_over_over_ricefields_victims2_n01,vocs_ricefields_victims2_n01_jp,TRAPPER,Why did they have to die? They didn't hurt anyone.,为什么要杀这些村民？他们又没有伤害别人。,どうして死ななきゃならないの？この人達は誰も傷つけてないのに。
-13,289,vocs_over_over_ricefields_victims2_n02,vocs_ricefields_victims2_n02_jp,ALCHEMIST,To make a point. These farmers died because they remained loyal to the Shogun.,杀一儆百。他们想让世人记住效忠将军的下场。,あえて言うなら、農民は将軍への忠誠を持ち続けたがために死んだのじゃ。
-13,289,vocs_over_over_ricefields_victims2_n03,vocs_ricefields_victims2_n03_jp,TRAPPER,"Please don't die, master samurai.",千万不要死啊，武士大哥。,死なないで、お侍さん。
-13,289,vocs_over_over_ricefields_victims2_n04,vocs_ricefields_victims2_n04_jp,ALCHEMIST,He is strong Yuki-chan. We will reach him in time.,他很坚强的，友希姑娘。我们一定能及时赶到。,あやつは強い、雪ちゃん。必ず間に合う。
-13,289,vocs_over_over_ricefields_victims2_n05,vocs_ricefields_victims2_n05_jp,WARRIOR,All the more reason to help those who survived.,所以一定要去救幸存的人。,生き延びた人たちを助けるのだ。
-13,290,vo_hint_near_ricefields_tragedy2_n00,vo_ricefields_tragedy2_n00_jp,SAMURAI,Open up!,开门！,開けろ！
-13,290,vo_hint_near_ricefields_tragedy2_n01,vo_ricefields_tragedy2_n01_jp,SAMURAI,Open the door!,快开门！,戸を開けろ！
-13,290,vo_hint_near_ricefields_tragedy2_n02,vo_ricefields_tragedy2_n02_jp,SAMURAI,We'll get in eventually!,不要做无谓抵抗！,そこに入るんだぞ！
-13,290,vo_hint_near_ricefields_tragedy2_n03,vo_ricefields_tragedy2_n03_jp,SAMURAI,It won't hold forever!,门是挡不住我们的！,いつまでも閉じたままではいられぬ。
-13,290,vo_hint_near_ricefields_tragedy2_n04,vo_ricefields_tragedy2_n04_jp,SAMURAI,Open it! Now!,开门，赶紧的！,開けろ！すぐにだ！
-13,291,vo_hint_near_ricefields_tragedy3_n00,vo_ricefields_tragedy3_n00_jp,ENEMY,Ha!,哈哈！,はっ！
-13,291,vo_hint_near_ricefields_tragedy3_n01,vo_ricefields_tragedy3_n01_jp,CIVILIAN F,Please! Leave us alone …,求求你们！放过我们吧……,お願い。出ていって…。
-13,291,vo_hint_near_ricefields_tragedy3_n02,vo_ricefields_tragedy3_n02_jp,CIVILIAN F,,,
-13,292,vocs_over_over_ricefields_victims3_n00,vocs_ricefields_victims3_n00_jp,ALCHEMIST,Vile beasts.,卑鄙畜生。,悪魔の獣じゃ。
-13,292,vocs_over_over_ricefields_victims3_n01,vocs_ricefields_victims3_n01_jp,TRAPPER,Just like Okaa-san ...,和“妈妈”一样……,お母さんみたいに…。
-13,292,vocs_over_over_ricefields_victims3_n02,vocs_ricefields_victims3_n02_jp,ALCHEMIST,Yuki-chan?,友希姑娘?,…むぅ？
-13,292,vocs_over_over_ricefields_victims3_n03,vocs_ricefields_victims3_n03_jp,TRAPPER,Nothing. Mugen-sama needs us.,没什么，快去救无限大哥。,なんでもない…。それよりお侍さんを助けないと！
-13,293,vocs_over_over_ricefields_looters_n00,vocs_ricefields_looters_n00_jp,ALCHEMIST,"Hmm, looters.",嗯，都是搜刮来的赃物。,うーむ、盗品じゃの。
-13,293,vocs_over_over_ricefields_looters_n01,vocs_ricefields_looters_n01_jp,TRAPPER,Maybe Mugen-sama's weapons are here somewhere.,无限大哥的装备也许就放在这里。,たぶんお侍さんの武器がどこかにあるはずよ。
-13,293,vocs_over_over_ricefields_looters_n02,vocs_ricefields_looters_n02_jp,ALCHEMIST,"Heh, good thinking.",嗯，应该没错。,うむ、そうじゃな。
-13,294,vocs_over_over_ricefields_warrior1_n00,vocs_ricefields_warrior1_n00_jp,TRAPPER,There's Mugen-sama!,无限大哥在那儿!,お侍さんがいたわ！
-13,294,vocs_over_over_ricefields_warrior1_n01,vocs_ricefields_warrior1_n01_jp,ALCHEMIST,"He is well guarded. We must take on his interrogator together, yes?",敌人看守得很严。我们要合力才能干掉那个审讯他的武士，知道吗？,見張られておるのぅ。尋問者を二人で片付けるんじゃ、よいな？
-13,294,vocs_over_over_ricefields_warrior1_n02,vocs_ricefields_warrior1_n02_jp,TRAPPER,"Hai! You shoot, I finish him!",明白！你先开枪，我再杀他！,はい！あなたが撃って、あたしが仕留める。
-13,294,vocs_over_over_ricefields_warrior1_n03,vocs_ricefields_warrior1_n03_jp,ALCHEMIST,"Yuki-chan, why are you so eager to risk your life for Mugen?",友希姑娘，为何你愿为了无限如此奋不顾身？,時に雪ちゃん。なぜ、そこまで武源のために？
-13,294,vocs_over_over_ricefields_warrior1_n04,vocs_ricefields_warrior1_n04_jp,TRAPPER,"I told you, he's a friend. And a GOOD samurai.",我说过了，他是我的同伴，而且人非常好。,言ったでしょ！仲間だって！それにお侍さん、とってもいい人だから！
-13,295,vo_hint_hint_ricefields_questions_n00,vo_ricefields_questions_n00_jp,SAMURAI,How did you know we were coming?,你是怎么知道我们的行踪的？,我らのことをどうやって知った？
-13,295,vo_hint_hint_ricefields_questions_n01,vo_ricefields_questions_n01_jp,SAMURAI,Were you alone? Or are other Shogunate dogs hiding in the fields?,就你一个人？是不是还有幕府的狗腿子藏在稻田地里？,貴様一人か？それとも幕府の犬が近くにでも隠れているのか？
-13,295,vo_hint_hint_ricefields_questions_n02,vo_ricefields_questions_n02_jp,SAMURAI,Your resistance will earn you nothing!,反抗对你没有好处！,貴様の抵抗は何も生まぬぞ！
-13,295,vo_hint_hint_ricefields_questions_n03,vo_ricefields_questions_n03_jp,SAMURAI,What does the Shogun's brother know of our plans?,将军的兄弟对我们的计划知道多少？,将軍の兄弟は何か知っているのか？
-13,295,vo_hint_hint_ricefields_questions_n04,vo_ricefields_questions_n04_jp,SAMURAI,"Speak, and I will grant you an honourable death.",要是从实招来，我可以让你死得体面点。,話せ、さすれば切腹ぐらいはさせてやる。
-13,295,vo_hint_hint_ricefields_questions_n05,vo_ricefields_questions_n05_jp,SAMURAI,Did you really think you could stand against Lord Okkoto? ,你还真以为能挡得住乙事大人？ ,貴様は本当に乙事様に立ち向かえるとでも思っているのか？ 
-13,295,vo_hint_hint_ricefields_questions_n06,vo_ricefields_questions_n06_jp,SAMURAI,You will talk soon enough when we boil you alive. ,非得把你扔到开水里煮，才肯开口吗。 ,生き茹でにするまでには、すぐ話したくなるであろう 。
-13,296,vocs_over_over_ricefields_warrior2_n00,vocs_ricefields_warrior2_n00_jp,WARRIOR,Yuki-chan. What are you doing here?!,...友希小妹，你怎么来了？,雪殿！なぜここへ？
-13,296,vocs_over_over_ricefields_warrior2_n01,vocs_ricefields_warrior2_n01_jp,WARRIOR,akuma-san. You returned for me?,...琢磨大师。你回来救我了？,巧磨殿も、一体なぜこの場所に！
-13,296,vocs_over_over_ricefields_warrior2_n02,vocs_ricefields_warrior2_n02_jp,ALCHEMIST,"Yuki-chan has saved us both, Mugen. We are in her debt.",多亏友希姑娘救了我们，无限。都是她的功劳。,雪ちゃんがワシらを助けてくれたのじゃよ、ほっほ。武源、この子に借りができたのぅ。
-13,296,vocs_over_over_ricefields_warrior2_n03,vocs_ricefields_warrior2_n03_jp,WARRIOR,"My dear Yuki-chan! I owe you my life! By my honour, I will not forget this!",喔哦，友希小妹。你对我的救命之恩，这辈子我都不会忘记的。,おぉ雪殿！そうでありましたか！命の借りができてしまいましたな。この恩、忘れはしませぬぞ。
-13,296,vocs_over_over_ricefields_warrior2_n04,vocs_ricefields_warrior2_n04_jp,TRAPPER,"Thank you, master samurai!",嘿嘿…...嗯!,えへへ、うん！
-13,296,vocs_over_over_ricefields_warrior2_n05,vocs_ricefields_warrior2_n05_jp,WARRIOR,"Now, we must find the surviving farmers and give them the same curtesy as you gave me.",现在，一起去找幸存的村民，把他们也都救出来吧。,では、生き残った農民を見つけ、同じように助けに参りましょうぞ。
-13,296,vocs_over_over_ricefields_warrior2_n06,vocs_ricefields_warrior2_n06_jp,TRAPPER,"Uhm, Mugen-sama … they took your armour …",那个…武士大哥，你的装备怎么办……,えっと、お侍さん…敵に取られたあなたの武器が…。
-13,296,vocs_over_over_ricefields_warrior2_n07,vocs_ricefields_warrior2_n07_jp,WARRIOR,"Ah, yes, we must find my equipment first. Let us make haste!",啊，对，得先找到我的装备才行。那就赶紧去找吧！,む、そうでした。先に武器を探さねば、急ぎましょう！
-13,297,vocs_over_over_ricefields_gear1_n00,vocs_ricefields_gear1_n00_jp,ALCHEMIST,"Ah, samurai gear, but no samurai to carry it.",啊，是武士装备，但武士本人却不在。,おぉ、武器があったわい、じゃが肝心の持ち主がおらぬときては。
-13,297,vocs_over_over_ricefields_gear1_n01,vocs_ricefields_gear1_n01_jp,TRAPPER,Ergh … so heavy. It wants to be with Mugen-sama. ,呃……太重了。看来只有无限大哥本人才请得动。 ,うぅぅ…重い。お侍さんじゃないと。
-13,297,vocs_over_over_ricefields_gear1_n02,vocs_ricefields_gear1_n02_jp,WARRIOR,I will be there soon.,我这就过来。,急ぎ向かいます！
-13,298,vocs_over_over_ricefields_gear2_n00,vocs_ricefields_gear2_n00_jp,WARRIOR,"Ah, alive again! Now, we must ascend to the main farm! The survivors must be there.",啊，可算找回来了！接下来赶紧去上面的农场吧！幸存者一定在那。,おぉ、取り戻しましたぞ！なれば、いざ農場へ！残った者たちが待っておる。
-13,298,vocs_over_over_ricefields_gear2_n01,vocs_ricefields_gear2_n01_jp,ALCHEMIST,Are there any left?,还会有幸存者吗？,まだ残っておるのかえ？
-13,298,vocs_over_over_ricefields_gear2_n02,vocs_ricefields_gear2_n02_jp,WARRIOR,If we make haste.,赶紧过去的话，还有一线希望。,急げばまだ、希望はあります！
-13,299,vocs_over_over_ricefields_trouble_n00,vocs_ricefields_trouble_n00_jp,WARRIOR,Are Aiko-san and Hayato-san nearby?,爱子小姐和隼人兄也在这附近吗？,愛琥殿と隼人殿は近くにおりますか？
-13,299,vocs_over_over_ricefields_trouble_n01,vocs_ricefields_trouble_n01_jp,TRAPPER,"No. They're following that general. I, uh … had a message for Lord Noboru. But then I met Kuma, and … am I in trouble?",不，他们在跟踪那个大将…...啊……我手头还有个情报要交给昇大人。但半路遇到了小熊，然后就……这下怎么办啊？,いないよ、大将を追ってる…って、あぁ！！あたし昇様への伝言があったのに、クマを見つけて、それで…うぅ、どうしよう。
-13,299,vocs_over_over_ricefields_trouble_n02,vocs_ricefields_trouble_n02_jp,WARRIOR,"Do not worry, Yuki-chan. You saved our lives, so the responsibility is mine. We will deliver your message together.",别担心，友希小妹。你也是为了救我们才过来的，所以在下也要担责。等会儿我们一起去送情报吧。,心配はご無用ですぞ、雪殿！そなたはワシらを救ってくれた、なればその責任を負うは拙者の使命。ささ、共に伝言を伝えに行きましょうぞ！
-13,299,vocs_over_over_ricefields_trouble_n03,vocs_ricefields_trouble_n03_jp,TRAPPER,"Hai, Mugen-sama!",好的，武士大哥！,…っ！はい！！お侍さん！！
-13,300,vocs_over_over_ricefields_prisoners_n00,vocs_ricefields_prisoners_n00_jp,ALCHEMIST,"Men and woman, penned together like cattle.",有男有女，像牲口一样被关在那里。,女と男たちが家畜のように閉じ込められておるわい。
-13,300,vocs_over_over_ricefields_prisoners_n01,vocs_ricefields_prisoners_n01_jp,TRAPPER,I see them ... at the stables and in the backyard.,我看见他们了……在牛棚和后院里。,見える…小屋と裏庭ね。
-13,300,vocs_over_over_ricefields_prisoners_n02,vocs_ricefields_prisoners_n02_jp,WARRIOR,We must free them. I will speak to them after we have slain the rebels.,想办法解救这些村民。得先把叛军守卫都干掉，我再去跟他们说明情况。,解放致そう。反逆者を討ち、話をしてみましょうぞ。
-13,301,vo_hint_hint_ricefields_imprisoned_n00,vo_ricefields_imprisoned_n00_jp,CIVILIAN M,This is bad … maybe we …,好残忍……我们完了……,ひどい…俺たちきっと…。
-13,301,vo_hint_hint_ricefields_imprisoned_n01,vo_ricefields_imprisoned_n01_jp,CIVILIAN F,Dark times dark times.,好可怕，好可怕…,おそろしやおそろしや。
-13,301,vo_hint_hint_ricefields_imprisoned_n02,vo_ricefields_imprisoned_n02_jp,CIVILIAN M,They are going to kill us!,要来杀我们了！,殺しに来る！
-13,301,vo_hint_hint_ricefields_imprisoned_n03,vo_ricefields_imprisoned_n03_jp,CIVILIAN F,Husband ... be safe …,夫君……你一定要平安无事啊……,あなた…無事で…。
-13,301,vo_hint_hint_ricefields_imprisoned_n04,vo_ricefields_imprisoned_n04_jp,CIVILIAN M,We should have surrendered.,应该早点投降就好了。,降伏すべきだった。
-13,301,vo_hint_hint_ricefields_imprisoned_n05,vo_ricefields_imprisoned_n05_jp,CIVILIAN F,We must not  give in to fear. Someone will come.,不能向恐惧低头。会有人来救我们的。,恐れてはいけないわ、きっと誰か…。
-13,302,vocs_over_over_ricefields_farmers_n00,vocs_ricefields_farmers_n00_jp,CIVILIAN M,Thank you. We knew the Shogun would send help!,太感谢了！我们就知道将军会派人来救我们的！,ありがとうございます。将軍様がきっと助けを送ってくれると信じていました。
-13,302,vocs_over_over_ricefields_farmers_n01,vocs_ricefields_farmers_n01_jp,CIVILIAN F,My husband! They took him away ...,我丈夫！他们把他带走了……,あなた！あのお方たちが追い払ってくれたのよ…。
-13,302,vocs_over_over_ricefields_farmers_n02,vocs_ricefields_farmers_n02_jp,WARRIOR,"He will live, you have my word. Now, follow our lead.",他不会死的，我向你保证。现在请跟我们走。,かの者は死なぬ、信じるのだ！では、着いて参られよ！
-13,302,vocs_over_over_ricefields_farmers_n03,vocs_ricefields_farmers_n03_jp,WARRIOR,He is already with us. Stay close and we will escape together.,他已经和我们在一起了。跟紧点，我们一起逃出去。,かの者は既に共にいる。落ち合って、ここから逃げましょうぞ。
-13,302,vocs_over_over_ricefields_farmers_n04,vocs_ricefields_farmers_n04_jp,CIVILIAN F,We will follow you.,我们会跟着您的。,着いて行きます。
-13,303,vo_hint_hint_ricefields_interrogate_n00,vo_ricefields_interrogate_n00_jp,SAMURAI,Who is the samurai that came to your aid?,来帮你的武士是谁？,手助けをした侍は誰だ？
-13,303,vo_hint_hint_ricefields_interrogate_n01,vo_ricefields_interrogate_n01_jp,HUSBAND,I don't know who he is.,我不知道他是谁。,誰かなど知らぬ！
-13,303,vo_hint_hint_ricefields_interrogate_n02,vo_ricefields_interrogate_n02_jp,SAMURAI,"Don't lie to me, peasant.",贱民，可不准骗我。,嘘をつくな、百姓め。
-13,303,vo_hint_hint_ricefields_interrogate_n03,vo_ricefields_interrogate_n03_jp,HUSBAND,I only know the Shogun will send more like him. They will kill you.,我只知道将军会派更多武士过来，到时候你就死定了。,わかるのは将軍様がそのような方をこちらにお送りするということのみ。お主を討ち取りにくるであろう。
-13,303,vo_hint_hint_ricefields_interrogate_n04,vo_ricefields_interrogate_n04_jp,SAMURAI,Your defiance means nothing. We will make you talk.,哈哈，嘴上挑衅有什么用。我们有的是办法让你开口。,無駄な抵抗を、さっさと話せ！
-13,304,vocs_over_over_ricefields_husband_n00,vocs_ricefields_husband_n00_jp,HUSBAND,"Thank you, my lord. Please! Others are at the stables. My wife too…",谢谢您，大人。但牛棚里也关了人。我妻子，也在那……,ありがとうございます。どうか小屋にいる他の者たちも…。私の妻もいるのです…。
-13,304,vocs_over_over_ricefields_husband_n01,vocs_ricefields_husband_n01_jp,WARRIOR,"We will free them. Now, you must do as I tell you.",我们会去救他们的。不过你得听我指挥。,解放させよう。では、言う通りに動いてくれぬだろうか。
-13,304,vocs_over_over_ricefields_husband_n02,vocs_ricefields_husband_n02_jp,WARRIOR,"They have been freed. Now, come with us and we will escape together.",他们已经救出来了。来和我们一起逃出去吧。,既に解放しており申す。着いて参られよ、皆で脱出する！
-13,304,vocs_over_over_ricefields_husband_n03,vocs_ricefields_husband_n03_jp,HUSBAND,I will follow your lead.,我会跟着您的。,着いて行きます。
-13,305,vocs_over_over_ricefields_alarm_n00,vocs_ricefields_alarm_n00_jp,SAMURAI,Someone escaped! Search the area!,有人逃跑啦！都给我搜！,誰か逃げたぞ！辺りを探せ！
-13,305,vocs_over_over_ricefields_alarm_n01,vocs_ricefields_alarm_n01_jp,SAMURAI,Someone got free! Search the area!,有人逃跑啦！都给我搜！,誰か逃げたぞ！辺りを探せ！
-13,306,vocs_over_over_ricefields_debt_n00,vocs_ricefields_debt_n00_jp,HUSBAND,We can never repay you for this kindness.,您的大恩大德，我们要怎么报答？,これほどの御親切に、なんとお礼を言ったらいいのか…。
-13,306,vocs_over_over_ricefields_debt_n01,vocs_ricefields_debt_n01_jp,WARRIOR,We have not made it to safety yet.,还没到安全的地方，别掉以轻心。,まだ、安心はできませぬぞ。
-13,306,vocs_over_over_ricefields_debt_n02,vocs_ricefields_debt_n02_jp,CIVILIAN F,We would be dead already if not for you.,要是没有你，我们早没命了。,あなた様がいなければ既に死んでおりました。
-13,306,vocs_over_over_ricefields_debt_n03,vocs_ricefields_debt_n03_jp,WARRIOR,"Then spread the word, the Shogun does not abandon his people.",那就替我放个话吧，告诉天下百姓，将军没有抛弃他的人民。,将軍様は民を見捨てはせぬ、それを皆に伝えられよ。
-13,307,vocs_over_over_ricefields_more_n00,vocs_ricefields_more_n00_jp,OFFICER,"We're back! Looks like … wait, something's wrong here!  Everyone! Block the road!",我们回来了！…...等等，情况不对！全员注意，封锁道路！,戻りました！どうやら…まて、何かおかしいぞ！皆！道を塞げ！
-13,307,vocs_over_over_ricefields_more_n01,vocs_ricefields_more_n01_jp,WARRIOR,"Scouts, returning from patrol. Everyone, keep your distance!",是侦察队，他们刚巡逻回来。大家注意，别靠他们太近！,偵察が巡回から戻ってきたようだ、皆、距離をとられよ！
-13,307,vocs_over_over_ricefields_more_n02,vocs_ricefields_more_n02_jp,ALCHEMIST,"Hmm, I told you they'd come back. He, I feel a sudden itch in my leg.",嗯，我说过他们会回来的吧。嘿嘿，突然觉得腿有点痒。,ほーれ、戻ってくると言ったじゃろ。ほっほ、足が痒くなってきおったわい。
-13,307,vocs_over_over_ricefields_more_n03,vocs_ricefields_more_n03_jp,TRAPPER,We're almost out! So close!,马上就逃出去了，还差一点！,皆もうすぐよ！あと少し！
-13,308,vocs_over_over_ricefields_debriefing_n00,vocs_ricefields_debriefing_n00_jp,WARRIOR,Is everyone alright?,所有人都还好吧？,みな、無事か？
-13,308,vocs_over_over_ricefields_debriefing_n01,vocs_ricefields_debriefing_n01_jp,HUSBAND,"Yes. Thank you, my lord, thank you.",是的。谢谢您，武士大人，万分感谢！,はい！ありがとうございます。お侍様、本当にありがとうございます！
-13,308,vocs_over_over_ricefields_debriefing_n02,vocs_ricefields_debriefing_n02_jp,WARRIOR,"We must all thank this brave young woman here. Her name is Yuki, and without her, none of us would be alive.",大家听好，我们都得感谢这位勇敢的姑娘。她的名字是友希，如果没有她，我们早已命丧黄泉。,みな、この勇敢な娘にも感謝せねばなりますまい！名は雪、この娘なくしては生きて帰るなど到底成し得ぬことであったがゆえ！
-13,308,vocs_over_over_ricefields_debriefing_n03,vocs_ricefields_debriefing_n03_jp,TRAPPER,"N-no, that's not …",哎？不 ，我没有……,え、そ、そんなんじゃ…。
-13,308,vocs_over_over_ricefields_debriefing_n04,vocs_ricefields_debriefing_n04_jp,CIVILIAN F,"We owe you everything, Yuki-chan. I pray that we can return this kindness one day.",多亏有您在，友希小姐。日后一定回报您的救命之恩。,あなたのおかげです、雪様！いつかこの御恩、必ず！必ず返します！
-13,308,vocs_over_over_ricefields_debriefing_n05,vocs_ricefields_debriefing_n05_jp,TRAPPER,I … ah … you're welcome.,啊……我……不敢当。,あ…えと…その…ど、どういたしまして。
-13,308,vocs_over_over_ricefields_debriefing_n06,vocs_ricefields_debriefing_n06_jp,WARRIOR,"Now, we should leave, before more rebels arrive.",那大家赶紧离开此地吧，否则叛军的人又要来了。,では、参りましょう！他の反乱者が来ては困りますゆえ。
-13,308,vocs_over_over_ricefields_debriefing_n07,vocs_ricefields_debriefing_n07_jp,HUSBAND,Where will you take us?,您要带我们去哪？,どこへ連れていってくださるのですか？
-13,308,vocs_over_over_ricefields_debriefing_n08,vocs_ricefields_debriefing_n08_jp,WARRIOR,We will head for Lord Noboru's camp. You will find shelter there until this matter is resolved.,我们将前往昇大人的军营。在叛军清缴完之前，你们可在那里避难。,我らは昇様の野営へと参る。お主たちはことが済むまで、避難所にいるのがよいだろう。
-13,308,vocs_over_over_ricefields_debriefing_n09,vocs_ricefields_debriefing_n09_jp,ALCHEMIST,Well done Yuki-chan.,嘿嘿嘿，干得漂亮，友希姑娘。,ほっほ、よくやったのぅ、雪ちゃん！
-13,308,vocs_over_over_ricefields_debriefing_n10,vocs_ricefields_debriefing_n10_jp,TRAPPER,"Thank you, Takuma-sama!",谢谢，琢磨大师！,ありがとうございます、巧磨先生！
+sec,voen,vojp,s,en,cn,jp
+279,vocs_over_over_ricefields_briefing_n00,vocs_ricefields_briefing_n00_jp,ALCHEMIST,"Hmm, will death take me now? Perhaps it has been long enough ... ",嗯…看来我气数已尽…… 这辈子也算活得够长了。,うーむ、死がワシをここへ呼び寄せるか？もう十分生きたということかの…。
+279,vocs_over_over_ricefields_briefing_n01,vocs_ricefields_briefing_n01_jp,TRAPPER,Psst. Takuma-sama!,喂，琢磨师父！,ねえ、巧磨先生！
+279,vocs_over_over_ricefields_briefing_n02,vocs_ricefields_briefing_n02_jp,ALCHEMIST,Ah! … Yuki-chan! … it's you child. Are you alone?,啊！……友希姑娘！怎么到这里来了，就你一个人吗？,おぉ！…雪ちゃん！…お主一人か？
+279,vocs_over_over_ricefields_briefing_n03,vocs_ricefields_briefing_n03_jp,TRAPPER,Yes. I followed Kuma here. The others couldn't come. What happened?,是的，小熊带我过来的。其他人来不了。这里发生了什么？,はい、クマに着いてきたの。他の人は来られなかったけど…。何があったの？
+279,vocs_over_over_ricefields_briefing_n04,vocs_ricefields_briefing_n04_jp,ALCHEMIST,Darkness and horror. The rebels slaughtered the farmers. Most of them are dead.,太惨无人道了。叛军血洗了村子，大部分人都死了。,暗黒と恐怖じゃ、反乱者は農民を殺傷しておる。ほとんどもう死んでしもうた。
+279,vocs_over_over_ricefields_briefing_n05,vocs_ricefields_briefing_n05_jp,ALCHEMIST,"Mugen tried to help. Now he is a prisoner himself, being interrogated and, most likely, soon executed.",无限想去救他们，反而自身难保。敌人正在审问他，可能马上就要被处决。,武源は助けようとはしたのじゃが、投獄されてしもうた。尋問されて、おそらくすぐに処刑されるじゃろう。
+279,vocs_over_over_ricefields_briefing_n06,vocs_ricefields_briefing_n06_jp,TRAPPER,No. We'll save him …,怎么会…快去救他……,そんな、助けないと…。
+279,vocs_over_over_ricefields_briefing_n07,vocs_ricefields_briefing_n07_jp,ALCHEMIST,It is impossible child. We are hardly a force to be reckoned with.,不可能的，孩子。敌我力量太过悬殊。,無理じゃよ、雪ちゃん。そのような力はありゃせん。
+279,vocs_over_over_ricefields_briefing_n08,vocs_ricefields_briefing_n08_jp,TRAPPER,We have to try! He's our friend! You don't leave friends behind!,不试试怎么知道！他是我们的同伴啊！怎么能见死不救！,やってみなきゃ！だって仲間よ…。見捨てるなんてできない！
+279,vocs_over_over_ricefields_briefing_n09,vocs_ricefields_briefing_n09_jp,ALCHEMIST,"Such a young mind … very well, Yuki-chan. If we shall die, we might as well do so with purpose. Lead the way.",果然是年轻人……好吧，友希姑娘。就算死，也要死得其所。你来带路吧。,若い心じゃのぅ…よし、わかったわい雪ちゃん！もし助けられなければ、目的もまた死ぬ、進む他ないということじゃのぅ…。
+280,vo_hint_hint_ricefields_shooting_n00,vo_ricefields_shooting_n00_jp,CIVILIAN M,Ah!,啊！,ああ！
+280,vo_hint_hint_ricefields_shooting_n01,vo_ricefields_shooting_n01_jp,CIVILIAN F,No …,不要啊……,やめて…。
+280,vo_hint_hint_ricefields_shooting_n02,vo_ricefields_shooting_n02_jp,CIVILIAN F,Demon! Monster! I curse you …,魔鬼！妖怪！你们不得好死……,悪魔め！鬼め！呪ってやる…。
+280,vo_hint_hint_ricefields_shooting_n03,vo_ricefields_shooting_n03_jp,CIVILIAN F,,,
+281,vocs_over_over_ricefields_tanuki_n00,vocs_ricefields_tanuki_n00_jp,TRAPPER,Why did Kuma have blood on his fur?,小熊身上的血迹是怎么回事？,どうしてクマに血が？
+281,vocs_over_over_ricefields_tanuki_n01,vocs_ricefields_tanuki_n01_jp,ALCHEMIST,A farmer died right next to him. I'm surprised you could get him to return here.,因为有个村民就在他面前被杀害。真没想到你有办法让他带你过来。,隣で農民が死んだのじゃよ。ここに戻ってきたとは驚きじゃったよ。
+281,vocs_over_over_ricefields_tanuki_n02,vocs_ricefields_tanuki_n02_jp,TRAPPER,It wasn't hard. I just made that sound you do.,很简单啊。我就试了试模仿你的发音方法。,簡単だよ。巧磨さんがやるみたいに音を出したの。
+281,vocs_over_over_ricefields_tanuki_n03,vocs_ricefields_tanuki_n03_jp,ALCHEMIST,Hmm ... so you picked up on that …,嗯……你确实悟性过人……,うーむ…気づいておったとはの…。
+281,vocs_over_over_ricefields_tanuki_n04,vocs_ricefields_tanuki_n04_jp,TRAPPER,I bet Kuma wants to rescue master samurai too!,一定是因为小熊他也想救武士大哥！,きっとクマもお侍さんを助けて欲しがってるよ！
+282,vocs_over_over_ricefields_fields_n00,vocs_ricefields_fields_n00_jp,ALCHEMIST,"Ah, the rice will provide cover.",喔，稻田正好可以做掩护。,うむ、稲で隠れられるのぅ。
+282,vocs_over_over_ricefields_fields_n01,vocs_ricefields_fields_n01_jp,TRAPPER,Rebels! … why are they searching the fields?,有叛军！……他们为什么要搜查稻田啊？,あれは反乱者よ！…どうしてこの場所を探しているのかな？
+282,vocs_over_over_ricefields_fields_n02,vocs_ricefields_fields_n02_jp,ALCHEMIST,"Hmm, I'd say they are hunting for survivors.",喔，应该是在搜寻幸存者。,うーむ、生存者を探しているといったところかのぅ。
+282,vocs_over_over_ricefields_fields_n03,vocs_ricefields_fields_n03_jp,TRAPPER,Are the others … are they all dead? Mugen-sama …,其他人……都死了吗？武士大哥他……,皆…皆死んじゃったのかな…。お侍さん…。
+282,vocs_over_over_ricefields_fields_n04,vocs_ricefields_fields_n04_jp,ALCHEMIST,"Stay calm, Yuki-chan! We must become the hunters and rescue Mugen.",冷静，友希姑娘！此刻更要沉着冷静才有可能救出无限。,落ち着くんじゃ、雪ちゃん。武源をなんとしてでも救い出すぞい。
+283,vo_hint_hint_ricefields_search_n00,vo_ricefields_search_n00_jp,OFFICER,I saw a shadow. Find him!,我看到人影了，快搜！,影を見たぞ、探せ！
+283,vo_hint_hint_ricefields_search_n01,vo_ricefields_search_n01_jp,OFFICER,No one must escape! Lord Okkoto's orders.,乙事大人有令，不留活口！,誰も逃がすな！乙事様のご命令だ。
+283,vo_hint_hint_ricefields_search_n02,vo_ricefields_search_n02_jp,OFFICER,"Someone's in there, I know it.",肯定还藏着人，我有感觉！,いるんだろ、わかるぞ。
+284,vocs_over_over_ricefields_rifle_n00,vocs_ricefields_rifle_n00_jp,TRAPPER,"I do like your leg! It's quick and deadly, and it can hide, like my little trap.",你的木腿真好用！又快又狠，还能藏起来，和我的小陷阱一样。,その足が欲しいわ。速くて強くて、しかもあたしの罠みたいに隠すこともできるし。
+284,vocs_over_over_ricefields_rifle_n01,vocs_ricefields_rifle_n01_jp,ALCHEMIST,"Hmm, what an unusual compliment. Do you know how I made it so quiet?",唔，你的赞美方式真是特别。你知道我是如何让枪消音的吗？,うーむ、なんとも突飛な称賛じゃわい。どうやって音を消しているか分かるかのぅ？
+284,vocs_over_over_ricefields_rifle_n02,vocs_ricefields_rifle_n02_jp,TRAPPER,"No, don't tell! It's a good puzzle, but no time for puzzles now!",完全猜不到。这个问题很有意思，但现在没时间玩解谜。,全然わからないよ！謎なぞだね、でも今はそれどころじゃないわ！
+284,vocs_over_over_ricefields_rifle_n03,vocs_ricefields_rifle_n03_jp,ALCHEMIST,How right you are. Onward to Mugen.,你说得对。赶紧去救无限。,そういうことじゃな！武源のもとへ急ごう！
+285,vocs_over_over_ricefields_scouts_n00,vocs_ricefields_scouts_n00_jp,OFFICER,Let's search the fields further down the road to see if anyone's there.,再去那边的稻田里找找吧，看看有没有漏网之鱼。,誰かいないか道の方に出て周辺を探そう。
+285,vocs_over_over_ricefields_scouts_n01,vocs_ricefields_scouts_n01_jp,TRAPPER,"Yes, stay away …",好，走得越远越好……,よし、あっちへ行け…。
+285,vocs_over_over_ricefields_scouts_n02,vocs_ricefields_scouts_n02_jp,ALCHEMIST,They will return eventually. We should not forget about them.,他们还会绕回来的，切记。,また戻ってくるじゃろう、そのことを忘れてはいかん。
+286,vo_hint_near_ricefields_tragedy1_n00,vo_ricefields_tragedy1_n00_jp,CIVILIAN F,No! Please no! Help me! Help!,不！求你了，不要！救命啊！,駄目！お願い！助けて！助けて！
+286,vo_hint_near_ricefields_tragedy1_n00a,vo_ricefields_tragedy1_n00a_jp,CIVILIAN M,No! Please no! Help me! Help!,不！求...求你了，不要！救命啊！,やめろ！お願いだ！助けて！助けて！
+287,vo_hint_near_ricefields_tragedy1_n01,vo_ricefields_tragedy1_n01_jp,ENEMY,Teh … serves you right.,嘁……你自找的。,ふん…報いだ。
+288,vocs_over_over_ricefields_victims1_n01,vocs_ricefields_victims1_n01_jp,TRAPPER,They didn't have to shoot him.,为什么要乱杀无辜。,撃たなくてもいいのに。
+288,vocs_over_over_ricefields_victims1_n01a,vocs_ricefields_victims1_n01a_jp,TRAPPER,They didn't have to shoot her.,为什么要乱杀无辜。,撃たなくてもいいのに。
+288,vocs_over_over_ricefields_victims1_n02,vocs_ricefields_victims1_n02_jp,ALCHEMIST,"These men are beasts. They'll do whatever they want, with or without reason.",这帮人都是畜生。他们肆无忌惮，杀人不需要理由。,奴らは獣じゃ。欲望のままに命を奪う、そこに理由などありゃせん。
+288,vocs_over_over_ricefields_victims1_n03,vocs_ricefields_victims1_n03_jp,TRAPPER,I hope Mugen-sama is OK.,希望武士大哥平安无恙。,…お侍さん、無事でいてね。
+288,vocs_over_over_ricefields_victims1_n04,vocs_ricefields_victims1_n04_jp,ALCHEMIST,"Yuki-chan. Do not worry, we will save him.",友希姑娘，别担心，一定能救到他的。,雪ちゃん、心配しなさんな。ワシらで助けるんじゃ。
+289,vocs_over_over_ricefields_victims2_n00,vocs_ricefields_victims2_n00_jp,ALCHEMIST,Such shame.,死得太冤了。,残念なことじゃ。
+289,vocs_over_over_ricefields_victims2_n01,vocs_ricefields_victims2_n01_jp,TRAPPER,Why did they have to die? They didn't hurt anyone.,为什么要杀这些村民？他们又没有伤害别人。,どうして死ななきゃならないの？この人達は誰も傷つけてないのに。
+289,vocs_over_over_ricefields_victims2_n02,vocs_ricefields_victims2_n02_jp,ALCHEMIST,To make a point. These farmers died because they remained loyal to the Shogun.,杀一儆百。他们想让世人记住效忠将军的下场。,あえて言うなら、農民は将軍への忠誠を持ち続けたがために死んだのじゃ。
+289,vocs_over_over_ricefields_victims2_n03,vocs_ricefields_victims2_n03_jp,TRAPPER,"Please don't die, master samurai.",千万不要死啊，武士大哥。,死なないで、お侍さん。
+289,vocs_over_over_ricefields_victims2_n04,vocs_ricefields_victims2_n04_jp,ALCHEMIST,He is strong Yuki-chan. We will reach him in time.,他很坚强的，友希姑娘。我们一定能及时赶到。,あやつは強い、雪ちゃん。必ず間に合う。
+289,vocs_over_over_ricefields_victims2_n05,vocs_ricefields_victims2_n05_jp,WARRIOR,All the more reason to help those who survived.,所以一定要去救幸存的人。,生き延びた人たちを助けるのだ。
+290,vo_hint_near_ricefields_tragedy2_n00,vo_ricefields_tragedy2_n00_jp,SAMURAI,Open up!,开门！,開けろ！
+290,vo_hint_near_ricefields_tragedy2_n01,vo_ricefields_tragedy2_n01_jp,SAMURAI,Open the door!,快开门！,戸を開けろ！
+290,vo_hint_near_ricefields_tragedy2_n02,vo_ricefields_tragedy2_n02_jp,SAMURAI,We'll get in eventually!,不要做无谓抵抗！,そこに入るんだぞ！
+290,vo_hint_near_ricefields_tragedy2_n03,vo_ricefields_tragedy2_n03_jp,SAMURAI,It won't hold forever!,门是挡不住我们的！,いつまでも閉じたままではいられぬ。
+290,vo_hint_near_ricefields_tragedy2_n04,vo_ricefields_tragedy2_n04_jp,SAMURAI,Open it! Now!,开门，赶紧的！,開けろ！すぐにだ！
+291,vo_hint_near_ricefields_tragedy3_n00,vo_ricefields_tragedy3_n00_jp,ENEMY,Ha!,哈哈！,はっ！
+291,vo_hint_near_ricefields_tragedy3_n01,vo_ricefields_tragedy3_n01_jp,CIVILIAN F,Please! Leave us alone …,求求你们！放过我们吧……,お願い。出ていって…。
+291,vo_hint_near_ricefields_tragedy3_n02,vo_ricefields_tragedy3_n02_jp,CIVILIAN F,,,
+292,vocs_over_over_ricefields_victims3_n00,vocs_ricefields_victims3_n00_jp,ALCHEMIST,Vile beasts.,卑鄙畜生。,悪魔の獣じゃ。
+292,vocs_over_over_ricefields_victims3_n01,vocs_ricefields_victims3_n01_jp,TRAPPER,Just like Okaa-san ...,和“妈妈”一样……,お母さんみたいに…。
+292,vocs_over_over_ricefields_victims3_n02,vocs_ricefields_victims3_n02_jp,ALCHEMIST,Yuki-chan?,友希姑娘?,…むぅ？
+292,vocs_over_over_ricefields_victims3_n03,vocs_ricefields_victims3_n03_jp,TRAPPER,Nothing. Mugen-sama needs us.,没什么，快去救无限大哥。,なんでもない…。それよりお侍さんを助けないと！
+293,vocs_over_over_ricefields_looters_n00,vocs_ricefields_looters_n00_jp,ALCHEMIST,"Hmm, looters.",嗯，都是搜刮来的赃物。,うーむ、盗品じゃの。
+293,vocs_over_over_ricefields_looters_n01,vocs_ricefields_looters_n01_jp,TRAPPER,Maybe Mugen-sama's weapons are here somewhere.,无限大哥的装备也许就放在这里。,たぶんお侍さんの武器がどこかにあるはずよ。
+293,vocs_over_over_ricefields_looters_n02,vocs_ricefields_looters_n02_jp,ALCHEMIST,"Heh, good thinking.",嗯，应该没错。,うむ、そうじゃな。
+294,vocs_over_over_ricefields_warrior1_n00,vocs_ricefields_warrior1_n00_jp,TRAPPER,There's Mugen-sama!,无限大哥在那儿!,お侍さんがいたわ！
+294,vocs_over_over_ricefields_warrior1_n01,vocs_ricefields_warrior1_n01_jp,ALCHEMIST,"He is well guarded. We must take on his interrogator together, yes?",敌人看守得很严。我们要合力才能干掉那个审讯他的武士，知道吗？,見張られておるのぅ。尋問者を二人で片付けるんじゃ、よいな？
+294,vocs_over_over_ricefields_warrior1_n02,vocs_ricefields_warrior1_n02_jp,TRAPPER,"Hai! You shoot, I finish him!",明白！你先开枪，我再杀他！,はい！あなたが撃って、あたしが仕留める。
+294,vocs_over_over_ricefields_warrior1_n03,vocs_ricefields_warrior1_n03_jp,ALCHEMIST,"Yuki-chan, why are you so eager to risk your life for Mugen?",友希姑娘，为何你愿为了无限如此奋不顾身？,時に雪ちゃん。なぜ、そこまで武源のために？
+294,vocs_over_over_ricefields_warrior1_n04,vocs_ricefields_warrior1_n04_jp,TRAPPER,"I told you, he's a friend. And a GOOD samurai.",我说过了，他是我的同伴，而且人非常好。,言ったでしょ！仲間だって！それにお侍さん、とってもいい人だから！
+295,vo_hint_hint_ricefields_questions_n00,vo_ricefields_questions_n00_jp,SAMURAI,How did you know we were coming?,你是怎么知道我们的行踪的？,我らのことをどうやって知った？
+295,vo_hint_hint_ricefields_questions_n01,vo_ricefields_questions_n01_jp,SAMURAI,Were you alone? Or are other Shogunate dogs hiding in the fields?,就你一个人？是不是还有幕府的狗腿子藏在稻田地里？,貴様一人か？それとも幕府の犬が近くにでも隠れているのか？
+295,vo_hint_hint_ricefields_questions_n02,vo_ricefields_questions_n02_jp,SAMURAI,Your resistance will earn you nothing!,反抗对你没有好处！,貴様の抵抗は何も生まぬぞ！
+295,vo_hint_hint_ricefields_questions_n03,vo_ricefields_questions_n03_jp,SAMURAI,What does the Shogun's brother know of our plans?,将军的兄弟对我们的计划知道多少？,将軍の兄弟は何か知っているのか？
+295,vo_hint_hint_ricefields_questions_n04,vo_ricefields_questions_n04_jp,SAMURAI,"Speak, and I will grant you an honourable death.",要是从实招来，我可以让你死得体面点。,話せ、さすれば切腹ぐらいはさせてやる。
+295,vo_hint_hint_ricefields_questions_n05,vo_ricefields_questions_n05_jp,SAMURAI,Did you really think you could stand against Lord Okkoto? ,你还真以为能挡得住乙事大人？ ,貴様は本当に乙事様に立ち向かえるとでも思っているのか？ 
+295,vo_hint_hint_ricefields_questions_n06,vo_ricefields_questions_n06_jp,SAMURAI,You will talk soon enough when we boil you alive. ,非得把你扔到开水里煮，才肯开口吗。 ,生き茹でにするまでには、すぐ話したくなるであろう 。
+296,vocs_over_over_ricefields_warrior2_n00,vocs_ricefields_warrior2_n00_jp,WARRIOR,Yuki-chan. What are you doing here?!,...友希小妹，你怎么来了？,雪殿！なぜここへ？
+296,vocs_over_over_ricefields_warrior2_n01,vocs_ricefields_warrior2_n01_jp,WARRIOR,akuma-san. You returned for me?,...琢磨大师。你回来救我了？,巧磨殿も、一体なぜこの場所に！
+296,vocs_over_over_ricefields_warrior2_n02,vocs_ricefields_warrior2_n02_jp,ALCHEMIST,"Yuki-chan has saved us both, Mugen. We are in her debt.",多亏友希姑娘救了我们，无限。都是她的功劳。,雪ちゃんがワシらを助けてくれたのじゃよ、ほっほ。武源、この子に借りができたのぅ。
+296,vocs_over_over_ricefields_warrior2_n03,vocs_ricefields_warrior2_n03_jp,WARRIOR,"My dear Yuki-chan! I owe you my life! By my honour, I will not forget this!",喔哦，友希小妹。你对我的救命之恩，这辈子我都不会忘记的。,おぉ雪殿！そうでありましたか！命の借りができてしまいましたな。この恩、忘れはしませぬぞ。
+296,vocs_over_over_ricefields_warrior2_n04,vocs_ricefields_warrior2_n04_jp,TRAPPER,"Thank you, master samurai!",嘿嘿…...嗯!,えへへ、うん！
+296,vocs_over_over_ricefields_warrior2_n05,vocs_ricefields_warrior2_n05_jp,WARRIOR,"Now, we must find the surviving farmers and give them the same curtesy as you gave me.",现在，一起去找幸存的村民，把他们也都救出来吧。,では、生き残った農民を見つけ、同じように助けに参りましょうぞ。
+296,vocs_over_over_ricefields_warrior2_n06,vocs_ricefields_warrior2_n06_jp,TRAPPER,"Uhm, Mugen-sama … they took your armour …",那个…武士大哥，你的装备怎么办……,えっと、お侍さん…敵に取られたあなたの武器が…。
+296,vocs_over_over_ricefields_warrior2_n07,vocs_ricefields_warrior2_n07_jp,WARRIOR,"Ah, yes, we must find my equipment first. Let us make haste!",啊，对，得先找到我的装备才行。那就赶紧去找吧！,む、そうでした。先に武器を探さねば、急ぎましょう！
+297,vocs_over_over_ricefields_gear1_n00,vocs_ricefields_gear1_n00_jp,ALCHEMIST,"Ah, samurai gear, but no samurai to carry it.",啊，是武士装备，但武士本人却不在。,おぉ、武器があったわい、じゃが肝心の持ち主がおらぬときては。
+297,vocs_over_over_ricefields_gear1_n01,vocs_ricefields_gear1_n01_jp,TRAPPER,Ergh … so heavy. It wants to be with Mugen-sama. ,呃……太重了。看来只有无限大哥本人才请得动。 ,うぅぅ…重い。お侍さんじゃないと。
+297,vocs_over_over_ricefields_gear1_n02,vocs_ricefields_gear1_n02_jp,WARRIOR,I will be there soon.,我这就过来。,急ぎ向かいます！
+298,vocs_over_over_ricefields_gear2_n00,vocs_ricefields_gear2_n00_jp,WARRIOR,"Ah, alive again! Now, we must ascend to the main farm! The survivors must be there.",啊，可算找回来了！接下来赶紧去上面的农场吧！幸存者一定在那。,おぉ、取り戻しましたぞ！なれば、いざ農場へ！残った者たちが待っておる。
+298,vocs_over_over_ricefields_gear2_n01,vocs_ricefields_gear2_n01_jp,ALCHEMIST,Are there any left?,还会有幸存者吗？,まだ残っておるのかえ？
+298,vocs_over_over_ricefields_gear2_n02,vocs_ricefields_gear2_n02_jp,WARRIOR,If we make haste.,赶紧过去的话，还有一线希望。,急げばまだ、希望はあります！
+299,vocs_over_over_ricefields_trouble_n00,vocs_ricefields_trouble_n00_jp,WARRIOR,Are Aiko-san and Hayato-san nearby?,爱子小姐和隼人兄也在这附近吗？,愛琥殿と隼人殿は近くにおりますか？
+299,vocs_over_over_ricefields_trouble_n01,vocs_ricefields_trouble_n01_jp,TRAPPER,"No. They're following that general. I, uh … had a message for Lord Noboru. But then I met Kuma, and … am I in trouble?",不，他们在跟踪那个大将…...啊……我手头还有个情报要交给昇大人。但半路遇到了小熊，然后就……这下怎么办啊？,いないよ、大将を追ってる…って、あぁ！！あたし昇様への伝言があったのに、クマを見つけて、それで…うぅ、どうしよう。
+299,vocs_over_over_ricefields_trouble_n02,vocs_ricefields_trouble_n02_jp,WARRIOR,"Do not worry, Yuki-chan. You saved our lives, so the responsibility is mine. We will deliver your message together.",别担心，友希小妹。你也是为了救我们才过来的，所以在下也要担责。等会儿我们一起去送情报吧。,心配はご無用ですぞ、雪殿！そなたはワシらを救ってくれた、なればその責任を負うは拙者の使命。ささ、共に伝言を伝えに行きましょうぞ！
+299,vocs_over_over_ricefields_trouble_n03,vocs_ricefields_trouble_n03_jp,TRAPPER,"Hai, Mugen-sama!",好的，武士大哥！,…っ！はい！！お侍さん！！
+300,vocs_over_over_ricefields_prisoners_n00,vocs_ricefields_prisoners_n00_jp,ALCHEMIST,"Men and woman, penned together like cattle.",有男有女，像牲口一样被关在那里。,女と男たちが家畜のように閉じ込められておるわい。
+300,vocs_over_over_ricefields_prisoners_n01,vocs_ricefields_prisoners_n01_jp,TRAPPER,I see them ... at the stables and in the backyard.,我看见他们了……在牛棚和后院里。,見える…小屋と裏庭ね。
+300,vocs_over_over_ricefields_prisoners_n02,vocs_ricefields_prisoners_n02_jp,WARRIOR,We must free them. I will speak to them after we have slain the rebels.,想办法解救这些村民。得先把叛军守卫都干掉，我再去跟他们说明情况。,解放致そう。反逆者を討ち、話をしてみましょうぞ。
+301,vo_hint_hint_ricefields_imprisoned_n00,vo_ricefields_imprisoned_n00_jp,CIVILIAN M,This is bad … maybe we …,好残忍……我们完了……,ひどい…俺たちきっと…。
+301,vo_hint_hint_ricefields_imprisoned_n01,vo_ricefields_imprisoned_n01_jp,CIVILIAN F,Dark times dark times.,好可怕，好可怕…,おそろしやおそろしや。
+301,vo_hint_hint_ricefields_imprisoned_n02,vo_ricefields_imprisoned_n02_jp,CIVILIAN M,They are going to kill us!,要来杀我们了！,殺しに来る！
+301,vo_hint_hint_ricefields_imprisoned_n03,vo_ricefields_imprisoned_n03_jp,CIVILIAN F,Husband ... be safe …,夫君……你一定要平安无事啊……,あなた…無事で…。
+301,vo_hint_hint_ricefields_imprisoned_n04,vo_ricefields_imprisoned_n04_jp,CIVILIAN M,We should have surrendered.,应该早点投降就好了。,降伏すべきだった。
+301,vo_hint_hint_ricefields_imprisoned_n05,vo_ricefields_imprisoned_n05_jp,CIVILIAN F,We must not  give in to fear. Someone will come.,不能向恐惧低头。会有人来救我们的。,恐れてはいけないわ、きっと誰か…。
+302,vocs_over_over_ricefields_farmers_n00,vocs_ricefields_farmers_n00_jp,CIVILIAN M,Thank you. We knew the Shogun would send help!,太感谢了！我们就知道将军会派人来救我们的！,ありがとうございます。将軍様がきっと助けを送ってくれると信じていました。
+302,vocs_over_over_ricefields_farmers_n01,vocs_ricefields_farmers_n01_jp,CIVILIAN F,My husband! They took him away ...,我丈夫！他们把他带走了……,あなた！あのお方たちが追い払ってくれたのよ…。
+302,vocs_over_over_ricefields_farmers_n02,vocs_ricefields_farmers_n02_jp,WARRIOR,"He will live, you have my word. Now, follow our lead.",他不会死的，我向你保证。现在请跟我们走。,かの者は死なぬ、信じるのだ！では、着いて参られよ！
+302,vocs_over_over_ricefields_farmers_n03,vocs_ricefields_farmers_n03_jp,WARRIOR,He is already with us. Stay close and we will escape together.,他已经和我们在一起了。跟紧点，我们一起逃出去。,かの者は既に共にいる。落ち合って、ここから逃げましょうぞ。
+302,vocs_over_over_ricefields_farmers_n04,vocs_ricefields_farmers_n04_jp,CIVILIAN F,We will follow you.,我们会跟着您的。,着いて行きます。
+303,vo_hint_hint_ricefields_interrogate_n00,vo_ricefields_interrogate_n00_jp,SAMURAI,Who is the samurai that came to your aid?,来帮你的武士是谁？,手助けをした侍は誰だ？
+303,vo_hint_hint_ricefields_interrogate_n01,vo_ricefields_interrogate_n01_jp,HUSBAND,I don't know who he is.,我不知道他是谁。,誰かなど知らぬ！
+303,vo_hint_hint_ricefields_interrogate_n02,vo_ricefields_interrogate_n02_jp,SAMURAI,"Don't lie to me, peasant.",贱民，可不准骗我。,嘘をつくな、百姓め。
+303,vo_hint_hint_ricefields_interrogate_n03,vo_ricefields_interrogate_n03_jp,HUSBAND,I only know the Shogun will send more like him. They will kill you.,我只知道将军会派更多武士过来，到时候你就死定了。,わかるのは将軍様がそのような方をこちらにお送りするということのみ。お主を討ち取りにくるであろう。
+303,vo_hint_hint_ricefields_interrogate_n04,vo_ricefields_interrogate_n04_jp,SAMURAI,Your defiance means nothing. We will make you talk.,哈哈，嘴上挑衅有什么用。我们有的是办法让你开口。,無駄な抵抗を、さっさと話せ！
+304,vocs_over_over_ricefields_husband_n00,vocs_ricefields_husband_n00_jp,HUSBAND,"Thank you, my lord. Please! Others are at the stables. My wife too…",谢谢您，大人。但牛棚里也关了人。我妻子，也在那……,ありがとうございます。どうか小屋にいる他の者たちも…。私の妻もいるのです…。
+304,vocs_over_over_ricefields_husband_n01,vocs_ricefields_husband_n01_jp,WARRIOR,"We will free them. Now, you must do as I tell you.",我们会去救他们的。不过你得听我指挥。,解放させよう。では、言う通りに動いてくれぬだろうか。
+304,vocs_over_over_ricefields_husband_n02,vocs_ricefields_husband_n02_jp,WARRIOR,"They have been freed. Now, come with us and we will escape together.",他们已经救出来了。来和我们一起逃出去吧。,既に解放しており申す。着いて参られよ、皆で脱出する！
+304,vocs_over_over_ricefields_husband_n03,vocs_ricefields_husband_n03_jp,HUSBAND,I will follow your lead.,我会跟着您的。,着いて行きます。
+305,vocs_over_over_ricefields_alarm_n00,vocs_ricefields_alarm_n00_jp,SAMURAI,Someone escaped! Search the area!,有人逃跑啦！都给我搜！,誰か逃げたぞ！辺りを探せ！
+305,vocs_over_over_ricefields_alarm_n01,vocs_ricefields_alarm_n01_jp,SAMURAI,Someone got free! Search the area!,有人逃跑啦！都给我搜！,誰か逃げたぞ！辺りを探せ！
+306,vocs_over_over_ricefields_debt_n00,vocs_ricefields_debt_n00_jp,HUSBAND,We can never repay you for this kindness.,您的大恩大德，我们要怎么报答？,これほどの御親切に、なんとお礼を言ったらいいのか…。
+306,vocs_over_over_ricefields_debt_n01,vocs_ricefields_debt_n01_jp,WARRIOR,We have not made it to safety yet.,还没到安全的地方，别掉以轻心。,まだ、安心はできませぬぞ。
+306,vocs_over_over_ricefields_debt_n02,vocs_ricefields_debt_n02_jp,CIVILIAN F,We would be dead already if not for you.,要是没有你，我们早没命了。,あなた様がいなければ既に死んでおりました。
+306,vocs_over_over_ricefields_debt_n03,vocs_ricefields_debt_n03_jp,WARRIOR,"Then spread the word, the Shogun does not abandon his people.",那就替我放个话吧，告诉天下百姓，将军没有抛弃他的人民。,将軍様は民を見捨てはせぬ、それを皆に伝えられよ。
+307,vocs_over_over_ricefields_more_n00,vocs_ricefields_more_n00_jp,OFFICER,"We're back! Looks like … wait, something's wrong here!  Everyone! Block the road!",我们回来了！…...等等，情况不对！全员注意，封锁道路！,戻りました！どうやら…まて、何かおかしいぞ！皆！道を塞げ！
+307,vocs_over_over_ricefields_more_n01,vocs_ricefields_more_n01_jp,WARRIOR,"Scouts, returning from patrol. Everyone, keep your distance!",是侦察队，他们刚巡逻回来。大家注意，别靠他们太近！,偵察が巡回から戻ってきたようだ、皆、距離をとられよ！
+307,vocs_over_over_ricefields_more_n02,vocs_ricefields_more_n02_jp,ALCHEMIST,"Hmm, I told you they'd come back. He, I feel a sudden itch in my leg.",嗯，我说过他们会回来的吧。嘿嘿，突然觉得腿有点痒。,ほーれ、戻ってくると言ったじゃろ。ほっほ、足が痒くなってきおったわい。
+307,vocs_over_over_ricefields_more_n03,vocs_ricefields_more_n03_jp,TRAPPER,We're almost out! So close!,马上就逃出去了，还差一点！,皆もうすぐよ！あと少し！
+308,vocs_over_over_ricefields_debriefing_n00,vocs_ricefields_debriefing_n00_jp,WARRIOR,Is everyone alright?,所有人都还好吧？,みな、無事か？
+308,vocs_over_over_ricefields_debriefing_n01,vocs_ricefields_debriefing_n01_jp,HUSBAND,"Yes. Thank you, my lord, thank you.",是的。谢谢您，武士大人，万分感谢！,はい！ありがとうございます。お侍様、本当にありがとうございます！
+308,vocs_over_over_ricefields_debriefing_n02,vocs_ricefields_debriefing_n02_jp,WARRIOR,"We must all thank this brave young woman here. Her name is Yuki, and without her, none of us would be alive.",大家听好，我们都得感谢这位勇敢的姑娘。她的名字是友希，如果没有她，我们早已命丧黄泉。,みな、この勇敢な娘にも感謝せねばなりますまい！名は雪、この娘なくしては生きて帰るなど到底成し得ぬことであったがゆえ！
+308,vocs_over_over_ricefields_debriefing_n03,vocs_ricefields_debriefing_n03_jp,TRAPPER,"N-no, that's not …",哎？不 ，我没有……,え、そ、そんなんじゃ…。
+308,vocs_over_over_ricefields_debriefing_n04,vocs_ricefields_debriefing_n04_jp,CIVILIAN F,"We owe you everything, Yuki-chan. I pray that we can return this kindness one day.",多亏有您在，友希小姐。日后一定回报您的救命之恩。,あなたのおかげです、雪様！いつかこの御恩、必ず！必ず返します！
+308,vocs_over_over_ricefields_debriefing_n05,vocs_ricefields_debriefing_n05_jp,TRAPPER,I … ah … you're welcome.,啊……我……不敢当。,あ…えと…その…ど、どういたしまして。
+308,vocs_over_over_ricefields_debriefing_n06,vocs_ricefields_debriefing_n06_jp,WARRIOR,"Now, we should leave, before more rebels arrive.",那大家赶紧离开此地吧，否则叛军的人又要来了。,では、参りましょう！他の反乱者が来ては困りますゆえ。
+308,vocs_over_over_ricefields_debriefing_n07,vocs_ricefields_debriefing_n07_jp,HUSBAND,Where will you take us?,您要带我们去哪？,どこへ連れていってくださるのですか？
+308,vocs_over_over_ricefields_debriefing_n08,vocs_ricefields_debriefing_n08_jp,WARRIOR,We will head for Lord Noboru's camp. You will find shelter there until this matter is resolved.,我们将前往昇大人的军营。在叛军清缴完之前，你们可在那里避难。,我らは昇様の野営へと参る。お主たちはことが済むまで、避難所にいるのがよいだろう。
+308,vocs_over_over_ricefields_debriefing_n09,vocs_ricefields_debriefing_n09_jp,ALCHEMIST,Well done Yuki-chan.,嘿嘿嘿，干得漂亮，友希姑娘。,ほっほ、よくやったのぅ、雪ちゃん！
+308,vocs_over_over_ricefields_debriefing_n10,vocs_ricefields_debriefing_n10_jp,TRAPPER,"Thank you, Takuma-sama!",谢谢，琢磨大师！,ありがとうございます、巧磨先生！

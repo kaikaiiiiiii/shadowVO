@@ -1,206 +1,206 @@
 [
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n00","vojp":"vocs_bathhouse_briefing_n00_jp","s":"GEISHA","en":"This city is beautiful at night. We will find ample shadows here, don't you think, Hayato-san.","cn":"这里的夜景真美，应该会有大量阴暗区域便于我们行动吧。你觉得呢，隼人兄？","jp":"この町の夜は美しいわ。大きな影が見つかるでしょうね。そう思いませんか、隼人さん？"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n00","vojp":"vocs_bathhouse_briefing_n00_jp","s":"GEISHA","en":"This city is beautiful at night. We will find ample shadows here, don't you think, Hayato-san.","cn":"这里的夜景真美，应该会有大量阴暗区域便于我们行动吧。你觉得呢，隼人兄？","jp":"この町の夜は美しいわ。大きな影が見つかるでしょうね。そう思いませんか、隼人さん？"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n01","vojp":"vocs_bathhouse_briefing_n01_jp","s":"NINJA","en":"… let's get on with it.","cn":"……走吧。","jp":"…行こう。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n01","vojp":"vocs_bathhouse_briefing_n01_jp","s":"NINJA","en":"… let's get on with it.","cn":"……走吧。","jp":"…行こう。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n02","vojp":"vocs_bathhouse_briefing_n02_jp","s":"GEISHA","en":"As you wish.","cn":"悉听尊便。","jp":"仰せのままに。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n02","vojp":"vocs_bathhouse_briefing_n02_jp","s":"GEISHA","en":"As you wish.","cn":"悉听尊便。","jp":"仰せのままに。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n03","vojp":"vocs_bathhouse_briefing_n03_jp","s":"GEISHA","en":"We must avoid the streets. No doubt Noboru's men are looking for us.","cn":"应该避开街道行动。昇的手下肯定在找咱们。","jp":"町の道は避けるべきだわ。昇の部下が間違いなく私たちを探しているわ。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n03","vojp":"vocs_bathhouse_briefing_n03_jp","s":"GEISHA","en":"We must avoid the streets. No doubt Noboru's men are looking for us.","cn":"应该避开街道行动。昇的手下肯定在找咱们。","jp":"町の道は避けるべきだわ。昇の部下が間違いなく私たちを探しているわ。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n04","vojp":"vocs_bathhouse_briefing_n04_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n04","vojp":"vocs_bathhouse_briefing_n04_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n05","vojp":"vocs_bathhouse_briefing_n05_jp","s":"GEISHA","en":"Masaru's residence is in this district. Let us listen in on his men.","cn":"真申的宅邸就在这边，去偷听他的手下的谈话吧。","jp":"勝の住むのはこの辺りね。部下の話を聞きましょう。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n05","vojp":"vocs_bathhouse_briefing_n05_jp","s":"GEISHA","en":"Masaru's residence is in this district. Let us listen in on his men.","cn":"真申的宅邸就在这边，去偷听他的手下的谈话吧。","jp":"勝の住むのはこの辺りね。部下の話を聞きましょう。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n06","vojp":"vocs_bathhouse_briefing_n06_jp","s":"GEISHA","en":"I am certain they will tell us where to find him.","cn":"他们肯定会泄露真申的行踪。","jp":"どこにいるか必ず話すはずだわ。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n06","vojp":"vocs_bathhouse_briefing_n06_jp","s":"GEISHA","en":"I am certain they will tell us where to find him.","cn":"他们肯定会泄露真申的行踪。","jp":"どこにいるか必ず話すはずだわ。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n07","vojp":"vocs_bathhouse_briefing_n07_jp","s":"GEISHA","en":"I'd prefer having a disguise when listening in.","cn":"我更喜欢乔装后去窃听。","jp":"むしろ、変装して聞きに行きたいところだわ。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n07","vojp":"vocs_bathhouse_briefing_n07_jp","s":"GEISHA","en":"I'd prefer having a disguise when listening in.","cn":"我更喜欢乔装后去窃听。","jp":"むしろ、変装して聞きに行きたいところだわ。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n08","vojp":"vocs_bathhouse_briefing_n08_jp","s":"GEISHA","en":"I need a suitable Kimono.","cn":"所以需要一身和服。","jp":"着物がほしいわね。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n08","vojp":"vocs_bathhouse_briefing_n08_jp","s":"GEISHA","en":"I need a suitable Kimono.","cn":"所以需要一身和服。","jp":"着物がほしいわね。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n09","vojp":"vocs_bathhouse_briefing_n09_jp","s":"NINJA","en":"Whatever. Let's get on with it.","cn":"随你便，好了，走吧。","jp":"なんでもいいさ。さあ、行こう。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n09","vojp":"vocs_bathhouse_briefing_n09_jp","s":"NINJA","en":"Whatever. Let's get on with it.","cn":"随你便，好了，走吧。","jp":"なんでもいいさ。さあ、行こう。"}
 ,
-{"lvl":"20","sec":"1","voen":"vocs_over_over_bathhouse_briefing_n10","vojp":"vocs_bathhouse_briefing_n10_jp","s":"GEISHA","en":"Very well.","cn":"好。","jp":"えぇ。"}
+{"sec":1,"voen":"vocs_over_over_bathhouse_briefing_n10","vojp":"vocs_bathhouse_briefing_n10_jp","s":"GEISHA","en":"Very well.","cn":"好。","jp":"えぇ。"}
 ,
-{"lvl":"20","sec":"2","voen":"vocs_over_over_bathhouse_redlight_n00","vojp":"vocs_bathhouse_redlight_n00_jp","s":"NINJA","en":"Red lights …","cn":"红灯区……","jp":"赤い光…。"}
+{"sec":2,"voen":"vocs_over_over_bathhouse_redlight_n00","vojp":"vocs_bathhouse_redlight_n00_jp","s":"NINJA","en":"Red lights …","cn":"红灯区……","jp":"赤い光…。"}
 ,
-{"lvl":"20","sec":"2","voen":"vocs_over_over_bathhouse_redlight_n01","vojp":"vocs_bathhouse_redlight_n01_jp","s":"GEISHA","en":"The hanamachi. This brings back memories.","cn":"花町么。真是回忆满满。","jp":"花町。昔を思い出すわ。"}
+{"sec":2,"voen":"vocs_over_over_bathhouse_redlight_n01","vojp":"vocs_bathhouse_redlight_n01_jp","s":"GEISHA","en":"The hanamachi. This brings back memories.","cn":"花町么。真是回忆满满。","jp":"花町。昔を思い出すわ。"}
 ,
-{"lvl":"20","sec":"2","voen":"vocs_over_over_bathhouse_redlight_n02","vojp":"vocs_bathhouse_redlight_n02_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
+{"sec":2,"voen":"vocs_over_over_bathhouse_redlight_n02","vojp":"vocs_bathhouse_redlight_n02_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n00","vojp":"vo_bathhouse_hanamachi2_n00_jp","s":"CIVILIAN M","en":"Why not here?","cn":"就在这里不行吗？","jp":"ここじゃ駄目か？"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n00","vojp":"vo_bathhouse_hanamachi2_n00_jp","s":"CIVILIAN M","en":"Why not here?","cn":"就在这里不行吗？","jp":"ここじゃ駄目か？"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n01","vojp":"vo_bathhouse_hanamachi2_n01_jp","s":"CIVILIAN F","en":"Please, it is not customary.","cn":"不行，不合规矩。","jp":"駄目です、きまりですもの。"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n01","vojp":"vo_bathhouse_hanamachi2_n01_jp","s":"CIVILIAN F","en":"Please, it is not customary.","cn":"不行，不合规矩。","jp":"駄目です、きまりですもの。"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n02","vojp":"vo_bathhouse_hanamachi2_n02_jp","s":"CIVILIAN M","en":"I have money.","cn":"我有钱啊。","jp":"金はあるんだがな。"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n02","vojp":"vo_bathhouse_hanamachi2_n02_jp","s":"CIVILIAN M","en":"I have money.","cn":"我有钱啊。","jp":"金はあるんだがな。"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n03","vojp":"vo_bathhouse_hanamachi2_n03_jp","s":"CIVILIAN F","en":"Then speak with the mistress of the house.","cn":"那你和老板娘说去。","jp":"ならこの家の主婦に言ってくださいまし。"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n03","vojp":"vo_bathhouse_hanamachi2_n03_jp","s":"CIVILIAN F","en":"Then speak with the mistress of the house.","cn":"那你和老板娘说去。","jp":"ならこの家の主婦に言ってくださいまし。"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n04","vojp":"vo_bathhouse_hanamachi2_n04_jp","s":"CIVILIAN M","en":"Am I not good enough?","cn":"你嫌弃我？","jp":"俺じゃ駄目か？"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n04","vojp":"vo_bathhouse_hanamachi2_n04_jp","s":"CIVILIAN M","en":"Am I not good enough?","cn":"你嫌弃我？","jp":"俺じゃ駄目か？"}
 ,
-{"lvl":"20","sec":"3","voen":"vo_hint_hint_bathhouse_hanamachi2_n05","vojp":"vo_bathhouse_hanamachi2_n05_jp","s":"CIVILIAN F","en":"It is not for me to say.","cn":"别这样。","jp":"嫌よ。"}
+{"sec":3,"voen":"vo_hint_hint_bathhouse_hanamachi2_n05","vojp":"vo_bathhouse_hanamachi2_n05_jp","s":"CIVILIAN F","en":"It is not for me to say.","cn":"别这样。","jp":"嫌よ。"}
 ,
-{"lvl":"20","sec":"4","voen":"vocs_over_over_bathhouse_residential_n00","vojp":"vocs_bathhouse_residential_n00_jp","s":"NINJA","en":"Guards ...","cn":"有守卫……","jp":"見張り…。"}
+{"sec":4,"voen":"vocs_over_over_bathhouse_residential_n00","vojp":"vocs_bathhouse_residential_n00_jp","s":"NINJA","en":"Guards ...","cn":"有守卫……","jp":"見張り…。"}
 ,
-{"lvl":"20","sec":"4","voen":"vocs_over_over_bathhouse_residential_n01","vojp":"vocs_bathhouse_residential_n01_jp","s":"GEISHA","en":"Middleclass households. With more guards than usual I'd say.","cn":"这边都是中等家庭。没想到守卫也这么多。","jp":"中流の家庭。けど見張りが多いわね。"}
+{"sec":4,"voen":"vocs_over_over_bathhouse_residential_n01","vojp":"vocs_bathhouse_residential_n01_jp","s":"GEISHA","en":"Middleclass households. With more guards than usual I'd say.","cn":"这边都是中等家庭。没想到守卫也这么多。","jp":"中流の家庭。けど見張りが多いわね。"}
 ,
-{"lvl":"20","sec":"4","voen":"vocs_over_over_bathhouse_residential_n02","vojp":"vocs_bathhouse_residential_n02_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
+{"sec":4,"voen":"vocs_over_over_bathhouse_residential_n02","vojp":"vocs_bathhouse_residential_n02_jp","s":"NINJA","en":"Hrm …","cn":"嗯……","jp":"ふー…。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n00","vojp":"vo_bathhouse_residential_n00_jp","s":"CIVILIAN M","en":"These are dark times.","cn":"真是闹得人心惶惶。","jp":"暗くなったな。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n00","vojp":"vo_bathhouse_residential_n00_jp","s":"CIVILIAN M","en":"These are dark times.","cn":"真是闹得人心惶惶。","jp":"暗くなったな。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n01","vojp":"vo_bathhouse_residential_n01_jp","s":"CIVILIAN M","en":"So it's true, the Shogun's son has been murdered?","cn":"真的吗？将军的儿子真的被谋杀了？","jp":"本当かい、将軍の息子が殺されたってのは？"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n01","vojp":"vo_bathhouse_residential_n01_jp","s":"CIVILIAN M","en":"So it's true, the Shogun's son has been murdered?","cn":"真的吗？将军的儿子真的被谋杀了？","jp":"本当かい、将軍の息子が殺されたってのは？"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n02","vojp":"vo_bathhouse_residential_n02_jp","s":"CIVILIAN M","en":"It is not safe to go outside.","cn":"现在外面很不安全。","jp":"外にいるのは危険だ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n02","vojp":"vo_bathhouse_residential_n02_jp","s":"CIVILIAN M","en":"It is not safe to go outside.","cn":"现在外面很不安全。","jp":"外にいるのは危険だ。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n03","vojp":"vo_bathhouse_residential_n03_jp","s":"CIVILIAN M","en":"I heard the Shogun is on his way to Kyoto.","cn":"听说将军正在去京都的路上。","jp":"将軍は京都へ向かっているって聞いたぞ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n03","vojp":"vo_bathhouse_residential_n03_jp","s":"CIVILIAN M","en":"I heard the Shogun is on his way to Kyoto.","cn":"听说将军正在去京都的路上。","jp":"将軍は京都へ向かっているって聞いたぞ。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n04","vojp":"vo_bathhouse_residential_n04_jp","s":"CIVILIAN M","en":"I see they are looking for the killers.","cn":"他们应该是在搜查凶手。","jp":"殺した犯人達を探しているんだ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n04","vojp":"vo_bathhouse_residential_n04_jp","s":"CIVILIAN M","en":"I see they are looking for the killers.","cn":"他们应该是在搜查凶手。","jp":"殺した犯人達を探しているんだ。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n05","vojp":"vo_bathhouse_residential_n05_jp","s":"CIVILIAN M","en":"Did you know Lord Noboru's son is here.","cn":"昇大名的儿子就在这里啊，你居然不知道？","jp":"昇大名の息子がここにいるって知らないのか。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n05","vojp":"vo_bathhouse_residential_n05_jp","s":"CIVILIAN M","en":"Did you know Lord Noboru's son is here.","cn":"昇大名的儿子就在这里啊，你居然不知道？","jp":"昇大名の息子がここにいるって知らないのか。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n06","vojp":"vo_bathhouse_residential_n06_jp","s":"CIVILIAN M","en":"Be wary, keep away from dark alleys.","cn":"小心点，千万别走黑巷子。","jp":"注意しろ、暗い小道は近づくなよ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n06","vojp":"vo_bathhouse_residential_n06_jp","s":"CIVILIAN M","en":"Be wary, keep away from dark alleys.","cn":"小心点，千万别走黑巷子。","jp":"注意しろ、暗い小道は近づくなよ。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n07","vojp":"vo_bathhouse_residential_n07_jp","s":"CIVILIAN F","en":"Dark times.","cn":"真不太平。","jp":"暗い。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n07","vojp":"vo_bathhouse_residential_n07_jp","s":"CIVILIAN F","en":"Dark times.","cn":"真不太平。","jp":"暗い。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n08","vojp":"vo_bathhouse_residential_n08_jp","s":"CIVILIAN F","en":"The Shogun's son has been murdered.","cn":"将军的儿子被谋杀了。","jp":"将軍の息子が殺された。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n08","vojp":"vo_bathhouse_residential_n08_jp","s":"CIVILIAN F","en":"The Shogun's son has been murdered.","cn":"将军的儿子被谋杀了。","jp":"将軍の息子が殺された。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n09","vojp":"vo_bathhouse_residential_n09_jp","s":"CIVILIAN F","en":"It is not safe to go outside.","cn":"现在外面很不安全。","jp":"外にいるのは危険だ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n09","vojp":"vo_bathhouse_residential_n09_jp","s":"CIVILIAN F","en":"It is not safe to go outside.","cn":"现在外面很不安全。","jp":"外にいるのは危険だ。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n10","vojp":"vo_bathhouse_residential_n10_jp","s":"CIVILIAN F","en":"I hear the Shogun is on his way to Kyoto.","cn":"听说将军正在去京都的路上。","jp":"将軍は京都に向かっていると聞く。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n10","vojp":"vo_bathhouse_residential_n10_jp","s":"CIVILIAN F","en":"I hear the Shogun is on his way to Kyoto.","cn":"听说将军正在去京都的路上。","jp":"将軍は京都に向かっていると聞く。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n11","vojp":"vo_bathhouse_residential_n11_jp","s":"CIVILIAN F","en":"They are looking for the killers.","cn":"当兵的正在搜查凶手。","jp":"殺した犯人を探している。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n11","vojp":"vo_bathhouse_residential_n11_jp","s":"CIVILIAN F","en":"They are looking for the killers.","cn":"当兵的正在搜查凶手。","jp":"殺した犯人を探している。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n12","vojp":"vo_bathhouse_residential_n12_jp","s":"CIVILIAN F","en":"Lord Noboru's son is here.","cn":"昇大名的儿子就在这里。","jp":"昇大名の息子はここにいる。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n12","vojp":"vo_bathhouse_residential_n12_jp","s":"CIVILIAN F","en":"Lord Noboru's son is here.","cn":"昇大名的儿子就在这里。","jp":"昇大名の息子はここにいる。"}
 ,
-{"lvl":"20","sec":"5","voen":"vo_hint_hint_bathhouse_residential_n13","vojp":"vo_bathhouse_residential_n13_jp","s":"CIVILIAN F","en":"If I were you I'd keep away from dark alleys.","cn":"我要是你，就绝不走黑巷子。","jp":"自分なら暗い小道は避けるよ。"}
+{"sec":5,"voen":"vo_hint_hint_bathhouse_residential_n13","vojp":"vo_bathhouse_residential_n13_jp","s":"CIVILIAN F","en":"If I were you I'd keep away from dark alleys.","cn":"我要是你，就绝不走黑巷子。","jp":"自分なら暗い小道は避けるよ。"}
 ,
-{"lvl":"20","sec":"6","voen":"vocs_over_over_bathhouse_wanted_n00","vojp":"vocs_bathhouse_wanted_n00_jp","s":"NINJA","en":"Busy …","cn":"真是热闹……","jp":"賑やかだな…。"}
+{"sec":6,"voen":"vocs_over_over_bathhouse_wanted_n00","vojp":"vocs_bathhouse_wanted_n00_jp","s":"NINJA","en":"Busy …","cn":"真是热闹……","jp":"賑やかだな…。"}
 ,
-{"lvl":"20","sec":"6","voen":"vocs_over_over_bathhouse_wanted_n01","vojp":"vocs_bathhouse_wanted_n01_jp","s":"GEISHA","en":"I suspect that guards here have been doubled since Noboru learned of our escape.","cn":"自从我们逃走之后，这里的守卫大概增加了一倍吧。","jp":"私たちが逃げたから、昇は見張りを倍にしたんじゃないかしら。"}
+{"sec":6,"voen":"vocs_over_over_bathhouse_wanted_n01","vojp":"vocs_bathhouse_wanted_n01_jp","s":"GEISHA","en":"I suspect that guards here have been doubled since Noboru learned of our escape.","cn":"自从我们逃走之后，这里的守卫大概增加了一倍吧。","jp":"私たちが逃げたから、昇は見張りを倍にしたんじゃないかしら。"}
 ,
-{"lvl":"20","sec":"6","voen":"vocs_over_over_bathhouse_wanted_n02","vojp":"vocs_bathhouse_wanted_n02_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
+{"sec":6,"voen":"vocs_over_over_bathhouse_wanted_n02","vojp":"vocs_bathhouse_wanted_n02_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
 ,
-{"lvl":"20","sec":"7","voen":"vocs_over_over_bathhouse_disguise_n00","vojp":"vocs_bathhouse_disguise_n00_jp","s":"GEISHA","en":"That will do fine. Let us continue.","cn":"这身衣服还可以。继续行动。","jp":"これでいいわ、続けましょう。"}
+{"sec":7,"voen":"vocs_over_over_bathhouse_disguise_n00","vojp":"vocs_bathhouse_disguise_n00_jp","s":"GEISHA","en":"That will do fine. Let us continue.","cn":"这身衣服还可以。继续行动。","jp":"これでいいわ、続けましょう。"}
 ,
-{"lvl":"20","sec":"7","voen":"vocs_over_over_bathhouse_disguise_n01","vojp":"vocs_bathhouse_disguise_n01_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
+{"sec":7,"voen":"vocs_over_over_bathhouse_disguise_n01","vojp":"vocs_bathhouse_disguise_n01_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
 ,
-{"lvl":"20","sec":"7","voen":"vocs_over_over_bathhouse_disguise_n02","vojp":"vocs_bathhouse_disguise_n02_jp","s":"GEISHA","en":"… you have been quiet lately, Hayato-san.","cn":"……你最近话不多啊，隼人兄。","jp":"…最近、少し静かですね、隼人さん。"}
+{"sec":7,"voen":"vocs_over_over_bathhouse_disguise_n02","vojp":"vocs_bathhouse_disguise_n02_jp","s":"GEISHA","en":"… you have been quiet lately, Hayato-san.","cn":"……你最近话不多啊，隼人兄。","jp":"…最近、少し静かですね、隼人さん。"}
 ,
-{"lvl":"20","sec":"7","voen":"vocs_over_over_bathhouse_disguise_n03","vojp":"vocs_bathhouse_disguise_n03_jp","s":"NINJA","en":"… best I can do. No idea how you can be so calm, like nothing happened.","cn":"……我在尽力克制。其实我不明白你怎么还能如此冷静。","jp":"…落ち着こうとしているんだ。あんたがどうしてそんなに落ち着いていられるのか俺にはわからない。"}
+{"sec":7,"voen":"vocs_over_over_bathhouse_disguise_n03","vojp":"vocs_bathhouse_disguise_n03_jp","s":"NINJA","en":"… best I can do. No idea how you can be so calm, like nothing happened.","cn":"……我在尽力克制。其实我不明白你怎么还能如此冷静。","jp":"…落ち着こうとしているんだ。あんたがどうしてそんなに落ち着いていられるのか俺にはわからない。"}
 ,
-{"lvl":"20","sec":"7","voen":"vocs_over_over_bathhouse_disguise_n04","vojp":"vocs_bathhouse_disguise_n04_jp","s":"GEISHA","en":"I was forced to master my emotions at a very young age. I am sorry if this bothers you.","cn":"我从小就被迫练习如何掌控自身情绪。如果影响到你了，我诚心道歉。","jp":"幼い頃から感情を抑えるようにしてきたから。気になったら、ごめんなさい。"}
+{"sec":7,"voen":"vocs_over_over_bathhouse_disguise_n04","vojp":"vocs_bathhouse_disguise_n04_jp","s":"GEISHA","en":"I was forced to master my emotions at a very young age. I am sorry if this bothers you.","cn":"我从小就被迫练习如何掌控自身情绪。如果影响到你了，我诚心道歉。","jp":"幼い頃から感情を抑えるようにしてきたから。気になったら、ごめんなさい。"}
 ,
-{"lvl":"20","sec":"8","voen":"vocs_over_over_bathhouse_info_n00","vojp":"vocs_bathhouse_info_n00_jp","s":"NINJA","en":"Got it.","cn":"原来如此。","jp":"なるほど。"}
+{"sec":8,"voen":"vocs_over_over_bathhouse_info_n00","vojp":"vocs_bathhouse_info_n00_jp","s":"NINJA","en":"Got it.","cn":"原来如此。","jp":"なるほど。"}
 ,
-{"lvl":"20","sec":"8","voen":"vocs_over_over_bathhouse_info_n01","vojp":"vocs_bathhouse_info_n01_jp","s":"GEISHA","en":"So he's in that place … Hayato-san, let us find a save spot and discuss what we have learned.","cn":"原来他在那里……隼人兄，先找到个安全地点会合，整理一下情报。","jp":"彼はそこにいるのね…隼人さん、安全な場所を見つけて、話をまとめましょう。"}
+{"sec":8,"voen":"vocs_over_over_bathhouse_info_n01","vojp":"vocs_bathhouse_info_n01_jp","s":"GEISHA","en":"So he's in that place … Hayato-san, let us find a save spot and discuss what we have learned.","cn":"原来他在那里……隼人兄，先找到个安全地点会合，整理一下情报。","jp":"彼はそこにいるのね…隼人さん、安全な場所を見つけて、話をまとめましょう。"}
 ,
-{"lvl":"20","sec":"8","voen":"vocs_over_over_bathhouse_info_n02","vojp":"vocs_bathhouse_info_n02_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
+{"sec":8,"voen":"vocs_over_over_bathhouse_info_n02","vojp":"vocs_bathhouse_info_n02_jp","s":"NINJA","en":"Mhm …","cn":"嗯……","jp":"うーむ…。"}
 ,
-{"lvl":"20","sec":"9","voen":"vocs_over_over_bathhouse_unveil_n00","vojp":"vocs_bathhouse_unveil_n00_jp","s":"GEISHA","en":"It appears that Masaru is enjoying himself at the public bathhouse.","cn":"据说真申在浴场玩得还挺开心。","jp":"勝は入浴を楽しんでるみたいね。"}
+{"sec":9,"voen":"vocs_over_over_bathhouse_unveil_n00","vojp":"vocs_bathhouse_unveil_n00_jp","s":"GEISHA","en":"It appears that Masaru is enjoying himself at the public bathhouse.","cn":"据说真申在浴场玩得还挺开心。","jp":"勝は入浴を楽しんでるみたいね。"}
 ,
-{"lvl":"20","sec":"9","voen":"vocs_over_over_bathhouse_unveil_n01","vojp":"vocs_bathhouse_unveil_n01_jp","s":"NINJA","en":"Hrm … bastard.","cn":"哼……小杂种。","jp":"くっ…野郎め。"}
+{"sec":9,"voen":"vocs_over_over_bathhouse_unveil_n01","vojp":"vocs_bathhouse_unveil_n01_jp","s":"NINJA","en":"Hrm … bastard.","cn":"哼……小杂种。","jp":"くっ…野郎め。"}
 ,
-{"lvl":"20","sec":"9","voen":"vocs_over_over_bathhouse_unveil_n02","vojp":"vocs_bathhouse_unveil_n02_jp","s":"GEISHA","en":"No doubt he will have protection. Let us observe his movements. We may find an opportunity to isolate him from his entourage.","cn":"他肯定带着保镖。最好先观察一下他的行动规律，然后找个机会让他和保镖分开。","jp":"護衛があるわけね。動きを注視しましょう。側近を彼から引き離せる機会を探すべきね。"}
+{"sec":9,"voen":"vocs_over_over_bathhouse_unveil_n02","vojp":"vocs_bathhouse_unveil_n02_jp","s":"GEISHA","en":"No doubt he will have protection. Let us observe his movements. We may find an opportunity to isolate him from his entourage.","cn":"他肯定带着保镖。最好先观察一下他的行动规律，然后找个机会让他和保镖分开。","jp":"護衛があるわけね。動きを注視しましょう。側近を彼から引き離せる機会を探すべきね。"}
 ,
-{"lvl":"20","sec":"9","voen":"vocs_over_over_bathhouse_unveil_n03","vojp":"vocs_bathhouse_unveil_n03_jp","s":"GEISHA","en":"After we take him, we must make a swift exit. I suggest we take the canal.","cn":"一旦抓到他必须迅速撤离。我建议走水路。","jp":"彼を捕獲したら、迅速に出ましょう。水路を使いましょう。"}
+{"sec":9,"voen":"vocs_over_over_bathhouse_unveil_n03","vojp":"vocs_bathhouse_unveil_n03_jp","s":"GEISHA","en":"After we take him, we must make a swift exit. I suggest we take the canal.","cn":"一旦抓到他必须迅速撤离。我建议走水路。","jp":"彼を捕獲したら、迅速に出ましょう。水路を使いましょう。"}
 ,
-{"lvl":"20","sec":"9","voen":"vocs_over_over_bathhouse_unveil_n04","vojp":"vocs_bathhouse_unveil_n04_jp","s":"NINJA","en":"So let's go.","cn":"动手吧。","jp":"さぁ行こう。"}
+{"sec":9,"voen":"vocs_over_over_bathhouse_unveil_n04","vojp":"vocs_bathhouse_unveil_n04_jp","s":"NINJA","en":"So let's go.","cn":"动手吧。","jp":"さぁ行こう。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n00","vojp":"vo_bathhouse_relax_n00_jp","s":"CIVILIAN M","en":"Ahhh …","cn":"啊……","jp":"ああ…。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n00","vojp":"vo_bathhouse_relax_n00_jp","s":"CIVILIAN M","en":"Ahhh …","cn":"啊……","jp":"ああ…。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n01","vojp":"vo_bathhouse_relax_n01_jp","s":"CIVILIAN M","en":"Mmm …","cn":"嗯……","jp":"うーむ…。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n01","vojp":"vo_bathhouse_relax_n01_jp","s":"CIVILIAN M","en":"Mmm …","cn":"嗯……","jp":"うーむ…。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n02","vojp":"vo_bathhouse_relax_n02_jp","s":"CIVILIAN M","en":"Hah …","cn":"哈……","jp":"はぁ…。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n02","vojp":"vo_bathhouse_relax_n02_jp","s":"CIVILIAN M","en":"Hah …","cn":"哈……","jp":"はぁ…。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n03","vojp":"vo_bathhouse_relax_n03_jp","s":"CIVILIAN M","en":"Hmm … sake?","cn":"喔哦……清酒？","jp":"うー…酒ですか？"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n03","vojp":"vo_bathhouse_relax_n03_jp","s":"CIVILIAN M","en":"Hmm … sake?","cn":"喔哦……清酒？","jp":"うー…酒ですか？"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n04","vojp":"vo_bathhouse_relax_n04_jp","s":"CIVILIAN M","en":"Agh … ahhh …","cn":"啊……啊啊……","jp":"あー…あー。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n04","vojp":"vo_bathhouse_relax_n04_jp","s":"CIVILIAN M","en":"Agh … ahhh …","cn":"啊……啊啊……","jp":"あー…あー。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n05","vojp":"vo_bathhouse_relax_n05_jp","s":"CIVILIAN M","en":"Oh yes …","cn":"嗯，爽……","jp":"ふぅ、いい…。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n05","vojp":"vo_bathhouse_relax_n05_jp","s":"CIVILIAN M","en":"Oh yes …","cn":"嗯，爽……","jp":"ふぅ、いい…。"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n06","vojp":"vo_bathhouse_relax_n06_jp","s":"CIVILIAN M","en":"Right there!","cn":"好酸爽！","jp":"いいのう！"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n06","vojp":"vo_bathhouse_relax_n06_jp","s":"CIVILIAN M","en":"Right there!","cn":"好酸爽！","jp":"いいのう！"}
 ,
-{"lvl":"20","sec":"10","voen":"vo_hint_hint_bathhouse_relax_n07","vojp":"vo_bathhouse_relax_n07_jp","s":"CIVILIAN M","en":"Ooooh …","cn":"哦哦……","jp":"おお…。"}
+{"sec":10,"voen":"vo_hint_hint_bathhouse_relax_n07","vojp":"vo_bathhouse_relax_n07_jp","s":"CIVILIAN M","en":"Ooooh …","cn":"哦哦……","jp":"おお…。"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n00","vojp":"vocs_bathhouse_rage_n00_jp","s":"GEISHA","en":"Very well. Let us proceed as planned.","cn":"好。继续按计划行动。","jp":"よし。計画通り行きましょう。"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n00","vojp":"vocs_bathhouse_rage_n00_jp","s":"GEISHA","en":"Very well. Let us proceed as planned.","cn":"好。继续按计划行动。","jp":"よし。計画通り行きましょう。"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n01","vojp":"vocs_bathhouse_rage_n01_jp","s":"NINJA","en":"How do you do it, huh? All that talking, bowing, smiling, after all that happened.","cn":"你究竟是怎么做到的，嗯？发生了这种事，还能像往常一样和敌人谈笑风生。","jp":"どうしてそんな風に振る舞える？いつも通り話して、頭を下げて、笑って…あんなことがあった後だっていうのに。"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n01","vojp":"vocs_bathhouse_rage_n01_jp","s":"NINJA","en":"How do you do it, huh? All that talking, bowing, smiling, after all that happened.","cn":"你究竟是怎么做到的，嗯？发生了这种事，还能像往常一样和敌人谈笑风生。","jp":"どうしてそんな風に振る舞える？いつも通り話して、頭を下げて、笑って…あんなことがあった後だっていうのに。"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n01a","vojp":"vocs_bathhouse_rage_n01a_jp","s":"NINJA","en":"How do you do it, huh? How can you act like nothing happened?","cn":"你究竟是怎么做到的，嗯？一举一动就像什么都没发生过一样？","jp":"どうしてそんなことができる？何もおきないかのように振る舞える？"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n01a","vojp":"vocs_bathhouse_rage_n01a_jp","s":"NINJA","en":"How do you do it, huh? How can you act like nothing happened?","cn":"你究竟是怎么做到的，嗯？一举一动就像什么都没发生过一样？","jp":"どうしてそんなことができる？何もおきないかのように振る舞える？"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n02","vojp":"vocs_bathhouse_rage_n02_jp","s":"GEISHA","en":"If a woman does not surround herself with walls, she dies. All women learn this. If we must feel, we must do so in secret.","cn":"女人必须把内心藏在层层高墙后面，否则必死无疑。所有女人都迟早会体会到这个道理。即使内心汹涌澎湃，也断不能将感情流露人前。","jp":"女は内面の壁に囲まれていなければ死ぬのよ。女は学ぶのよ。もし感情が高ぶっても、それは隠さないといけないの。"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n02","vojp":"vocs_bathhouse_rage_n02_jp","s":"GEISHA","en":"If a woman does not surround herself with walls, she dies. All women learn this. If we must feel, we must do so in secret.","cn":"女人必须把内心藏在层层高墙后面，否则必死无疑。所有女人都迟早会体会到这个道理。即使内心汹涌澎湃，也断不能将感情流露人前。","jp":"女は内面の壁に囲まれていなければ死ぬのよ。女は学ぶのよ。もし感情が高ぶっても、それは隠さないといけないの。"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n03","vojp":"vocs_bathhouse_rage_n03_jp","s":"NINJA","en":"That's ... I want to kill that bastard Masaru and his father!","cn":"这些我……我只想把这个小杂种和他爹一块宰了！","jp":"そんな…俺は勝とその父の野郎どもを殺したい！"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n03","vojp":"vocs_bathhouse_rage_n03_jp","s":"NINJA","en":"That's ... I want to kill that bastard Masaru and his father!","cn":"这些我……我只想把这个小杂种和他爹一块宰了！","jp":"そんな…俺は勝とその父の野郎どもを殺したい！"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n04","vojp":"vocs_bathhouse_rage_n04_jp","s":"GEISHA","en":"We cannot afford the luxury of rage, Hayato-san. Let my words be your walls. Reserve the cold hatred of revenge for when the time is right.","cn":"小不忍则乱大谋，隼人兄。听我一言，时候一到，此仇必报。","jp":"そんなおごりは今はできないはずよ、隼人さん。貴方の中に私の言葉を留めておいてください。復讐の念は時が来るまで持っていてください。"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n04","vojp":"vocs_bathhouse_rage_n04_jp","s":"GEISHA","en":"We cannot afford the luxury of rage, Hayato-san. Let my words be your walls. Reserve the cold hatred of revenge for when the time is right.","cn":"小不忍则乱大谋，隼人兄。听我一言，时候一到，此仇必报。","jp":"そんなおごりは今はできないはずよ、隼人さん。貴方の中に私の言葉を留めておいてください。復讐の念は時が来るまで持っていてください。"}
 ,
-{"lvl":"20","sec":"11","voen":"vocs_over_over_bathhouse_rage_n05","vojp":"vocs_bathhouse_rage_n05_jp","s":"NINJA","en":"… damn … alright … I'll follow.","cn":"……该死……好吧……听你的。","jp":"…くそ…わかった…行くよ。"}
+{"sec":11,"voen":"vocs_over_over_bathhouse_rage_n05","vojp":"vocs_bathhouse_rage_n05_jp","s":"NINJA","en":"… damn … alright … I'll follow.","cn":"……该死……好吧……听你的。","jp":"…くそ…わかった…行くよ。"}
 ,
-{"lvl":"20","sec":"12","voen":"vocs_over_over_bathhouse_bathtubs1_n00","vojp":"vocs_bathhouse_bathtubs1_n00_jp","s":"NINJA","en":"Huh … bathtubs.","cn":"嗯……有个澡盆。","jp":"ふっ…浴槽だ。"}
+{"sec":12,"voen":"vocs_over_over_bathhouse_bathtubs1_n00","vojp":"vocs_bathhouse_bathtubs1_n00_jp","s":"NINJA","en":"Huh … bathtubs.","cn":"嗯……有个澡盆。","jp":"ふっ…浴槽だ。"}
 ,
-{"lvl":"20","sec":"12","voen":"vocs_over_over_bathhouse_bathtubs1_n01","vojp":"vocs_bathhouse_bathtubs1_n01_jp","s":"GEISHA","en":"This must be where he takes his bath.","cn":"肯定是他洗澡的地方。","jp":"これが彼の入る浴槽だわ。"}
+{"sec":12,"voen":"vocs_over_over_bathhouse_bathtubs1_n01","vojp":"vocs_bathhouse_bathtubs1_n01_jp","s":"GEISHA","en":"This must be where he takes his bath.","cn":"肯定是他洗澡的地方。","jp":"これが彼の入る浴槽だわ。"}
 ,
-{"lvl":"20","sec":"12","voen":"vocs_over_over_bathhouse_bathtubs1_n02","vojp":"vocs_bathhouse_bathtubs1_n02_jp","s":"NINJA","en":"Obviously. Where do they heat the water?","cn":"显然就是。烧水的地方在哪?","jp":"間違いないな。湯を沸かすのはどこだ？"}
+{"sec":12,"voen":"vocs_over_over_bathhouse_bathtubs1_n02","vojp":"vocs_bathhouse_bathtubs1_n02_jp","s":"NINJA","en":"Obviously. Where do they heat the water?","cn":"显然就是。烧水的地方在哪?","jp":"間違いないな。湯を沸かすのはどこだ？"}
 ,
-{"lvl":"20","sec":"13","voen":"vocs_over_over_bathhouse_hintbath_n00","vojp":"vocs_bathhouse_hintbath_n00_jp","s":"NINJA","en":"Servant brings hot water.","cn":"有佣人负责添加热水。","jp":"使いが湯を持ってくる。"}
+{"sec":13,"voen":"vocs_over_over_bathhouse_hintbath_n00","vojp":"vocs_bathhouse_hintbath_n00_jp","s":"NINJA","en":"Servant brings hot water.","cn":"有佣人负责添加热水。","jp":"使いが湯を持ってくる。"}
 ,
-{"lvl":"20","sec":"13","voen":"vocs_over_over_bathhouse_hintbath_n01","vojp":"vocs_bathhouse_hintbath_n01_jp","s":"GEISHA","en":"Why not tamper with the fire. Bring the water close to boiling.","cn":"能不能煽煽火，把水烧得烫一点呢。","jp":"火力を強めるのはどうかしら。熱湯を持ってこさせるのよ。"}
+{"sec":13,"voen":"vocs_over_over_bathhouse_hintbath_n01","vojp":"vocs_bathhouse_hintbath_n01_jp","s":"GEISHA","en":"Why not tamper with the fire. Bring the water close to boiling.","cn":"能不能煽煽火，把水烧得烫一点呢。","jp":"火力を強めるのはどうかしら。熱湯を持ってこさせるのよ。"}
 ,
-{"lvl":"20","sec":"13","voen":"vocs_over_over_bathhouse_hintbath_n02","vojp":"vocs_bathhouse_hintbath_n02_jp","s":"NINJA","en":"Teh … good idea.","cn":"嗯……好主意。","jp":"へっ…いい考えだ。"}
+{"sec":13,"voen":"vocs_over_over_bathhouse_hintbath_n02","vojp":"vocs_bathhouse_hintbath_n02_jp","s":"NINJA","en":"Teh … good idea.","cn":"嗯……好主意。","jp":"へっ…いい考えだ。"}
 ,
-{"lvl":"20","sec":"14","voen":"vo_hint_hint_bathhouse_bathtubs2_n00","vojp":"vo_bathhouse_bathtubs2_n00_jp","s":"BROGUNSON","en":"A bath! I need a bath!","cn":"洗澡！我要洗澡！","jp":"風呂だ、風呂に入りたい！"}
+{"sec":14,"voen":"vo_hint_hint_bathhouse_bathtubs2_n00","vojp":"vo_bathhouse_bathtubs2_n00_jp","s":"BROGUNSON","en":"A bath! I need a bath!","cn":"洗澡！我要洗澡！","jp":"風呂だ、風呂に入りたい！"}
 ,
-{"lvl":"20","sec":"15","voen":"vo_hint_hint_bathhouse_hotwater1_n00","vojp":"vo_bathhouse_hotwater1_n00_jp","s":"BROGUNSON","en":"Ahh, almost perfect. Servant? More hot water!","cn":"啊……水温还差一点。来人，加热水！","jp":"ああ、もっとだ。もっと熱い湯を持って来ぬか？"}
+{"sec":15,"voen":"vo_hint_hint_bathhouse_hotwater1_n00","vojp":"vo_bathhouse_hotwater1_n00_jp","s":"BROGUNSON","en":"Ahh, almost perfect. Servant? More hot water!","cn":"啊……水温还差一点。来人，加热水！","jp":"ああ、もっとだ。もっと熱い湯を持って来ぬか？"}
 ,
-{"lvl":"20","sec":"16","voen":"vo_hint_hint_bathhouse_hotwater2_n00","vojp":"vo_bathhouse_hotwater2_n00_jp","s":"BROGUNSON","en":"Aah! Hot hot hot, too hot! Aah! Aaaaah!","cn":"啊！烫烫烫，烫死我啦！啊！啊啊啊！","jp":"あ゛あ゛！熱い熱い熱すぎる！あ゛あ゛！あああああ！"}
+{"sec":16,"voen":"vo_hint_hint_bathhouse_hotwater2_n00","vojp":"vo_bathhouse_hotwater2_n00_jp","s":"BROGUNSON","en":"Aah! Hot hot hot, too hot! Aah! Aaaaah!","cn":"啊！烫烫烫，烫死我啦！啊！啊啊啊！","jp":"あ゛あ゛！熱い熱い熱すぎる！あ゛あ゛！あああああ！"}
 ,
-{"lvl":"20","sec":"17","voen":"vo_hint_hint_bathhouse_cooling_n00","vojp":"vo_bathhouse_cooling_n00_jp","s":"BROGUNSON","en":"Ahh, ahh …","cn":"啊……啊……","jp":"あー、あー… 。"}
+{"sec":17,"voen":"vo_hint_hint_bathhouse_cooling_n00","vojp":"vo_bathhouse_cooling_n00_jp","s":"BROGUNSON","en":"Ahh, ahh …","cn":"啊……啊……","jp":"あー、あー… 。"}
 ,
-{"lvl":"20","sec":"18","voen":"vocs_over_over_bathhouse_massage1_n00","vojp":"vocs_bathhouse_massage1_n00_jp","s":"NINJA","en":"Hmm, the massage area.","cn":"嗯……是按摩院。","jp":"ふーむ、按摩の場所だ。"}
+{"sec":18,"voen":"vocs_over_over_bathhouse_massage1_n00","vojp":"vocs_bathhouse_massage1_n00_jp","s":"NINJA","en":"Hmm, the massage area.","cn":"嗯……是按摩院。","jp":"ふーむ、按摩の場所だ。"}
 ,
-{"lvl":"20","sec":"18","voen":"vocs_over_over_bathhouse_massage1_n01","vojp":"vocs_bathhouse_massage1_n01_jp","s":"GEISHA","en":"This must be where he gets his massage.","cn":"这里就是他做按摩的地方。","jp":"ここで彼は按摩を受けるわ。"}
+{"sec":18,"voen":"vocs_over_over_bathhouse_massage1_n01","vojp":"vocs_bathhouse_massage1_n01_jp","s":"GEISHA","en":"This must be where he gets his massage.","cn":"这里就是他做按摩的地方。","jp":"ここで彼は按摩を受けるわ。"}
 ,
-{"lvl":"20","sec":"18","voen":"vocs_over_over_bathhouse_massage1_n02","vojp":"vocs_bathhouse_massage1_n02_jp","s":"NINJA","en":"Hmm, who's giving the massage?","cn":"嗯，给他做按摩的是哪个？","jp":"うーむ、按摩は誰がやるんだろうなぁ？"}
+{"sec":18,"voen":"vocs_over_over_bathhouse_massage1_n02","vojp":"vocs_bathhouse_massage1_n02_jp","s":"NINJA","en":"Hmm, who's giving the massage?","cn":"嗯，给他做按摩的是哪个？","jp":"うーむ、按摩は誰がやるんだろうなぁ？"}
 ,
-{"lvl":"20","sec":"19","voen":"vocs_over_over_bathhouse_hintmassage_n00","vojp":"vocs_bathhouse_hintmassage_n00_jp","s":"NINJA","en":"Hrm … always the same masseur.","cn":"嗯……他好像有个专用按摩师。","jp":"ふーん…いつも同じ按摩師がやるようだな。"}
+{"sec":19,"voen":"vocs_over_over_bathhouse_hintmassage_n00","vojp":"vocs_bathhouse_hintmassage_n00_jp","s":"NINJA","en":"Hrm … always the same masseur.","cn":"嗯……他好像有个专用按摩师。","jp":"ふーん…いつも同じ按摩師がやるようだな。"}
 ,
-{"lvl":"20","sec":"19","voen":"vocs_over_over_bathhouse_hintmassage_n01","vojp":"vocs_bathhouse_hintmassage_n01_jp","s":"GEISHA","en":"What would happen if the masseur does not come.","cn":"假如按摩师不来他会怎样。","jp":"もし仮に、按摩師が来なかったらどうでしょうね。"}
+{"sec":19,"voen":"vocs_over_over_bathhouse_hintmassage_n01","vojp":"vocs_bathhouse_hintmassage_n01_jp","s":"GEISHA","en":"What would happen if the masseur does not come.","cn":"假如按摩师不来他会怎样。","jp":"もし仮に、按摩師が来なかったらどうでしょうね。"}
 ,
-{"lvl":"20","sec":"19","voen":"vocs_over_over_bathhouse_hintmassage_n02","vojp":"vocs_bathhouse_hintmassage_n02_jp","s":"NINJA","en":"Hmm … could be interesting.","cn":"嗯……可以试试。","jp":"うーむ…面白いな。"}
+{"sec":19,"voen":"vocs_over_over_bathhouse_hintmassage_n02","vojp":"vocs_bathhouse_hintmassage_n02_jp","s":"NINJA","en":"Hmm … could be interesting.","cn":"嗯……可以试试。","jp":"うーむ…面白いな。"}
 ,
-{"lvl":"20","sec":"20","voen":"vo_hint_hint_bathhouse_massage2_n00","vojp":"vo_bathhouse_massage2_n00_jp","s":"BROGUNSON","en":"Ugh, I want a massage, now!","cn":"呃，我要按摩了！","jp":"うー、余は按摩を受けたいぞ。"}
+{"sec":20,"voen":"vo_hint_hint_bathhouse_massage2_n00","vojp":"vo_bathhouse_massage2_n00_jp","s":"BROGUNSON","en":"Ugh, I want a massage, now!","cn":"呃，我要按摩了！","jp":"うー、余は按摩を受けたいぞ。"}
 ,
-{"lvl":"20","sec":"21","voen":"vo_hint_hint_bathhouse_masseur1_n00","vojp":"vo_bathhouse_masseur1_n00_jp","s":"BROGUNSON","en":"Hmm, yes. Masseur! Get to work.","cn":"嗯，对了。按摩师！交给你了。","jp":"うむ、そうだ。按摩師！仕事を頼む。"}
+{"sec":21,"voen":"vo_hint_hint_bathhouse_masseur1_n00","vojp":"vo_bathhouse_masseur1_n00_jp","s":"BROGUNSON","en":"Hmm, yes. Masseur! Get to work.","cn":"嗯，对了。按摩师！交给你了。","jp":"うむ、そうだ。按摩師！仕事を頼む。"}
 ,
-{"lvl":"20","sec":"22","voen":"vo_hint_hint_bathhouse_masseur2_n00","vojp":"vo_bathhouse_masseur2_n00_jp","s":"BROGUNSON","en":"He's keeping me waiting. Does he not know who I am? Find him!","cn":"竟敢让我等。他不知道我是谁吗？快给我找出来！","jp":"いつまで待たせる気だ。余が誰なのかわからんのか。探せ！"}
+{"sec":22,"voen":"vo_hint_hint_bathhouse_masseur2_n00","vojp":"vo_bathhouse_masseur2_n00_jp","s":"BROGUNSON","en":"He's keeping me waiting. Does he not know who I am? Find him!","cn":"竟敢让我等。他不知道我是谁吗？快给我找出来！","jp":"いつまで待たせる気だ。余が誰なのかわからんのか。探せ！"}
 ,
-{"lvl":"20","sec":"23","voen":"vo_hint_hint_bathhouse_masseur3_n00","vojp":"vo_bathhouse_masseur3_n00_jp","s":"BROGUNSON","en":"There you are …","cn":"爽啊……","jp":"来たか…。"}
+{"sec":23,"voen":"vo_hint_hint_bathhouse_masseur3_n00","vojp":"vo_bathhouse_masseur3_n00_jp","s":"BROGUNSON","en":"There you are …","cn":"爽啊……","jp":"来たか…。"}
 ,
-{"lvl":"20","sec":"23","voen":"vo_hint_hint_bathhouse_masseur3_n01","vojp":"vo_bathhouse_masseur3_n01_jp","s":"BROGUNSON","en":"Ohh, yes.","cn":"哦，舒服。","jp":"おお、いいぞ。"}
+{"sec":23,"voen":"vo_hint_hint_bathhouse_masseur3_n01","vojp":"vo_bathhouse_masseur3_n01_jp","s":"BROGUNSON","en":"Ohh, yes.","cn":"哦，舒服。","jp":"おお、いいぞ。"}
 ,
-{"lvl":"20","sec":"23","voen":"vo_hint_hint_bathhouse_masseur3_n02","vojp":"vo_bathhouse_masseur3_n02_jp","s":"BROGUNSON","en":"Uhhh … not so hard …","cn":"唔……小点劲……","jp":"うう…そんなに強くするな…。"}
+{"sec":23,"voen":"vo_hint_hint_bathhouse_masseur3_n02","vojp":"vo_bathhouse_masseur3_n02_jp","s":"BROGUNSON","en":"Uhhh … not so hard …","cn":"唔……小点劲……","jp":"うう…そんなに強くするな…。"}
 ,
-{"lvl":"20","sec":"23","voen":"vo_hint_hint_bathhouse_masseur3_n03","vojp":"vo_bathhouse_masseur3_n03_jp","s":"BROGUNSON","en":"Ahh ... that's the spot.","cn":"啊……就是那里。","jp":"ああ…そこだ。"}
+{"sec":23,"voen":"vo_hint_hint_bathhouse_masseur3_n03","vojp":"vo_bathhouse_masseur3_n03_jp","s":"BROGUNSON","en":"Ahh ... that's the spot.","cn":"啊……就是那里。","jp":"ああ…そこだ。"}
 ,
-{"lvl":"20","sec":"23","voen":"vo_hint_hint_bathhouse_masseur3_n04","vojp":"vo_bathhouse_masseur3_n04_jp","s":"BROGUNSON","en":"That's enough. You can leave.","cn":"可以了。你退下吧。","jp":"十分だもういい。"}
+{"sec":23,"voen":"vo_hint_hint_bathhouse_masseur3_n04","vojp":"vo_bathhouse_masseur3_n04_jp","s":"BROGUNSON","en":"That's enough. You can leave.","cn":"可以了。你退下吧。","jp":"十分だもういい。"}
 ,
-{"lvl":"20","sec":"24","voen":"vocs_over_over_bathhouse_kidnapping_n00","vojp":"vocs_bathhouse_kidnapping_n00_jp","s":"NINJA","en":"We've got him!","cn":"得手了！","jp":"やったぞ！"}
+{"sec":24,"voen":"vocs_over_over_bathhouse_kidnapping_n00","vojp":"vocs_bathhouse_kidnapping_n00_jp","s":"NINJA","en":"We've got him!","cn":"得手了！","jp":"やったぞ！"}
 ,
-{"lvl":"20","sec":"24","voen":"vocs_over_over_bathhouse_kidnapping_n01","vojp":"vocs_bathhouse_kidnapping_n01_jp","s":"GEISHA","en":"We have him.","cn":"抓到他了！","jp":"捕らえたわ。"}
+{"sec":24,"voen":"vocs_over_over_bathhouse_kidnapping_n01","vojp":"vocs_bathhouse_kidnapping_n01_jp","s":"GEISHA","en":"We have him.","cn":"抓到他了！","jp":"捕らえたわ。"}
 ,
-{"lvl":"20","sec":"24","voen":"vocs_over_over_bathhouse_kidnapping_n02","vojp":"vocs_bathhouse_kidnapping_n02_jp","s":"GEISHA","en":"Quickly, to the boat with him!","cn":"快，带他到船上！","jp":"すぐに、彼を連れてボートへ。"}
+{"sec":24,"voen":"vocs_over_over_bathhouse_kidnapping_n02","vojp":"vocs_bathhouse_kidnapping_n02_jp","s":"GEISHA","en":"Quickly, to the boat with him!","cn":"快，带他到船上！","jp":"すぐに、彼を連れてボートへ。"}
 ,
-{"lvl":"20","sec":"24","voen":"vocs_over_over_bathhouse_kidnapping_n03","vojp":"vocs_bathhouse_kidnapping_n03_jp","s":"NINJA","en":"I'm on my way!","cn":"马上就到！","jp":"とりかかるよ。"}
+{"sec":24,"voen":"vocs_over_over_bathhouse_kidnapping_n03","vojp":"vocs_bathhouse_kidnapping_n03_jp","s":"NINJA","en":"I'm on my way!","cn":"马上就到！","jp":"とりかかるよ。"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n00","vojp":"vocs_bathhouse_debriefing_n00_jp","s":"NINJA","en":"Alright then.","cn":"这下总算好了。","jp":"これでいいだろ。"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n00","vojp":"vocs_bathhouse_debriefing_n00_jp","s":"NINJA","en":"Alright then.","cn":"这下总算好了。","jp":"これでいいだろ。"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n01","vojp":"vocs_bathhouse_debriefing_n01_jp","s":"GEISHA","en":"How is your temper, Hayato-san? Must I still fear for the safety of our hostage?","cn":"心情好些了吗，隼人兄？我还需要担心这位人质性命不保么？","jp":"気分はどう、隼人さん？人質の安全にはまだ注意した方がいいかしら？"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n01","vojp":"vocs_bathhouse_debriefing_n01_jp","s":"GEISHA","en":"How is your temper, Hayato-san? Must I still fear for the safety of our hostage?","cn":"心情好些了吗，隼人兄？我还需要担心这位人质性命不保么？","jp":"気分はどう、隼人さん？人質の安全にはまだ注意した方がいいかしら？"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n02","vojp":"vocs_bathhouse_debriefing_n02_jp","s":"NINJA","en":"Teh … don't think so ... he's worth more alive.","cn":"嗯……不必担心……他的小命还有点用。","jp":"へっ…その心配はいらない…生きていてくれないとな。"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n02","vojp":"vocs_bathhouse_debriefing_n02_jp","s":"NINJA","en":"Teh … don't think so ... he's worth more alive.","cn":"嗯……不必担心……他的小命还有点用。","jp":"へっ…その心配はいらない…生きていてくれないとな。"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n03","vojp":"vocs_bathhouse_debriefing_n03_jp","s":"GEISHA","en":"You did well, Hayato-san.","cn":"那就好，隼人兄。","jp":"よかったわ、隼人さん。"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n03","vojp":"vocs_bathhouse_debriefing_n03_jp","s":"GEISHA","en":"You did well, Hayato-san.","cn":"那就好，隼人兄。","jp":"よかったわ、隼人さん。"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n04","vojp":"vocs_bathhouse_debriefing_n04_jp","s":"NINJA","en":"Yes … you too.","cn":"啊…彼此彼此。","jp":"ああ…あんたもな。"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n04","vojp":"vocs_bathhouse_debriefing_n04_jp","s":"NINJA","en":"Yes … you too.","cn":"啊…彼此彼此。","jp":"ああ…あんたもな。"}
 ,
-{"lvl":"20","sec":"25","voen":"vocs_over_over_bathhouse_debriefing_n05","vojp":"vocs_bathhouse_debriefing_n05_jp","s":"GEISHA","en":"Let us head to the safe house. Yuki and Takuma should be ready by now.","cn":"回藏身处吧。友希和琢磨应该也该准备妥当了。","jp":"隠れ家へと行きましょう。雪ちゃんと巧磨さんの準備はできているはずだわ。"}
+{"sec":25,"voen":"vocs_over_over_bathhouse_debriefing_n05","vojp":"vocs_bathhouse_debriefing_n05_jp","s":"GEISHA","en":"Let us head to the safe house. Yuki and Takuma should be ready by now.","cn":"回藏身处吧。友希和琢磨应该也该准备妥当了。","jp":"隠れ家へと行きましょう。雪ちゃんと巧磨さんの準備はできているはずだわ。"}
 
 ]

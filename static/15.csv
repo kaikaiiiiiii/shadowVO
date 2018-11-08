@@ -1,141 +1,141 @@
-lvl,sec,voen,vojp,s,en,cn,jp
-15,362,vocs_over_over_uprising_briefing_n00,vocs_uprising_briefing_n00_jp,BROGUN,The rebels have fortified themselves in Kanazawa Castle. You will infiltrate the stronghold and weaken them from the inside. ,叛军龟缩在金泽城中。你们要潜入城内，从敌人内部削弱他们。 ,謀反者どもは金沢城で立てこもっておる。要塞へ侵入し内側から弱らせよ。 
-15,362,vocs_over_over_uprising_briefing_n01,vocs_uprising_briefing_n01_jp,BROGUN,You will act in two groups and attack the castle from both sides.,这次先分组行动，两面夹击。,二手に分かれ、城を両側から攻めてもらう。
-15,362,vocs_over_over_uprising_briefing_n02,vocs_uprising_briefing_n02_jp,BROGUN,My forces are facing Okkoto's men head on. You killing his officers will allow the men to advance.,幕府军将从正面迎击叛军。你们尽力杀死敌方军官，帮助我军向前推进。,我が幕府軍は乙事へ正面から向かう。そなたらが役人を討てば、部下の進入もできるだろう。
-15,362,vocs_over_over_uprising_briefing_n03,vocs_uprising_briefing_n03_jp,BROGUN,Find your way inside the castle walls and blow up the supply depot.,然后设法进入城内，炸毁补给仓库。,城内壁で道を見つけ、供給庫を破壊せよ。
-15,362,vocs_over_over_uprising_briefing_n04,vocs_uprising_briefing_n04_jp,BROGUN,"Once this is done, you are free to engage General Okkoto.",将其炸毁后，便可去干掉乙事。,それが終われば如何様にも乙事と対峙できる。
-15,362,vocs_over_over_uprising_briefing_n05,vocs_uprising_briefing_n05_jp,BROGUN,"His death will seal the rebels' defeat. He is a formidable foe, so be prepared before you face him.",只要他死了，叛军便群龙无首，必败无疑。但他也是强敌，要做好万全准备。,彼の死は反乱の終わりを意味するだろう。彼は強敵だ、覚悟してかかれ。
-15,362,vocs_over_over_uprising_briefing_n06,vocs_uprising_briefing_n06_jp,BROGUN,Your actions will be the turning point of the battle. You must not fail.,你们的任务是这次作战的关键，只许成功不许失败。,そなたらの行動が、戦の契機となろう。失敗は許されぬ。
-15,363,vocs_over_over_uprising_duty1_n00,vocs_uprising_duty1_n00_jp,NINJA,Pretty hectic around here.,战况还真是激烈。,この辺りは、どうも慌ただしいな。
-15,363,vocs_over_over_uprising_duty1_n01,vocs_uprising_duty1_n01_jp,WARRIOR,"Once again we face impossible odds, you and me!",你我二人再一次携手挑战极限！,再び共に困難へ立ち向かうことになりましたな！
-15,363,vocs_over_over_uprising_duty1_n02,vocs_uprising_duty1_n02_jp,NINJA,"Got to admit, working with you doesn't get boring.",和你合作，倒是意外地不觉得讨厌。,あんたと働くの、割と嫌いじゃないぜ。
-15,363,vocs_over_over_uprising_duty1_n03,vocs_uprising_duty1_n03_jp,WARRIOR,"Ha! From you, I take that as a compliment.",哈哈哈！这话能从你口中说出来，真是我天大的荣幸。,ぬはは！それは光栄な話だ！
-15,364,vocs_over_over_uprising_duty2_n00,vocs_uprising_duty2_n00_jp,NINJA,Close one back there …,刚才好险……,っむ、近くにいるな。後ろのそこか…。
-15,364,vocs_over_over_uprising_duty2_n01,vocs_uprising_duty2_n01_jp,WARRIOR,"The walls aren't far now. We must look death in the face, hahaha.",离城墙已经不远了。让我们准备好光荣战死吧，哈哈哈。,外壁はさほど遠くない。では死に臨むとするか、ぬはは。
-15,364,vocs_over_over_uprising_duty2_n02,vocs_uprising_duty2_n02_jp,NINJA,"Mugen, can I ask you something? Why are you always so eager to die? Does honour really mean that much to you?",无限，我有个问题。你为什么总想着光荣战死？名誉对你就真的那么重要吗？,武源、聞かせてくれ。なぜいつも死を求める？名誉の死はそれほどまでに大事なものなのか？
-15,364,vocs_over_over_uprising_duty2_n03,vocs_uprising_duty2_n03_jp,WARRIOR,"I merely serve my Shogun, as is my duty. Why are you asking, Hayato-san? Are you not here beside me?",作为将军大人的部下，名誉当然最重要。隼人兄不也是将军的部下吗？,上様に仕える者として当然のこと。隼人殿も、拙者と同じでは？
-15,364,vocs_over_over_uprising_duty2_n04,vocs_uprising_duty2_n04_jp,NINJA,"Oh, I'm getting paid. That's very different.",不，我只是拿钱办事。和你不一样…,いや、俺はただの雇われ傭兵に過ぎん。主とは違う。
-15,365,vocs_over_over_uprising_duty3_n00,vocs_uprising_duty3_n00_jp,WARRIOR,We are almost inside …,马上就到城内了…,もうすぐ中に入れそうだ…。
-15,365,vocs_over_over_uprising_duty3_n02,vocs_uprising_duty3_n02_jp,NINJA,I don't get it. Honour doesn't buy you anything. Especially when you're dead.,我还是不明白。名誉就这么重要吗？甚至比性命还重要？,やはり分からぬ。名誉に如何ほどの価値があるというのだ、そんなものが命の代わりになど…。
-15,365,vocs_over_over_uprising_duty3_n03,vocs_uprising_duty3_n03_jp,WARRIOR,"Then tell me, Hayato-san. Why have you followed me into this chaos, this madness? Is money really the reason?",那么请告诉我。你为何要跟我一起出生入死呢？只是为了钱吗？,なれば問おう。貴殿はなぜこの混沌へ…拙者に着いてくる？金欲しさゆえか？
-15,365,vocs_over_over_uprising_duty3_n04,vocs_uprising_duty3_n04_jp,NINJA,That's … I …,不……我是……,いや…俺は…。
-15,365,vocs_over_over_uprising_duty3_n05,vocs_uprising_duty3_n05_jp,WARRIOR,"Every man chooses his duty. Without duty, life has no purpose. You do not have to understand my choices, Hayato-san. But I pray that you understand your own.",主动背负责任，为肩负的责任而活才是人生正途。就算不理解我的使命也没关系，只要对得起自己心中的那份使命就好。,責務を持ち、責務に生きるが人の在るべき姿と言えよう。何も拙者の使命を理解せずとも構わぬ。だが己が使命はしかと心に抱かれよ。
-15,366,vocs_over_over_uprising_sensei1_n00,vocs_uprising_sensei1_n00_jp,TRAPPER,I remember this place. Big samurai houses.,我记得这地方。这些都是武士的大房子。,この場所、覚えてる！大きなお侍さんたちの家だ。
-15,366,vocs_over_over_uprising_sensei1_n01,vocs_uprising_sensei1_n01_jp,ALCHEMIST,"So you lived here, Yuki-chan?",友希姑娘，你以前住在这里？,ここに住んでおったのか、雪ちゃんよ？
-15,366,vocs_over_over_uprising_sensei1_n02,vocs_uprising_sensei1_n02_jp,TRAPPER,"Yes, with Okaa-san. Not forever though.",嗯，和母亲一起。但没住多久……,うん、お母さんと。…長くはなかったけど。
-15,366,vocs_over_over_uprising_sensei1_n03,vocs_uprising_sensei1_n03_jp,ALCHEMIST,"Hmm, why did you leave? Did something happen?",嚯，那为何离开呢？发生了什么事吗？,ほぅ、なぜここを離れた？何かあったのかの？
-15,366,vocs_over_over_uprising_sensei1_n04,vocs_uprising_sensei1_n04_jp,TRAPPER,Bad things. Long ago. It … was a bit like this.,发生了坏事。很久以前…就像……像今天这样。,嫌なことがね、ずっと前に。そう…こんな感じだった。
-15,366,vocs_over_over_uprising_sensei1_n05,vocs_uprising_sensei1_n05_jp,ALCHEMIST,"Ah, dark memories. Forget that I asked. Let us head for the castle.",啊…还有这等伤心往事。抱歉，就当我没问过。继续往城里前进吧。,ああ、暗澹たる記憶じゃったか。すまぬ、忘れてくれ。城へ向かおうかの。
-15,367,vocs_over_over_uprising_sensei2_n00,vocs_uprising_sensei2_n00_jp,ALCHEMIST,"Yuki-chan, What happened after leaving?",友希姑娘，你离开之后又发生了什么？,雪ちゃんや、そこを出てからはどうしてたんじゃ？
-15,367,vocs_over_over_uprising_sensei2_n01,vocs_uprising_sensei2_n01_jp,TRAPPER,Why ... Why do you want to know?,…怎么了，你为什么想知道？,なんで…なんで知りたいの？
-15,367,vocs_over_over_uprising_sensei2_n02,vocs_uprising_sensei2_n02_jp,ALCHEMIST,Hmm … I was wondering how you've learned the things you know.,嗯……我有点好奇你的一身本领是在哪学到的。,うむ…如何にしておまえさんがものを学んでいったのか気になっての。
-15,367,vocs_over_over_uprising_sensei2_n03,vocs_uprising_sensei2_n03_jp,TRAPPER,Well … some things you learn from people. Others you don't. If there's no one who can teach you …,呃...有些是跟别人学的，有些不是。孤身一人，没人可以教我的时候…,まあ…人から学んだのもあるしそうじゃないのもある。もし教えてくれる人がいなかったら…。
-15,367,vocs_over_over_uprising_sensei2_n04,vocs_uprising_sensei2_n04_jp,ALCHEMIST,"… then you must teach yourself. You watch, you learn. You question things, and earn the answers. Am I right?",……就只能自学。通过观察、学习、质疑，然后靠自己找出答案。是这样吗？,…なれば自らで自らを教えればよい。見て、学び、己に問い、己で解を出す。どうじゃ？
-15,367,vocs_over_over_uprising_sensei2_n05,vocs_uprising_sensei2_n05_jp,TRAPPER,Yes …,对……,はい…。
-15,368,vocs_over_over_uprising_sensei3_n00,vocs_uprising_sensei3_n00_jp,ALCHEMIST,"Now, a final question, Yuki-chan. How did I make my rifle so quiet?",最后一个问题，友希姑娘。你知道我是如何让狙击枪消音的吗？,最後の質問じゃ、雪ちゃんよ。ワシはどうやって銃の音を消したと思う？
-15,368,vocs_over_over_uprising_sensei3_n01,vocs_uprising_sensei3_n01_jp,TRAPPER,"I-It's … you … no, that's not it! It's so hard, I don't understand it.",是…那个…是用…那个...太难了，我不懂啦。,それは…えっと…そうだなぁ、うーん、えーと…。むー！そんな難しいこと、分からないよ！
-15,368,vocs_over_over_uprising_sensei3_n02,vocs_uprising_sensei3_n02_jp,ALCHEMIST,"Hehe, life can be a marvellous teacher. Yet some things only show themselves when others point them out to you.",呵呵呵，虽然生活也是良师，但有些东西，还是要别人指点一二才能学会。,ほっほ、人生とは素晴らしい先生じゃよ、じゃが、人が指導してくれた時にしかわからぬものもいくつかある。
-15,368,vocs_over_over_uprising_sensei3_n03,vocs_uprising_sensei3_n03_jp,TRAPPER,Takuma-sama …,琢磨大师……,巧磨様…。
-15,368,vocs_over_over_uprising_sensei3_n04,vocs_uprising_sensei3_n04_jp,ALCHEMIST,"Will you let me show you how it works, Yuki-chan?",友希姑娘，想让老夫为你答疑解惑吗？,ワシの手ほどきを受けてみるかのう、雪ちゃん？
-15,368,vocs_over_over_uprising_sensei3_n05,vocs_uprising_sensei3_n05_jp,TRAPPER,You mean … like a sensei?,意思是...做我的师父吗？,つまり…先生ってこと？
-15,368,vocs_over_over_uprising_sensei3_n06,vocs_uprising_sensei3_n06_jp,ALCHEMIST,"If that is what you want, Yuki-chan.",假如你愿意的话。,それがお主の望みならのう。
-15,368,vocs_over_over_uprising_sensei3_n07,vocs_uprising_sensei3_n07_jp,TRAPPER,Really?!Yes! Yes I want that!,真的？！太好了！请收我为徒吧！,本当？！はい！教えてほしいです！
-15,368,vocs_over_over_uprising_sensei3_n08,vocs_uprising_sensei3_n08_jp,ALCHEMIST,"Hehehe, who would have thought I would find an apprentice on the battlefield.",哈哈，真没想到我会在战场上收到徒弟呢。,へへ、戦場で弟子ができるとは思わんかったの。
-15,369,vo_hint_hint_uprising_warzone_n00,vo_uprising_warzone_n00_jp,ENEMY,Hold the line!,守住防线！,後には引くな！
-15,369,vo_hint_hint_uprising_warzone_n01,vo_uprising_warzone_n01_jp,ENEMY,Let no one through!,不要让他们过去!,誰も入れるな！
-15,369,vo_hint_hint_uprising_warzone_n02,vo_uprising_warzone_n02_jp,ENEMY,Death to the Shogun's men!,杀光幕府军！,将軍の者ども、死ね！
-15,369,vo_hint_hint_uprising_warzone_n03,vo_uprising_warzone_n03_jp,STATIC,Hold the line!,坚守防线！,後には引くな！
-15,369,vo_hint_hint_uprising_warzone_n04,vo_uprising_warzone_n04_jp,STATIC,For Lord Okkoto!,为了乙事大人！,乙事様のため！
-15,369,vo_hint_hint_uprising_warzone_n05,vo_uprising_warzone_n05_jp,STATIC,Push them back!,击退他们！,押し返せ。
-15,369,vo_hint_hint_uprising_warzone_n06,vo_uprising_warzone_n06_jp,SAMURAI,Hold the line!,给我守住防线！,後には引くな！
-15,369,vo_hint_hint_uprising_warzone_n07,vo_uprising_warzone_n07_jp,SAMURAI,Death and glory!,死亡与荣耀共存！,死と栄誉だ！
-15,369,vo_hint_hint_uprising_warzone_n08,vo_uprising_warzone_n08_jp,SAMURAI,For honour!,为了武士之名！,名誉のため。
-15,369,vo_hint_hint_uprising_warzone_n09,vo_uprising_warzone_n09_jp,CIVILIAN M,Keep pushing!,继续向前推进！,押せ！
-15,369,vo_hint_hint_uprising_warzone_n10,vo_uprising_warzone_n10_jp,CIVILIAN M,Fire!,开火！,撃て！
-15,369,vo_hint_hint_uprising_warzone_n11,vo_uprising_warzone_n11_jp,CIVILIAN M,Do not let up on them!,保持火力压制！,手を弱めるな！
-15,369,vo_hint_hint_uprising_warzone_n12,vo_uprising_warzone_n12_jp,CIVILIAN M,For the Shogun!,为了将军！,将軍様のため
-15,369,vo_hint_hint_uprising_warzone_n13,vo_uprising_warzone_n13_jp,CIVILIAN M,For Lord Noboru!,为了昇大人!,昇様のため！
-15,369,vo_hint_hint_uprising_warzone_n14,vo_uprising_warzone_n14_jp,CIVILIAN M,Rebel traitors!,这帮叛军白眼狼!,反逆者に反抗だ！
-15,369,vo_hint_hint_uprising_warzone_n15,vo_uprising_warzone_n15_jp,CIVILIAN M,Attack!,进攻!,行け！
-15,370,vo_hint_hint_uprising_hold_n00,vo_uprising_hold_n00_jp,ENEMY,We are barely keeping them back.,这边快顶不住了。,我らはかろうじて留めることができている。
-15,370,vo_hint_hint_uprising_hold_n01,vo_uprising_hold_n01_jp,STATIC,"I do not care, the flank must hold!",我不管！侧翼必须顶住！,かまわん。側面は死守するのだ！
-15,370,vo_hint_hint_uprising_hold_n02,vo_uprising_hold_n02_jp,ENEMY,We are doing what we can. We need supplies.,我们已经尽力了，现在急需补给。,できることをしている。供給がほしい。
-15,370,vo_hint_hint_uprising_hold_n03,vo_uprising_hold_n03_jp,STATIC,They need supplies?! Well bad luck we can't open the gate!,需要补给？！算他们倒霉！现在可不能开门！,供給が欲しいだと？！運が悪い、門を開けることはできぬ。
-15,370,vo_hint_hint_uprising_hold_n04,vo_uprising_hold_n04_jp,ENEMY,No supplies? Then we need men!,没有补给？那就派点人手！,供給なしか？なら人員がほしい。
-15,370,vo_hint_hint_uprising_hold_n05,vo_uprising_hold_n05_jp,STATIC,They need men?! We can't spare anyone!,需要人手？！我们人手也不够啊！,今度は人か？！これ以上は無理だ！
-15,371,vocs_over_over_uprising_officer_n00,vocs_uprising_officer_n00_jp,NINJA,Got one.,搞定一个。,一人やったな。
-15,371,vocs_over_over_uprising_officer_n01,vocs_uprising_officer_n01_jp,WARRIOR,Officer down!,军官死了！,役人を討ち取り申した！
-15,371,vocs_over_over_uprising_officer_n02,vocs_uprising_officer_n02_jp,TRAPPER,One flag down!,搞定一面旗子！,旗を１つ倒したわ。
-15,371,vocs_over_over_uprising_officer_n03,vocs_uprising_officer_n03_jp,ALCHEMIST,"Hehe, officer down!",嘿嘿，军官死了！,ほっほ、役人を倒したぞい！
-15,371,vocs_over_over_uprising_officer_n04,vocs_uprising_officer_n04_jp,BROGUN,The enemy command is weakened! Advance!,敌人的指挥乱了！冲啊！,敵の指揮は弱まっている！進撃だ！
-15,371,vocs_over_over_uprising_officer_n05,vocs_uprising_officer_n05_jp,BROGUN,Another officer has fallen! Break through their lines!,又干掉一个军官！快突破他们的防线！,別の役人が倒された。突破するぞ！
-15,371,vocs_over_over_uprising_officer_n06,vocs_uprising_officer_n06_jp,BROGUN,"We are gaining the advantage! Forward, for the Shogun!",我军已占上风！冲啊，为了将军！,さらに進撃だ！進め、将軍のため！
-15,372,vocs_over_over_uprising_regroup_n00,vocs_uprising_regroup_n00_jp,WARRIOR,Is everyone inside?,大家都进来了吧？,後ろにおられるか？
-15,372,vocs_over_over_uprising_regroup_n01,vocs_uprising_regroup_n01_jp,NINJA,I'm with you.,嗯，我在。,あぁ、ここだ。
-15,372,vocs_over_over_uprising_regroup_n02,vocs_uprising_regroup_n02_jp,ALCHEMIST,Here. And Yuki-chan.,在，友希姑娘也在。,ここじゃよ、雪ちゃんもじゃ。
-15,372,vocs_over_over_uprising_regroup_n03,vocs_uprising_regroup_n03_jp,WARRIOR,Good. We must make haste and destroy the supply depot!,好。速战速决，摧毁补给仓库！,よし！急ぎ供給庫を破壊致そう！
-15,373,vocs_over_over_uprising_priorities_n00,vocs_uprising_priorities_n00_jp,NINJA,General Okkoto's tent.,那是乙事大将的营帐。,乙事の天幕か？
-15,373,vocs_over_over_uprising_priorities_n01,vocs_uprising_priorities_n01_jp,TRAPPER,He's close.,他就在营帐里面。,奴は近いよ。
-15,373,vocs_over_over_uprising_priorities_n02,vocs_uprising_priorities_n02_jp,ALCHEMIST,A fateful confrontation.,宿命对决的时候到了。,運命的対峙の瞬間じゃのぅ。
-15,373,vocs_over_over_uprising_priorities_n03,vocs_uprising_priorities_n03_jp,WARRIOR,We must destroy the depot before we engage Okkoto.,对付乙事前，得先摧毁补给仓库。,乙事と戦う前に倉庫を破壊致そう！
-15,374,vocs_over_over_uprising_prisoners_n00,vocs_uprising_prisoners_n00_jp,CIVILIAN M,You're not Okkoto's men.,你-你不是乙事的手下。,乙事の兵ではないのですね。
-15,374,vocs_over_over_uprising_prisoners_n01,vocs_uprising_prisoners_n01_jp,WARRIOR,We have unlocked your door but stay here until Lord Noboru storms the castle.,牢门已经打开，等昇大人把城拿下，你们再出去。,戸の鍵を開けておいた。しかし、昇様が城を強襲し終わるまではここにおられよ。
-15,374,vocs_over_over_uprising_prisoners_n02,vocs_uprising_prisoners_n02_jp,CIVILIAN M,Understood. But be careful if you face the General.  You will need the skill of a true samurai to defeat him.,明白。如果遇到乙事一定要小心。只有真正的武士才能击败他。,わかりました！乙事と戦う時はお気をつけください。奴を倒すには真の侍の力が必要です
-15,374,vocs_over_over_uprising_prisoners_n02a,vocs_uprising_prisoners_n02a_jp,CIVILIAN M,Understood. Thank you.,明白。谢谢你们。,わかりました！礼を言います！
-15,375,vocs_over_over_uprising_explosives1_n00,vocs_uprising_explosives1_n00_jp,WARRIOR,…,……,…。
-15,375,vocs_over_over_uprising_explosives1_n01,vocs_uprising_explosives1_n01_jp,ALCHEMIST,"Hehe, getting old, Mugen?",呵呵呵，岁月不饶人啊，无限？,ほっほ、年をとったかね、武源殿よ？
-15,375,vocs_over_over_uprising_explosives1_n02,vocs_uprising_explosives1_n02_jp,WARRIOR,"A man should be proud of his age, as you very well know.",啊哈哈哈，男人年龄越大反而越值得尊敬，您老不就是最好的表率么。,ぬはは！おのこにとって年を重ねるは誇り！貴殿が何よりの証！
-15,375,vocs_over_over_uprising_explosives1_n03,vocs_uprising_explosives1_n03_jp,ALCHEMIST,"Hehe, wise words Mugen. Wise words.",嘿嘿，真是妙语连珠。嗯，你很有见地嘛，无限。哈哈哈…,ほっほ、賢い言葉じゃ、うむ！賢いぞ武源殿よ！ほっほっほ。
-15,376,vocs_over_over_uprising_explosives2_n00,vocs_uprising_explosives2_n00_jp,WARRIOR,Done.,好了。,終わりだ！
-15,376,vocs_over_over_uprising_explosives2_n01,vocs_uprising_explosives2_n01_jp,ALCHEMIST,"Ah, this brings back memories. Everyone, keep your distance.",这又让我想起当年了呢。大家都撤远点。,昔を思い出させるのぅ。みな、離れておれ！
-15,377,vocs_over_over_uprising_explosives3_n00,vocs_uprising_explosives3_n00_jp,ALCHEMIST,"Hrm, a crucial miscalculation. Now we lack the means to destroy the depot.",唔，对爆炸的计算出现了重大失误。现在没法摧毁补给仓库了。,うーむ、重大な計算違いじゃのぅ。倉庫を破壊する手段を失ってしもうた。
-15,378,vocs_over_over_uprising_explosives4_n00,vocs_uprising_explosives4_n00_jp,WARRIOR,The rebels have lost their supplies! Now we must confront Okkoto. Be ready for anything.,叛军没有补给了！此时正是进攻的时机，准备好和乙事决战吧。,反乱軍は軍備を失った！今こそ好機！乙事との戦いの覚悟を決めようぞ！
-15,379,vo_hint_hint_uprising_investigate_n00,vo_uprising_investigate_n00_jp,ENEMY,Aah!,啊!,ああ！
-15,379,vo_hint_hint_uprising_investigate_n01,vo_uprising_investigate_n01_jp,SAMURAI,What?!,什么？什么情况！,何？！
-15,379,vo_hint_hint_uprising_investigate_n02,vo_uprising_investigate_n02_jp,STATIC,Aah!,啊!,ああ！
-15,379,vo_hint_hint_uprising_investigate_n03,vo_uprising_investigate_n03_jp,ENEMY,How could this happen?,怎么会发生这种事?,どうしてこんなことが？？
-15,379,vo_hint_hint_uprising_investigate_n04,vo_uprising_investigate_n04_jp,STATIC,They hit the depot.,他们...他们炸毁了补给仓库。,奴ら倉庫を！
-15,379,vo_hint_hint_uprising_investigate_n05,vo_uprising_investigate_n05_jp,ENEMY,Everyone! Find out who did this!,所有人！快找出是谁干的！,皆！やった奴を突き止めろ！
-15,379,vo_hint_hint_uprising_investigate_n06,vo_uprising_investigate_n06_jp,SAMURAI,Fetch water! Stop the fire from spreading!,快打水！要阻止火势蔓延！,水だ！火の広がりを抑えろ！
-15,380,vocs_over_over_uprising_explosives5_n00,vocs_uprising_explosives5_n00_jp,WARRIOR,This one is too small to destroy the supply depot. I must find a larger barrel.,这个太小了，不够炸掉补给仓库。必须找个大桶的。,これでは小さすぎて倉庫を破壊できぬ。大きな樽を探さねば。
-15,381,vocs_over_over_uprising_bossspawn_n00,vocs_uprising_bossspawn_n00_jp,GENERAL,Assassins. Their stench lingers in the air. They have destroyed our supplies and now they come for me.,混账幕府刺客，空气里还飘着他们的臭味。既然已经炸毁补给仓库，接下来肯定要攻击我了。,幕府の刺客どもめ。奴らの匂いがまだ残っておる。軍備を破壊し、次は私に歯向かうか。
-15,381,vocs_over_over_uprising_bossspawn_n01,vocs_uprising_bossspawn_n01_jp,GENERAL,Take up formation! Hold out until Kage-sama comes with reinforcements. Show these worms the wrath of true samurai!,摆好阵型！坚守等待影大人的增援。让这些蝼蚁见识一下真正武士的愤怒!,部隊を取れ！カゲサマからの増援がくるまで耐えるのだ。虫けらどもに真の侍の怒りを見せてくれよう！
-15,381,vocs_over_over_uprising_bossspawn_n02,vocs_uprising_bossspawn_n02_jp,WARRIOR,"Everyone, take position.",所有人，各就各位。,皆、位置につかれよ！
-15,381,vocs_over_over_uprising_bossspawn_n03,vocs_uprising_bossspawn_n03_jp,WARRIOR,"Takuma-san, you have the high ground!",琢磨大师，你去高处。,巧磨殿、貴殿は高地へ！
-15,381,vocs_over_over_uprising_bossspawn_n04,vocs_uprising_bossspawn_n04_jp,ALCHEMIST,"On my way, hehe!",马上到，嚯...嚯...嚯。,向かっとるぞーい、ほっほ。
-15,381,vocs_over_over_uprising_bossspawn_n05,vocs_uprising_bossspawn_n05_jp,WARRIOR,Hayato-san. Yuki-chan.,隼人兄，友希小妹。,隼人殿、雪殿！
-15,381,vocs_over_over_uprising_bossspawn_n06,vocs_uprising_bossspawn_n06_jp,NINJA,Going in.,上吧。,行くか。
-15,381,vocs_over_over_uprising_bossspawn_n07,vocs_uprising_bossspawn_n07_jp,TRAPPER,Hai!,是！,はい！
-15,381,vocs_over_over_uprising_bossspawn_n08,vocs_uprising_bossspawn_n08_jp,WARRIOR,Let us end this rebellion once and for all.,来为叛乱画上句号吧！,反乱をこれにて終焉へと導く！
-15,382,vo_hint_hint_uprising_order_n00,vo_uprising_order_n00_jp,GENERAL,"Kage-sama will come. Until then, we must prevail.",影大人会来的，在此之前，不能落下风！,カゲサマがくる！それまで優勢を保て。
-15,382,vo_hint_hint_uprising_order_n01,vo_uprising_order_n01_jp,GENERAL,Don't let that scum get in here.,别让那些渣滓攻进这里。,屑の進入を許すな。
-15,382,vo_hint_hint_uprising_order_n02,vo_uprising_order_n02_jp,GENERAL,Stay vigilant! Reinforcements will arrive soon.,保持警惕！增援部队很快就会到达。,油断するな！増援はすぐに届く。
-15,382,vo_hint_hint_uprising_order_n03,vo_uprising_order_n03_jp,GENERAL,"Keep focused everyone, they are here somewhere.",所有人眼睛睁大点！他们就在这附近。,皆の者！集中しろ、その辺にいるんだぞ。
-15,382,vo_hint_hint_uprising_order_n04,vo_uprising_order_n04_jp,GENERAL,"Shoot on sight, don't hesitate.",看到人就开枪！别犹豫。,見つけたら撃て、ためらうな。
-15,383,vo_hint_hint_uprising_insult_n00,vo_uprising_insult_n00_jp,GENERAL,Shinobi filth!,肮脏的忍者。,汚らしい忍め！
-15,383,vo_hint_hint_uprising_insult_n01,vo_uprising_insult_n01_jp,GENERAL,Hiding like the snakes you are.,就像条蛇一样藏在暗处。,蛇のように隠れおって。
-15,383,vo_hint_hint_uprising_insult_n02,vo_uprising_insult_n02_jp,GENERAL,"You are no match for me, scum.",你们这些渣滓绝不是我的对手。,相手にならんぞ、屑め。
-15,383,vo_hint_hint_uprising_insult_n03,vo_uprising_insult_n03_jp,GENERAL,Fools. I will present your heads to Kage-sama.,蠢货！我要把你们的脑袋献给影大人。,馬鹿め！貴様らの頭をカゲサマへ差し上げよう。
-15,383,vo_hint_hint_uprising_insult_n04,vo_uprising_insult_n04_jp,GENERAL,You cowards will rot in the dirt.,你们这群胆小鬼只配在泥里烂掉。,臆病者はそのまま腐ってしまえ。
-15,384,vocs_over_over_uprising_debriefing_n00,vocs_uprising_debriefing_n00_jp,GENERAL,"You cannot kill me, scum. Why does Kage-sama keep me waiting ...",我怎么会被你们这群渣滓打败。为什么影大人还不来……,屑めに私を討ち取れるはずがない。ぬう…なぜカゲサマは来ない…。
-15,384,vocs_over_over_uprising_debriefing_n01,vocs_uprising_debriefing_n01_jp,WARRIOR,Don't you see? No one is coming. Kage-sama has left you to die.,还没醒悟吗？根本没有援兵。影大人把你当炮灰了。,まだ分からぬか？誰も来はせぬ！カゲサマはお主を見捨てたのだ。
-15,384,vocs_over_over_uprising_debriefing_n02,vocs_uprising_debriefing_n02_jp,GENERAL,I … it cannot be ... Kage-sama. He has no honour? That treacherous coward.,骗人…不可能！影大人...他抛弃了荣誉？这个背信弃义的懦夫！,そ…そんな馬鹿な…カゲサマ！っく、奴に名誉はないのか？裏切り者の臆病者め！
-15,384,vocs_over_over_uprising_debriefing_n03,vocs_uprising_debriefing_n03_jp,WARRIOR,"My name is ?shiro Mugen. You and I are both men of honour. Tell me who Kage-sama is, and I will grant you the death of a samurai.",在下尾城无限。你我皆是尊崇名誉的武士。告诉我影大人是谁，我可以让你保全武士名誉，自我了断。,拙者は大代武源！拙者と貴殿、どちらも名誉ある武士！誰がカゲサマか教えよ、さすれば侍としての誇りある死を与えん！
-15,384,vocs_over_over_uprising_debriefing_n04,vocs_uprising_debriefing_n04_jp,GENERAL,Heh … How kind of you. But I cannot take your offer. I never saw the man's face.,哈哈，那还真是要谢谢你了。但我无法接受你的提议，因为我从没见过他的长相。,っふ…ありがたい話だが、その申し出は受けられぬ。その男の顔は見たことがなくてな。
-15,384,vocs_over_over_uprising_debriefing_n05,vocs_uprising_debriefing_n05_jp,WARRIOR,Then tell me what you know.,那就把你知道的告诉我。,ならば、知っていることを教えよ。
-15,384,vocs_over_over_uprising_debriefing_n08,vocs_uprising_debriefing_n08_jp,GENERAL,"Damn you … there were three to our alliance: Lord Yabu, Kage-sama and I. We were gathering strength to take Edo … then assassins came for Yabu …",该死……我们同盟本有三人，薮大名、影大人和我。正在积攒兵力准备直捣江户……谁知薮却被刺客暗杀了……,くそっ…3つの同盟があった。藪大名、カゲサマ、そして自分だ。江戸を制圧するための力を集めていた…だが、刺客が藪を殺した…。
-15,384,vocs_over_over_uprising_debriefing_n10,vocs_uprising_debriefing_n10_jp,WARRIOR,"What was the goal of your alliance? Why work to destroy peace, when we'd finally achieved it?",你们结盟的目的是什么？为什么要破坏来之不易的和平？,その同盟の目的を聞かせよ。なぜ平和を脅かす。
-15,384,vocs_over_over_uprising_debriefing_n11,vocs_uprising_debriefing_n11_jp,GENERAL,"What is a samurai in times of peace? We are made for battle! We can only thrive in battle! … Kage-sama understood this, and so I followed him!",和平时代的武士还有何用？我们武士是为战而生的！只有在战斗中武士才能生存！所以绝不能有和平。影大人了解这些，所以我们愿意跟随。,平和な世において侍など…無価値だ。我ら侍は戦いこそが全て、戦いの中にこそ生がある。なれば平和など…。カゲサマはそれを知っていた、だから我らはついていくことにしたのだ。
-15,384,vocs_over_over_uprising_debriefing_n12,vocs_uprising_debriefing_n12_jp,WARRIOR,Yet in the end he betrayed you. This man has no honour. He must be brought to justice.,然而他却最终背叛了你。影大人毫无荣誉可言。必须伸张正义，将他绳之以法。,しかし、最後は裏切りか。カゲサマに名誉などありはせぬ、正義のもとに鉄槌をくだそう！
-15,384,vocs_over_over_uprising_debriefing_n13,vocs_uprising_debriefing_n13_jp,GENERAL,Very well. We last met in a hidden camp. I have a map in my tent. Maybe you will find him there. Now honour our agreement!,好吧。我们最后一次见面是在一座隐营地内。在我营帐里有张地图，他也许还在那里。好了…让我保全名誉吧。,そうか。最後に会ったのは潜伏の野営地。天幕の中に地図がある、そこで奴を見つけられるかもしれぬ。次は我らの名誉だ。
-15,384,vocs_over_over_uprising_debriefing_n14,vocs_uprising_debriefing_n14_jp,WARRIOR,I will do what must be done. Take this …,我答应过的绝不反悔。拿好这个……,成すべき事を成す。これを取られよ…。
-15,384,vocs_over_over_uprising_debriefing_n15,vocs_uprising_debriefing_n15_jp,WARRIOR,"I will assist you. Everyone, bear witness!",我会帮你介错。大家来帮我见证。（介錯是什麼意思？）,拙者が介錯致す。皆が証人となろう！
-15,384,vocs_over_over_uprising_debriefing_n16,vocs_uprising_debriefing_n16_jp,GENERAL,Shall Ashura subdue a man like me? … I shall be born again … and cut off ?shiro Mugen's head …,虽遇阿修罗…...敢与试角力…...吾必将重生…...取无限首级……,阿修羅王に…われ劣らめや、やがてまた生まれて取らん…大代が首。
-15,384,vocs_over_over_uprising_debriefing_n16a,vocs_uprising_debriefing_n16a_jp,GENERAL,Shall Ashura subdue a man like me? … I shall be born again … and cut off Kage-sama's head …,虽遇阿修罗…...敢与试角力…...吾必将重生…...取影贼首级……,阿修羅王に…われ劣らめや、やがてまた生まれて取らん…カゲサマが首。
-15,384,vocs_over_over_uprising_debriefing_n17,vocs_uprising_debriefing_n17_jp,GENERAL,… ,… … ,…。
-15,384,vocs_over_over_uprising_debriefing_n18,vocs_uprising_debriefing_n18_jp,WARRIOR,… ,… … ,…。
-15,384,vocs_over_over_uprising_debriefing_n19,vocs_uprising_debriefing_n19_jp,NINJA,Wonder why Kage-sama betrayed him.,为何影大人会背叛了他？,どうしてカゲサマは裏切ったんだ？
-15,384,vocs_over_over_uprising_debriefing_n20,vocs_uprising_debriefing_n20_jp,WARRIOR,"Difficult to say. If Okkoto spoke the truth, Kage-sama is now in our grasp.",很难说。但如果乙事说的是真话，那影大人现在已是瓮中之鳖。,難しいな。もし乙事の話が本当であらば、カゲサマは手の内にある。
-15,384,vocs_over_over_uprising_debriefing_n21,vocs_uprising_debriefing_n21_jp,ALCHEMIST,"Hmm, then we should tread carefully.",嗯，那就更须谨慎行事。,うむ、なら注意して行かんとのぅ。
-15,384,vocs_over_over_uprising_debriefing_n22,vocs_uprising_debriefing_n22_jp,TRAPPER,I wonder how Aiko-san is doing?,不知道爱子姐现在怎么样？,愛琥さんはどうしているかな。
-15,384,vocs_over_over_uprising_debriefing_n23,vocs_uprising_debriefing_n23_jp,WARRIOR,We will re-join her and Lord Noboru and return to Edo. The Shogun will know what to do.,去和爱子小姐，昇大人会合，返回江户吧。下一步行动要等将军决断。,愛琥殿と昇様に再会し、江戸へ戻ろう。上様が次の手を考えてくださるであろう。
+sec,voen,vojp,s,en,cn,jp
+362,vocs_over_over_uprising_briefing_n00,vocs_uprising_briefing_n00_jp,BROGUN,The rebels have fortified themselves in Kanazawa Castle. You will infiltrate the stronghold and weaken them from the inside. ,叛军龟缩在金泽城中。你们要潜入城内，从敌人内部削弱他们。 ,謀反者どもは金沢城で立てこもっておる。要塞へ侵入し内側から弱らせよ。 
+362,vocs_over_over_uprising_briefing_n01,vocs_uprising_briefing_n01_jp,BROGUN,You will act in two groups and attack the castle from both sides.,这次先分组行动，两面夹击。,二手に分かれ、城を両側から攻めてもらう。
+362,vocs_over_over_uprising_briefing_n02,vocs_uprising_briefing_n02_jp,BROGUN,My forces are facing Okkoto's men head on. You killing his officers will allow the men to advance.,幕府军将从正面迎击叛军。你们尽力杀死敌方军官，帮助我军向前推进。,我が幕府軍は乙事へ正面から向かう。そなたらが役人を討てば、部下の進入もできるだろう。
+362,vocs_over_over_uprising_briefing_n03,vocs_uprising_briefing_n03_jp,BROGUN,Find your way inside the castle walls and blow up the supply depot.,然后设法进入城内，炸毁补给仓库。,城内壁で道を見つけ、供給庫を破壊せよ。
+362,vocs_over_over_uprising_briefing_n04,vocs_uprising_briefing_n04_jp,BROGUN,"Once this is done, you are free to engage General Okkoto.",将其炸毁后，便可去干掉乙事。,それが終われば如何様にも乙事と対峙できる。
+362,vocs_over_over_uprising_briefing_n05,vocs_uprising_briefing_n05_jp,BROGUN,"His death will seal the rebels' defeat. He is a formidable foe, so be prepared before you face him.",只要他死了，叛军便群龙无首，必败无疑。但他也是强敌，要做好万全准备。,彼の死は反乱の終わりを意味するだろう。彼は強敵だ、覚悟してかかれ。
+362,vocs_over_over_uprising_briefing_n06,vocs_uprising_briefing_n06_jp,BROGUN,Your actions will be the turning point of the battle. You must not fail.,你们的任务是这次作战的关键，只许成功不许失败。,そなたらの行動が、戦の契機となろう。失敗は許されぬ。
+363,vocs_over_over_uprising_duty1_n00,vocs_uprising_duty1_n00_jp,NINJA,Pretty hectic around here.,战况还真是激烈。,この辺りは、どうも慌ただしいな。
+363,vocs_over_over_uprising_duty1_n01,vocs_uprising_duty1_n01_jp,WARRIOR,"Once again we face impossible odds, you and me!",你我二人再一次携手挑战极限！,再び共に困難へ立ち向かうことになりましたな！
+363,vocs_over_over_uprising_duty1_n02,vocs_uprising_duty1_n02_jp,NINJA,"Got to admit, working with you doesn't get boring.",和你合作，倒是意外地不觉得讨厌。,あんたと働くの、割と嫌いじゃないぜ。
+363,vocs_over_over_uprising_duty1_n03,vocs_uprising_duty1_n03_jp,WARRIOR,"Ha! From you, I take that as a compliment.",哈哈哈！这话能从你口中说出来，真是我天大的荣幸。,ぬはは！それは光栄な話だ！
+364,vocs_over_over_uprising_duty2_n00,vocs_uprising_duty2_n00_jp,NINJA,Close one back there …,刚才好险……,っむ、近くにいるな。後ろのそこか…。
+364,vocs_over_over_uprising_duty2_n01,vocs_uprising_duty2_n01_jp,WARRIOR,"The walls aren't far now. We must look death in the face, hahaha.",离城墙已经不远了。让我们准备好光荣战死吧，哈哈哈。,外壁はさほど遠くない。では死に臨むとするか、ぬはは。
+364,vocs_over_over_uprising_duty2_n02,vocs_uprising_duty2_n02_jp,NINJA,"Mugen, can I ask you something? Why are you always so eager to die? Does honour really mean that much to you?",无限，我有个问题。你为什么总想着光荣战死？名誉对你就真的那么重要吗？,武源、聞かせてくれ。なぜいつも死を求める？名誉の死はそれほどまでに大事なものなのか？
+364,vocs_over_over_uprising_duty2_n03,vocs_uprising_duty2_n03_jp,WARRIOR,"I merely serve my Shogun, as is my duty. Why are you asking, Hayato-san? Are you not here beside me?",作为将军大人的部下，名誉当然最重要。隼人兄不也是将军的部下吗？,上様に仕える者として当然のこと。隼人殿も、拙者と同じでは？
+364,vocs_over_over_uprising_duty2_n04,vocs_uprising_duty2_n04_jp,NINJA,"Oh, I'm getting paid. That's very different.",不，我只是拿钱办事。和你不一样…,いや、俺はただの雇われ傭兵に過ぎん。主とは違う。
+365,vocs_over_over_uprising_duty3_n00,vocs_uprising_duty3_n00_jp,WARRIOR,We are almost inside …,马上就到城内了…,もうすぐ中に入れそうだ…。
+365,vocs_over_over_uprising_duty3_n02,vocs_uprising_duty3_n02_jp,NINJA,I don't get it. Honour doesn't buy you anything. Especially when you're dead.,我还是不明白。名誉就这么重要吗？甚至比性命还重要？,やはり分からぬ。名誉に如何ほどの価値があるというのだ、そんなものが命の代わりになど…。
+365,vocs_over_over_uprising_duty3_n03,vocs_uprising_duty3_n03_jp,WARRIOR,"Then tell me, Hayato-san. Why have you followed me into this chaos, this madness? Is money really the reason?",那么请告诉我。你为何要跟我一起出生入死呢？只是为了钱吗？,なれば問おう。貴殿はなぜこの混沌へ…拙者に着いてくる？金欲しさゆえか？
+365,vocs_over_over_uprising_duty3_n04,vocs_uprising_duty3_n04_jp,NINJA,That's … I …,不……我是……,いや…俺は…。
+365,vocs_over_over_uprising_duty3_n05,vocs_uprising_duty3_n05_jp,WARRIOR,"Every man chooses his duty. Without duty, life has no purpose. You do not have to understand my choices, Hayato-san. But I pray that you understand your own.",主动背负责任，为肩负的责任而活才是人生正途。就算不理解我的使命也没关系，只要对得起自己心中的那份使命就好。,責務を持ち、責務に生きるが人の在るべき姿と言えよう。何も拙者の使命を理解せずとも構わぬ。だが己が使命はしかと心に抱かれよ。
+366,vocs_over_over_uprising_sensei1_n00,vocs_uprising_sensei1_n00_jp,TRAPPER,I remember this place. Big samurai houses.,我记得这地方。这些都是武士的大房子。,この場所、覚えてる！大きなお侍さんたちの家だ。
+366,vocs_over_over_uprising_sensei1_n01,vocs_uprising_sensei1_n01_jp,ALCHEMIST,"So you lived here, Yuki-chan?",友希姑娘，你以前住在这里？,ここに住んでおったのか、雪ちゃんよ？
+366,vocs_over_over_uprising_sensei1_n02,vocs_uprising_sensei1_n02_jp,TRAPPER,"Yes, with Okaa-san. Not forever though.",嗯，和母亲一起。但没住多久……,うん、お母さんと。…長くはなかったけど。
+366,vocs_over_over_uprising_sensei1_n03,vocs_uprising_sensei1_n03_jp,ALCHEMIST,"Hmm, why did you leave? Did something happen?",嚯，那为何离开呢？发生了什么事吗？,ほぅ、なぜここを離れた？何かあったのかの？
+366,vocs_over_over_uprising_sensei1_n04,vocs_uprising_sensei1_n04_jp,TRAPPER,Bad things. Long ago. It … was a bit like this.,发生了坏事。很久以前…就像……像今天这样。,嫌なことがね、ずっと前に。そう…こんな感じだった。
+366,vocs_over_over_uprising_sensei1_n05,vocs_uprising_sensei1_n05_jp,ALCHEMIST,"Ah, dark memories. Forget that I asked. Let us head for the castle.",啊…还有这等伤心往事。抱歉，就当我没问过。继续往城里前进吧。,ああ、暗澹たる記憶じゃったか。すまぬ、忘れてくれ。城へ向かおうかの。
+367,vocs_over_over_uprising_sensei2_n00,vocs_uprising_sensei2_n00_jp,ALCHEMIST,"Yuki-chan, What happened after leaving?",友希姑娘，你离开之后又发生了什么？,雪ちゃんや、そこを出てからはどうしてたんじゃ？
+367,vocs_over_over_uprising_sensei2_n01,vocs_uprising_sensei2_n01_jp,TRAPPER,Why ... Why do you want to know?,…怎么了，你为什么想知道？,なんで…なんで知りたいの？
+367,vocs_over_over_uprising_sensei2_n02,vocs_uprising_sensei2_n02_jp,ALCHEMIST,Hmm … I was wondering how you've learned the things you know.,嗯……我有点好奇你的一身本领是在哪学到的。,うむ…如何にしておまえさんがものを学んでいったのか気になっての。
+367,vocs_over_over_uprising_sensei2_n03,vocs_uprising_sensei2_n03_jp,TRAPPER,Well … some things you learn from people. Others you don't. If there's no one who can teach you …,呃...有些是跟别人学的，有些不是。孤身一人，没人可以教我的时候…,まあ…人から学んだのもあるしそうじゃないのもある。もし教えてくれる人がいなかったら…。
+367,vocs_over_over_uprising_sensei2_n04,vocs_uprising_sensei2_n04_jp,ALCHEMIST,"… then you must teach yourself. You watch, you learn. You question things, and earn the answers. Am I right?",……就只能自学。通过观察、学习、质疑，然后靠自己找出答案。是这样吗？,…なれば自らで自らを教えればよい。見て、学び、己に問い、己で解を出す。どうじゃ？
+367,vocs_over_over_uprising_sensei2_n05,vocs_uprising_sensei2_n05_jp,TRAPPER,Yes …,对……,はい…。
+368,vocs_over_over_uprising_sensei3_n00,vocs_uprising_sensei3_n00_jp,ALCHEMIST,"Now, a final question, Yuki-chan. How did I make my rifle so quiet?",最后一个问题，友希姑娘。你知道我是如何让狙击枪消音的吗？,最後の質問じゃ、雪ちゃんよ。ワシはどうやって銃の音を消したと思う？
+368,vocs_over_over_uprising_sensei3_n01,vocs_uprising_sensei3_n01_jp,TRAPPER,"I-It's … you … no, that's not it! It's so hard, I don't understand it.",是…那个…是用…那个...太难了，我不懂啦。,それは…えっと…そうだなぁ、うーん、えーと…。むー！そんな難しいこと、分からないよ！
+368,vocs_over_over_uprising_sensei3_n02,vocs_uprising_sensei3_n02_jp,ALCHEMIST,"Hehe, life can be a marvellous teacher. Yet some things only show themselves when others point them out to you.",呵呵呵，虽然生活也是良师，但有些东西，还是要别人指点一二才能学会。,ほっほ、人生とは素晴らしい先生じゃよ、じゃが、人が指導してくれた時にしかわからぬものもいくつかある。
+368,vocs_over_over_uprising_sensei3_n03,vocs_uprising_sensei3_n03_jp,TRAPPER,Takuma-sama …,琢磨大师……,巧磨様…。
+368,vocs_over_over_uprising_sensei3_n04,vocs_uprising_sensei3_n04_jp,ALCHEMIST,"Will you let me show you how it works, Yuki-chan?",友希姑娘，想让老夫为你答疑解惑吗？,ワシの手ほどきを受けてみるかのう、雪ちゃん？
+368,vocs_over_over_uprising_sensei3_n05,vocs_uprising_sensei3_n05_jp,TRAPPER,You mean … like a sensei?,意思是...做我的师父吗？,つまり…先生ってこと？
+368,vocs_over_over_uprising_sensei3_n06,vocs_uprising_sensei3_n06_jp,ALCHEMIST,"If that is what you want, Yuki-chan.",假如你愿意的话。,それがお主の望みならのう。
+368,vocs_over_over_uprising_sensei3_n07,vocs_uprising_sensei3_n07_jp,TRAPPER,Really?!Yes! Yes I want that!,真的？！太好了！请收我为徒吧！,本当？！はい！教えてほしいです！
+368,vocs_over_over_uprising_sensei3_n08,vocs_uprising_sensei3_n08_jp,ALCHEMIST,"Hehehe, who would have thought I would find an apprentice on the battlefield.",哈哈，真没想到我会在战场上收到徒弟呢。,へへ、戦場で弟子ができるとは思わんかったの。
+369,vo_hint_hint_uprising_warzone_n00,vo_uprising_warzone_n00_jp,ENEMY,Hold the line!,守住防线！,後には引くな！
+369,vo_hint_hint_uprising_warzone_n01,vo_uprising_warzone_n01_jp,ENEMY,Let no one through!,不要让他们过去!,誰も入れるな！
+369,vo_hint_hint_uprising_warzone_n02,vo_uprising_warzone_n02_jp,ENEMY,Death to the Shogun's men!,杀光幕府军！,将軍の者ども、死ね！
+369,vo_hint_hint_uprising_warzone_n03,vo_uprising_warzone_n03_jp,STATIC,Hold the line!,坚守防线！,後には引くな！
+369,vo_hint_hint_uprising_warzone_n04,vo_uprising_warzone_n04_jp,STATIC,For Lord Okkoto!,为了乙事大人！,乙事様のため！
+369,vo_hint_hint_uprising_warzone_n05,vo_uprising_warzone_n05_jp,STATIC,Push them back!,击退他们！,押し返せ。
+369,vo_hint_hint_uprising_warzone_n06,vo_uprising_warzone_n06_jp,SAMURAI,Hold the line!,给我守住防线！,後には引くな！
+369,vo_hint_hint_uprising_warzone_n07,vo_uprising_warzone_n07_jp,SAMURAI,Death and glory!,死亡与荣耀共存！,死と栄誉だ！
+369,vo_hint_hint_uprising_warzone_n08,vo_uprising_warzone_n08_jp,SAMURAI,For honour!,为了武士之名！,名誉のため。
+369,vo_hint_hint_uprising_warzone_n09,vo_uprising_warzone_n09_jp,CIVILIAN M,Keep pushing!,继续向前推进！,押せ！
+369,vo_hint_hint_uprising_warzone_n10,vo_uprising_warzone_n10_jp,CIVILIAN M,Fire!,开火！,撃て！
+369,vo_hint_hint_uprising_warzone_n11,vo_uprising_warzone_n11_jp,CIVILIAN M,Do not let up on them!,保持火力压制！,手を弱めるな！
+369,vo_hint_hint_uprising_warzone_n12,vo_uprising_warzone_n12_jp,CIVILIAN M,For the Shogun!,为了将军！,将軍様のため
+369,vo_hint_hint_uprising_warzone_n13,vo_uprising_warzone_n13_jp,CIVILIAN M,For Lord Noboru!,为了昇大人!,昇様のため！
+369,vo_hint_hint_uprising_warzone_n14,vo_uprising_warzone_n14_jp,CIVILIAN M,Rebel traitors!,这帮叛军白眼狼!,反逆者に反抗だ！
+369,vo_hint_hint_uprising_warzone_n15,vo_uprising_warzone_n15_jp,CIVILIAN M,Attack!,进攻!,行け！
+370,vo_hint_hint_uprising_hold_n00,vo_uprising_hold_n00_jp,ENEMY,We are barely keeping them back.,这边快顶不住了。,我らはかろうじて留めることができている。
+370,vo_hint_hint_uprising_hold_n01,vo_uprising_hold_n01_jp,STATIC,"I do not care, the flank must hold!",我不管！侧翼必须顶住！,かまわん。側面は死守するのだ！
+370,vo_hint_hint_uprising_hold_n02,vo_uprising_hold_n02_jp,ENEMY,We are doing what we can. We need supplies.,我们已经尽力了，现在急需补给。,できることをしている。供給がほしい。
+370,vo_hint_hint_uprising_hold_n03,vo_uprising_hold_n03_jp,STATIC,They need supplies?! Well bad luck we can't open the gate!,需要补给？！算他们倒霉！现在可不能开门！,供給が欲しいだと？！運が悪い、門を開けることはできぬ。
+370,vo_hint_hint_uprising_hold_n04,vo_uprising_hold_n04_jp,ENEMY,No supplies? Then we need men!,没有补给？那就派点人手！,供給なしか？なら人員がほしい。
+370,vo_hint_hint_uprising_hold_n05,vo_uprising_hold_n05_jp,STATIC,They need men?! We can't spare anyone!,需要人手？！我们人手也不够啊！,今度は人か？！これ以上は無理だ！
+371,vocs_over_over_uprising_officer_n00,vocs_uprising_officer_n00_jp,NINJA,Got one.,搞定一个。,一人やったな。
+371,vocs_over_over_uprising_officer_n01,vocs_uprising_officer_n01_jp,WARRIOR,Officer down!,军官死了！,役人を討ち取り申した！
+371,vocs_over_over_uprising_officer_n02,vocs_uprising_officer_n02_jp,TRAPPER,One flag down!,搞定一面旗子！,旗を１つ倒したわ。
+371,vocs_over_over_uprising_officer_n03,vocs_uprising_officer_n03_jp,ALCHEMIST,"Hehe, officer down!",嘿嘿，军官死了！,ほっほ、役人を倒したぞい！
+371,vocs_over_over_uprising_officer_n04,vocs_uprising_officer_n04_jp,BROGUN,The enemy command is weakened! Advance!,敌人的指挥乱了！冲啊！,敵の指揮は弱まっている！進撃だ！
+371,vocs_over_over_uprising_officer_n05,vocs_uprising_officer_n05_jp,BROGUN,Another officer has fallen! Break through their lines!,又干掉一个军官！快突破他们的防线！,別の役人が倒された。突破するぞ！
+371,vocs_over_over_uprising_officer_n06,vocs_uprising_officer_n06_jp,BROGUN,"We are gaining the advantage! Forward, for the Shogun!",我军已占上风！冲啊，为了将军！,さらに進撃だ！進め、将軍のため！
+372,vocs_over_over_uprising_regroup_n00,vocs_uprising_regroup_n00_jp,WARRIOR,Is everyone inside?,大家都进来了吧？,後ろにおられるか？
+372,vocs_over_over_uprising_regroup_n01,vocs_uprising_regroup_n01_jp,NINJA,I'm with you.,嗯，我在。,あぁ、ここだ。
+372,vocs_over_over_uprising_regroup_n02,vocs_uprising_regroup_n02_jp,ALCHEMIST,Here. And Yuki-chan.,在，友希姑娘也在。,ここじゃよ、雪ちゃんもじゃ。
+372,vocs_over_over_uprising_regroup_n03,vocs_uprising_regroup_n03_jp,WARRIOR,Good. We must make haste and destroy the supply depot!,好。速战速决，摧毁补给仓库！,よし！急ぎ供給庫を破壊致そう！
+373,vocs_over_over_uprising_priorities_n00,vocs_uprising_priorities_n00_jp,NINJA,General Okkoto's tent.,那是乙事大将的营帐。,乙事の天幕か？
+373,vocs_over_over_uprising_priorities_n01,vocs_uprising_priorities_n01_jp,TRAPPER,He's close.,他就在营帐里面。,奴は近いよ。
+373,vocs_over_over_uprising_priorities_n02,vocs_uprising_priorities_n02_jp,ALCHEMIST,A fateful confrontation.,宿命对决的时候到了。,運命的対峙の瞬間じゃのぅ。
+373,vocs_over_over_uprising_priorities_n03,vocs_uprising_priorities_n03_jp,WARRIOR,We must destroy the depot before we engage Okkoto.,对付乙事前，得先摧毁补给仓库。,乙事と戦う前に倉庫を破壊致そう！
+374,vocs_over_over_uprising_prisoners_n00,vocs_uprising_prisoners_n00_jp,CIVILIAN M,You're not Okkoto's men.,你-你不是乙事的手下。,乙事の兵ではないのですね。
+374,vocs_over_over_uprising_prisoners_n01,vocs_uprising_prisoners_n01_jp,WARRIOR,We have unlocked your door but stay here until Lord Noboru storms the castle.,牢门已经打开，等昇大人把城拿下，你们再出去。,戸の鍵を開けておいた。しかし、昇様が城を強襲し終わるまではここにおられよ。
+374,vocs_over_over_uprising_prisoners_n02,vocs_uprising_prisoners_n02_jp,CIVILIAN M,Understood. But be careful if you face the General.  You will need the skill of a true samurai to defeat him.,明白。如果遇到乙事一定要小心。只有真正的武士才能击败他。,わかりました！乙事と戦う時はお気をつけください。奴を倒すには真の侍の力が必要です
+374,vocs_over_over_uprising_prisoners_n02a,vocs_uprising_prisoners_n02a_jp,CIVILIAN M,Understood. Thank you.,明白。谢谢你们。,わかりました！礼を言います！
+375,vocs_over_over_uprising_explosives1_n00,vocs_uprising_explosives1_n00_jp,WARRIOR,…,……,…。
+375,vocs_over_over_uprising_explosives1_n01,vocs_uprising_explosives1_n01_jp,ALCHEMIST,"Hehe, getting old, Mugen?",呵呵呵，岁月不饶人啊，无限？,ほっほ、年をとったかね、武源殿よ？
+375,vocs_over_over_uprising_explosives1_n02,vocs_uprising_explosives1_n02_jp,WARRIOR,"A man should be proud of his age, as you very well know.",啊哈哈哈，男人年龄越大反而越值得尊敬，您老不就是最好的表率么。,ぬはは！おのこにとって年を重ねるは誇り！貴殿が何よりの証！
+375,vocs_over_over_uprising_explosives1_n03,vocs_uprising_explosives1_n03_jp,ALCHEMIST,"Hehe, wise words Mugen. Wise words.",嘿嘿，真是妙语连珠。嗯，你很有见地嘛，无限。哈哈哈…,ほっほ、賢い言葉じゃ、うむ！賢いぞ武源殿よ！ほっほっほ。
+376,vocs_over_over_uprising_explosives2_n00,vocs_uprising_explosives2_n00_jp,WARRIOR,Done.,好了。,終わりだ！
+376,vocs_over_over_uprising_explosives2_n01,vocs_uprising_explosives2_n01_jp,ALCHEMIST,"Ah, this brings back memories. Everyone, keep your distance.",这又让我想起当年了呢。大家都撤远点。,昔を思い出させるのぅ。みな、離れておれ！
+377,vocs_over_over_uprising_explosives3_n00,vocs_uprising_explosives3_n00_jp,ALCHEMIST,"Hrm, a crucial miscalculation. Now we lack the means to destroy the depot.",唔，对爆炸的计算出现了重大失误。现在没法摧毁补给仓库了。,うーむ、重大な計算違いじゃのぅ。倉庫を破壊する手段を失ってしもうた。
+378,vocs_over_over_uprising_explosives4_n00,vocs_uprising_explosives4_n00_jp,WARRIOR,The rebels have lost their supplies! Now we must confront Okkoto. Be ready for anything.,叛军没有补给了！此时正是进攻的时机，准备好和乙事决战吧。,反乱軍は軍備を失った！今こそ好機！乙事との戦いの覚悟を決めようぞ！
+379,vo_hint_hint_uprising_investigate_n00,vo_uprising_investigate_n00_jp,ENEMY,Aah!,啊!,ああ！
+379,vo_hint_hint_uprising_investigate_n01,vo_uprising_investigate_n01_jp,SAMURAI,What?!,什么？什么情况！,何？！
+379,vo_hint_hint_uprising_investigate_n02,vo_uprising_investigate_n02_jp,STATIC,Aah!,啊!,ああ！
+379,vo_hint_hint_uprising_investigate_n03,vo_uprising_investigate_n03_jp,ENEMY,How could this happen?,怎么会发生这种事?,どうしてこんなことが？？
+379,vo_hint_hint_uprising_investigate_n04,vo_uprising_investigate_n04_jp,STATIC,They hit the depot.,他们...他们炸毁了补给仓库。,奴ら倉庫を！
+379,vo_hint_hint_uprising_investigate_n05,vo_uprising_investigate_n05_jp,ENEMY,Everyone! Find out who did this!,所有人！快找出是谁干的！,皆！やった奴を突き止めろ！
+379,vo_hint_hint_uprising_investigate_n06,vo_uprising_investigate_n06_jp,SAMURAI,Fetch water! Stop the fire from spreading!,快打水！要阻止火势蔓延！,水だ！火の広がりを抑えろ！
+380,vocs_over_over_uprising_explosives5_n00,vocs_uprising_explosives5_n00_jp,WARRIOR,This one is too small to destroy the supply depot. I must find a larger barrel.,这个太小了，不够炸掉补给仓库。必须找个大桶的。,これでは小さすぎて倉庫を破壊できぬ。大きな樽を探さねば。
+381,vocs_over_over_uprising_bossspawn_n00,vocs_uprising_bossspawn_n00_jp,GENERAL,Assassins. Their stench lingers in the air. They have destroyed our supplies and now they come for me.,混账幕府刺客，空气里还飘着他们的臭味。既然已经炸毁补给仓库，接下来肯定要攻击我了。,幕府の刺客どもめ。奴らの匂いがまだ残っておる。軍備を破壊し、次は私に歯向かうか。
+381,vocs_over_over_uprising_bossspawn_n01,vocs_uprising_bossspawn_n01_jp,GENERAL,Take up formation! Hold out until Kage-sama comes with reinforcements. Show these worms the wrath of true samurai!,摆好阵型！坚守等待影大人的增援。让这些蝼蚁见识一下真正武士的愤怒!,部隊を取れ！カゲサマからの増援がくるまで耐えるのだ。虫けらどもに真の侍の怒りを見せてくれよう！
+381,vocs_over_over_uprising_bossspawn_n02,vocs_uprising_bossspawn_n02_jp,WARRIOR,"Everyone, take position.",所有人，各就各位。,皆、位置につかれよ！
+381,vocs_over_over_uprising_bossspawn_n03,vocs_uprising_bossspawn_n03_jp,WARRIOR,"Takuma-san, you have the high ground!",琢磨大师，你去高处。,巧磨殿、貴殿は高地へ！
+381,vocs_over_over_uprising_bossspawn_n04,vocs_uprising_bossspawn_n04_jp,ALCHEMIST,"On my way, hehe!",马上到，嚯...嚯...嚯。,向かっとるぞーい、ほっほ。
+381,vocs_over_over_uprising_bossspawn_n05,vocs_uprising_bossspawn_n05_jp,WARRIOR,Hayato-san. Yuki-chan.,隼人兄，友希小妹。,隼人殿、雪殿！
+381,vocs_over_over_uprising_bossspawn_n06,vocs_uprising_bossspawn_n06_jp,NINJA,Going in.,上吧。,行くか。
+381,vocs_over_over_uprising_bossspawn_n07,vocs_uprising_bossspawn_n07_jp,TRAPPER,Hai!,是！,はい！
+381,vocs_over_over_uprising_bossspawn_n08,vocs_uprising_bossspawn_n08_jp,WARRIOR,Let us end this rebellion once and for all.,来为叛乱画上句号吧！,反乱をこれにて終焉へと導く！
+382,vo_hint_hint_uprising_order_n00,vo_uprising_order_n00_jp,GENERAL,"Kage-sama will come. Until then, we must prevail.",影大人会来的，在此之前，不能落下风！,カゲサマがくる！それまで優勢を保て。
+382,vo_hint_hint_uprising_order_n01,vo_uprising_order_n01_jp,GENERAL,Don't let that scum get in here.,别让那些渣滓攻进这里。,屑の進入を許すな。
+382,vo_hint_hint_uprising_order_n02,vo_uprising_order_n02_jp,GENERAL,Stay vigilant! Reinforcements will arrive soon.,保持警惕！增援部队很快就会到达。,油断するな！増援はすぐに届く。
+382,vo_hint_hint_uprising_order_n03,vo_uprising_order_n03_jp,GENERAL,"Keep focused everyone, they are here somewhere.",所有人眼睛睁大点！他们就在这附近。,皆の者！集中しろ、その辺にいるんだぞ。
+382,vo_hint_hint_uprising_order_n04,vo_uprising_order_n04_jp,GENERAL,"Shoot on sight, don't hesitate.",看到人就开枪！别犹豫。,見つけたら撃て、ためらうな。
+383,vo_hint_hint_uprising_insult_n00,vo_uprising_insult_n00_jp,GENERAL,Shinobi filth!,肮脏的忍者。,汚らしい忍め！
+383,vo_hint_hint_uprising_insult_n01,vo_uprising_insult_n01_jp,GENERAL,Hiding like the snakes you are.,就像条蛇一样藏在暗处。,蛇のように隠れおって。
+383,vo_hint_hint_uprising_insult_n02,vo_uprising_insult_n02_jp,GENERAL,"You are no match for me, scum.",你们这些渣滓绝不是我的对手。,相手にならんぞ、屑め。
+383,vo_hint_hint_uprising_insult_n03,vo_uprising_insult_n03_jp,GENERAL,Fools. I will present your heads to Kage-sama.,蠢货！我要把你们的脑袋献给影大人。,馬鹿め！貴様らの頭をカゲサマへ差し上げよう。
+383,vo_hint_hint_uprising_insult_n04,vo_uprising_insult_n04_jp,GENERAL,You cowards will rot in the dirt.,你们这群胆小鬼只配在泥里烂掉。,臆病者はそのまま腐ってしまえ。
+384,vocs_over_over_uprising_debriefing_n00,vocs_uprising_debriefing_n00_jp,GENERAL,"You cannot kill me, scum. Why does Kage-sama keep me waiting ...",我怎么会被你们这群渣滓打败。为什么影大人还不来……,屑めに私を討ち取れるはずがない。ぬう…なぜカゲサマは来ない…。
+384,vocs_over_over_uprising_debriefing_n01,vocs_uprising_debriefing_n01_jp,WARRIOR,Don't you see? No one is coming. Kage-sama has left you to die.,还没醒悟吗？根本没有援兵。影大人把你当炮灰了。,まだ分からぬか？誰も来はせぬ！カゲサマはお主を見捨てたのだ。
+384,vocs_over_over_uprising_debriefing_n02,vocs_uprising_debriefing_n02_jp,GENERAL,I … it cannot be ... Kage-sama. He has no honour? That treacherous coward.,骗人…不可能！影大人...他抛弃了荣誉？这个背信弃义的懦夫！,そ…そんな馬鹿な…カゲサマ！っく、奴に名誉はないのか？裏切り者の臆病者め！
+384,vocs_over_over_uprising_debriefing_n03,vocs_uprising_debriefing_n03_jp,WARRIOR,"My name is ?shiro Mugen. You and I are both men of honour. Tell me who Kage-sama is, and I will grant you the death of a samurai.",在下尾城无限。你我皆是尊崇名誉的武士。告诉我影大人是谁，我可以让你保全武士名誉，自我了断。,拙者は大代武源！拙者と貴殿、どちらも名誉ある武士！誰がカゲサマか教えよ、さすれば侍としての誇りある死を与えん！
+384,vocs_over_over_uprising_debriefing_n04,vocs_uprising_debriefing_n04_jp,GENERAL,Heh … How kind of you. But I cannot take your offer. I never saw the man's face.,哈哈，那还真是要谢谢你了。但我无法接受你的提议，因为我从没见过他的长相。,っふ…ありがたい話だが、その申し出は受けられぬ。その男の顔は見たことがなくてな。
+384,vocs_over_over_uprising_debriefing_n05,vocs_uprising_debriefing_n05_jp,WARRIOR,Then tell me what you know.,那就把你知道的告诉我。,ならば、知っていることを教えよ。
+384,vocs_over_over_uprising_debriefing_n08,vocs_uprising_debriefing_n08_jp,GENERAL,"Damn you … there were three to our alliance: Lord Yabu, Kage-sama and I. We were gathering strength to take Edo … then assassins came for Yabu …",该死……我们同盟本有三人，薮大名、影大人和我。正在积攒兵力准备直捣江户……谁知薮却被刺客暗杀了……,くそっ…3つの同盟があった。藪大名、カゲサマ、そして自分だ。江戸を制圧するための力を集めていた…だが、刺客が藪を殺した…。
+384,vocs_over_over_uprising_debriefing_n10,vocs_uprising_debriefing_n10_jp,WARRIOR,"What was the goal of your alliance? Why work to destroy peace, when we'd finally achieved it?",你们结盟的目的是什么？为什么要破坏来之不易的和平？,その同盟の目的を聞かせよ。なぜ平和を脅かす。
+384,vocs_over_over_uprising_debriefing_n11,vocs_uprising_debriefing_n11_jp,GENERAL,"What is a samurai in times of peace? We are made for battle! We can only thrive in battle! … Kage-sama understood this, and so I followed him!",和平时代的武士还有何用？我们武士是为战而生的！只有在战斗中武士才能生存！所以绝不能有和平。影大人了解这些，所以我们愿意跟随。,平和な世において侍など…無価値だ。我ら侍は戦いこそが全て、戦いの中にこそ生がある。なれば平和など…。カゲサマはそれを知っていた、だから我らはついていくことにしたのだ。
+384,vocs_over_over_uprising_debriefing_n12,vocs_uprising_debriefing_n12_jp,WARRIOR,Yet in the end he betrayed you. This man has no honour. He must be brought to justice.,然而他却最终背叛了你。影大人毫无荣誉可言。必须伸张正义，将他绳之以法。,しかし、最後は裏切りか。カゲサマに名誉などありはせぬ、正義のもとに鉄槌をくだそう！
+384,vocs_over_over_uprising_debriefing_n13,vocs_uprising_debriefing_n13_jp,GENERAL,Very well. We last met in a hidden camp. I have a map in my tent. Maybe you will find him there. Now honour our agreement!,好吧。我们最后一次见面是在一座隐营地内。在我营帐里有张地图，他也许还在那里。好了…让我保全名誉吧。,そうか。最後に会ったのは潜伏の野営地。天幕の中に地図がある、そこで奴を見つけられるかもしれぬ。次は我らの名誉だ。
+384,vocs_over_over_uprising_debriefing_n14,vocs_uprising_debriefing_n14_jp,WARRIOR,I will do what must be done. Take this …,我答应过的绝不反悔。拿好这个……,成すべき事を成す。これを取られよ…。
+384,vocs_over_over_uprising_debriefing_n15,vocs_uprising_debriefing_n15_jp,WARRIOR,"I will assist you. Everyone, bear witness!",我会帮你介错。大家来帮我见证。（介錯是什麼意思？）,拙者が介錯致す。皆が証人となろう！
+384,vocs_over_over_uprising_debriefing_n16,vocs_uprising_debriefing_n16_jp,GENERAL,Shall Ashura subdue a man like me? … I shall be born again … and cut off ?shiro Mugen's head …,虽遇阿修罗…...敢与试角力…...吾必将重生…...取无限首级……,阿修羅王に…われ劣らめや、やがてまた生まれて取らん…大代が首。
+384,vocs_over_over_uprising_debriefing_n16a,vocs_uprising_debriefing_n16a_jp,GENERAL,Shall Ashura subdue a man like me? … I shall be born again … and cut off Kage-sama's head …,虽遇阿修罗…...敢与试角力…...吾必将重生…...取影贼首级……,阿修羅王に…われ劣らめや、やがてまた生まれて取らん…カゲサマが首。
+384,vocs_over_over_uprising_debriefing_n17,vocs_uprising_debriefing_n17_jp,GENERAL,… ,… … ,…。
+384,vocs_over_over_uprising_debriefing_n18,vocs_uprising_debriefing_n18_jp,WARRIOR,… ,… … ,…。
+384,vocs_over_over_uprising_debriefing_n19,vocs_uprising_debriefing_n19_jp,NINJA,Wonder why Kage-sama betrayed him.,为何影大人会背叛了他？,どうしてカゲサマは裏切ったんだ？
+384,vocs_over_over_uprising_debriefing_n20,vocs_uprising_debriefing_n20_jp,WARRIOR,"Difficult to say. If Okkoto spoke the truth, Kage-sama is now in our grasp.",很难说。但如果乙事说的是真话，那影大人现在已是瓮中之鳖。,難しいな。もし乙事の話が本当であらば、カゲサマは手の内にある。
+384,vocs_over_over_uprising_debriefing_n21,vocs_uprising_debriefing_n21_jp,ALCHEMIST,"Hmm, then we should tread carefully.",嗯，那就更须谨慎行事。,うむ、なら注意して行かんとのぅ。
+384,vocs_over_over_uprising_debriefing_n22,vocs_uprising_debriefing_n22_jp,TRAPPER,I wonder how Aiko-san is doing?,不知道爱子姐现在怎么样？,愛琥さんはどうしているかな。
+384,vocs_over_over_uprising_debriefing_n23,vocs_uprising_debriefing_n23_jp,WARRIOR,We will re-join her and Lord Noboru and return to Edo. The Shogun will know what to do.,去和爱子小姐，昇大人会合，返回江户吧。下一步行动要等将军决断。,愛琥殿と昇様に再会し、江戸へ戻ろう。上様が次の手を考えてくださるであろう。

@@ -1,266 +1,266 @@
 [
-{"lvl":"3","sec":"27","voen":"vocs_over_over_convoy_briefing_n00","vojp":"vocs_convoy_briefing_n00_jp","s":"NINJA","en":"Alright. That must be the transport. Wonder why it's stopped.","cn":"嗯，那一定是运输车队。奇怪，它怎么停下了。","jp":"よし。あれが輸送車か。何故止まっているんだ。"}
+{"sec":27,"voen":"vocs_over_over_convoy_briefing_n00","vojp":"vocs_convoy_briefing_n00_jp","s":"NINJA","en":"Alright. That must be the transport. Wonder why it's stopped.","cn":"嗯，那一定是运输车队。奇怪，它怎么停下了。","jp":"よし。あれが輸送車か。何故止まっているんだ。"}
 ,
-{"lvl":"3","sec":"27","voen":"vocs_over_over_convoy_briefing_n01","vojp":"vocs_convoy_briefing_n01_jp","s":"NINJA","en":"Hmm … looks like the bridge gave in. That's fine with me ...","cn":"嗯……看起来是卡在桥上了，好机会……","jp":"ふむ…どうやら橋が壊れてしまったようだ。丁度良い…。"}
+{"sec":27,"voen":"vocs_over_over_convoy_briefing_n01","vojp":"vocs_convoy_briefing_n01_jp","s":"NINJA","en":"Hmm … looks like the bridge gave in. That's fine with me ...","cn":"嗯……看起来是卡在桥上了，好机会……","jp":"ふむ…どうやら橋が壊れてしまったようだ。丁度良い…。"}
 ,
-{"lvl":"3","sec":"27","voen":"vocs_over_over_convoy_briefing_n02","vojp":"vocs_convoy_briefing_n02_jp","s":"NINJA","en":"The ones with the flags are the officers. Think I'll kill at least four, just to be safe.","cn":"身上背旗的那些人就是军官。为了保险起见，我至少得杀四名军官。","jp":"旗付きのが士官か。念のため四人は仕留めておくか。"}
+{"sec":27,"voen":"vocs_over_over_convoy_briefing_n02","vojp":"vocs_convoy_briefing_n02_jp","s":"NINJA","en":"The ones with the flags are the officers. Think I'll kill at least four, just to be safe.","cn":"身上背旗的那些人就是军官。为了保险起见，我至少得杀四名军官。","jp":"旗付きのが士官か。念のため四人は仕留めておくか。"}
 ,
-{"lvl":"3","sec":"27","voen":"vocs_over_over_convoy_briefing_n03","vojp":"vocs_convoy_briefing_n03_jp","s":"NINJA","en":"I'll signal Mugen when I'm done. That statue looks like a good spot.","cn":"搞定之后就给无限发信号。那个雕像位置不错。","jp":"終わったら武源に合図を送るとしよう。あの像の辺りが丁度いい。"}
+{"sec":27,"voen":"vocs_over_over_convoy_briefing_n03","vojp":"vocs_convoy_briefing_n03_jp","s":"NINJA","en":"I'll signal Mugen when I'm done. That statue looks like a good spot.","cn":"搞定之后就给无限发信号。那个雕像位置不错。","jp":"終わったら武源に合図を送るとしよう。あの像の辺りが丁度いい。"}
 ,
-{"lvl":"3","sec":"27","voen":"vocs_over_over_convoy_briefing_n04","vojp":"vocs_convoy_briefing_n04_jp","s":"NINJA","en":"Hm ... they are looking for something. Or someone. Better keep my head down.","cn":"嗯……他们正在找啥东西，也许是找某个人。看来要小心行事。","jp":"ふむ…奴らは何かを探しているようだ。誰かを、かもしれないな。目立たぬように行動せねば。"}
+{"sec":27,"voen":"vocs_over_over_convoy_briefing_n04","vojp":"vocs_convoy_briefing_n04_jp","s":"NINJA","en":"Hm ... they are looking for something. Or someone. Better keep my head down.","cn":"嗯……他们正在找啥东西，也许是找某个人。看来要小心行事。","jp":"ふむ…奴らは何かを探しているようだ。誰かを、かもしれないな。目立たぬように行動せねば。"}
 ,
-{"lvl":"3","sec":"28","voen":"vo_hint_hint_convoy_search_n00","vojp":"vo_convoy_search_n00_jp","s":"ENEMY","en":"She must be hiding here somewhere!","cn":"她肯定藏在这附近！","jp":"この辺りに隠れたはずだ！"}
+{"sec":28,"voen":"vo_hint_hint_convoy_search_n00","vojp":"vo_convoy_search_n00_jp","s":"ENEMY","en":"She must be hiding here somewhere!","cn":"她肯定藏在这附近！","jp":"この辺りに隠れたはずだ！"}
 ,
-{"lvl":"3","sec":"28","voen":"vo_hint_hint_convoy_search_n01","vojp":"vo_convoy_search_n01_jp","s":"ENEMY","en":"Keep searching!","cn":"继续给我找！","jp":"探せ！"}
+{"sec":28,"voen":"vo_hint_hint_convoy_search_n01","vojp":"vo_convoy_search_n01_jp","s":"ENEMY","en":"Keep searching!","cn":"继续给我找！","jp":"探せ！"}
 ,
-{"lvl":"3","sec":"28","voen":"vo_hint_hint_convoy_search_n02","vojp":"vo_convoy_search_n02_jp","s":"ENEMY","en":"She's here, I know it!","cn":"她就藏这了，我知道！","jp":"そこにいるのは分かっている！"}
+{"sec":28,"voen":"vo_hint_hint_convoy_search_n02","vojp":"vo_convoy_search_n02_jp","s":"ENEMY","en":"She's here, I know it!","cn":"她就藏这了，我知道！","jp":"そこにいるのは分かっている！"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n00","vojp":"vocs_convoy_trapper_n00_jp","s":"NINJA","en":"Huh …?","cn":"嗯……？","jp":"ん…?"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n00","vojp":"vocs_convoy_trapper_n00_jp","s":"NINJA","en":"Huh …?","cn":"嗯……？","jp":"ん…?"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n01","vojp":"vocs_convoy_trapper_n01_jp","s":"NINJA","en":"Hmm, a trap. Interesting …","cn":"嗯，陷阱。有点意思……","jp":"ふーむ、罠か。面白い…。"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n01","vojp":"vocs_convoy_trapper_n01_jp","s":"NINJA","en":"Hmm, a trap. Interesting …","cn":"嗯，陷阱。有点意思……","jp":"ふーむ、罠か。面白い…。"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n02","vojp":"vocs_convoy_trapper_n02_jp","s":"TRAPPER","en":"Don't move ... what are you? A lonely wolf?","cn":"别动……你是谁？独行侠？","jp":"動かないで…あんた何者？一匹狼か？"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n02","vojp":"vocs_convoy_trapper_n02_jp","s":"TRAPPER","en":"Don't move ... what are you? A lonely wolf?","cn":"别动……你是谁？独行侠？","jp":"動かないで…あんた何者？一匹狼か？"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n03","vojp":"vocs_convoy_trapper_n03_jp","s":"NINJA","en":"… A child, huh? You're the one they're looking for.","cn":"……是个小孩，哈？他们就是在找你吧。","jp":"…ガキか。奴らが探していたのはお前か？"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n03","vojp":"vocs_convoy_trapper_n03_jp","s":"NINJA","en":"… A child, huh? You're the one they're looking for.","cn":"……是个小孩，哈？他们就是在找你吧。","jp":"…ガキか。奴らが探していたのはお前か？"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n04","vojp":"vocs_convoy_trapper_n04_jp","s":"TRAPPER","en":"N-no they're not! I'm silent like a cat!","cn":"不-不 不是找我！我身手可是很敏捷的！","jp":"いや、あたしじゃない！あたしは猫みたいに静かなんだ！"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n04","vojp":"vocs_convoy_trapper_n04_jp","s":"TRAPPER","en":"N-no they're not! I'm silent like a cat!","cn":"不-不 不是找我！我身手可是很敏捷的！","jp":"いや、あたしじゃない！あたしは猫みたいに静かなんだ！"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n05","vojp":"vocs_convoy_trapper_n05_jp","s":"NINJA","en":"What are you doing here?","cn":"你在这儿干什么？","jp":"こんな所で何をしているんだ？"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n05","vojp":"vocs_convoy_trapper_n05_jp","s":"NINJA","en":"What are you doing here?","cn":"你在这儿干什么？","jp":"こんな所で何をしているんだ？"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n06","vojp":"vocs_convoy_trapper_n06_jp","s":"TRAPPER","en":"I saw things on those wagons. They didn't look happy there, so I thought I'd take them with me.","cn":"马车上的货我都看见了。我看那些货物不高兴，所以我想带点货走。","jp":"この荷馬車の積荷を見かけて、こんな所じゃ可哀想だから、あたしが持って帰ってあげようと思ったんだ。"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n06","vojp":"vocs_convoy_trapper_n06_jp","s":"TRAPPER","en":"I saw things on those wagons. They didn't look happy there, so I thought I'd take them with me.","cn":"马车上的货我都看见了。我看那些货物不高兴，所以我想带点货走。","jp":"この荷馬車の積荷を見かけて、こんな所じゃ可哀想だから、あたしが持って帰ってあげようと思ったんだ。"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n07","vojp":"vocs_convoy_trapper_n07_jp","s":"NINJA","en":"Better run along now. Bad things happen to children out here. Go play somewhere else.","cn":"你现在赶紧离开这里。这里的状况对小孩来说太危险。到其他地方玩去。","jp":"そろそろ逃げた方が良い。ここはお子様のいる場所じゃない。他で遊びな。"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n07","vojp":"vocs_convoy_trapper_n07_jp","s":"NINJA","en":"Better run along now. Bad things happen to children out here. Go play somewhere else.","cn":"你现在赶紧离开这里。这里的状况对小孩来说太危险。到其他地方玩去。","jp":"そろそろ逃げた方が良い。ここはお子様のいる場所じゃない。他で遊びな。"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n08","vojp":"vocs_convoy_trapper_n08_jp","s":"TRAPPER","en":"You saw my little trap, right? I could help you. If you send me away, I'll just try on my own again.","cn":"你也看到我的小陷阱了，对吧？我能帮上忙。你要是打发我走，我就继续单干。","jp":"ねぇ、あたしの罠を見たでしょう？連れてったら役に立つよ。追っ払ったって着いてくけどね！"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n08","vojp":"vocs_convoy_trapper_n08_jp","s":"TRAPPER","en":"You saw my little trap, right? I could help you. If you send me away, I'll just try on my own again.","cn":"你也看到我的小陷阱了，对吧？我能帮上忙。你要是打发我走，我就继续单干。","jp":"ねぇ、あたしの罠を見たでしょう？連れてったら役に立つよ。追っ払ったって着いてくけどね！"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n09","vojp":"vocs_convoy_trapper_n09_jp","s":"NINJA","en":"… I don't have time for this ... Fine, you can come along. But you do exactly what I tell you, got it?","cn":"…ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?","jp":"…お前の相手をしている暇はないんだが。まぁ、いいだろう。着いてこい。ただし言うことを聞くんだぞ？"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n09","vojp":"vocs_convoy_trapper_n09_jp","s":"NINJA","en":"… I don't have time for this ... Fine, you can come along. But you do exactly what I tell you, got it?","cn":"…ugh, I don't have time for this. Fine, you can come along. But you do exactly what I tell you—got it?","jp":"…お前の相手をしている暇はないんだが。まぁ、いいだろう。着いてこい。ただし言うことを聞くんだぞ？"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n10","vojp":"vocs_convoy_trapper_n10_jp","s":"TRAPPER","en":"Hai, sensei!","cn":"是，师傅！","jp":"はい、先生！"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n10","vojp":"vocs_convoy_trapper_n10_jp","s":"TRAPPER","en":"Hai, sensei!","cn":"是，师傅！","jp":"はい、先生！"}
 ,
-{"lvl":"3","sec":"29","voen":"vocs_over_over_convoy_trapper_n11","vojp":"vocs_convoy_trapper_n11_jp","s":"NINJA","en":"… don't call me that.","cn":"……我不是你师傅。","jp":"…先生はやめろ。"}
+{"sec":29,"voen":"vocs_over_over_convoy_trapper_n11","vojp":"vocs_convoy_trapper_n11_jp","s":"NINJA","en":"… don't call me that.","cn":"……我不是你师傅。","jp":"…先生はやめろ。"}
 ,
-{"lvl":"3","sec":"30","voen":"vocs_over_over_convoy_carrytra_n00","vojp":"vocs_convoy_carrytra_n00_jp","s":"TRAPPER","en":"Uhh …","cn":"呃……","jp":"うーん…"}
+{"sec":30,"voen":"vocs_over_over_convoy_carrytra_n00","vojp":"vocs_convoy_carrytra_n00_jp","s":"TRAPPER","en":"Uhh …","cn":"呃……","jp":"うーん…"}
 ,
-{"lvl":"3","sec":"30","voen":"vocs_over_over_convoy_carrytra_n01","vojp":"vocs_convoy_carrytra_n01_jp","s":"NINJA","en":"Teh … need help with that?","cn":"嘿……需要帮忙吗？","jp":"…手を貸そうか？"}
+{"sec":30,"voen":"vocs_over_over_convoy_carrytra_n01","vojp":"vocs_convoy_carrytra_n01_jp","s":"NINJA","en":"Teh … need help with that?","cn":"嘿……需要帮忙吗？","jp":"…手を貸そうか？"}
 ,
-{"lvl":"3","sec":"30","voen":"vocs_over_over_convoy_carrytra_n02","vojp":"vocs_convoy_carrytra_n02_jp","s":"TRAPPER","en":"I'm fine, thank you.","cn":"我自己能搞定，谢谢。","jp":"大丈夫だよ、ありがとう。"}
+{"sec":30,"voen":"vocs_over_over_convoy_carrytra_n02","vojp":"vocs_convoy_carrytra_n02_jp","s":"TRAPPER","en":"I'm fine, thank you.","cn":"我自己能搞定，谢谢。","jp":"大丈夫だよ、ありがとう。"}
 ,
-{"lvl":"3","sec":"31","voen":"vocs_over_over_convoy_carrynin_n00","vojp":"vocs_convoy_carrynin_n00_jp","s":"NINJA","en":"There we go.","cn":"开始行动。","jp":"よし行くぞ。"}
+{"sec":31,"voen":"vocs_over_over_convoy_carrynin_n00","vojp":"vocs_convoy_carrynin_n00_jp","s":"NINJA","en":"There we go.","cn":"开始行动。","jp":"よし行くぞ。"}
 ,
-{"lvl":"3","sec":"31","voen":"vocs_over_over_convoy_carrynin_n01","vojp":"vocs_convoy_carrynin_n01_jp","s":"TRAPPER","en":"Looks so easy for you.","cn":"对你来说简直易如反掌啊。","jp":"手際いいんだね。"}
+{"sec":31,"voen":"vocs_over_over_convoy_carrynin_n01","vojp":"vocs_convoy_carrynin_n01_jp","s":"TRAPPER","en":"Looks so easy for you.","cn":"对你来说简直易如反掌啊。","jp":"手際いいんだね。"}
 ,
-{"lvl":"3","sec":"31","voen":"vocs_over_over_convoy_carrynin_n02","vojp":"vocs_convoy_carrynin_n02_jp","s":"NINJA","en":"That's because I'm a grownup.","cn":"因为我是大人。","jp":"ま、大人だからな。"}
+{"sec":31,"voen":"vocs_over_over_convoy_carrynin_n02","vojp":"vocs_convoy_carrynin_n02_jp","s":"NINJA","en":"That's because I'm a grownup.","cn":"因为我是大人。","jp":"ま、大人だからな。"}
 ,
-{"lvl":"3","sec":"32","voen":"vocs_over_over_convoy_usetrap_n00","vojp":"vocs_convoy_usetrap_n00_jp","s":"NINJA","en":"Tight spot. This could get messy.","cn":"处境不妙啊。事情变得麻烦了。","jp":"参ったな。こりゃ厄介だ。"}
+{"sec":32,"voen":"vocs_over_over_convoy_usetrap_n00","vojp":"vocs_convoy_usetrap_n00_jp","s":"NINJA","en":"Tight spot. This could get messy.","cn":"处境不妙啊。事情变得麻烦了。","jp":"参ったな。こりゃ厄介だ。"}
 ,
-{"lvl":"3","sec":"32","voen":"vocs_over_over_convoy_usetrap_n01","vojp":"vocs_convoy_usetrap_n01_jp","s":"TRAPPER","en":"Wait. I'll just call them with my bird's voice. They like that.","cn":"等等！我能用鸟声引诱他们！他们喜欢那声音！","jp":"待って、あたしが鳥の声真似をするよ。うまくいくよ！"}
+{"sec":32,"voen":"vocs_over_over_convoy_usetrap_n01","vojp":"vocs_convoy_usetrap_n01_jp","s":"TRAPPER","en":"Wait. I'll just call them with my bird's voice. They like that.","cn":"等等！我能用鸟声引诱他们！他们喜欢那声音！","jp":"待って、あたしが鳥の声真似をするよ。うまくいくよ！"}
 ,
-{"lvl":"3","sec":"33","voen":"vocs_over_over_convoy_trapkill_n00","vojp":"vocs_convoy_trapkill_n00_jp","s":"TRAPPER","en":"See? It works!","cn":"看到没？成功啦！","jp":"ほらね？うまくいったでしょ！"}
+{"sec":33,"voen":"vocs_over_over_convoy_trapkill_n00","vojp":"vocs_convoy_trapkill_n00_jp","s":"TRAPPER","en":"See? It works!","cn":"看到没？成功啦！","jp":"ほらね？うまくいったでしょ！"}
 ,
-{"lvl":"3","sec":"33","voen":"vocs_over_over_convoy_trapkill_n01","vojp":"vocs_convoy_trapkill_n01_jp","s":"NINJA","en":"Not bad. Who made you that trap?","cn":"还行。那陷阱谁给你做的？","jp":"悪くない。その罠は誰が作ったんだ？"}
+{"sec":33,"voen":"vocs_over_over_convoy_trapkill_n01","vojp":"vocs_convoy_trapkill_n01_jp","s":"NINJA","en":"Not bad. Who made you that trap?","cn":"还行。那陷阱谁给你做的？","jp":"悪くない。その罠は誰が作ったんだ？"}
 ,
-{"lvl":"3","sec":"33","voen":"vocs_over_over_convoy_trapkill_n02","vojp":"vocs_convoy_trapkill_n02_jp","s":"TRAPPER","en":"No one! I built it myself!","cn":"没人给我做！我自己做的！","jp":"あたしが自分で作ったんだよ！"}
+{"sec":33,"voen":"vocs_over_over_convoy_trapkill_n02","vojp":"vocs_convoy_trapkill_n02_jp","s":"TRAPPER","en":"No one! I built it myself!","cn":"没人给我做！我自己做的！","jp":"あたしが自分で作ったんだよ！"}
 ,
-{"lvl":"3","sec":"33","voen":"vocs_over_over_convoy_trapkill_n03","vojp":"vocs_convoy_trapkill_n03_jp","s":"NINJA","en":"Sure you did.","cn":"我猜也是你做的。","jp":"ほぅ、そうか。"}
+{"sec":33,"voen":"vocs_over_over_convoy_trapkill_n03","vojp":"vocs_convoy_trapkill_n03_jp","s":"NINJA","en":"Sure you did.","cn":"我猜也是你做的。","jp":"ほぅ、そうか。"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n00","vojp":"vocs_convoy_shuriken_n00_jp","s":"TRAPPER","en":"Ooh, shuriken! Can I have one?","cn":"哦，手里剑！能给我一个吗？","jp":"おお、手裏剣だ！あたしにもひとつちょうだい！"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n00","vojp":"vocs_convoy_shuriken_n00_jp","s":"TRAPPER","en":"Ooh, shuriken! Can I have one?","cn":"哦，手里剑！能给我一个吗？","jp":"おお、手裏剣だ！あたしにもひとつちょうだい！"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n01","vojp":"vocs_convoy_shuriken_n01_jp","s":"NINJA","en":"Definitely not.","cn":"免谈。","jp":"絶対に駄目だ。"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n01","vojp":"vocs_convoy_shuriken_n01_jp","s":"NINJA","en":"Definitely not.","cn":"免谈。","jp":"絶対に駄目だ。"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n02","vojp":"vocs_convoy_shuriken_n02_jp","s":"TRAPPER","en":"Why not?","cn":"为啥不行？","jp":"どうして？"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n02","vojp":"vocs_convoy_shuriken_n02_jp","s":"TRAPPER","en":"Why not?","cn":"为啥不行？","jp":"どうして？"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n03","vojp":"vocs_convoy_shuriken_n03_jp","s":"NINJA","en":"Teh …","cn":"哈……","jp":"ふっ…。"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n03","vojp":"vocs_convoy_shuriken_n03_jp","s":"NINJA","en":"Teh …","cn":"哈……","jp":"ふっ…。"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n03a","vojp":"vocs_convoy_shuriken_n03a_jp","s":"NINJA","en":"No spares.","cn":"就这一枚。","jp":"予備がない。"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n03a","vojp":"vocs_convoy_shuriken_n03a_jp","s":"NINJA","en":"No spares.","cn":"就这一枚。","jp":"予備がない。"}
 ,
-{"lvl":"3","sec":"34","voen":"vocs_over_over_convoy_shuriken_n03b","vojp":"vocs_convoy_shuriken_n03b_jp","s":"NINJA","en":"Because not.","cn":"因为不行。","jp":"駄目なものは駄目だ。"}
+{"sec":34,"voen":"vocs_over_over_convoy_shuriken_n03b","vojp":"vocs_convoy_shuriken_n03b_jp","s":"NINJA","en":"Because not.","cn":"因为不行。","jp":"駄目なものは駄目だ。"}
 ,
-{"lvl":"3","sec":"35","voen":"vocs_over_over_convoy_knifed_n00","vojp":"vocs_convoy_knifed_n00_jp","s":"NINJA","en":"You're quick with that knife.","cn":"你匕首玩的挺溜啊。","jp":"見事な太刀筋だ。"}
+{"sec":35,"voen":"vocs_over_over_convoy_knifed_n00","vojp":"vocs_convoy_knifed_n00_jp","s":"NINJA","en":"You're quick with that knife.","cn":"你匕首玩的挺溜啊。","jp":"見事な太刀筋だ。"}
 ,
-{"lvl":"3","sec":"35","voen":"vocs_over_over_convoy_knifed_n01","vojp":"vocs_convoy_knifed_n01_jp","s":"TRAPPER","en":"Thank you, sensei!","cn":"谢谢师傅夸奖！","jp":"ありがとう、先生！"}
+{"sec":35,"voen":"vocs_over_over_convoy_knifed_n01","vojp":"vocs_convoy_knifed_n01_jp","s":"TRAPPER","en":"Thank you, sensei!","cn":"谢谢师傅夸奖！","jp":"ありがとう、先生！"}
 ,
-{"lvl":"3","sec":"35","voen":"vocs_over_over_convoy_knifed_n02","vojp":"vocs_convoy_knifed_n02_jp","s":"NINJA","en":"I told you: Don't call me that.","cn":"我说过：我不是你师傅。","jp":"その呼び方はやめろと言っただろう？"}
+{"sec":35,"voen":"vocs_over_over_convoy_knifed_n02","vojp":"vocs_convoy_knifed_n02_jp","s":"NINJA","en":"I told you: Don't call me that.","cn":"我说过：我不是你师傅。","jp":"その呼び方はやめろと言っただろう？"}
 ,
-{"lvl":"3","sec":"36","voen":"vocs_over_over_convoy_jumps_n00","vojp":"vocs_convoy_jumps_n00_jp","s":"NINJA","en":"More wagons this way …","cn":"这条路上马车真多……","jp":"こっちにはもっと荷馬車が…。"}
+{"sec":36,"voen":"vocs_over_over_convoy_jumps_n00","vojp":"vocs_convoy_jumps_n00_jp","s":"NINJA","en":"More wagons this way …","cn":"这条路上马车真多……","jp":"こっちにはもっと荷馬車が…。"}
 ,
-{"lvl":"3","sec":"36","voen":"vocs_over_over_convoy_jumps_n01","vojp":"vocs_convoy_jumps_n01_jp","s":"TRAPPER","en":"Lazy wagons. No one looks up there. Let's jump on top!","cn":"慢吞吞的马车。没人看上面。咱们跳上车吧！","jp":"怠けた荷馬車だね。上には誰も注意を払っちゃいない。飛び乗ってやろうよ。"}
+{"sec":36,"voen":"vocs_over_over_convoy_jumps_n01","vojp":"vocs_convoy_jumps_n01_jp","s":"TRAPPER","en":"Lazy wagons. No one looks up there. Let's jump on top!","cn":"慢吞吞的马车。没人看上面。咱们跳上车吧！","jp":"怠けた荷馬車だね。上には誰も注意を払っちゃいない。飛び乗ってやろうよ。"}
 ,
-{"lvl":"3","sec":"36","voen":"vocs_over_over_convoy_jumps_n02","vojp":"vocs_convoy_jumps_n02_jp","s":"NINJA","en":"Not a bad idea, actually.","cn":"说实话你这主意还不错。","jp":"悪い策ではない。"}
+{"sec":36,"voen":"vocs_over_over_convoy_jumps_n02","vojp":"vocs_convoy_jumps_n02_jp","s":"NINJA","en":"Not a bad idea, actually.","cn":"说实话你这主意还不错。","jp":"悪い策ではない。"}
 ,
-{"lvl":"3","sec":"37","voen":"vocs_over_over_convoy_vertical_n00","vojp":"vocs_convoy_vertical_n00_jp","s":"TRAPPER","en":"Hep.","cn":"嘿。","jp":"よっと。"}
+{"sec":37,"voen":"vocs_over_over_convoy_vertical_n00","vojp":"vocs_convoy_vertical_n00_jp","s":"TRAPPER","en":"Hep.","cn":"嘿。","jp":"よっと。"}
 ,
-{"lvl":"3","sec":"37","voen":"vocs_over_over_convoy_vertical_n01","vojp":"vocs_convoy_vertical_n01_jp","s":"NINJA","en":"Good balance. Who taught you?","cn":"平衡能力不错。谁教你的？","jp":"筋がいい。誰に教わった？"}
+{"sec":37,"voen":"vocs_over_over_convoy_vertical_n01","vojp":"vocs_convoy_vertical_n01_jp","s":"NINJA","en":"Good balance. Who taught you?","cn":"平衡能力不错。谁教你的？","jp":"筋がいい。誰に教わった？"}
 ,
-{"lvl":"3","sec":"37","voen":"vocs_over_over_convoy_vertical_n02","vojp":"vocs_convoy_vertical_n02_jp","s":"TRAPPER","en":"Alley cats.","cn":"巷子里的猫。","jp":"野良猫さ。"}
+{"sec":37,"voen":"vocs_over_over_convoy_vertical_n02","vojp":"vocs_convoy_vertical_n02_jp","s":"TRAPPER","en":"Alley cats.","cn":"巷子里的猫。","jp":"野良猫さ。"}
 ,
-{"lvl":"3","sec":"37","voen":"vocs_over_over_convoy_vertical_n03","vojp":"vocs_convoy_vertical_n03_jp","s":"NINJA","en":"Teh ... Alley cats!","cn":"哈……巷子里的猫。","jp":"ふん…野良猫か！"}
+{"sec":37,"voen":"vocs_over_over_convoy_vertical_n03","vojp":"vocs_convoy_vertical_n03_jp","s":"NINJA","en":"Teh ... Alley cats!","cn":"哈……巷子里的猫。","jp":"ふん…野良猫か！"}
 ,
-{"lvl":"3","sec":"38","voen":"vocs_over_over_convoy_rock_n00","vojp":"vocs_convoy_rock_n00_jp","s":"NINJA","en":"See that large rock on the cliff? What does it tell you?","cn":"看到悬崖上的那块巨石没？知道那是啥意思吗？","jp":"崖の上の大きな岩が見えるか？どんな石に見える？"}
+{"sec":38,"voen":"vocs_over_over_convoy_rock_n00","vojp":"vocs_convoy_rock_n00_jp","s":"NINJA","en":"See that large rock on the cliff? What does it tell you?","cn":"看到悬崖上的那块巨石没？知道那是啥意思吗？","jp":"崖の上の大きな岩が見えるか？どんな石に見える？"}
 ,
-{"lvl":"3","sec":"38","voen":"vocs_over_over_convoy_rock_n01","vojp":"vocs_convoy_rock_n01_jp","s":"TRAPPER","en":"Hm, beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below.","cn":"嗯，真是块美人石。已经摇摇欲坠了。没准她在等下面的人呢。","jp":"うーん。美しい石だね。崖から身を乗り出すのが好きな石。誰かが下を通りかかるのを待っているのかもね。"}
+{"sec":38,"voen":"vocs_over_over_convoy_rock_n01","vojp":"vocs_convoy_rock_n01_jp","s":"TRAPPER","en":"Hm, beautiful stone. Likes to lean over the edge. Maybe she's waiting for someone below.","cn":"嗯，真是块美人石。已经摇摇欲坠了。没准她在等下面的人呢。","jp":"うーん。美しい石だね。崖から身を乗り出すのが好きな石。誰かが下を通りかかるのを待っているのかもね。"}
 ,
-{"lvl":"3","sec":"38","voen":"vocs_over_over_convoy_rock_n02","vojp":"vocs_convoy_rock_n02_jp","s":"NINJA","en":"My thoughts exactly.","cn":"和我想法一样。","jp":"まったく同感だ。"}
+{"sec":38,"voen":"vocs_over_over_convoy_rock_n02","vojp":"vocs_convoy_rock_n02_jp","s":"NINJA","en":"My thoughts exactly.","cn":"和我想法一样。","jp":"まったく同感だ。"}
 ,
-{"lvl":"3","sec":"38","voen":"vocs_over_over_convoy_rock_n02a","vojp":"vocs_convoy_rock_n02a_jp","s":"NINJA","en":"Eh … not the word's I'd choose, but good in theory.","cn":"呃……虽然我不会那样说，但理论上可行。","jp":"あー…俺が使うような言葉ではないが、まあ原理は同じだ。"}
+{"sec":38,"voen":"vocs_over_over_convoy_rock_n02a","vojp":"vocs_convoy_rock_n02a_jp","s":"NINJA","en":"Eh … not the word's I'd choose, but good in theory.","cn":"呃……虽然我不会那样说，但理论上可行。","jp":"あー…俺が使うような言葉ではないが、まあ原理は同じだ。"}
 ,
-{"lvl":"3","sec":"39","voen":"vocs_over_over_convoy_wagon_n00","vojp":"vocs_convoy_wagon_n00_jp","s":"NINJA","en":"You see the wagon there? The one with the cannons?","cn":"你看到那边的马车没？装火炮的那辆？","jp":"あそこの荷馬車が見えるか？大砲が乗ってるやつだ。"}
+{"sec":39,"voen":"vocs_over_over_convoy_wagon_n00","vojp":"vocs_convoy_wagon_n00_jp","s":"NINJA","en":"You see the wagon there? The one with the cannons?","cn":"你看到那边的马车没？装火炮的那辆？","jp":"あそこの荷馬車が見えるか？大砲が乗ってるやつだ。"}
 ,
-{"lvl":"3","sec":"39","voen":"vocs_over_over_convoy_wagon_n01","vojp":"vocs_convoy_wagon_n01_jp","s":"TRAPPER","en":"Oh, the wagon's wheels are blocked! He wants to be free!","cn":"哦，那马车的轮子被挡住了！它想要自由！","jp":"お、車輪が止められてるね！自由になりたがってるよ！"}
+{"sec":39,"voen":"vocs_over_over_convoy_wagon_n01","vojp":"vocs_convoy_wagon_n01_jp","s":"TRAPPER","en":"Oh, the wagon's wheels are blocked! He wants to be free!","cn":"哦，那马车的轮子被挡住了！它想要自由！","jp":"お、車輪が止められてるね！自由になりたがってるよ！"}
 ,
-{"lvl":"3","sec":"39","voen":"vocs_over_over_convoy_wagon_n02","vojp":"vocs_convoy_wagon_n02_jp","s":"NINJA","en":"Then we should remove those brakes.","cn":"那我们就该把那些刹车移走。","jp":"ならば止め具を破壊するべきだ。"}
+{"sec":39,"voen":"vocs_over_over_convoy_wagon_n02","vojp":"vocs_convoy_wagon_n02_jp","s":"NINJA","en":"Then we should remove those brakes.","cn":"那我们就该把那些刹车移走。","jp":"ならば止め具を破壊するべきだ。"}
 ,
-{"lvl":"3","sec":"39","voen":"vocs_over_over_convoy_wagon_n02a","vojp":"vocs_convoy_wagon_n02a_jp","s":"NINJA","en":"Uhuh … well, if we \"free\" it at the right time, it could work out for us.","cn":"啊……好吧，要是我们看准时机\"放\"它走，它还能帮上忙呢。","jp":"ああ…頃合よく「自由に」すれば、うまく使えるかもしれぬ。"}
+{"sec":39,"voen":"vocs_over_over_convoy_wagon_n02a","vojp":"vocs_convoy_wagon_n02a_jp","s":"NINJA","en":"Uhuh … well, if we \"free\" it at the right time, it could work out for us.","cn":"啊……好吧，要是我们看准时机\"放\"它走，它还能帮上忙呢。","jp":"ああ…頃合よく「自由に」すれば、うまく使えるかもしれぬ。"}
 ,
-{"lvl":"3","sec":"40","voen":"vocs_over_over_convoy_oxen_n00","vojp":"vocs_convoy_oxen_n00_jp","s":"NINJA","en":"Oxen … dangerous if provoked. Why not make use of that ...","cn":"公牛……被激怒的话很危险。没准可以利用一下……","jp":"牡牛…怒らせると危険だ。それをうまく利用したらどうだ…。"}
+{"sec":40,"voen":"vocs_over_over_convoy_oxen_n00","vojp":"vocs_convoy_oxen_n00_jp","s":"NINJA","en":"Oxen … dangerous if provoked. Why not make use of that ...","cn":"公牛……被激怒的话很危险。没准可以利用一下……","jp":"牡牛…怒らせると危険だ。それをうまく利用したらどうだ…。"}
 ,
-{"lvl":"3","sec":"40","voen":"vocs_over_over_convoy_oxen_n01","vojp":"vocs_convoy_oxen_n01_jp","s":"TRAPPER","en":"Don't hurt him!","cn":"别伤害他！","jp":"傷つけないで！"}
+{"sec":40,"voen":"vocs_over_over_convoy_oxen_n01","vojp":"vocs_convoy_oxen_n01_jp","s":"TRAPPER","en":"Don't hurt him!","cn":"别伤害他！","jp":"傷つけないで！"}
 ,
-{"lvl":"3","sec":"40","voen":"vocs_over_over_convoy_oxen_n02","vojp":"vocs_convoy_oxen_n02_jp","s":"NINJA","en":"The ox? No, he just needs a little poke.","cn":"公牛？不会的，只是稍微刺激他一下。","jp":"牡牛を？いや、ちょいと突くだけで十分だ。"}
+{"sec":40,"voen":"vocs_over_over_convoy_oxen_n02","vojp":"vocs_convoy_oxen_n02_jp","s":"NINJA","en":"The ox? No, he just needs a little poke.","cn":"公牛？不会的，只是稍微刺激他一下。","jp":"牡牛を？いや、ちょいと突くだけで十分だ。"}
 ,
-{"lvl":"3","sec":"41","voen":"vocs_over_over_convoy_monk_n00","vojp":"vocs_convoy_monk_n00_jp","s":"TRAPPER","en":"Strange man with bright clothes ...","cn":"那人好奇怪，衣服还那么亮……","jp":"鮮やかな服の怪しい男…。"}
+{"sec":41,"voen":"vocs_over_over_convoy_monk_n00","vojp":"vocs_convoy_monk_n00_jp","s":"TRAPPER","en":"Strange man with bright clothes ...","cn":"那人好奇怪，衣服还那么亮……","jp":"鮮やかな服の怪しい男…。"}
 ,
-{"lvl":"3","sec":"41","voen":"vocs_over_over_convoy_monk_n01","vojp":"vocs_convoy_monk_n01_jp","s":"NINJA","en":"Huh … yellow robes … why did they take a monk with them?","cn":"呃……黄色长袍……他们为啥还带着位和尚？","jp":"ふーん…黄色の着物…なにゆえ奴らは僧侶と行動を？"}
+{"sec":41,"voen":"vocs_over_over_convoy_monk_n01","vojp":"vocs_convoy_monk_n01_jp","s":"NINJA","en":"Huh … yellow robes … why did they take a monk with them?","cn":"呃……黄色长袍……他们为啥还带着位和尚？","jp":"ふーん…黄色の着物…なにゆえ奴らは僧侶と行動を？"}
 ,
-{"lvl":"3","sec":"41","voen":"vocs_over_over_convoy_monk_n02","vojp":"vocs_convoy_monk_n02_jp","s":"TRAPPER","en":"Maybe he's praying for safe travel?","cn":"也许他是为了祈祷旅途平安？","jp":"旅の安全祈願でもしてるのかしら？"}
+{"sec":41,"voen":"vocs_over_over_convoy_monk_n02","vojp":"vocs_convoy_monk_n02_jp","s":"TRAPPER","en":"Maybe he's praying for safe travel?","cn":"也许他是为了祈祷旅途平安？","jp":"旅の安全祈願でもしてるのかしら？"}
 ,
-{"lvl":"3","sec":"41","voen":"vocs_over_over_convoy_monk_n03","vojp":"vocs_convoy_monk_n03_jp","s":"NINJA","en":"Well, he's not doing a good job then.","cn":"好吧，那他绝对是在干坏事。","jp":"ならば祈りは効かなかったという事だろう。"}
+{"sec":41,"voen":"vocs_over_over_convoy_monk_n03","vojp":"vocs_convoy_monk_n03_jp","s":"NINJA","en":"Well, he's not doing a good job then.","cn":"好吧，那他绝对是在干坏事。","jp":"ならば祈りは効かなかったという事だろう。"}
 ,
-{"lvl":"3","sec":"42","voen":"vo_hint_hint_convoy_work_n00","vojp":"vo_convoy_work_n00_jp","s":"CIVILIAN M","en":"The men are working hard. I hope we can move soon.","cn":"人们正在努力修桥。希望车队很快就能走了。","jp":"男たちは一生懸命働いている。早く動けるとよいな。"}
+{"sec":42,"voen":"vo_hint_hint_convoy_work_n00","vojp":"vo_convoy_work_n00_jp","s":"CIVILIAN M","en":"The men are working hard. I hope we can move soon.","cn":"人们正在努力修桥。希望车队很快就能走了。","jp":"男たちは一生懸命働いている。早く動けるとよいな。"}
 ,
-{"lvl":"3","sec":"42","voen":"vo_hint_hint_convoy_work_n01","vojp":"vo_convoy_work_n01_jp","s":"CIVILIAN F","en":"The journey was rough, some rest'll do us good.","cn":"旅途劳累，小憩片刻还是不错的。","jp":"この旅はつらかった。休めばいい事あるさ。"}
+{"sec":42,"voen":"vo_hint_hint_convoy_work_n01","vojp":"vo_convoy_work_n01_jp","s":"CIVILIAN F","en":"The journey was rough, some rest'll do us good.","cn":"旅途劳累，小憩片刻还是不错的。","jp":"この旅はつらかった。休めばいい事あるさ。"}
 ,
-{"lvl":"3","sec":"43","voen":"vo_hint_hint_convoy_drunk1_n00","vojp":"vo_convoy_drunk1_n00_jp","s":"ENEMY","en":"... more sake …","cn":"……再来点清酒……","jp":"…酒をもっと…。"}
+{"sec":43,"voen":"vo_hint_hint_convoy_drunk1_n00","vojp":"vo_convoy_drunk1_n00_jp","s":"ENEMY","en":"... more sake …","cn":"……再来点清酒……","jp":"…酒をもっと…。"}
 ,
-{"lvl":"3","sec":"43","voen":"vo_hint_hint_convoy_drunk1_n01","vojp":"vo_convoy_drunk1_n01_jp","s":"CIVILIAN F","en":"I beg you, stop. Your behaviour is disgraceful.","cn":"求求你，住手。你的行为太可耻了。","jp":"お願いだからやめてください。なんと恥ずかしい人なのか。"}
+{"sec":43,"voen":"vo_hint_hint_convoy_drunk1_n01","vojp":"vo_convoy_drunk1_n01_jp","s":"CIVILIAN F","en":"I beg you, stop. Your behaviour is disgraceful.","cn":"求求你，住手。你的行为太可耻了。","jp":"お願いだからやめてください。なんと恥ずかしい人なのか。"}
 ,
-{"lvl":"3","sec":"43","voen":"vo_gothic_gothic_convoy_drunk1_n02","vojp":"vo_convoy_drunk1_n02_jp","s":"ENEMY","en":"… More sake!","cn":"……再来点清酒！","jp":"…酒はどこだ！"}
+{"sec":43,"voen":"vo_gothic_gothic_convoy_drunk1_n02","vojp":"vo_convoy_drunk1_n02_jp","s":"ENEMY","en":"… More sake!","cn":"……再来点清酒！","jp":"…酒はどこだ！"}
 ,
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n00","vojp":"vo_convoy_drunk2_n00_jp","s":"ENEMY","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n01","vojp":"vo_convoy_drunk2_n01_jp","s":"STATIC","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n02","vojp":"vo_convoy_drunk2_n02_jp","s":"ENEMY","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n03","vojp":"vo_convoy_drunk2_n03_jp","s":"STATIC","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n04","vojp":"vo_convoy_drunk2_n04_jp","s":"ENEMY","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n05","vojp":"vo_convoy_drunk2_n05_jp","s":"STATIC","en":"","cn":"","jp":""},
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n06","vojp":"vo_convoy_drunk2_n06_jp","s":"ENEMY","en":"Mmmm …","cn":"嗯……","jp":""}
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n00","vojp":"vo_convoy_drunk2_n00_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n01","vojp":"vo_convoy_drunk2_n01_jp","s":"STATIC","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n02","vojp":"vo_convoy_drunk2_n02_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n03","vojp":"vo_convoy_drunk2_n03_jp","s":"STATIC","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n04","vojp":"vo_convoy_drunk2_n04_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n05","vojp":"vo_convoy_drunk2_n05_jp","s":"STATIC","en":"","cn":"","jp":""},
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n06","vojp":"vo_convoy_drunk2_n06_jp","s":"ENEMY","en":"Mmmm …","cn":"嗯……","jp":""}
 ,
-{"lvl":"3","sec":"44","voen":"vo_gothic_gothic_convoy_drunk2_n07","vojp":"vo_convoy_drunk2_n07_jp","s":"STATIC","en":"Mmmm …","cn":"嗯……","jp":""}
+{"sec":44,"voen":"vo_gothic_gothic_convoy_drunk2_n07","vojp":"vo_convoy_drunk2_n07_jp","s":"STATIC","en":"Mmmm …","cn":"嗯……","jp":""}
 ,
-{"lvl":"3","sec":"45","voen":"vo_hint_hint_convoy_nervous_n00","vojp":"vo_convoy_nervous_n00_jp","s":"ENEMY","en":"How much longer must we wait? This place makes me nervous.","cn":"我们还得等多久？这地方弄得我很紧张。","jp":"あとどのくらいかかるんだ？この場所はおっかねえよ。"}
+{"sec":45,"voen":"vo_hint_hint_convoy_nervous_n00","vojp":"vo_convoy_nervous_n00_jp","s":"ENEMY","en":"How much longer must we wait? This place makes me nervous.","cn":"我们还得等多久？这地方弄得我很紧张。","jp":"あとどのくらいかかるんだ？この場所はおっかねえよ。"}
 ,
-{"lvl":"3","sec":"45","voen":"vo_hint_hint_convoy_nervous_n01","vojp":"vo_convoy_nervous_n01_jp","s":"STATIC","en":"Calm down. Kage-sama has paid off the local bandits. No one will attack us.","cn":"冷静点儿。影大人已经向当地土匪付过钱了。没人会袭击我们。","jp":"落ち着け。カゲサマが地元の盗賊団に金を握らせたんだ。誰も襲っちゃこないさ。"}
+{"sec":45,"voen":"vo_hint_hint_convoy_nervous_n01","vojp":"vo_convoy_nervous_n01_jp","s":"STATIC","en":"Calm down. Kage-sama has paid off the local bandits. No one will attack us.","cn":"冷静点儿。影大人已经向当地土匪付过钱了。没人会袭击我们。","jp":"落ち着け。カゲサマが地元の盗賊団に金を握らせたんだ。誰も襲っちゃこないさ。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n00","vojp":"vo_convoy_officer1_n00_jp","s":"OFFICER","en":"This is going too slow.","cn":"这进度太慢了。","jp":"遅すぎる。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n00","vojp":"vo_convoy_officer1_n00_jp","s":"OFFICER","en":"This is going too slow.","cn":"这进度太慢了。","jp":"遅すぎる。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n01","vojp":"vo_convoy_officer1_n01_jp","s":"OFFICER","en":"We are losing time.","cn":"我们快没时间了。","jp":"時間がもったいないぞ。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n01","vojp":"vo_convoy_officer1_n01_jp","s":"OFFICER","en":"We are losing time.","cn":"我们快没时间了。","jp":"時間がもったいないぞ。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n02","vojp":"vo_convoy_officer1_n02_jp","s":"OFFICER","en":"Lazy peasants.","cn":"那些农民真懒。","jp":"怠けた百姓め。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n02","vojp":"vo_convoy_officer1_n02_jp","s":"OFFICER","en":"Lazy peasants.","cn":"那些农民真懒。","jp":"怠けた百姓め。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n03","vojp":"vo_convoy_officer1_n03_jp","s":"OFFICER","en":"Just my luck.","cn":"真倒霉。","jp":"ついてないぜ。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n03","vojp":"vo_convoy_officer1_n03_jp","s":"OFFICER","en":"Just my luck.","cn":"真倒霉。","jp":"ついてないぜ。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n04","vojp":"vo_convoy_officer1_n04_jp","s":"OFFICER","en":"Keep drinking, you stupid ox.","cn":"让你一次喝个够，你这头蠢牛。","jp":"どんどん飲めよ、阿呆の牛め。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n04","vojp":"vo_convoy_officer1_n04_jp","s":"OFFICER","en":"Keep drinking, you stupid ox.","cn":"让你一次喝个够，你这头蠢牛。","jp":"どんどん飲めよ、阿呆の牛め。"}
 ,
-{"lvl":"3","sec":"46","voen":"vo_hint_hint_convoy_officer1_n05","vojp":"vo_convoy_officer1_n05_jp","s":"OFFICER","en":"Our lord won't be pleased.","cn":"大人肯定生气了。","jp":"君主様はお気に召さないぞ。"}
+{"sec":46,"voen":"vo_hint_hint_convoy_officer1_n05","vojp":"vo_convoy_officer1_n05_jp","s":"OFFICER","en":"Our lord won't be pleased.","cn":"大人肯定生气了。","jp":"君主様はお気に召さないぞ。"}
 ,
-{"lvl":"3","sec":"47","voen":"vocs_over_over_convoy_officer1_n00","vojp":"vocs_convoy_officer1_n00_jp","s":"NINJA","en":"One down.","cn":"干掉一个。","jp":"一人目完了。"}
+{"sec":47,"voen":"vocs_over_over_convoy_officer1_n00","vojp":"vocs_convoy_officer1_n00_jp","s":"NINJA","en":"One down.","cn":"干掉一个。","jp":"一人目完了。"}
 ,
-{"lvl":"3","sec":"47","voen":"vocs_over_over_convoy_officer1_n01","vojp":"vocs_convoy_officer1_n01_jp","s":"TRAPPER","en":"One flag down.","cn":"一面旗子倒下了。","jp":"一旗目完了。"}
+{"sec":47,"voen":"vocs_over_over_convoy_officer1_n01","vojp":"vocs_convoy_officer1_n01_jp","s":"TRAPPER","en":"One flag down.","cn":"一面旗子倒下了。","jp":"一旗目完了。"}
 ,
-{"lvl":"3","sec":"48","voen":"vo_hint_hint_convoy_officer2_n00","vojp":"vo_convoy_officer2_n00_jp","s":"OFFICER","en":"Watch the cliffs.","cn":"注意悬崖上面。","jp":"崖を見張れ。"}
+{"sec":48,"voen":"vo_hint_hint_convoy_officer2_n00","vojp":"vo_convoy_officer2_n00_jp","s":"OFFICER","en":"Watch the cliffs.","cn":"注意悬崖上面。","jp":"崖を見張れ。"}
 ,
-{"lvl":"3","sec":"48","voen":"vo_hint_hint_convoy_officer2_n01","vojp":"vo_convoy_officer2_n01_jp","s":"OFFICER","en":"Don't lose focus.","cn":"别走神。","jp":"油断するな。"}
+{"sec":48,"voen":"vo_hint_hint_convoy_officer2_n01","vojp":"vo_convoy_officer2_n01_jp","s":"OFFICER","en":"Don't lose focus.","cn":"别走神。","jp":"油断するな。"}
 ,
-{"lvl":"3","sec":"48","voen":"vo_hint_hint_convoy_officer2_n02","vojp":"vo_convoy_officer2_n02_jp","s":"OFFICER","en":"Keep sharp.","cn":"眼睛睁大点。","jp":"集中しろよ。"}
+{"sec":48,"voen":"vo_hint_hint_convoy_officer2_n02","vojp":"vo_convoy_officer2_n02_jp","s":"OFFICER","en":"Keep sharp.","cn":"眼睛睁大点。","jp":"集中しろよ。"}
 ,
-{"lvl":"3","sec":"48","voen":"vo_hint_hint_convoy_officer2_n03","vojp":"vo_convoy_officer2_n03_jp","s":"OFFICER","en":"No one must touch these wagons.","cn":"不要让任何人接近这些马车。","jp":"誰もこの荷馬車に触れさせちゃならねぇ。"}
+{"sec":48,"voen":"vo_hint_hint_convoy_officer2_n03","vojp":"vo_convoy_officer2_n03_jp","s":"OFFICER","en":"No one must touch these wagons.","cn":"不要让任何人接近这些马车。","jp":"誰もこの荷馬車に触れさせちゃならねぇ。"}
 ,
-{"lvl":"3","sec":"48","voen":"vo_hint_hint_convoy_officer2_n04","vojp":"vo_convoy_officer2_n04_jp","s":"OFFICER","en":"Just keep an eye on the peasants.","cn":"盯紧这些农民。","jp":"百姓どもを見張ってろよ。"}
+{"sec":48,"voen":"vo_hint_hint_convoy_officer2_n04","vojp":"vo_convoy_officer2_n04_jp","s":"OFFICER","en":"Just keep an eye on the peasants.","cn":"盯紧这些农民。","jp":"百姓どもを見張ってろよ。"}
 ,
-{"lvl":"3","sec":"49","voen":"vocs_over_over_convoy_officer2_n00","vojp":"vocs_convoy_officer2_n00_jp","s":"NINJA","en":"Two down.","cn":"干掉两个了。","jp":"二人目完了。"}
+{"sec":49,"voen":"vocs_over_over_convoy_officer2_n00","vojp":"vocs_convoy_officer2_n00_jp","s":"NINJA","en":"Two down.","cn":"干掉两个了。","jp":"二人目完了。"}
 ,
-{"lvl":"3","sec":"49","voen":"vocs_over_over_convoy_officer2_n01","vojp":"vocs_convoy_officer2_n01_jp","s":"TRAPPER","en":"Two flags down.","cn":"两面旗子倒下了。","jp":"二旗目完了。"}
+{"sec":49,"voen":"vocs_over_over_convoy_officer2_n01","vojp":"vocs_convoy_officer2_n01_jp","s":"TRAPPER","en":"Two flags down.","cn":"两面旗子倒下了。","jp":"二旗目完了。"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n00","vojp":"vo_convoy_officer3_n00_jp","s":"OFFICER","en":"Are they done yet?","cn":"他们还没搞定吗？","jp":"まだ終わらんのか？"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n00","vojp":"vo_convoy_officer3_n00_jp","s":"OFFICER","en":"Are they done yet?","cn":"他们还没搞定吗？","jp":"まだ終わらんのか？"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n01","vojp":"vo_convoy_officer3_n01_jp","s":"OFFICER","en":"Any news?","cn":"有消息吗？","jp":"進捗は？"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n01","vojp":"vo_convoy_officer3_n01_jp","s":"OFFICER","en":"Any news?","cn":"有消息吗？","jp":"進捗は？"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n02","vojp":"vo_convoy_officer3_n02_jp","s":"OFFICER","en":"What is taking so long?","cn":"怎么花这么长时间？","jp":"なぜこんなに時間がかかるのだ？"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n02","vojp":"vo_convoy_officer3_n02_jp","s":"OFFICER","en":"What is taking so long?","cn":"怎么花这么长时间？","jp":"なぜこんなに時間がかかるのだ？"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n03","vojp":"vo_convoy_officer3_n03_jp","s":"OFFICER","en":"What now?","cn":"现在啥情况？","jp":"今ならどうだ？"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n03","vojp":"vo_convoy_officer3_n03_jp","s":"OFFICER","en":"What now?","cn":"现在啥情况？","jp":"今ならどうだ？"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n04","vojp":"vo_convoy_officer3_n04_jp","s":"OFFICER","en":"Is the wagon still stuck?","cn":"马车还被卡着吗？","jp":"荷馬車はまだつっかえてるのか？"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n04","vojp":"vo_convoy_officer3_n04_jp","s":"OFFICER","en":"Is the wagon still stuck?","cn":"马车还被卡着吗？","jp":"荷馬車はまだつっかえてるのか？"}
 ,
-{"lvl":"3","sec":"50","voen":"vo_hint_hint_convoy_officer3_n05","vojp":"vo_convoy_officer3_n05_jp","s":"OFFICER","en":"Tell me.","cn":"告诉我。","jp":"教えろよ。"}
+{"sec":50,"voen":"vo_hint_hint_convoy_officer3_n05","vojp":"vo_convoy_officer3_n05_jp","s":"OFFICER","en":"Tell me.","cn":"告诉我。","jp":"教えろよ。"}
 ,
-{"lvl":"3","sec":"51","voen":"vocs_over_over_convoy_officer3_n00","vojp":"vocs_convoy_officer3_n00_jp","s":"TRAPPER","en":"Three down, haha.","cn":"干掉三个了，哈哈。","jp":"三人目完了、はは。"}
+{"sec":51,"voen":"vocs_over_over_convoy_officer3_n00","vojp":"vocs_convoy_officer3_n00_jp","s":"TRAPPER","en":"Three down, haha.","cn":"干掉三个了，哈哈。","jp":"三人目完了、はは。"}
 ,
-{"lvl":"3","sec":"51","voen":"vocs_over_over_convoy_officer3_n01","vojp":"vocs_convoy_officer3_n01_jp","s":"NINJA","en":"Aren't you a bit too good at this?","cn":"这事你咋干得这么熟练？","jp":"ちょいと上手すぎるんじゃないのか？"}
+{"sec":51,"voen":"vocs_over_over_convoy_officer3_n01","vojp":"vocs_convoy_officer3_n01_jp","s":"NINJA","en":"Aren't you a bit too good at this?","cn":"这事你咋干得这么熟练？","jp":"ちょいと上手すぎるんじゃないのか？"}
 ,
-{"lvl":"3","sec":"51","voen":"vocs_over_over_convoy_officer3_n02","vojp":"vocs_convoy_officer3_n02_jp","s":"TRAPPER","en":"What do you mean?","cn":"你什么意思?","jp":"どういう意味だい？"}
+{"sec":51,"voen":"vocs_over_over_convoy_officer3_n02","vojp":"vocs_convoy_officer3_n02_jp","s":"TRAPPER","en":"What do you mean?","cn":"你什么意思?","jp":"どういう意味だい？"}
 ,
-{"lvl":"3","sec":"51","voen":"vocs_over_over_convoy_officer3_n03","vojp":"vocs_convoy_officer3_n03_jp","s":"NINJA","en":"Never mind. One to go.","cn":"没什么。还差一个。","jp":"何でもない。あと一人。"}
+{"sec":51,"voen":"vocs_over_over_convoy_officer3_n03","vojp":"vocs_convoy_officer3_n03_jp","s":"NINJA","en":"Never mind. One to go.","cn":"没什么。还差一个。","jp":"何でもない。あと一人。"}
 ,
-{"lvl":"3","sec":"52","voen":"vo_hint_hint_convoy_officer4_n00","vojp":"vo_convoy_officer4_n00_jp","s":"OFFICER","en":"Sake.","cn":"上酒。","jp":"酒"}
+{"sec":52,"voen":"vo_hint_hint_convoy_officer4_n00","vojp":"vo_convoy_officer4_n00_jp","s":"OFFICER","en":"Sake.","cn":"上酒。","jp":"酒"}
 ,
-{"lvl":"3","sec":"52","voen":"vo_hint_hint_convoy_officer4_n01","vojp":"vo_convoy_officer4_n01_jp","s":"CIVILIAN F","en":"Hai!","cn":"是！","jp":"はい！"}
+{"sec":52,"voen":"vo_hint_hint_convoy_officer4_n01","vojp":"vo_convoy_officer4_n01_jp","s":"CIVILIAN F","en":"Hai!","cn":"是！","jp":"はい！"}
 ,
-{"lvl":"3","sec":"52","voen":"vo_hint_hint_convoy_officer4_n02","vojp":"vo_convoy_officer4_n02_jp","s":"OFFICER","en":"Hmm.","cn":"嗯。","jp":"うーん"}
+{"sec":52,"voen":"vo_hint_hint_convoy_officer4_n02","vojp":"vo_convoy_officer4_n02_jp","s":"OFFICER","en":"Hmm.","cn":"嗯。","jp":"うーん"}
 ,
-{"lvl":"3","sec":"53","voen":"vocs_over_over_convoy_officer4_n00","vojp":"vocs_convoy_officer4_n00_jp","s":"NINJA","en":"Four down.","cn":"干掉四个了。","jp":"四人目完了。"}
+{"sec":53,"voen":"vocs_over_over_convoy_officer4_n00","vojp":"vocs_convoy_officer4_n00_jp","s":"NINJA","en":"Four down.","cn":"干掉四个了。","jp":"四人目完了。"}
 ,
-{"lvl":"3","sec":"53","voen":"vocs_over_over_convoy_officer4_n01","vojp":"vocs_convoy_officer4_n01_jp","s":"TRAPPER","en":"Four flags. What now?","cn":"四面旗子。接下来干啥？","jp":"旗四つ。次は？"}
+{"sec":53,"voen":"vocs_over_over_convoy_officer4_n01","vojp":"vocs_convoy_officer4_n01_jp","s":"TRAPPER","en":"Four flags. What now?","cn":"四面旗子。接下来干啥？","jp":"旗四つ。次は？"}
 ,
-{"lvl":"3","sec":"53","voen":"vocs_over_over_convoy_officer4_n02","vojp":"vocs_convoy_officer4_n02_jp","s":"NINJA","en":"Now we have to signal Mugen at the statue.","cn":"现在我们去雕像那给无限发信号。","jp":"像の場所で武源に合図を送らねばならん。"}
+{"sec":53,"voen":"vocs_over_over_convoy_officer4_n02","vojp":"vocs_convoy_officer4_n02_jp","s":"NINJA","en":"Now we have to signal Mugen at the statue.","cn":"现在我们去雕像那给无限发信号。","jp":"像の場所で武源に合図を送らねばならん。"}
 ,
-{"lvl":"3","sec":"53","voen":"vocs_over_over_convoy_officer4_n03","vojp":"vocs_convoy_officer4_n03_jp","s":"TRAPPER","en":"Who's Mugen?","cn":"谁是无限？","jp":"武源って誰？"}
+{"sec":53,"voen":"vocs_over_over_convoy_officer4_n03","vojp":"vocs_convoy_officer4_n03_jp","s":"TRAPPER","en":"Who's Mugen?","cn":"谁是无限？","jp":"武源って誰？"}
 ,
-{"lvl":"3","sec":"53","voen":"vocs_over_over_convoy_officer4_n04","vojp":"vocs_convoy_officer4_n04_jp","s":"NINJA","en":"Wait and see.","cn":"到时候你就知道了。","jp":"すぐに分かる。"}
+{"sec":53,"voen":"vocs_over_over_convoy_officer4_n04","vojp":"vocs_convoy_officer4_n04_jp","s":"NINJA","en":"Wait and see.","cn":"到时候你就知道了。","jp":"すぐに分かる。"}
 ,
-{"lvl":"3","sec":"54","voen":"vo_hint_hint_convoy_officer5_n00","vojp":"vo_convoy_officer5_n00_jp","s":"OFFICER","en":"Tehehe.","cn":"呵呵呵。","jp":"てへへ。"}
+{"sec":54,"voen":"vo_hint_hint_convoy_officer5_n00","vojp":"vo_convoy_officer5_n00_jp","s":"OFFICER","en":"Tehehe.","cn":"呵呵呵。","jp":"てへへ。"}
 ,
-{"lvl":"3","sec":"54","voen":"vo_hint_hint_convoy_officer5_n01","vojp":"vo_convoy_officer5_n01_jp","s":"OFFICER","en":"What are you looking at?","cn":"你在看什么呢？","jp":"何を見ている？"}
+{"sec":54,"voen":"vo_hint_hint_convoy_officer5_n01","vojp":"vo_convoy_officer5_n01_jp","s":"OFFICER","en":"What are you looking at?","cn":"你在看什么呢？","jp":"何を見ている？"}
 ,
-{"lvl":"3","sec":"54","voen":"vo_hint_hint_convoy_officer5_n02","vojp":"vo_convoy_officer5_n02_jp","s":"OFFICER","en":"Attention!","cn":"立正！","jp":"注目！"}
+{"sec":54,"voen":"vo_hint_hint_convoy_officer5_n02","vojp":"vo_convoy_officer5_n02_jp","s":"OFFICER","en":"Attention!","cn":"立正！","jp":"注目！"}
 ,
-{"lvl":"3","sec":"54","voen":"vo_hint_hint_convoy_officer5_n03","vojp":"vo_convoy_officer5_n03_jp","s":"OFFICER","en":"Ugly thing.","cn":"丑东西。","jp":"醜い奴だ。"}
+{"sec":54,"voen":"vo_hint_hint_convoy_officer5_n03","vojp":"vo_convoy_officer5_n03_jp","s":"OFFICER","en":"Ugly thing.","cn":"丑东西。","jp":"醜い奴だ。"}
 ,
-{"lvl":"3","sec":"54","voen":"vo_hint_hint_convoy_officer5_n04","vojp":"vo_convoy_officer5_n04_jp","s":"OFFICER","en":"Safe travel, eh.","cn":"旅途平安，呃。","jp":"安全祈願、ね。"}
+{"sec":54,"voen":"vo_hint_hint_convoy_officer5_n04","vojp":"vo_convoy_officer5_n04_jp","s":"OFFICER","en":"Safe travel, eh.","cn":"旅途平安，呃。","jp":"安全祈願、ね。"}
 ,
-{"lvl":"3","sec":"55","voen":"vocs_over_over_convoy_debriefing_n00","vojp":"vocs_convoy_debriefing_n00_jp","s":"NINJA","en":"Keep your head down.","cn":"把头低下。","jp":"頭を下げていろ。"}
+{"sec":55,"voen":"vocs_over_over_convoy_debriefing_n00","vojp":"vocs_convoy_debriefing_n00_jp","s":"NINJA","en":"Keep your head down.","cn":"把头低下。","jp":"頭を下げていろ。"}
 ,
-{"lvl":"3","sec":"55","voen":"vocs_over_over_convoy_debriefing_n01","vojp":"vocs_convoy_debriefing_n01_jp","s":"TRAPPER","en":"H-hai, sensei!","cn":"是-是，师傅！","jp":"は、はい、先生！"}
+{"sec":55,"voen":"vocs_over_over_convoy_debriefing_n01","vojp":"vocs_convoy_debriefing_n01_jp","s":"TRAPPER","en":"H-hai, sensei!","cn":"是-是，师傅！","jp":"は、はい、先生！"}
 ,
-{"lvl":"3","sec":"55","voen":"vocs_over_over_convoy_debriefing_n02","vojp":"vocs_convoy_debriefing_n02_jp","s":"WARRIOR","en":"Forward men! For the Shogun!","cn":"冲啊！为了将军！","jp":"全体進め！上様のために！"}
+{"sec":55,"voen":"vocs_over_over_convoy_debriefing_n02","vojp":"vocs_convoy_debriefing_n02_jp","s":"WARRIOR","en":"Forward men! For the Shogun!","cn":"冲啊！为了将军！","jp":"全体進め！上様のために！"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n03","vojp":"vocs_convoy_debriefing_n03_jp","s":"WARRIOR","en":"We took the wagons with little resistance. Your skills are as sharp as ever.","cn":"没遇到啥抵抗就拿下了这批马车。你果真名不虚传。","jp":"抵抗もほとんどなく荷馬車を抑えた。相変わらず切れる腕前だな。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n03","vojp":"vocs_convoy_debriefing_n03_jp","s":"WARRIOR","en":"We took the wagons with little resistance. Your skills are as sharp as ever.","cn":"没遇到啥抵抗就拿下了这批马车。你果真名不虚传。","jp":"抵抗もほとんどなく荷馬車を抑えた。相変わらず切れる腕前だな。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n04","vojp":"vocs_convoy_debriefing_n04_jp","s":"NINJA","en":"Got to admit, I had a little assistance.","cn":"不得不承认，有人帮了我点小忙。","jp":"正直に申すと、ちょいと手助けがあったのでな。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n04","vojp":"vocs_convoy_debriefing_n04_jp","s":"NINJA","en":"Got to admit, I had a little assistance.","cn":"不得不承认，有人帮了我点小忙。","jp":"正直に申すと、ちょいと手助けがあったのでな。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n05","vojp":"vocs_convoy_debriefing_n05_jp","s":"WARRIOR","en":"Ah yes, I saw your companion. What do you think of her?","cn":"啊对，我看到你同伴了。你认为她怎么样？","jp":"ああ、連れを見た。彼女はどうだ？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n05","vojp":"vocs_convoy_debriefing_n05_jp","s":"WARRIOR","en":"Ah yes, I saw your companion. What do you think of her?","cn":"啊对，我看到你同伴了。你认为她怎么样？","jp":"ああ、連れを見た。彼女はどうだ？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n09","vojp":"vocs_convoy_debriefing_n09_jp","s":"NINJA","en":"She's a bit wild maybe, but she has talent.","cn":"虽然有点儿野，但很有天赋。","jp":"ちょいと手荒だが、才能は確かだ。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n09","vojp":"vocs_convoy_debriefing_n09_jp","s":"NINJA","en":"She's a bit wild maybe, but she has talent.","cn":"虽然有点儿野，但很有天赋。","jp":"ちょいと手荒だが、才能は確かだ。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n10","vojp":"vocs_convoy_debriefing_n10_jp","s":"NINJA","en":"Either that or I'm getting careless ... How did she sneak up on me …","cn":"要么是她聪明要么是我粗心……她是怎么溜到我背后的……","jp":"それか俺が不注意になっているのか…どうやって俺に忍び寄ったのか…。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n10","vojp":"vocs_convoy_debriefing_n10_jp","s":"NINJA","en":"Either that or I'm getting careless ... How did she sneak up on me …","cn":"要么是她聪明要么是我粗心……她是怎么溜到我背后的……","jp":"それか俺が不注意になっているのか…どうやって俺に忍び寄ったのか…。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n11","vojp":"vocs_convoy_debriefing_n11_jp","s":"WARRIOR","en":"What was that, Hayato-san?","cn":"怎么回事，隼人先生?","jp":"何だって、隼人殿？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n11","vojp":"vocs_convoy_debriefing_n11_jp","s":"WARRIOR","en":"What was that, Hayato-san?","cn":"怎么回事，隼人先生?","jp":"何だって、隼人殿？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n12","vojp":"vocs_convoy_debriefing_n12_jp","s":"NINJA","en":"Nothing. Nothing. See you at the safe house, right?","cn":"没事，没事。安全屋见，对吧？","jp":"何でもない。隠れ家で落ち合うんだったな？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n12","vojp":"vocs_convoy_debriefing_n12_jp","s":"NINJA","en":"Nothing. Nothing. See you at the safe house, right?","cn":"没事，没事。安全屋见，对吧？","jp":"何でもない。隠れ家で落ち合うんだったな？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n06","vojp":"vocs_convoy_debriefing_n06_jp","s":"WARRIOR","en":"What is your name, young woman?","cn":"你叫什么名字，年轻人？","jp":"名は何と申す、少女よ？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n06","vojp":"vocs_convoy_debriefing_n06_jp","s":"WARRIOR","en":"What is your name, young woman?","cn":"你叫什么名字，年轻人？","jp":"名は何と申す、少女よ？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n07","vojp":"vocs_convoy_debriefing_n07_jp","s":"TRAPPER","en":"Yuki, master samurai.","cn":"友希，武士大人。","jp":"雪です。お侍様。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n07","vojp":"vocs_convoy_debriefing_n07_jp","s":"TRAPPER","en":"Yuki, master samurai.","cn":"友希，武士大人。","jp":"雪です。お侍様。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n08","vojp":"vocs_convoy_debriefing_n08_jp","s":"WARRIOR","en":"A fine name. I am ?shiro Mugen. No need to be afraid.","cn":"好名字。我是尾城无限。不用害怕。","jp":"いい名だ。私は大代武源。恐れることはない。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n08","vojp":"vocs_convoy_debriefing_n08_jp","s":"WARRIOR","en":"A fine name. I am ?shiro Mugen. No need to be afraid.","cn":"好名字。我是尾城无限。不用害怕。","jp":"いい名だ。私は大代武源。恐れることはない。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n15","vojp":"vocs_convoy_debriefing_n15_jp","s":"TRAPPER","en":"Are you a friend of Hayato-san?","cn":"你是隼人先生的朋友吗？","jp":"隼人先生のお友達ですか？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n15","vojp":"vocs_convoy_debriefing_n15_jp","s":"TRAPPER","en":"Are you a friend of Hayato-san?","cn":"你是隼人先生的朋友吗？","jp":"隼人先生のお友達ですか？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n16","vojp":"vocs_convoy_debriefing_n16_jp","s":"WARRIOR","en":"I like to think so. Though he might not see it that way.","cn":"我认为是，但他可能不这么看。","jp":"そうだと思いたい。奴はそうは思っておらんかも知れぬがな。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n16","vojp":"vocs_convoy_debriefing_n16_jp","s":"WARRIOR","en":"I like to think so. Though he might not see it that way.","cn":"我认为是，但他可能不这么看。","jp":"そうだと思いたい。奴はそうは思っておらんかも知れぬがな。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n17","vojp":"vocs_convoy_debriefing_n17_jp","s":"TRAPPER","en":"Master samurai? Can I stay with you two? Just for a while?","cn":"武士大人？我能留下来跟你们两个在一起吗？一阵就好？","jp":"お侍様？お二人と一緒にいていいですか？ちょっとだけ？"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n17","vojp":"vocs_convoy_debriefing_n17_jp","s":"TRAPPER","en":"Master samurai? Can I stay with you two? Just for a while?","cn":"武士大人？我能留下来跟你们两个在一起吗？一阵就好？","jp":"お侍様？お二人と一緒にいていいですか？ちょっとだけ？"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n18","vojp":"vocs_convoy_debriefing_n18_jp","s":"WARRIOR","en":"I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger …","cn":"我不知道该拿你怎么办。隼人先生对你印象深刻。但是，把一个孩子放在如此危险……","jp":"どうするか考えておったところだ。隼人殿は実に感心しておるようだが。しかし、幼子をこんな危険な目に…。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n18","vojp":"vocs_convoy_debriefing_n18_jp","s":"WARRIOR","en":"I was wondering what to do with you. Hayato-san certainly seemed impressed. Still, to put a child in such danger …","cn":"我不知道该拿你怎么办。隼人先生对你印象深刻。但是，把一个孩子放在如此危险……","jp":"どうするか考えておったところだ。隼人殿は実に感心しておるようだが。しかし、幼子をこんな危険な目に…。"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n19","vojp":"vocs_convoy_debriefing_n19_jp","s":"TRAPPER","en":"Please, I … I want him to be my sensei! He's got tricks that I can learn from no one else!","cn":"拜托了，我……我想让他做我的师傅！他的招数太酷了！","jp":"お願いです…あたしはあの方の弟子になりたい！あの方の技を覚えたいんです！"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n19","vojp":"vocs_convoy_debriefing_n19_jp","s":"TRAPPER","en":"Please, I … I want him to be my sensei! He's got tricks that I can learn from no one else!","cn":"拜托了，我……我想让他做我的师傅！他的招数太酷了！","jp":"お願いです…あたしはあの方の弟子になりたい！あの方の技を覚えたいんです！"}
 ,
-{"lvl":"3","sec":"56","voen":"vocs_over_over_convoy_debriefing_n20","vojp":"vocs_convoy_debriefing_n20_jp","s":"WARRIOR","en":"Hmmm ... I will consider it.","cn":"嗯……我会考虑的。","jp":"うーむ…考えておこう。"}
+{"sec":56,"voen":"vocs_over_over_convoy_debriefing_n20","vojp":"vocs_convoy_debriefing_n20_jp","s":"WARRIOR","en":"Hmmm ... I will consider it.","cn":"嗯……我会考虑的。","jp":"うーむ…考えておこう。"}
 
 ]

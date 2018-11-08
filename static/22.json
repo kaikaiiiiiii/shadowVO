@@ -1,258 +1,258 @@
 [
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n00","vojp":"vocs_shoguncamp_briefing_n00_jp","s":"TRAPPER","en":"Wow! So many tents! It's like a city!","cn":"哇！这么多帐篷！连起来就像座城市！","jp":"わぁ！天幕がたくさん！町みたいね！"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n00","vojp":"vocs_shoguncamp_briefing_n00_jp","s":"TRAPPER","en":"Wow! So many tents! It's like a city!","cn":"哇！这么多帐篷！连起来就像座城市！","jp":"わぁ！天幕がたくさん！町みたいね！"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n01","vojp":"vocs_shoguncamp_briefing_n01_jp","s":"NINJA","en":"Hmm … full of soldiers with orders to shoot us on sight.","cn":"嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。","jp":"うーむ…兵ばかりだ。俺たちを見つけたら殺すように命じられてるだろう。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n01","vojp":"vocs_shoguncamp_briefing_n01_jp","s":"NINJA","en":"Hmm … full of soldiers with orders to shoot us on sight.","cn":"嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。","jp":"うーむ…兵ばかりだ。俺たちを見つけたら殺すように命じられてるだろう。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n02","vojp":"vocs_shoguncamp_briefing_n02_jp","s":"GEISHA","en":"Yes, giving ourselves up would be pointless. Best to not draw any attention.","cn":"是的，到时候我们就算投降也没有用。注意不要引起任何警觉。","jp":"ええ、身をさらしても仕方ないわね、注意を引かないようにするべきね。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n02","vojp":"vocs_shoguncamp_briefing_n02_jp","s":"GEISHA","en":"Yes, giving ourselves up would be pointless. Best to not draw any attention.","cn":"是的，到时候我们就算投降也没有用。注意不要引起任何警觉。","jp":"ええ、身をさらしても仕方ないわね、注意を引かないようにするべきね。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n03","vojp":"vocs_shoguncamp_briefing_n03_jp","s":"NINJA","en":"The Shogun's tent is at the very top. No surprise there.","cn":"不出所料，将军的营帐在最顶端。","jp":"上様の天幕は一番上か。まあ当然か。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n03","vojp":"vocs_shoguncamp_briefing_n03_jp","s":"NINJA","en":"The Shogun's tent is at the very top. No surprise there.","cn":"不出所料，将军的营帐在最顶端。","jp":"上様の天幕は一番上か。まあ当然か。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n04","vojp":"vocs_shoguncamp_briefing_n04_jp","s":"GEISHA","en":"This entrance is heavily guarded.","cn":"而且入口有重兵把守。","jp":"入り口は警備が厳しいわ。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n04","vojp":"vocs_shoguncamp_briefing_n04_jp","s":"GEISHA","en":"This entrance is heavily guarded.","cn":"而且入口有重兵把守。","jp":"入り口は警備が厳しいわ。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n05","vojp":"vocs_shoguncamp_briefing_n05_jp","s":"GEISHA","en":"We need a strategy to get inside.","cn":"看来得有好的战略才能进得去。","jp":"中に入る為の戦略が必要ね。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n05","vojp":"vocs_shoguncamp_briefing_n05_jp","s":"GEISHA","en":"We need a strategy to get inside.","cn":"看来得有好的战略才能进得去。","jp":"中に入る為の戦略が必要ね。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n06","vojp":"vocs_shoguncamp_briefing_n06_jp","s":"ALCHEMIST","en":"The guards here seem to enjoy their sake.","cn":"这里的守卫似乎很喜欢喝清酒。","jp":"ここの護衛は酒を楽しんでるようじゃの。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n06","vojp":"vocs_shoguncamp_briefing_n06_jp","s":"ALCHEMIST","en":"The guards here seem to enjoy their sake.","cn":"这里的守卫似乎很喜欢喝清酒。","jp":"ここの護衛は酒を楽しんでるようじゃの。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n07","vojp":"vocs_shoguncamp_briefing_n07_jp","s":"ALCHEMIST","en":"I know a recipe that will help them to sleep.","cn":"我知道有个配方可以让他们入睡。","jp":"奴らを眠らせる薬はあるぞい。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n07","vojp":"vocs_shoguncamp_briefing_n07_jp","s":"ALCHEMIST","en":"I know a recipe that will help them to sleep.","cn":"我知道有个配方可以让他们入睡。","jp":"奴らを眠らせる薬はあるぞい。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n08","vojp":"vocs_shoguncamp_briefing_n08_jp","s":"ALCHEMIST","en":"I still have some ingredients left. All I need is a place to brew.","cn":"我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。","jp":"まだ材が残っておるはずじゃ。入れる場所があればいけるの。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n08","vojp":"vocs_shoguncamp_briefing_n08_jp","s":"ALCHEMIST","en":"I still have some ingredients left. All I need is a place to brew.","cn":"我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。","jp":"まだ材が残っておるはずじゃ。入れる場所があればいけるの。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n09","vojp":"vocs_shoguncamp_briefing_n09_jp","s":"GEISHA","en":"I like the idea.","cn":"这个办法不错。","jp":"いい作戦ね。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n09","vojp":"vocs_shoguncamp_briefing_n09_jp","s":"GEISHA","en":"I like the idea.","cn":"这个办法不错。","jp":"いい作戦ね。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n10","vojp":"vocs_shoguncamp_briefing_n10_jp","s":"GEISHA","en":"I could pour your brew into the sake barrel. A disguise would help with this.","cn":"我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。","jp":"私がそれを酒の樽にいれるわ。変装すればうまくいくとおもうわ。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n10","vojp":"vocs_shoguncamp_briefing_n10_jp","s":"GEISHA","en":"I could pour your brew into the sake barrel. A disguise would help with this.","cn":"我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。","jp":"私がそれを酒の樽にいれるわ。変装すればうまくいくとおもうわ。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n11","vojp":"vocs_shoguncamp_briefing_n11_jp","s":"GEISHA","en":"There must be a kimono with the Shogun's entourage.","cn":"将军的随从那边肯定有和服。","jp":"将軍の側近の着物があるはずだわ。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n11","vojp":"vocs_shoguncamp_briefing_n11_jp","s":"GEISHA","en":"There must be a kimono with the Shogun's entourage.","cn":"将军的随从那边肯定有和服。","jp":"将軍の側近の着物があるはずだわ。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n12","vojp":"vocs_shoguncamp_briefing_n12_jp","s":"GEISHA","en":"I could also look for a servant's uniform at that small temple.","cn":"小庙那里也有佣人的衣服。","jp":"あとは使用人の服も寺で探せそうね。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n12","vojp":"vocs_shoguncamp_briefing_n12_jp","s":"GEISHA","en":"I could also look for a servant's uniform at that small temple.","cn":"小庙那里也有佣人的衣服。","jp":"あとは使用人の服も寺で探せそうね。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n13","vojp":"vocs_shoguncamp_briefing_n13_jp","s":"TRAPPER","en":"I see wagons! We could hide inside.","cn":"我看见马车了！我们可以藏在里面。","jp":"馬車がある！この中に隠れられそう。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n13","vojp":"vocs_shoguncamp_briefing_n13_jp","s":"TRAPPER","en":"I see wagons! We could hide inside.","cn":"我看见马车了！我们可以藏在里面。","jp":"馬車がある！この中に隠れられそう。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n14","vojp":"vocs_shoguncamp_briefing_n14_jp","s":"TRAPPER","en":"Maybe they'll carry us to the Shogun. Might be fun yes?","cn":"也许马车就能带我们到将军那儿。好像很好玩。","jp":"きっと将軍の所へ連れてってくれる。面白そうかも。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n14","vojp":"vocs_shoguncamp_briefing_n14_jp","s":"TRAPPER","en":"Maybe they'll carry us to the Shogun. Might be fun yes?","cn":"也许马车就能带我们到将军那儿。好像很好玩。","jp":"きっと将軍の所へ連れてってくれる。面白そうかも。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n15","vojp":"vocs_shoguncamp_briefing_n15_jp","s":"NINJA","en":"Indeed … if they don't find us.","cn":"的确……只要不被发现的话。","jp":"確かに…これなら見つからないかもな。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n15","vojp":"vocs_shoguncamp_briefing_n15_jp","s":"NINJA","en":"Indeed … if they don't find us.","cn":"的确……只要不被发现的话。","jp":"確かに…これなら見つからないかもな。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n16","vojp":"vocs_shoguncamp_briefing_n16_jp","s":"GEISHA","en":"We have two options then. Either we drug the sake and put the guards to sleep, or we find a wagon that goes to the Shogun's tent.","cn":"也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。","jp":"二つの選択肢があるわね。酒に薬を入れて眠らせるか、馬車を見つけて将軍の所へ向かうかどちらかね。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n16","vojp":"vocs_shoguncamp_briefing_n16_jp","s":"GEISHA","en":"We have two options then. Either we drug the sake and put the guards to sleep, or we find a wagon that goes to the Shogun's tent.","cn":"也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。","jp":"二つの選択肢があるわね。酒に薬を入れて眠らせるか、馬車を見つけて将軍の所へ向かうかどちらかね。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n17","vojp":"vocs_shoguncamp_briefing_n17_jp","s":"NINJA","en":"It won't be easy either way. Good thing we're up for a challenge.","cn":"两种办法都不简单，好在咱们向来天不怕地不怕。","jp":"どちらも簡単じゃないな。だが、いつも以上に気合入ってるぜ。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n17","vojp":"vocs_shoguncamp_briefing_n17_jp","s":"NINJA","en":"It won't be easy either way. Good thing we're up for a challenge.","cn":"两种办法都不简单，好在咱们向来天不怕地不怕。","jp":"どちらも簡単じゃないな。だが、いつも以上に気合入ってるぜ。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n18","vojp":"vocs_shoguncamp_briefing_n18_jp","s":"NINJA","en":"I'll carry our guest.","cn":"我负责背咱们的“客人”吧。","jp":"俺が客を連れてく。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n18","vojp":"vocs_shoguncamp_briefing_n18_jp","s":"NINJA","en":"I'll carry our guest.","cn":"我负责背咱们的“客人”吧。","jp":"俺が客を連れてく。"}
 ,
-{"lvl":"22","sec":"312","voen":"vocs_over_over_shoguncamp_briefing_n19","vojp":"vocs_shoguncamp_briefing_n19_jp","s":"GEISHA","en":"I agree. Let us begin.","cn":"好的，开始行动吧。","jp":"いいわ。始めましょう。"}
+{"sec":312,"voen":"vocs_over_over_shoguncamp_briefing_n19","vojp":"vocs_shoguncamp_briefing_n19_jp","s":"GEISHA","en":"I agree. Let us begin.","cn":"好的，开始行动吧。","jp":"いいわ。始めましょう。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n00","vojp":"vocs_shoguncamp_briefing1a_n00_jp","s":"TRAPPER","en":"Wow! So many tents! It's like a city!","cn":"哇！这么多帐篷！连起来就像座城市！","jp":"わぁ！天幕がたくさん！町みたいね！"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n00","vojp":"vocs_shoguncamp_briefing1a_n00_jp","s":"TRAPPER","en":"Wow! So many tents! It's like a city!","cn":"哇！这么多帐篷！连起来就像座城市！","jp":"わぁ！天幕がたくさん！町みたいね！"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n01","vojp":"vocs_shoguncamp_briefing1a_n01_jp","s":"NINJA","en":"Mhm … full of soldiers with orders to shoot us on sight.","cn":"嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。","jp":"うーむ…兵ばかりだ。俺たちを見つけたら殺すように命じられてるだろう。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n01","vojp":"vocs_shoguncamp_briefing1a_n01_jp","s":"NINJA","en":"Mhm … full of soldiers with orders to shoot us on sight.","cn":"嗯……到处都是士兵。他们都已收到命令，对我们要格杀勿论了吧。","jp":"うーむ…兵ばかりだ。俺たちを見つけたら殺すように命じられてるだろう。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n02","vojp":"vocs_shoguncamp_briefing1a_n02_jp","s":"GEISHA","en":"Yes, giving ourselves up would be pointless. Best to not draw any attention.","cn":"是的，到时候我们就算投降也没有用。注意不要引起任何警觉。","jp":"ええ、身をさらしても仕方ないわね、注意を引かないようにするべきね。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n02","vojp":"vocs_shoguncamp_briefing1a_n02_jp","s":"GEISHA","en":"Yes, giving ourselves up would be pointless. Best to not draw any attention.","cn":"是的，到时候我们就算投降也没有用。注意不要引起任何警觉。","jp":"ええ、身をさらしても仕方ないわね、注意を引かないようにするべきね。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n03","vojp":"vocs_shoguncamp_briefing1a_n03_jp","s":"NINJA","en":"The Shogun's tent is at the very top. No surprise there then.","cn":"不出所料，将军的营帐在最顶端。","jp":"上様の天幕は一番上か。そこにいるのも当然か。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n03","vojp":"vocs_shoguncamp_briefing1a_n03_jp","s":"NINJA","en":"The Shogun's tent is at the very top. No surprise there then.","cn":"不出所料，将军的营帐在最顶端。","jp":"上様の天幕は一番上か。そこにいるのも当然か。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n04","vojp":"vocs_shoguncamp_briefing1a_n04_jp","s":"GEISHA","en":"This entrance is heavily guarded.","cn":"而且入口有重兵把守。","jp":"入り口は警備が厳しいわ。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n04","vojp":"vocs_shoguncamp_briefing1a_n04_jp","s":"GEISHA","en":"This entrance is heavily guarded.","cn":"而且入口有重兵把守。","jp":"入り口は警備が厳しいわ。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n05","vojp":"vocs_shoguncamp_briefing1a_n05_jp","s":"TRAPPER","en":"I see wagons!","cn":"我看见马车了！","jp":"馬車があるわ！"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n05","vojp":"vocs_shoguncamp_briefing1a_n05_jp","s":"TRAPPER","en":"I see wagons!","cn":"我看见马车了！","jp":"馬車があるわ！"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n06","vojp":"vocs_shoguncamp_briefing1a_n06_jp","s":"TRAPPER","en":"We could hide inside. Let them carry us through.","cn":"可以藏在马车里面，让马车带我们过去。","jp":"その中に隠れられそう。きっと運んでもらいましょう。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n06","vojp":"vocs_shoguncamp_briefing1a_n06_jp","s":"TRAPPER","en":"We could hide inside. Let them carry us through.","cn":"可以藏在马车里面，让马车带我们过去。","jp":"その中に隠れられそう。きっと運んでもらいましょう。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n07","vojp":"vocs_shoguncamp_briefing1a_n07_jp","s":"ALCHEMIST","en":"Hehe, a clever plan, though it pays to have a second option.","cn":"呵呵呵，此法甚妙，但我还有一计。","jp":"ほっほ、賢い作戦じゃの、じゃが、もう一つ作戦はある。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n07","vojp":"vocs_shoguncamp_briefing1a_n07_jp","s":"ALCHEMIST","en":"Hehe, a clever plan, though it pays to have a second option.","cn":"呵呵呵，此法甚妙，但我还有一计。","jp":"ほっほ、賢い作戦じゃの、じゃが、もう一つ作戦はある。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n08","vojp":"vocs_shoguncamp_briefing1a_n08_jp","s":"ALCHEMIST","en":"The guards here seem to enjoy their sake.","cn":"这里的守卫似乎很喜欢喝清酒。","jp":"ここの護衛は酒を楽しんでるようじゃの。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n08","vojp":"vocs_shoguncamp_briefing1a_n08_jp","s":"ALCHEMIST","en":"The guards here seem to enjoy their sake.","cn":"这里的守卫似乎很喜欢喝清酒。","jp":"ここの護衛は酒を楽しんでるようじゃの。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n09","vojp":"vocs_shoguncamp_briefing1a_n09_jp","s":"ALCHEMIST","en":"I know a recipe that will put them straight to sleep.","cn":"我知道有个配方可以让他们入睡。","jp":"奴らを眠らせる薬はあるぞい。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n09","vojp":"vocs_shoguncamp_briefing1a_n09_jp","s":"ALCHEMIST","en":"I know a recipe that will put them straight to sleep.","cn":"我知道有个配方可以让他们入睡。","jp":"奴らを眠らせる薬はあるぞい。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n10","vojp":"vocs_shoguncamp_briefing1a_n10_jp","s":"ALCHEMIST","en":"I still have some ingredients left. All I need is a place to brew.","cn":"我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。","jp":"まだ材が残っておるはずじゃ。あとはそれを入れる機会がじゃな。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n10","vojp":"vocs_shoguncamp_briefing1a_n10_jp","s":"ALCHEMIST","en":"I still have some ingredients left. All I need is a place to brew.","cn":"我这儿还剩了些材料。只要有个配药台就能把安眠药造出来。","jp":"まだ材が残っておるはずじゃ。あとはそれを入れる機会がじゃな。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n11","vojp":"vocs_shoguncamp_briefing1a_n11_jp","s":"GEISHA","en":"I like the idea.","cn":"这个办法不错。","jp":"いい作戦ね。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n11","vojp":"vocs_shoguncamp_briefing1a_n11_jp","s":"GEISHA","en":"I like the idea.","cn":"这个办法不错。","jp":"いい作戦ね。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n12","vojp":"vocs_shoguncamp_briefing1a_n12_jp","s":"GEISHA","en":"I could pour your brew into the sake barrel. A disguise would help with this.","cn":"我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。","jp":"私がそれを酒の樽にいれるわ。変装すればうまくいくとおもうわ。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n12","vojp":"vocs_shoguncamp_briefing1a_n12_jp","s":"GEISHA","en":"I could pour your brew into the sake barrel. A disguise would help with this.","cn":"我可以乔装混进军营里，然后把你做的安眠药倒进酒桶里。","jp":"私がそれを酒の樽にいれるわ。変装すればうまくいくとおもうわ。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n13","vojp":"vocs_shoguncamp_briefing1a_n13_jp","s":"GEISHA","en":"There are multiple opportunities to acquire one.","cn":"能入手伪装的地方不止一处。","jp":"ひとつを獲る為、複数の好機がある。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n13","vojp":"vocs_shoguncamp_briefing1a_n13_jp","s":"GEISHA","en":"There are multiple opportunities to acquire one.","cn":"能入手伪装的地方不止一处。","jp":"ひとつを獲る為、複数の好機がある。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n14","vojp":"vocs_shoguncamp_briefing1a_n14_jp","s":"NINJA","en":"So we have two options. Either we drug the sake and put the guards to sleep, or find a wagon that carries us to the Shogun's tent.","cn":"也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。","jp":"つまり選択肢は二つあるってことか。酒に薬を入れて眠らせるか、馬車を見つけて上様の所へ運んでもらうかだな。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n14","vojp":"vocs_shoguncamp_briefing1a_n14_jp","s":"NINJA","en":"So we have two options. Either we drug the sake and put the guards to sleep, or find a wagon that carries us to the Shogun's tent.","cn":"也就是说，目前有两种选择。一种是把安眠药倒进酒里让士兵入睡，另一种是混入前往将军营帐的马车上。","jp":"つまり選択肢は二つあるってことか。酒に薬を入れて眠らせるか、馬車を見つけて上様の所へ運んでもらうかだな。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n15","vojp":"vocs_shoguncamp_briefing1a_n15_jp","s":"ALCHEMIST","en":"And then we face our destiny.","cn":"之后就听天由命了。","jp":"そして、運命へと向かうのじゃ。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n15","vojp":"vocs_shoguncamp_briefing1a_n15_jp","s":"ALCHEMIST","en":"And then we face our destiny.","cn":"之后就听天由命了。","jp":"そして、運命へと向かうのじゃ。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n16","vojp":"vocs_shoguncamp_briefing1a_n16_jp","s":"GEISHA","en":"It is our only hope.","cn":"这是我们最后的希望。","jp":"最後の望みね 。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n16","vojp":"vocs_shoguncamp_briefing1a_n16_jp","s":"GEISHA","en":"It is our only hope.","cn":"这是我们最后的希望。","jp":"最後の望みね 。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n17","vojp":"vocs_shoguncamp_briefing1a_n17_jp","s":"TRAPPER","en":"The Shogun will be angry with us …","cn":"将军大人一定会发火吧…","jp":"将軍様はお怒りになるだろうね。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n17","vojp":"vocs_shoguncamp_briefing1a_n17_jp","s":"TRAPPER","en":"The Shogun will be angry with us …","cn":"将军大人一定会发火吧…","jp":"将軍様はお怒りになるだろうね。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n17a","vojp":"vocs_shoguncamp_briefing1a_n17a_jp","s":"TRAPPER","en":"We will meet the Shogun …","cn":"终于要见到将军大人了么…","jp":"将軍様にお会いできるんだね…。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n17a","vojp":"vocs_shoguncamp_briefing1a_n17a_jp","s":"TRAPPER","en":"We will meet the Shogun …","cn":"终于要见到将军大人了么…","jp":"将軍様にお会いできるんだね…。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n18","vojp":"vocs_shoguncamp_briefing1a_n18_jp","s":"GEISHA","en":"Hayato-san. Will you carry our present for the Shogun?","cn":"隼人兄，为将军准备的“礼物”能交给你来背吗？","jp":"隼人さん、上様への”献上品”はあなたが運んでくれる？"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n18","vojp":"vocs_shoguncamp_briefing1a_n18_jp","s":"GEISHA","en":"Hayato-san. Will you carry our present for the Shogun?","cn":"隼人兄，为将军准备的“礼物”能交给你来背吗？","jp":"隼人さん、上様への”献上品”はあなたが運んでくれる？"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n19","vojp":"vocs_shoguncamp_briefing1a_n19_jp","s":"NINJA","en":"I'm ready.","cn":"嗯，没问题。","jp":"ああ、大丈夫だ。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n19","vojp":"vocs_shoguncamp_briefing1a_n19_jp","s":"NINJA","en":"I'm ready.","cn":"嗯，没问题。","jp":"ああ、大丈夫だ。"}
 ,
-{"lvl":"22","sec":"313","voen":"vocs_over_over_shoguncamp_briefing1a_n20","vojp":"vocs_shoguncamp_briefing1a_n20_jp","s":"GEISHA","en":"Very well. Let us begin then.","cn":"很好。开始行动吧。","jp":"よさそうね。始めましょう。"}
+{"sec":313,"voen":"vocs_over_over_shoguncamp_briefing1a_n20","vojp":"vocs_shoguncamp_briefing1a_n20_jp","s":"GEISHA","en":"Very well. Let us begin then.","cn":"很好。开始行动吧。","jp":"よさそうね。始めましょう。"}
 ,
-{"lvl":"22","sec":"314","voen":"vocs_over_over_shoguncamp_murder1_n00","vojp":"vocs_shoguncamp_murder1_n00_jp","s":"NINJA","en":"Hrm …","cn":"唔……","jp":"うー…。"}
+{"sec":314,"voen":"vocs_over_over_shoguncamp_murder1_n00","vojp":"vocs_shoguncamp_murder1_n00_jp","s":"NINJA","en":"Hrm …","cn":"唔……","jp":"うー…。"}
 ,
-{"lvl":"22","sec":"314","voen":"vocs_over_over_shoguncamp_murder1_n01","vojp":"vocs_shoguncamp_murder1_n01_jp","s":"TRAPPER","en":"Shhh … I'm sorry … I'm so sorry …","cn":"嘘……对不起……对不起……","jp":"しー…ごめんさい…ごめんなさい…。"}
+{"sec":314,"voen":"vocs_over_over_shoguncamp_murder1_n01","vojp":"vocs_shoguncamp_murder1_n01_jp","s":"TRAPPER","en":"Shhh … I'm sorry … I'm so sorry …","cn":"嘘……对不起……对不起……","jp":"しー…ごめんさい…ごめんなさい…。"}
 ,
-{"lvl":"22","sec":"314","voen":"vocs_over_over_shoguncamp_murder1_n02","vojp":"vocs_shoguncamp_murder1_n02_jp","s":"ALCHEMIST","en":"… dark times.","cn":"……形势所迫。","jp":"…暗黒じゃ。"}
+{"sec":314,"voen":"vocs_over_over_shoguncamp_murder1_n02","vojp":"vocs_shoguncamp_murder1_n02_jp","s":"ALCHEMIST","en":"… dark times.","cn":"……形势所迫。","jp":"…暗黒じゃ。"}
 ,
-{"lvl":"22","sec":"314","voen":"vocs_over_over_shoguncamp_murder1_n03","vojp":"vocs_shoguncamp_murder1_n03_jp","s":"GEISHA","en":"It feels wrong, killing our allies, but it cannot be changed. Noboru has forced their deaths upon us.","cn":"杀死友军虽然不对，但也是迫于无奈。一切都是昇害的。","jp":"仲間を殺すのは間違っている気もするけど、仕方がないわ。昇が殺させたのよ。"}
+{"sec":314,"voen":"vocs_over_over_shoguncamp_murder1_n03","vojp":"vocs_shoguncamp_murder1_n03_jp","s":"GEISHA","en":"It feels wrong, killing our allies, but it cannot be changed. Noboru has forced their deaths upon us.","cn":"杀死友军虽然不对，但也是迫于无奈。一切都是昇害的。","jp":"仲間を殺すのは間違っている気もするけど、仕方がないわ。昇が殺させたのよ。"}
 ,
-{"lvl":"22","sec":"315","voen":"vocs_over_over_shoguncamp_murder2_n00","vojp":"vocs_shoguncamp_murder2_n00_jp","s":"NINJA","en":"Hrm … this is not right.","cn":"嗯……这样不好吧。","jp":"うーむ…これは良くないな。"}
+{"sec":315,"voen":"vocs_over_over_shoguncamp_murder2_n00","vojp":"vocs_shoguncamp_murder2_n00_jp","s":"NINJA","en":"Hrm … this is not right.","cn":"嗯……这样不好吧。","jp":"うーむ…これは良くないな。"}
 ,
-{"lvl":"22","sec":"315","voen":"vocs_over_over_shoguncamp_murder2_n01","vojp":"vocs_shoguncamp_murder2_n01_jp","s":"TRAPPER","en":"I'm sorry …","cn":"对不起……","jp":"ごめんなさい…。"}
+{"sec":315,"voen":"vocs_over_over_shoguncamp_murder2_n01","vojp":"vocs_shoguncamp_murder2_n01_jp","s":"TRAPPER","en":"I'm sorry …","cn":"对不起……","jp":"ごめんなさい…。"}
 ,
-{"lvl":"22","sec":"315","voen":"vocs_over_over_shoguncamp_murder2_n02","vojp":"vocs_shoguncamp_murder2_n02_jp","s":"GEISHA","en":"Forgive me …","cn":"请原谅……","jp":"お許しを…。"}
+{"sec":315,"voen":"vocs_over_over_shoguncamp_murder2_n02","vojp":"vocs_shoguncamp_murder2_n02_jp","s":"GEISHA","en":"Forgive me …","cn":"请原谅……","jp":"お許しを…。"}
 ,
-{"lvl":"22","sec":"315","voen":"vocs_over_over_shoguncamp_murder2_n03","vojp":"vocs_shoguncamp_murder2_n03_jp","s":"ALCHEMIST","en":"Hmm, today's friend, tomorrow's enemy. It cannot be helped.","cn":"哎，今天的朋友就是明天的敌人。我们也别无选择。","jp":"うーむ、今日の友は明日の敵じゃの。どうしようもないのじゃ。"}
+{"sec":315,"voen":"vocs_over_over_shoguncamp_murder2_n03","vojp":"vocs_shoguncamp_murder2_n03_jp","s":"ALCHEMIST","en":"Hmm, today's friend, tomorrow's enemy. It cannot be helped.","cn":"哎，今天的朋友就是明天的敌人。我们也别无选择。","jp":"うーむ、今日の友は明日の敵じゃの。どうしようもないのじゃ。"}
 ,
-{"lvl":"22","sec":"316","voen":"vocs_over_over_shoguncamp_murder3_n00","vojp":"vocs_shoguncamp_murder3_n00_jp","s":"NINJA","en":"Hrm … damn …","cn":"嗯……真该死……","jp":"あぁ…くそ…。"}
+{"sec":316,"voen":"vocs_over_over_shoguncamp_murder3_n00","vojp":"vocs_shoguncamp_murder3_n00_jp","s":"NINJA","en":"Hrm … damn …","cn":"嗯……真该死……","jp":"あぁ…くそ…。"}
 ,
-{"lvl":"22","sec":"316","voen":"vocs_over_over_shoguncamp_murder3_n01","vojp":"vocs_shoguncamp_murder3_n01_jp","s":"TRAPPER","en":"I don't like this …","cn":"我讨厌这样……","jp":"こんなの嫌…。"}
+{"sec":316,"voen":"vocs_over_over_shoguncamp_murder3_n01","vojp":"vocs_shoguncamp_murder3_n01_jp","s":"TRAPPER","en":"I don't like this …","cn":"我讨厌这样……","jp":"こんなの嫌…。"}
 ,
-{"lvl":"22","sec":"316","voen":"vocs_over_over_shoguncamp_murder3_n02","vojp":"vocs_shoguncamp_murder3_n02_jp","s":"ALCHEMIST","en":"Forgive me, friend.","cn":"非常抱歉。","jp":"すまぬのう。"}
+{"sec":316,"voen":"vocs_over_over_shoguncamp_murder3_n02","vojp":"vocs_shoguncamp_murder3_n02_jp","s":"ALCHEMIST","en":"Forgive me, friend.","cn":"非常抱歉。","jp":"すまぬのう。"}
 ,
-{"lvl":"22","sec":"316","voen":"vocs_over_over_shoguncamp_murder3_n03","vojp":"vocs_shoguncamp_murder3_n03_jp","s":"GEISHA","en":"We killed them for our own survival. Judgement falls to the Shogun alone.","cn":"我们也不过是为了自保，一切都交给将军决断吧。","jp":"生き延びるためよ。判断は上様がするのよ。"}
+{"sec":316,"voen":"vocs_over_over_shoguncamp_murder3_n03","vojp":"vocs_shoguncamp_murder3_n03_jp","s":"GEISHA","en":"We killed them for our own survival. Judgement falls to the Shogun alone.","cn":"我们也不过是为了自保，一切都交给将军决断吧。","jp":"生き延びるためよ。判断は上様がするのよ。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n00","vojp":"vocs_shoguncamp_cargonin_n00_jp","s":"NINJA","en":"Hrm … I  hope you don't snore.","cn":"嗯……希望他别打呼噜。","jp":"はー…いびきはかかないでほしいな。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n00","vojp":"vocs_shoguncamp_cargonin_n00_jp","s":"NINJA","en":"Hrm … I  hope you don't snore.","cn":"嗯……希望他别打呼噜。","jp":"はー…いびきはかかないでほしいな。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n01","vojp":"vocs_shoguncamp_cargonin_n01_jp","s":"NINJA","en":"Are you getting heavier?","cn":"怎么变重了？","jp":"重くなったか？"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n01","vojp":"vocs_shoguncamp_cargonin_n01_jp","s":"NINJA","en":"Are you getting heavier?","cn":"怎么变重了？","jp":"重くなったか？"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n02","vojp":"vocs_shoguncamp_cargonin_n02_jp","s":"NINJA","en":"You're heavier than you look.","cn":"比看起来重多了。","jp":"見た目より重いな。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n02","vojp":"vocs_shoguncamp_cargonin_n02_jp","s":"NINJA","en":"You're heavier than you look.","cn":"比看起来重多了。","jp":"見た目より重いな。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n03","vojp":"vocs_shoguncamp_cargonin_n03_jp","s":"NINJA","en":"How high is this wretched mountain.","cn":"这该死的山到底有多高啊？","jp":"随分重くて哀れな荷物だ。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n03","vojp":"vocs_shoguncamp_cargonin_n03_jp","s":"NINJA","en":"How high is this wretched mountain.","cn":"这该死的山到底有多高啊？","jp":"随分重くて哀れな荷物だ。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n04","vojp":"vocs_shoguncamp_cargonin_n04_jp","s":"NINJA","en":"Nice and easy.","cn":"慢慢来。","jp":"おとなしくしてくれ。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n04","vojp":"vocs_shoguncamp_cargonin_n04_jp","s":"NINJA","en":"Nice and easy.","cn":"慢慢来。","jp":"おとなしくしてくれ。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n05","vojp":"vocs_shoguncamp_cargonin_n05_jp","s":"NINJA","en":"Up we go …","cn":"往上走…","jp":"おら、行くぞ。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n05","vojp":"vocs_shoguncamp_cargonin_n05_jp","s":"NINJA","en":"Up we go …","cn":"往上走…","jp":"おら、行くぞ。"}
 ,
-{"lvl":"22","sec":"317","voen":"vocs_over_over_shoguncamp_cargonin_n06","vojp":"vocs_shoguncamp_cargonin_n06_jp","s":"NINJA","en":"The old man really did put you to sleep.","cn":"…老爷子的安眠药也太有效了吧？","jp":"爺さんは本当に眠らせたんだな。"}
+{"sec":317,"voen":"vocs_over_over_shoguncamp_cargonin_n06","vojp":"vocs_shoguncamp_cargonin_n06_jp","s":"NINJA","en":"The old man really did put you to sleep.","cn":"…老爷子的安眠药也太有效了吧？","jp":"爺さんは本当に眠らせたんだな。"}
 ,
-{"lvl":"22","sec":"318","voen":"vocs_over_over_shoguncamp_cargotra_n00","vojp":"vocs_shoguncamp_cargotra_n00_jp","s":"TRAPPER","en":"Urgh ... he's heavy!","cn":"呜……好重……","jp":"うぐぅ…重い！"}
+{"sec":318,"voen":"vocs_over_over_shoguncamp_cargotra_n00","vojp":"vocs_shoguncamp_cargotra_n00_jp","s":"TRAPPER","en":"Urgh ... he's heavy!","cn":"呜……好重……","jp":"うぐぅ…重い！"}
 ,
-{"lvl":"22","sec":"318","voen":"vocs_over_over_shoguncamp_cargotra_n01","vojp":"vocs_shoguncamp_cargotra_n01_jp","s":"TRAPPER","en":"Urgh ... Hayato-san, why can't you do it?","cn":"呜……隼人师父，你怎么不来背呢？","jp":"うぐぅ…隼人さん、なんでやってくれないの？"}
+{"sec":318,"voen":"vocs_over_over_shoguncamp_cargotra_n01","vojp":"vocs_shoguncamp_cargotra_n01_jp","s":"TRAPPER","en":"Urgh ... Hayato-san, why can't you do it?","cn":"呜……隼人师父，你怎么不来背呢？","jp":"うぐぅ…隼人さん、なんでやってくれないの？"}
 ,
-{"lvl":"22","sec":"318","voen":"vocs_over_over_shoguncamp_cargotra_n02","vojp":"vocs_shoguncamp_cargotra_n02_jp","s":"TRAPPER","en":"Urgh … too slow, too slow …","cn":"呃……好慢，太慢了……","jp":"うぐぅ…遅い、遅すぎる…。"}
+{"sec":318,"voen":"vocs_over_over_shoguncamp_cargotra_n02","vojp":"vocs_shoguncamp_cargotra_n02_jp","s":"TRAPPER","en":"Urgh … too slow, too slow …","cn":"呃……好慢，太慢了……","jp":"うぐぅ…遅い、遅すぎる…。"}
 ,
-{"lvl":"22","sec":"319","voen":"vocs_over_over_shoguncamp_cargogei_n00","vojp":"vocs_shoguncamp_cargogei_n00_jp","s":"GEISHA","en":"No, this is too slow.","cn":"不行，这样太慢了。","jp":"駄目、遅すぎるわ。"}
+{"sec":319,"voen":"vocs_over_over_shoguncamp_cargogei_n00","vojp":"vocs_shoguncamp_cargogei_n00_jp","s":"GEISHA","en":"No, this is too slow.","cn":"不行，这样太慢了。","jp":"駄目、遅すぎるわ。"}
 ,
-{"lvl":"22","sec":"319","voen":"vocs_over_over_shoguncamp_cargogei_n01","vojp":"vocs_shoguncamp_cargogei_n01_jp","s":"GEISHA","en":"I should leave this to Hayato-san.","cn":"应该交给隼人兄来搬。","jp":"隼人さんに任せたいわ。"}
+{"sec":319,"voen":"vocs_over_over_shoguncamp_cargogei_n01","vojp":"vocs_shoguncamp_cargogei_n01_jp","s":"GEISHA","en":"I should leave this to Hayato-san.","cn":"应该交给隼人兄来搬。","jp":"隼人さんに任せたいわ。"}
 ,
-{"lvl":"22","sec":"319","voen":"vocs_over_over_shoguncamp_cargogei_n02","vojp":"vocs_shoguncamp_cargogei_n02_jp","s":"GEISHA","en":"This won't do.","cn":"这样下去不行。","jp":"駄目だわ。"}
+{"sec":319,"voen":"vocs_over_over_shoguncamp_cargogei_n02","vojp":"vocs_shoguncamp_cargogei_n02_jp","s":"GEISHA","en":"This won't do.","cn":"这样下去不行。","jp":"駄目だわ。"}
 ,
-{"lvl":"22","sec":"320","voen":"vocs_over_over_shoguncamp_wagons1_n00","vojp":"vocs_shoguncamp_wagons1_n00_jp","s":"NINJA","en":"Hmm ... is that the wagon we need?","cn":"这辆是我们要找的马车吗？","jp":"うーむ、これが探してる馬車か？"}
+{"sec":320,"voen":"vocs_over_over_shoguncamp_wagons1_n00","vojp":"vocs_shoguncamp_wagons1_n00_jp","s":"NINJA","en":"Hmm ... is that the wagon we need?","cn":"这辆是我们要找的马车吗？","jp":"うーむ、これが探してる馬車か？"}
 ,
-{"lvl":"22","sec":"320","voen":"vocs_over_over_shoguncamp_wagons1_n01","vojp":"vocs_shoguncamp_wagons1_n01_jp","s":"TRAPPER","en":"Yes, there's a wagon … but is it the right one?","cn":"看，是马车…不过，这辆对吗?","jp":"そう、馬車…けどこれでいいのかな？"}
+{"sec":320,"voen":"vocs_over_over_shoguncamp_wagons1_n01","vojp":"vocs_shoguncamp_wagons1_n01_jp","s":"TRAPPER","en":"Yes, there's a wagon … but is it the right one?","cn":"看，是马车…不过，这辆对吗?","jp":"そう、馬車…けどこれでいいのかな？"}
 ,
-{"lvl":"22","sec":"320","voen":"vocs_over_over_shoguncamp_wagons1_n02","vojp":"vocs_shoguncamp_wagons1_n02_jp","s":"ALCHEMIST","en":"Ah, I see a wagon, but I doubt it is the one we need.","cn":"啊，看到马车了。但好像不是我们需要的那辆。","jp":"ああ、馬車じゃ。じゃが、求めておるのとは違わんかのう。"}
+{"sec":320,"voen":"vocs_over_over_shoguncamp_wagons1_n02","vojp":"vocs_shoguncamp_wagons1_n02_jp","s":"ALCHEMIST","en":"Ah, I see a wagon, but I doubt it is the one we need.","cn":"啊，看到马车了。但好像不是我们需要的那辆。","jp":"ああ、馬車じゃ。じゃが、求めておるのとは違わんかのう。"}
 ,
-{"lvl":"22","sec":"320","voen":"vocs_over_over_shoguncamp_wagons1_n03","vojp":"vocs_shoguncamp_wagons1_n03_jp","s":"GEISHA","en":"This wagon is not heading for the Shogun's tent. It can only carry us up the mountain to that small temple.","cn":"这辆马车不是前往将军营帐的。只能带我们到山上小庙那里。","jp":"これは上様の所へは向かわないわ。山の小さな寺に行く馬車よ。"}
+{"sec":320,"voen":"vocs_over_over_shoguncamp_wagons1_n03","vojp":"vocs_shoguncamp_wagons1_n03_jp","s":"GEISHA","en":"This wagon is not heading for the Shogun's tent. It can only carry us up the mountain to that small temple.","cn":"这辆马车不是前往将军营帐的。只能带我们到山上小庙那里。","jp":"これは上様の所へは向かわないわ。山の小さな寺に行く馬車よ。"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n00","vojp":"vo_shoguncamp_checkpoint1_n00_jp","s":"CIVILIAN M","en":"Any trouble ahead?","cn":"前面有异常吗？","jp":"どうかされましたか？"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n00","vojp":"vo_shoguncamp_checkpoint1_n00_jp","s":"CIVILIAN M","en":"Any trouble ahead?","cn":"前面有异常吗？","jp":"どうかされましたか？"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n01","vojp":"vo_shoguncamp_checkpoint1_n01_jp","s":"ENEMY","en":"All's quiet.","cn":"风平浪静。","jp":"静かなもんだよ。"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n01","vojp":"vo_shoguncamp_checkpoint1_n01_jp","s":"ENEMY","en":"All's quiet.","cn":"风平浪静。","jp":"静かなもんだよ。"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n02","vojp":"vo_shoguncamp_checkpoint1_n02_jp","s":"CIVILIAN M","en":"I'm heading for the temple.","cn":"我这车是去寺庙的。","jp":"お寺へ向かっております。"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n02","vojp":"vo_shoguncamp_checkpoint1_n02_jp","s":"CIVILIAN M","en":"I'm heading for the temple.","cn":"我这车是去寺庙的。","jp":"お寺へ向かっております。"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n03","vojp":"vo_shoguncamp_checkpoint1_n03_jp","s":"ENEMY","en":"Your wagon will be inspected then.","cn":"那就让我们检查一下。","jp":"なら検査させてもらうか。"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n03","vojp":"vo_shoguncamp_checkpoint1_n03_jp","s":"ENEMY","en":"Your wagon will be inspected then.","cn":"那就让我们检查一下。","jp":"なら検査させてもらうか。"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n04","vojp":"vo_shoguncamp_checkpoint1_n04_jp","s":"CIVILIAN M","en":"Ah, same as always.","cn":"哎呀，就还是那几样货。","jp":"あぁ、いつものですね。"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n04","vojp":"vo_shoguncamp_checkpoint1_n04_jp","s":"CIVILIAN M","en":"Ah, same as always.","cn":"哎呀，就还是那几样货。","jp":"あぁ、いつものですね。"}
 ,
-{"lvl":"22","sec":"321","voen":"vo_hint_hint_shoguncamp_checkpoint1_n05","vojp":"vo_shoguncamp_checkpoint1_n05_jp","s":"ENEMY","en":"Go on. On your way.","cn":"去吧，快走。","jp":"行け、進んでくれ。"}
+{"sec":321,"voen":"vo_hint_hint_shoguncamp_checkpoint1_n05","vojp":"vo_shoguncamp_checkpoint1_n05_jp","s":"ENEMY","en":"Go on. On your way.","cn":"去吧，快走。","jp":"行け、進んでくれ。"}
 ,
-{"lvl":"22","sec":"322","voen":"vo_hint_hint_shoguncamp_checkpoint2_n00","vojp":"vo_shoguncamp_checkpoint2_n00_jp","s":"SAMURAI","en":"Hold up! We must inspect your cargo.","cn":"停车!让我们检查一下货物。","jp":"待て！積荷を見せてもらう。"}
+{"sec":322,"voen":"vo_hint_hint_shoguncamp_checkpoint2_n00","vojp":"vo_shoguncamp_checkpoint2_n00_jp","s":"SAMURAI","en":"Hold up! We must inspect your cargo.","cn":"停车!让我们检查一下货物。","jp":"待て！積荷を見せてもらう。"}
 ,
-{"lvl":"22","sec":"322","voen":"vo_hint_hint_shoguncamp_checkpoint2_n01","vojp":"vo_shoguncamp_checkpoint2_n01_jp","s":"CIVILIAN M","en":"Sure. Go ahead.","cn":"当然可以，您请便。","jp":"もちろんです、どうぞ。"}
+{"sec":322,"voen":"vo_hint_hint_shoguncamp_checkpoint2_n01","vojp":"vo_shoguncamp_checkpoint2_n01_jp","s":"CIVILIAN M","en":"Sure. Go ahead.","cn":"当然可以，您请便。","jp":"もちろんです、どうぞ。"}
 ,
-{"lvl":"22","sec":"322","voen":"vo_hint_hint_shoguncamp_checkpoint2_n02","vojp":"vo_shoguncamp_checkpoint2_n02_jp","s":"SAMURAI","en":"It'll only take a moment.","cn":"很快的。","jp":"すぐおわる。"}
+{"sec":322,"voen":"vo_hint_hint_shoguncamp_checkpoint2_n02","vojp":"vo_shoguncamp_checkpoint2_n02_jp","s":"SAMURAI","en":"It'll only take a moment.","cn":"很快的。","jp":"すぐおわる。"}
 ,
-{"lvl":"22","sec":"323","voen":"vocs_over_over_shoguncamp_wagoncheck_n00","vojp":"vocs_shoguncamp_wagoncheck_n00_jp","s":"SAMURAI","en":"Someone's hiding in the wagon! Intruders!","cn":"有人藏在马车里!有刺客!","jp":"誰か馬車に隠れておるぞ！侵入者だ！"}
+{"sec":323,"voen":"vocs_over_over_shoguncamp_wagoncheck_n00","vojp":"vocs_shoguncamp_wagoncheck_n00_jp","s":"SAMURAI","en":"Someone's hiding in the wagon! Intruders!","cn":"有人藏在马车里!有刺客!","jp":"誰か馬車に隠れておるぞ！侵入者だ！"}
 ,
-{"lvl":"22","sec":"324","voen":"vocs_over_over_shoguncamp_wagons2_n00","vojp":"vocs_shoguncamp_wagons2_n00_jp","s":"NINJA","en":"Must be harsh, living up here at the temple.","cn":"住在这种山上的庙里，一定很辛苦。","jp":"きついだろうな、この寺に住むのは。"}
+{"sec":324,"voen":"vocs_over_over_shoguncamp_wagons2_n00","vojp":"vocs_shoguncamp_wagons2_n00_jp","s":"NINJA","en":"Must be harsh, living up here at the temple.","cn":"住在这种山上的庙里，一定很辛苦。","jp":"きついだろうな、この寺に住むのは。"}
 ,
-{"lvl":"22","sec":"324","voen":"vocs_over_over_shoguncamp_wagons2_n01","vojp":"vocs_shoguncamp_wagons2_n01_jp","s":"TRAPPER","en":"The temple ... it looks so peaceful.","cn":"是寺庙……看起来真祥和啊。","jp":"お寺…平和そうな所ね。"}
+{"sec":324,"voen":"vocs_over_over_shoguncamp_wagons2_n01","vojp":"vocs_shoguncamp_wagons2_n01_jp","s":"TRAPPER","en":"The temple ... it looks so peaceful.","cn":"是寺庙……看起来真祥和啊。","jp":"お寺…平和そうな所ね。"}
 ,
-{"lvl":"22","sec":"324","voen":"vocs_over_over_shoguncamp_wagons2_n02","vojp":"vocs_shoguncamp_wagons2_n02_jp","s":"ALCHEMIST","en":"This temple ... at least the Shogunate army respects the inhabitants.","cn":"这个寺庙……看来幕府军对庙里的人还算尊重。","jp":"寺じゃの…幕府軍は住人を尊重しているようじゃの。"}
+{"sec":324,"voen":"vocs_over_over_shoguncamp_wagons2_n02","vojp":"vocs_shoguncamp_wagons2_n02_jp","s":"ALCHEMIST","en":"This temple ... at least the Shogunate army respects the inhabitants.","cn":"这个寺庙……看来幕府军对庙里的人还算尊重。","jp":"寺じゃの…幕府軍は住人を尊重しているようじゃの。"}
 ,
-{"lvl":"22","sec":"324","voen":"vocs_over_over_shoguncamp_wagons2_n03","vojp":"vocs_shoguncamp_wagons2_n03_jp","s":"GEISHA","en":"The wagon that's loaded here is heading for the Shogun's tent. It might be our chance.","cn":"在这里装货的马车会前往将军的营帐。可以利用这个机会。","jp":"ここで積まれた荷物は上様の天幕へ向かうわ。好機と捉えてよさそうね。"}
+{"sec":324,"voen":"vocs_over_over_shoguncamp_wagons2_n03","vojp":"vocs_shoguncamp_wagons2_n03_jp","s":"GEISHA","en":"The wagon that's loaded here is heading for the Shogun's tent. It might be our chance.","cn":"在这里装货的马车会前往将军的营帐。可以利用这个机会。","jp":"ここで積まれた荷物は上様の天幕へ向かうわ。好機と捉えてよさそうね。"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n00","vojp":"vocs_shoguncamp_party1_n00_jp","s":"NINJA","en":"There's no chance we'll get through there.","cn":"这里是完全不可能通过的吧。","jp":"ここを通るのは不可能だろう。"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n00","vojp":"vocs_shoguncamp_party1_n00_jp","s":"NINJA","en":"There's no chance we'll get through there.","cn":"这里是完全不可能通过的吧。","jp":"ここを通るのは不可能だろう。"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n01","vojp":"vocs_shoguncamp_party1_n01_jp","s":"TRAPPER","en":"No, no not there! They'll see us!","cn":"不行！不行，不能走这边！肯定会被看到的!","jp":"駄目、駄目、ここじゃない！見つかる！"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n01","vojp":"vocs_shoguncamp_party1_n01_jp","s":"TRAPPER","en":"No, no not there! They'll see us!","cn":"不行！不行，不能走这边！肯定会被看到的!","jp":"駄目、駄目、ここじゃない！見つかる！"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n02","vojp":"vocs_shoguncamp_party1_n02_jp","s":"GEISHA","en":"Even in disguise, I would not be able to pass through this crowd.","cn":"即使乔装，我也无法混过这群人。","jp":"変装していても、この人の中じゃ気づかれるわ。"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n02","vojp":"vocs_shoguncamp_party1_n02_jp","s":"GEISHA","en":"Even in disguise, I would not be able to pass through this crowd.","cn":"即使乔装，我也无法混过这群人。","jp":"変装していても、この人の中じゃ気づかれるわ。"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n03","vojp":"vocs_shoguncamp_party1_n03_jp","s":"ALCHEMIST","en":"They cannot spot us if they are fast asleep.","cn":"但如果让他们睡着，就不会发现我们了。","jp":"一瞬で皆眠ってくれれば見つからんじゃろう。"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n03","vojp":"vocs_shoguncamp_party1_n03_jp","s":"ALCHEMIST","en":"They cannot spot us if they are fast asleep.","cn":"但如果让他们睡着，就不会发现我们了。","jp":"一瞬で皆眠ってくれれば見つからんじゃろう。"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n04","vojp":"vocs_shoguncamp_party1_n04_jp","s":"GEISHA","en":"Then let us find a place where you can brew the sleeping draught.","cn":"先找个能调制安眠药的地方吧。","jp":"眠り薬を作れる場所を見つけましょうか。"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n04","vojp":"vocs_shoguncamp_party1_n04_jp","s":"GEISHA","en":"Then let us find a place where you can brew the sleeping draught.","cn":"先找个能调制安眠药的地方吧。","jp":"眠り薬を作れる場所を見つけましょうか。"}
 ,
-{"lvl":"22","sec":"325","voen":"vocs_over_over_shoguncamp_party1_n05","vojp":"vocs_shoguncamp_party1_n05_jp","s":"GEISHA","en":"You made the sleeping draught. I will put on a disguise and add it to the sake barrel.","cn":"安眠药已经准备好了。让我乔装一下，把药倒进清酒桶里。","jp":"眠り薬ができたわね。変装して酒の樽へ入れてくるわ。"}
+{"sec":325,"voen":"vocs_over_over_shoguncamp_party1_n05","vojp":"vocs_shoguncamp_party1_n05_jp","s":"GEISHA","en":"You made the sleeping draught. I will put on a disguise and add it to the sake barrel.","cn":"安眠药已经准备好了。让我乔装一下，把药倒进清酒桶里。","jp":"眠り薬ができたわね。変装して酒の樽へ入れてくるわ。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n00","vojp":"vo_shoguncamp_sober_n00_jp","s":"SAMURAI","en":"Damn the traitors.","cn":"该死的叛徒。","jp":"反逆者の畜生め。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n00","vojp":"vo_shoguncamp_sober_n00_jp","s":"SAMURAI","en":"Damn the traitors.","cn":"该死的叛徒。","jp":"反逆者の畜生め。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n01","vojp":"vo_shoguncamp_sober_n01_jp","s":"ENEMY","en":"They deserve it, they murdered the heir to the Shogunate.","cn":"是啊，他们竟敢杀害将军的继承人。","jp":"ああそうだ、奴らは、幕府の相続を殺したのだ。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n01","vojp":"vo_shoguncamp_sober_n01_jp","s":"ENEMY","en":"They deserve it, they murdered the heir to the Shogunate.","cn":"是啊，他们竟敢杀害将军的继承人。","jp":"ああそうだ、奴らは、幕府の相続を殺したのだ。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n02","vojp":"vo_shoguncamp_sober_n02_jp","s":"STATIC","en":"I still can't believe it.","cn":"我还是不敢相信。","jp":"未だに信じられぬ。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n02","vojp":"vo_shoguncamp_sober_n02_jp","s":"STATIC","en":"I still can't believe it.","cn":"我还是不敢相信。","jp":"未だに信じられぬ。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n03","vojp":"vo_shoguncamp_sober_n03_jp","s":"SAMURAI","en":"They will not escape justice!","cn":"正义必将制裁他们！","jp":"正義からは逃れられぬ。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n03","vojp":"vo_shoguncamp_sober_n03_jp","s":"SAMURAI","en":"They will not escape justice!","cn":"正义必将制裁他们！","jp":"正義からは逃れられぬ。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n04","vojp":"vo_shoguncamp_sober_n04_jp","s":"ENEMY","en":"Wonder where they're hiding.","cn":"他们到底藏在哪里？","jp":"どこにかくれているであろうか？"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n04","vojp":"vo_shoguncamp_sober_n04_jp","s":"ENEMY","en":"Wonder where they're hiding.","cn":"他们到底藏在哪里？","jp":"どこにかくれているであろうか？"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n05","vojp":"vo_shoguncamp_sober_n05_jp","s":"STATIC","en":"What is Kage-sama up to?","cn":"影大人在干什么？","jp":"カゲサマは何をしているのだろうか。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n05","vojp":"vo_shoguncamp_sober_n05_jp","s":"STATIC","en":"What is Kage-sama up to?","cn":"影大人在干什么？","jp":"カゲサマは何をしているのだろうか。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n06","vojp":"vo_shoguncamp_sober_n06_jp","s":"SAMURAI","en":"We must protect the Shogun!","cn":"必须保护好将军!","jp":"将軍様をお守りしなければ。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n06","vojp":"vo_shoguncamp_sober_n06_jp","s":"SAMURAI","en":"We must protect the Shogun!","cn":"必须保护好将军!","jp":"将軍様をお守りしなければ。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n07","vojp":"vo_shoguncamp_sober_n07_jp","s":"ENEMY","en":"I never thought I'd ever lay eyes on the emperor.","cn":"从没想过我还能到京都保卫天皇。","jp":"京都で天皇陛下をお守りするとは思いもしておらぬかった。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n07","vojp":"vo_shoguncamp_sober_n07_jp","s":"ENEMY","en":"I never thought I'd ever lay eyes on the emperor.","cn":"从没想过我还能到京都保卫天皇。","jp":"京都で天皇陛下をお守りするとは思いもしておらぬかった。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n08","vojp":"vo_shoguncamp_sober_n08_jp","s":"STATIC","en":"The road to Kyoto is so long.","cn":"去京都的路真是漫长。","jp":"京都への道は長い。"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n08","vojp":"vo_shoguncamp_sober_n08_jp","s":"STATIC","en":"The road to Kyoto is so long.","cn":"去京都的路真是漫长。","jp":"京都への道は長い。"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n09","vojp":"vo_shoguncamp_sober_n09_jp","s":"SAMURAI","en":"Sake!","cn":"上酒！","jp":"酒！"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n09","vojp":"vo_shoguncamp_sober_n09_jp","s":"SAMURAI","en":"Sake!","cn":"上酒！","jp":"酒！"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n10","vojp":"vo_shoguncamp_sober_n10_jp","s":"ENEMY","en":"Sake!","cn":"上酒！","jp":"酒！"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n10","vojp":"vo_shoguncamp_sober_n10_jp","s":"ENEMY","en":"Sake!","cn":"上酒！","jp":"酒！"}
 ,
-{"lvl":"22","sec":"326","voen":"vo_hint_hint_shoguncamp_sober_n11","vojp":"vo_shoguncamp_sober_n11_jp","s":"STATIC","en":"Sake!","cn":"上酒！","jp":"酒！"}
+{"sec":326,"voen":"vo_hint_hint_shoguncamp_sober_n11","vojp":"vo_shoguncamp_sober_n11_jp","s":"STATIC","en":"Sake!","cn":"上酒！","jp":"酒！"}
 ,
-{"lvl":"22","sec":"327","voen":"vocs_over_over_shoguncamp_brew_n00","vojp":"vocs_shoguncamp_brew_n00_jp","s":"ALCHEMIST","en":"Hehe, a potent concoction. This can put the men at the campfire to sleep.","cn":"呵呵呵，强效安眠药完成了。能让篝火旁的那群士兵都睡着。","jp":"ほっほ、強力な調合じゃ。野営の兵を眠らせられるわい。"}
+{"sec":327,"voen":"vocs_over_over_shoguncamp_brew_n00","vojp":"vocs_shoguncamp_brew_n00_jp","s":"ALCHEMIST","en":"Hehe, a potent concoction. This can put the men at the campfire to sleep.","cn":"呵呵呵，强效安眠药完成了。能让篝火旁的那群士兵都睡着。","jp":"ほっほ、強力な調合じゃ。野営の兵を眠らせられるわい。"}
 ,
-{"lvl":"22","sec":"327","voen":"vocs_over_over_shoguncamp_brew_n01","vojp":"vocs_shoguncamp_brew_n01_jp","s":"GEISHA","en":"Let me carry the flask. I can put on a disguise and pour this into the sake barrel.","cn":"安眠药就交给我吧。我先乔装混进去，然后把药倒进酒清桶里。","jp":"それを運ばせてください。変装して、酒の樽にそそぐわ。"}
+{"sec":327,"voen":"vocs_over_over_shoguncamp_brew_n01","vojp":"vocs_shoguncamp_brew_n01_jp","s":"GEISHA","en":"Let me carry the flask. I can put on a disguise and pour this into the sake barrel.","cn":"安眠药就交给我吧。我先乔装混进去，然后把药倒进酒清桶里。","jp":"それを運ばせてください。変装して、酒の樽にそそぐわ。"}
 ,
-{"lvl":"22","sec":"328","voen":"vocs_over_over_shoguncamp_party2_n00","vojp":"vocs_shoguncamp_party2_n00_jp","s":"GEISHA","en":"There … let us wait until the serving maids do their part.","cn":"好了...就等佣人给他们上酒了。","jp":"それ…使用人が運んでいくまで待ちましょう。"}
+{"sec":328,"voen":"vocs_over_over_shoguncamp_party2_n00","vojp":"vocs_shoguncamp_party2_n00_jp","s":"GEISHA","en":"There … let us wait until the serving maids do their part.","cn":"好了...就等佣人给他们上酒了。","jp":"それ…使用人が運んでいくまで待ちましょう。"}
 ,
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n00","vojp":"vo_shoguncamp_drunk_n00_jp","s":"SAMURAI","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n01","vojp":"vo_shoguncamp_drunk_n01_jp","s":"ENEMY","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n02","vojp":"vo_shoguncamp_drunk_n02_jp","s":"STATIC","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n03","vojp":"vo_shoguncamp_drunk_n03_jp","s":"SAMURAI","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n04","vojp":"vo_shoguncamp_drunk_n04_jp","s":"ENEMY","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n05","vojp":"vo_shoguncamp_drunk_n05_jp","s":"STATIC","en":"","cn":"","jp":""},
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n06","vojp":"vo_shoguncamp_drunk_n06_jp","s":"SAMURAI","en":"Hmn … sake …","cn":"嗯…酒…","jp":""}
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n00","vojp":"vo_shoguncamp_drunk_n00_jp","s":"SAMURAI","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n01","vojp":"vo_shoguncamp_drunk_n01_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n02","vojp":"vo_shoguncamp_drunk_n02_jp","s":"STATIC","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n03","vojp":"vo_shoguncamp_drunk_n03_jp","s":"SAMURAI","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n04","vojp":"vo_shoguncamp_drunk_n04_jp","s":"ENEMY","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n05","vojp":"vo_shoguncamp_drunk_n05_jp","s":"STATIC","en":"","cn":"","jp":""},
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n06","vojp":"vo_shoguncamp_drunk_n06_jp","s":"SAMURAI","en":"Hmn … sake …","cn":"嗯…酒…","jp":""}
 ,
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n07","vojp":"vo_shoguncamp_drunk_n07_jp","s":"ENEMY","en":"Hmhm … kehehehe …","cn":"嗯…哈哈哈哈...","jp":""}
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n07","vojp":"vo_shoguncamp_drunk_n07_jp","s":"ENEMY","en":"Hmhm … kehehehe …","cn":"嗯…哈哈哈哈...","jp":""}
 ,
-{"lvl":"22","sec":"329","voen":"vo_gothic_gothic_shoguncamp_drunk_n08","vojp":"vo_shoguncamp_drunk_n08_jp","s":"STATIC","en":"Hhn? Uhm … never mind …","cn":"嗯？啊…没什么…","jp":""}
+{"sec":329,"voen":"vo_gothic_gothic_shoguncamp_drunk_n08","vojp":"vo_shoguncamp_drunk_n08_jp","s":"STATIC","en":"Hhn? Uhm … never mind …","cn":"嗯？啊…没什么…","jp":""}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n00","vojp":"vocs_shoguncamp_reasons1_n00_jp","s":"GEISHA","en":"I thank you for your trust, Hayato-san. I admit, I was unsure whether you would stay with us.","cn":"谢谢你的信任，隼人兄。说实话，我之前一直不敢确定你是否会参加这次行动。","jp":"信じてくれてありがとう、隼人さん。正直、私たちといてくれるか不安だったの。"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n00","vojp":"vocs_shoguncamp_reasons1_n00_jp","s":"GEISHA","en":"I thank you for your trust, Hayato-san. I admit, I was unsure whether you would stay with us.","cn":"谢谢你的信任，隼人兄。说实话，我之前一直不敢确定你是否会参加这次行动。","jp":"信じてくれてありがとう、隼人さん。正直、私たちといてくれるか不安だったの。"}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n01","vojp":"vocs_shoguncamp_reasons1_n01_jp","s":"NINJA","en":"Please, don't mention it.","cn":"别和我说这些。","jp":"やめてくれ。"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n01","vojp":"vocs_shoguncamp_reasons1_n01_jp","s":"NINJA","en":"Please, don't mention it.","cn":"别和我说这些。","jp":"やめてくれ。"}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n02","vojp":"vocs_shoguncamp_reasons1_n02_jp","s":"GEISHA","en":"Forgive me, but I am curious. Was this ever about payment? Part of me wonders if there is not another reason.","cn":"抱歉，但我还是很好奇。你仅仅只是为了拿佣金吗？我总觉得还另有原因。","jp":"聞くけど許してほしいわ、気になるの。ただ、給金のためだけなのかしら？他の理由があると思ってるのよ。"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n02","vojp":"vocs_shoguncamp_reasons1_n02_jp","s":"GEISHA","en":"Forgive me, but I am curious. Was this ever about payment? Part of me wonders if there is not another reason.","cn":"抱歉，但我还是很好奇。你仅仅只是为了拿佣金吗？我总觉得还另有原因。","jp":"聞くけど許してほしいわ、気になるの。ただ、給金のためだけなのかしら？他の理由があると思ってるのよ。"}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n03","vojp":"vocs_shoguncamp_reasons1_n03_jp","s":"NINJA","en":"Heh … you know, Mugen asked me the same thing.","cn":"呵……无限也问过我这个问题。","jp":"へっ…武源も同じことを聞いてきたな。"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n03","vojp":"vocs_shoguncamp_reasons1_n03_jp","s":"NINJA","en":"Heh … you know, Mugen asked me the same thing.","cn":"呵……无限也问过我这个问题。","jp":"へっ…武源も同じことを聞いてきたな。"}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n04","vojp":"vocs_shoguncamp_reasons1_n04_jp","s":"GEISHA","en":"Did you have an answer for him?","cn":"你回答了吗？","jp":"答えたの？"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n04","vojp":"vocs_shoguncamp_reasons1_n04_jp","s":"GEISHA","en":"Did you have an answer for him?","cn":"你回答了吗？","jp":"答えたの？"}
 ,
-{"lvl":"22","sec":"330","voen":"vocs_over_over_shoguncamp_reasons1_n05","vojp":"vocs_shoguncamp_reasons1_n05_jp","s":"NINJA","en":"Not back then.","cn":"那时候，并没有回答他。","jp":"その時は答えなかった。"}
+{"sec":330,"voen":"vocs_over_over_shoguncamp_reasons1_n05","vojp":"vocs_shoguncamp_reasons1_n05_jp","s":"NINJA","en":"Not back then.","cn":"那时候，并没有回答他。","jp":"その時は答えなかった。"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n00","vojp":"vocs_shoguncamp_reasons2_n00_jp","s":"GEISHA","en":"We're almost at the end, Hayato-san. Will you tell me why you did all this? Why you entered Mugen's service? Why you are still with us?","cn":"是时候回答我了，隼人兄。你所做的一切都是为什么？为什么当初要帮助无限？为什么现在还和我们在一起？","jp":"今が答える時ね。隼人さんどうしてここまでしてくれたの？どうして武源様のために？どうしてまだ私たちといてくれるの？"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n00","vojp":"vocs_shoguncamp_reasons2_n00_jp","s":"GEISHA","en":"We're almost at the end, Hayato-san. Will you tell me why you did all this? Why you entered Mugen's service? Why you are still with us?","cn":"是时候回答我了，隼人兄。你所做的一切都是为什么？为什么当初要帮助无限？为什么现在还和我们在一起？","jp":"今が答える時ね。隼人さんどうしてここまでしてくれたの？どうして武源様のために？どうしてまだ私たちといてくれるの？"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n01","vojp":"vocs_shoguncamp_reasons2_n01_jp","s":"NINJA","en":"Maybe I just liked helping out a friend. And now, well … now it's personal.","cn":"一开始或许只是想帮朋友一把。至于现在……完全是因为我想报仇。","jp":"単に友を助けたいってだけかもしれない。今は…そうだな、自分の意思だ。"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n01","vojp":"vocs_shoguncamp_reasons2_n01_jp","s":"NINJA","en":"Maybe I just liked helping out a friend. And now, well … now it's personal.","cn":"一开始或许只是想帮朋友一把。至于现在……完全是因为我想报仇。","jp":"単に友を助けたいってだけかもしれない。今は…そうだな、自分の意思だ。"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n02","vojp":"vocs_shoguncamp_reasons2_n02_jp","s":"GEISHA","en":"But why fight with us now? Why not seek vengeance on your own?","cn":"那为什么愿同我们一起？为什么不独自去寻仇？","jp":"けど、どうして今私たちと戦ってくれるの？自分で仇討ちをしようとしなかった。"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n02","vojp":"vocs_shoguncamp_reasons2_n02_jp","s":"GEISHA","en":"But why fight with us now? Why not seek vengeance on your own?","cn":"那为什么愿同我们一起？为什么不独自去寻仇？","jp":"けど、どうして今私たちと戦ってくれるの？自分で仇討ちをしようとしなかった。"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n03","vojp":"vocs_shoguncamp_reasons2_n03_jp","s":"NINJA","en":"Because you were right. It's not about me. It's about what Mugen would want.","cn":"因为你说的对，我不是为自己复仇，而是要以无限所希望看到的方式，为他讨回公道。","jp":"あんたが正しいからだよ。自分のためじゃない。武源の望んだことのためだ。"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n03","vojp":"vocs_shoguncamp_reasons2_n03_jp","s":"NINJA","en":"Because you were right. It's not about me. It's about what Mugen would want.","cn":"因为你说的对，我不是为自己复仇，而是要以无限所希望看到的方式，为他讨回公道。","jp":"あんたが正しいからだよ。自分のためじゃない。武源の望んだことのためだ。"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n04","vojp":"vocs_shoguncamp_reasons2_n04_jp","s":"GEISHA","en":"I thank you, Hayato-san.","cn":"谢谢你，隼人兄。","jp":"ありがとう、隼人さん。"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n04","vojp":"vocs_shoguncamp_reasons2_n04_jp","s":"GEISHA","en":"I thank you, Hayato-san.","cn":"谢谢你，隼人兄。","jp":"ありがとう、隼人さん。"}
 ,
-{"lvl":"22","sec":"331","voen":"vocs_over_over_shoguncamp_reasons2_n05","vojp":"vocs_shoguncamp_reasons2_n05_jp","s":"NINJA","en":"Just like I said. Don't mention it.","cn":"我说过了，别和我说这些。","jp":"言っただろ、やめてくれよ。"}
+{"sec":331,"voen":"vocs_over_over_shoguncamp_reasons2_n05","vojp":"vocs_shoguncamp_reasons2_n05_jp","s":"NINJA","en":"Just like I said. Don't mention it.","cn":"我说过了，别和我说这些。","jp":"言っただろ、やめてくれよ。"}
 ,
-{"lvl":"22","sec":"332","voen":"vocs_over_over_shoguncamp_tent_n00","vojp":"vocs_shoguncamp_tent_n00_jp","s":"TRAPPER","en":"Ooh, his tent is huge!","cn":"哇！好大的帐篷！","jp":"おお、天幕大きい！"}
+{"sec":332,"voen":"vocs_over_over_shoguncamp_tent_n00","vojp":"vocs_shoguncamp_tent_n00_jp","s":"TRAPPER","en":"Ooh, his tent is huge!","cn":"哇！好大的帐篷！","jp":"おお、天幕大きい！"}
 ,
-{"lvl":"22","sec":"332","voen":"vocs_over_over_shoguncamp_tent_n01","vojp":"vocs_shoguncamp_tent_n01_jp","s":"GEISHA","en":"This is our destination.","cn":"这里就是我们的目的地。","jp":"ここが私たちの目的地ね。"}
+{"sec":332,"voen":"vocs_over_over_shoguncamp_tent_n01","vojp":"vocs_shoguncamp_tent_n01_jp","s":"GEISHA","en":"This is our destination.","cn":"这里就是我们的目的地。","jp":"ここが私たちの目的地ね。"}
 ,
-{"lvl":"22","sec":"332","voen":"vocs_over_over_shoguncamp_tent_n02","vojp":"vocs_shoguncamp_tent_n02_jp","s":"ALCHEMIST","en":"The moment of truth draws near.","cn":"揭晓真相的时刻即将来临。","jp":"真実の時が近づくのう。"}
+{"sec":332,"voen":"vocs_over_over_shoguncamp_tent_n02","vojp":"vocs_shoguncamp_tent_n02_jp","s":"ALCHEMIST","en":"The moment of truth draws near.","cn":"揭晓真相的时刻即将来临。","jp":"真実の時が近づくのう。"}
 ,
-{"lvl":"22","sec":"332","voen":"vocs_over_over_shoguncamp_tent_n03","vojp":"vocs_shoguncamp_tent_n03_jp","s":"NINJA","en":"Better make sure we have Masaru before we go in.","cn":"进去前最好确认下真申在不在。","jp":"入る前に勝を確認しておこう。"}
+{"sec":332,"voen":"vocs_over_over_shoguncamp_tent_n03","vojp":"vocs_shoguncamp_tent_n03_jp","s":"NINJA","en":"Better make sure we have Masaru before we go in.","cn":"进去前最好确认下真申在不在。","jp":"入る前に勝を確認しておこう。"}
 
 ]

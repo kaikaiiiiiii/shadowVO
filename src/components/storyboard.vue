@@ -12,8 +12,10 @@
       <div class="vo-board">
         <p>#board with 2nd level route</p>
         <div class="board border">
-            <div v-for="voline in voList" :key="voline.voen">
-              {{voline.cn}}
+            <div v-for="group in voToShow" :key="group.section" class="vo-block">
+              <div v-for="vo in group.list" :key="vo.vojp" class="voline">
+                {{vo.cn}}
+              </div>
             </div>
         </div>
       </div>
@@ -29,10 +31,10 @@ export default {
   data() {
     return {
       storylevel: levels,
-      voList: [],
+      voList: [], //用户点击 level 后，新增的数据会追加到全列表中。
       libPath: "https://kaikaiiiiiii.github.io/shadowVO/static/",
       currentLevel: 0,
-      cachedLevelData: []
+      cachedLevelData: [] //记录哪些关卡已经保存。
     };
   },
   computed: {
@@ -41,6 +43,31 @@ export default {
         return a.order - b.order;
       });
     },
+    voToShow(){
+      let me = this;
+      let levelVOs = this.voList.filter(vo => {
+        return vo.level == me.currentLevel;
+      });
+      levelVOs.sort((a,b)=>{return a.sec - b.sec});
+      let voGroups = levelVOs.reduce((base,add)=>{
+        let createNewGroupFlag = true;
+        for(let i=base.length-1;i>=0;i--){
+          if (base[i].section == add.sec) {
+            base[i].list.push(add);
+            createNewGroupFlag = false;
+            break;
+          };
+        };
+        if(createNewGroupFlag){
+          var newGroup = {};
+          newGroup.section = add.sec;
+          newGroup.list = [add];
+          base.push(newGroup);
+        }
+        return base;
+      },[]);
+      return voGroups;
+    }
   },
   methods: {
     chapterClass(item) {
@@ -57,16 +84,23 @@ export default {
       return result;
     },
     levelChange(item) {
-      if (item.order != this.currentLevel && !this.cachedLevelData.includes(item.order)) {
-        this.currentLevel = item.order;
-        let jsonData = this.libPath + item.order + ".json";
+      this.currentLevel = item.order;
+      if (!this.cachedLevelData.includes(item.order)) {
+        let jsonDataUrl = this.libPath + item.order + ".json";
         let thisLoadingDataLevel = this.currentLevel
         let me = this;
         axios
-          .get(jsonData)
+          .get(jsonDataUrl)
           .then(res => {
-            res.data.forEach(element => {
-              element.level = thisLoadingDataLevel;
+            res.data.forEach(newline => {
+              newline.level = thisLoadingDataLevel;
+              if (newline.voen.length > 0) {
+                newline.enurl = "https://k6i.github.io/SD" + newline.voen.split("_")[0] + "/" + newline.voen + ".mp3"
+              }
+              if (newline.vojp.length > 0) {
+                newline.jpurl = "https://k6i.github.io/SD" + newline.vojp.split("_")[0] + "/" + newline.vojp + ".mp3"
+                //vocs_firstcastle_intro_n03_jp => https://k6i.github.io/SDvocs/vocs_firstcastle_intro_n03_jp.mp3
+              }
             });
             me.voList = me.voList.concat(res.data);
             me.cachedLevelData.push(thisLoadingDataLevel);
@@ -74,7 +108,7 @@ export default {
           .catch(error => {
             console.log(error);
           });
-      }
+      } 
     }
   },
   mounted(){

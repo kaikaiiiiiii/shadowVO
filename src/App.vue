@@ -1,8 +1,8 @@
 <template>
     <div id="app">
       <div class="container">
-        <headernav />
-        <router-view />
+        <headernav @playVO="playSound"/>
+        <router-view @playVO="playSound"/>
       </div>
     </div>
 </template>
@@ -12,6 +12,15 @@ import headernav from '@/components/headernav.vue'
 export default {
   components: {
     headernav
+  },
+  data () { return {
+    player: new Audio(), 
+  }},
+  methods:{
+    playSound(url){
+      this.player.src=url;
+      this.player.play();
+    }
   }
 }
 </script>

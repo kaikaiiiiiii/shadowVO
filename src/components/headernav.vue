@@ -3,21 +3,19 @@
       <div id="player" @click="test"></div>
       <div id="langBar">
         <div class="langselector text">
-        #textLangSelector:{{currentTextLang}}
         <div v-for="item in textLang" :key="item.code" @click="changeTextLang(item)" class="btn" :class="langBarBtnClass(item)">
           {{item.text}}
         </div>
         </div>
         <div class="langselector vo">
-        #voLangSelector:{{currentVOLang}}
         <div v-for="item in voLang" :key="item.code" @click="changeVOLang(item)" class="btn" :class="langBarBtnClass(item)">
           {{item.text}}
         </div>
         </div>
       </div>
       <div id="mode-line">
-        <div v-for="item in mode" :key="item" class="mode"
-        @click="boardRolling(item)">{{item}}</div>
+        <div v-for="(item,index) in mode" :key="item" class="mode"
+        @click="boardRolling(item,index)">{{item}}</div>
       </div>
     </div>
 </template>
@@ -29,22 +27,30 @@ export default {
   data () {
     return {
       mode: modes,
-      player: new Audio(),
+      
       textLang: languages,
       voLang: voices,
       currentTextLang: "cn",
-      currentVOLang: "vojp"
+      currentVOLang: "vojp",
+      currentModeIndex: 0
     }
   },
   methods:{
-    boardRolling(e){
-      this.$router.push(e);
+    routeChange(){
+      var path = "/" + this.currentVOLang + "/" + this.currentTextLang + "/" + this.mode[this.currentModeIndex];
+      this.$router.push(path);
+    },
+    boardRolling(e,i){
+      this.currentModeIndex = i;
+      this.routeChange();
     },
     changeVOLang(e){
       this.currentVOLang = e.code;
+      this.routeChange();
     },
     changeTextLang(e){
       this.currentTextLang = e.code;
+      this.routeChange();
     },
     langBarBtnClass(e){
       let result = {"active": false};
@@ -53,10 +59,8 @@ export default {
       return result;
     },
     test(){
-      console.log("play");
-      this.player.src="https://k6i.github.io/SDvocs/vocs_ricefields_post_n17_jp.mp3";
-      this.player.src="https://k6i.github.io/SDvocs/vocs_snowcity_tower_n00_jp.mp3";
-      this.player.play();
+      var src="https://k6i.github.io/SDvocs/vocs_snowcity_tower_n00_jp.mp3";
+      this.$emit('playVO',src);
     }
   }
 }
@@ -67,11 +71,13 @@ export default {
 #player{
   display: block;
   height: 100px;
+  margin-bottom: 100px;
   background-color: #000;
 }
 
 #langBar{
   display: flex;
+  margin: 10px 0;
   justify-content: space-between;
   .langselector{
     display: flex;

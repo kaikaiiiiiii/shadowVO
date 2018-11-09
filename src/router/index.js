@@ -9,11 +9,10 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
-    {path: '/', component: storyboard},
-    {
-      path: '/story', component: storyboard,},
-    {path: '/charactor', component: charboard},
-    {path: '/music', component: musicboard},
-    {path: '/video', component: videoboard},
+    {path: '/', redirect: "/vojp/cn/story"},
+    {path: '/:volang/:textlang/story', component: storyboard,props: true},
+    {path: '/:volang/:textlang/charactor', component: charboard,props: true},
+    {path: '/:volang/:textlang/music', component: musicboard,props: true},
+    {path: '/:volang/:textlang/video', component: videoboard,props: true},
   ]
 })

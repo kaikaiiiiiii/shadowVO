@@ -2,21 +2,22 @@
   <div class="section">
     <div id="storyMode">
       <div id="chapters">
-        <div v-for="item in stories" :key="item.origin"
+        <div v-for="(item,index) in stories" :key="item.origin"
         class="chapter" :class="chapterClass(item)"
         @click="levelChange(item)">
-          <div class="cover" :style="chapterCover(item)"></div>
-          <div class="title">{{item.name.CN||"notext"}}</div>
+          <div class="cover" :style="chapterCover(item)">{{index}}</div>
+          <div class="title">{{item.name.CN||"post"}}</div>
         </div>
       </div>
       <div class="vo-board">
-        <p>#board with 2nd level route</p>
         <div class="board border">
-            <div v-for="group in voToShow" :key="group.section" class="vo-block">
-              <div v-for="vo in group.list" :key="vo.vojp" class="voline">
-                {{vo.cn}}
-              </div>
+          <div v-for="group in voToShow" :key="group.section" class="vo-block">
+            <div v-for="vo in group.list" :key="vo.vojp" class="vo-line" 
+            @click="emitPlayEvent(vo)">
+              <div class="icon">{{vo.s}}</div>
+              <p class="subtitle">{{itemText(vo)}}<br/>{{JSON.stringify(vo)}}</p>
             </div>
+          </div>
         </div>
       </div>
     </div>
@@ -28,13 +29,14 @@ import { levels } from "@/components/data.js";
 import axios from "axios";
 
 export default {
+  props: ["volang","textlang"],
   data() {
     return {
       storylevel: levels,
       voList: [], //用户点击 level 后，新增的数据会追加到全列表中。
       libPath: "https://kaikaiiiiiii.github.io/shadowVO/static/",
       currentLevel: 0,
-      cachedLevelData: [] //记录哪些关卡已经保存。
+      cachedLevelData: [], //记录哪些关卡已经保存。
     };
   },
   computed: {
@@ -70,6 +72,10 @@ export default {
     }
   },
   methods: {
+    emitPlayEvent(e){
+      var url = e[this.volang=="voen"?"enurl":"jpurl"];
+      this.$emit('playVO',url);
+    },
     chapterClass(item) {
       let result = {};
       result["main"] = item.isChapter;
@@ -79,9 +85,12 @@ export default {
     chapterCover(item) {
       let result = {};
       if (item.isChapter) {
-        result["background-image"] = "url(" + this.libPath + item.cover + ")";
+        //result["background-image"] = "url(" + this.libPath + item.cover + ")";
       }
       return result;
+    },
+    itemText(vo){
+      return vo[this.textlang];
     },
     levelChange(item) {
       this.currentLevel = item.order;
@@ -142,6 +151,8 @@ export default {
     .cover {
       height: 100%;
       background-size: cover;
+      color:#fff;
+      font-size: 24px;
     }
     .title {
       position: absolute;
@@ -162,5 +173,35 @@ export default {
 }
 .vo-board {
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  .vo-block{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid #e9c567;
+    margin-bottom: 12px;
+    &:nth-child(even){align-items: flex-end;}
+    &:nth-child(odd){align-items: flex-start;}
+    .vo-line{
+      cursor: pointer;
+      border: 1px solid #3698f3;
+      border-radius: 4px;
+      margin: 4px 0;
+      display: flex;
+      width: 90%;
+      .icon {
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        background-color: rosybrown;
+        border-radius: 100%;
+        margin-right: 8px;
+      }
+      .subtitle{
+        flex-shrink: 1;
+        text-align: left;
+      }
+    }
+  }
 }
 </style>

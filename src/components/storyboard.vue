@@ -2,17 +2,16 @@
   <div class="section">
     <div id="storyMode">
       <div id="chapters">
-        <div v-for="item in stories" :key="item.origin"
-        class="chapter" :class="chapterClass(item)"
-        @click="levelChange(item)">
+        <div v-for="item in stories" :key="item.origin" class="chapter" :class="chapterClass(item)" @click="levelChange(item)">
           <div class="cover" :style="chapterCover(item)"></div>
           <div class="title">{{item.name.CN||"post"}}</div>
         </div>
       </div>
       <div class="vo-board">
         <div class="board border">
-          <div v-for="group in voToShow" :key="group.section" class="vo-block">
-            <vobtn v-for="vo in group.list" :key="vo.vojp" class="vo-line"             @click="emitPlayEvent(vo)" />
+          <div v-for="(group,gindex) in voToShow" :key="group.section" class="vo-block">
+            <vobtn v-for="item in group.list" :key="item.vojp" :side="gindex" :vo="item" :voice="volang" :text="textlang"
+            class="vo-line" @playVO="playSound"></vobtn>
           </div>
         </div>
       </div>
@@ -35,6 +34,7 @@ export default {
       libPath: "https://kaikaiiiiiii.github.io/shadowVO/static/",
       currentLevel: 0,
       cachedLevelData: [], //记录哪些关卡已经保存。
+      player: new Audio()
     };
   },
   computed: {
@@ -70,9 +70,9 @@ export default {
     }
   },
   methods: {
-    emitPlayEvent(e){
-      var url = e[this.volang=="voen"?"enurl":"jpurl"];
-      this.$emit('playVO',url);
+    playSound(url){
+      this.player.src=url;
+      this.player.play();
     },
     chapterClass(item) {
       let result = {};
@@ -90,9 +90,6 @@ export default {
         result["background-position-y"] = positionY+"px";
       }
       return result;
-    },
-    itemText(vo){
-      return vo[this.textlang];
     },
     levelChange(item) {
       this.currentLevel = item.order;
@@ -186,7 +183,6 @@ export default {
     &:nth-child(odd){align-items: flex-start;}
     .vo-line{
       cursor: pointer;
-      border: 1px solid #3698f3;
       border-radius: 4px;
       margin: 4px 0;
       display: flex;

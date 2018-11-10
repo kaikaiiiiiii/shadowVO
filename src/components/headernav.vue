@@ -27,7 +27,6 @@ export default {
   data () {
     return {
       mode: modes,
-      
       textLang: languages,
       voLang: voices,
       currentTextLang: "cn",

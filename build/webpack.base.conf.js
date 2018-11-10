@@ -24,7 +24,6 @@ module.exports = {
   },
   externals: {
     papaparse: 'Papa',
-    audio5: 'Audio5js',
     djs: 'download',
     axios: 'axios'
   },

@@ -15,7 +15,7 @@
             <div v-for="vo in group.list" :key="vo.vojp" class="vo-line" 
             @click="emitPlayEvent(vo)">
               <div class="icon">{{vo.s}}</div>
-              <p class="subtitle">{{itemText(vo)}}<br/>{{JSON.stringify(vo)}}</p>
+              <p class="subtitle">{{itemText(vo)}}<!--span><br/>{{JSON.stringify(vo)}}</span--></p>
             </div>
           </div>
         </div>
@@ -188,7 +188,6 @@ export default {
       border-radius: 4px;
       margin: 4px 0;
       display: flex;
-      width: 90%;
       .icon {
         flex-shrink: 0;
         width: 40px;

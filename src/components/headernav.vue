@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import {modes, languages, voices} from '@/components/data.js'
+import {modes, languages, voices} from '@/assets/data.js'
 
 export default {
   data () {

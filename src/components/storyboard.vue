@@ -12,11 +12,7 @@
       <div class="vo-board">
         <div class="board border">
           <div v-for="group in voToShow" :key="group.section" class="vo-block">
-            <div v-for="vo in group.list" :key="vo.vojp" class="vo-line" 
-            @click="emitPlayEvent(vo)">
-              <div class="icon">{{vo.s}}</div>
-              <p class="subtitle">{{itemText(vo)}}<!--span><br/>{{JSON.stringify(vo)}}</span--></p>
-            </div>
+            <vobtn v-for="vo in group.list" :key="vo.vojp" class="vo-line"             @click="emitPlayEvent(vo)" />
           </div>
         </div>
       </div>
@@ -25,11 +21,13 @@
 </template>
 
 <script>
-import { levels } from "@/components/data.js";
+import { levels } from "@/assets/data.js";
 import axios from "axios";
+import vobtn from "@/components/vobtn.vue";
 
 export default {
   props: ["volang","textlang"],
+  components: {vobtn},
   data() {
     return {
       storylevel: levels,

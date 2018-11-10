@@ -1,5 +1,5 @@
 <template>
-      <div class="storyline">#charactor</div>
+      <div class="storyline">#charactors</div>
 </template>
 
 <script>

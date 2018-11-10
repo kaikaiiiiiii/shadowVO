@@ -2,10 +2,10 @@
   <div class="section">
     <div id="storyMode">
       <div id="chapters">
-        <div v-for="(item,index) in stories" :key="item.origin"
+        <div v-for="item in stories" :key="item.origin"
         class="chapter" :class="chapterClass(item)"
         @click="levelChange(item)">
-          <div class="cover" :style="chapterCover(item)">{{index}}</div>
+          <div class="cover" :style="chapterCover(item)"></div>
           <div class="title">{{item.name.CN||"post"}}</div>
         </div>
       </div>
@@ -83,7 +83,11 @@ export default {
     chapterCover(item) {
       let result = {};
       if (item.isChapter) {
-        //result["background-image"] = "url(" + this.libPath + item.cover + ")";
+        result["position"]="relative";
+        result["background-repeat"]="no-repeat";
+        result["background-image"]="url(\"https://kaikaiiiiiii.github.io/shadowVO/static/levelsbg.jpg\")";
+        var positionY = item.order < 18 ? -128*(item.order-1)/2 : -128*item.order/2 ;
+        result["background-position-y"] = positionY+"px";
       }
       return result;
     },
@@ -134,13 +138,13 @@ export default {
   border: 1px solid red;
   .chapter {
     cursor: pointer;
-    width: 240px;
-    margin: 8px 0;
-    background-color: #111;
     position: relative;
+    width: 256px;
+    margin: 0 0 8px;
+    background-color: #111;
     overflow: hidden;
     &.main {
-      height: 120px;
+      height: 128px;
     }
     &.inter {
       height: 80px;
@@ -148,26 +152,26 @@ export default {
 
     .cover {
       height: 100%;
-      background-size: cover;
       color:#fff;
       font-size: 24px;
     }
     .title {
       position: absolute;
-      background-color: #000;
+      background-color: rgba(0,0,0,0.25);
       width: 100%;
       color: #efefef;
-      bottom: -24px;
-      height: 24px;
-      transition: 0.2s;
-    }
-  }
-  .chapter:hover {
-    .title {
       bottom: 0px;
-      transition: 0.2s;
+      height: 28px;
+      transition: 0.5s;
     }
   }
+  /*.chapter:hover {
+    .title {
+      position: absolute;
+      bottom: -28px;
+      transition: 0.5s;
+    }
+  }*/
 }
 .vo-board {
   flex-grow: 1;
